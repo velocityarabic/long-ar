@@ -1,0 +1,725 @@
+{
+  "phrases": [
+    {
+      "english": "Happy, but not too happy.",
+      "arabic": "سعيد, لكن ليس كثيراً.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452640"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "arabic": "ابتسم أكثر, قلل القلق.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452650"
+    },
+    {
+      "english": "Finding joy, in small things.",
+      "arabic": "إيجاد السعادة, في الأشياء الصغيرة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452651"
+    },
+    {
+      "english": "Contentment is true wealth.",
+      "arabic": "الرضا هو الثروة الحقيقية.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452653"
+    },
+    {
+      "english": "This makes me smile.",
+      "arabic": "هذا يجعلني أبتسم.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452654"
+    },
+    {
+      "english": "A moment of pure joy.",
+      "arabic": "لحظة سعادة خالصة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452656"
+    },
+    {
+      "english": "Feeling good, right now.",
+      "arabic": "أشعر بتحسن, الآن.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452657"
+    },
+    {
+      "english": "My happy place, is here.",
+      "arabic": "مكاني السعيد, هو هنا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452660"
+    },
+    {
+      "english": "Chasing happiness, is tiring.",
+      "arabic": "مطاردة السعادة, متعبة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452661"
+    },
+    {
+      "english": "Just be happy, today.",
+      "arabic": "فقط كن سعيداً, اليوم.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452667"
+    },
+    {
+      "english": "Gratitude brings happiness.",
+      "arabic": "الامتنان يجلب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452668"
+    },
+    {
+      "english": "Simple joys, make life.",
+      "arabic": "بهجة بسيطة, تصنع الحياة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452670"
+    },
+    {
+      "english": "Let's be happy, together.",
+      "arabic": "لنكن سعداء, معاً.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452671"
+    },
+    {
+      "english": "That feeling, of pure bliss.",
+      "arabic": "تلك الشعور, بالسعادة القصوى.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452672"
+    },
+    {
+      "english": "Happiness, is an inside job.",
+      "arabic": "السعادة, عمل داخلي.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452674"
+    },
+    {
+      "english": "My heart, is full.",
+      "arabic": "قلبي, ممتلئ.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452675"
+    },
+    {
+      "english": "Live, laugh, love.",
+      "arabic": "عش, اضحك, أحب.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452676"
+    },
+    {
+      "english": "Spreading joy, everywhere.",
+      "arabic": "نشر البهجة, في كل مكان.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452677"
+    },
+    {
+      "english": "This is happiness.",
+      "arabic": "هذه هي السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452678"
+    },
+    {
+      "english": "A happy surprise, today.",
+      "arabic": "مفاجأة سعيدة, اليوم.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452680"
+    },
+    {
+      "english": "Feeling truly blessed.",
+      "arabic": "أشعر أنني مبارك حقاً.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452681"
+    },
+    {
+      "english": "Happiness, is contagious.",
+      "arabic": "السعادة, معدية.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452682"
+    },
+    {
+      "english": "Smiling, feels good.",
+      "arabic": "الابتسام, شعور جيد.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452683"
+    },
+    {
+      "english": "What a happy day!",
+      "arabic": "يا له من يوم سعيد!",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452684"
+    },
+    {
+      "english": "Find your happy rhythm.",
+      "arabic": "جد إيقاعك السعيد.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452686"
+    },
+    {
+      "english": "Joyful, and at peace.",
+      "arabic": "مبتهج, وفي سلام.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452687"
+    },
+    {
+      "english": "Making memories, with smiles.",
+      "arabic": "صنع الذكريات, بابتسامات.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452688"
+    },
+    {
+      "english": "Happiness is simple.",
+      "arabic": "السعادة بسيطة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452689"
+    },
+    {
+      "english": "My happy thought, for today.",
+      "arabic": "فكرتي السعيدة, لهذا اليوم.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452690"
+    },
+    {
+      "english": "Feeling the good vibes.",
+      "arabic": "أشعر بالإيجابية.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452691"
+    },
+    {
+      "english": "A happy heart, is key.",
+      "arabic": "القلب السعيد, هو المفتاح.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452692"
+    },
+    {
+      "english": "Just enjoy, the moment.",
+      "arabic": "فقط استمتع, باللحظة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452693"
+    },
+    {
+      "english": "This is my happy song.",
+      "arabic": "هذه أغنيتي السعيدة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452694"
+    },
+    {
+      "english": "Happiness is a choice.",
+      "arabic": "السعادة اختيار.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452695"
+    },
+    {
+      "english": "Feeling hopeful, and bright.",
+      "arabic": "أشعر بالتفاؤل, والإشراق.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452696"
+    },
+    {
+      "english": "A little bit of heaven.",
+      "arabic": "قليل من الجنة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452697"
+    },
+    {
+      "english": "Sending happy thoughts, your way.",
+      "arabic": "أرسل أفكاراً سعيدة, في طريقك.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452700"
+    },
+    {
+      "english": "So much to be happy about.",
+      "arabic": "الكثير مما يجعلني سعيداً.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452702"
+    },
+    {
+      "english": "Radiating happiness, today.",
+      "arabic": "أشعل السعادة, اليوم.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452703"
+    },
+    {
+      "english": "Joy found, in simple ways.",
+      "arabic": "بهجة وجدت, بطرق بسيطة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452704"
+    },
+    {
+      "english": "Be happy, always.",
+      "arabic": "كن سعيدًا, دائمًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452705"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "arabic": "ابتسم أكثر, قلل القلق.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452706"
+    },
+    {
+      "english": "Find joy, in small things.",
+      "arabic": "ابحث عن الفرح, في الأشياء الصغيرة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452707"
+    },
+    {
+      "english": "You look happy, today.",
+      "arabic": "تبدو سعيدًا, اليوم.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452709"
+    },
+    {
+      "english": "This makes me happy.",
+      "arabic": "هذا يجعلني سعيدًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452710"
+    },
+    {
+      "english": "I am so happy.",
+      "arabic": "أنا سعيد جدًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452711"
+    },
+    {
+      "english": "Happiness is within you.",
+      "arabic": "السعادة بداخلك.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452712"
+    },
+    {
+      "english": "Share your happiness.",
+      "arabic": "شارك سعادتك.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452713"
+    },
+    {
+      "english": "Good news, brings happiness.",
+      "arabic": "الأخبار الجيدة, تجلب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452714"
+    },
+    {
+      "english": "Live a happy life.",
+      "arabic": "عش حياة سعيدة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452715"
+    },
+    {
+      "english": "Let's be happy, together.",
+      "arabic": "فلنسعد, معًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452716"
+    },
+    {
+      "english": "Your smile, is my happiness.",
+      "arabic": "ابتسامتك, سعادتي.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452718"
+    },
+    {
+      "english": "Seek happiness, always.",
+      "arabic": "اطلب السعادة, دائمًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452719"
+    },
+    {
+      "english": "What makes you happy?",
+      "arabic": "ما الذي يسعدك؟",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452720"
+    },
+    {
+      "english": "I feel happy, now.",
+      "arabic": "أشعر بالسعادة, الآن.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452721"
+    },
+    {
+      "english": "This is true happiness.",
+      "arabic": "هذه هي السعادة الحقيقية.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452722"
+    },
+    {
+      "english": "Choose happiness, daily.",
+      "arabic": "اختر السعادة, يوميًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452723"
+    },
+    {
+      "english": "May you be happy.",
+      "arabic": "أتمنى لك السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452724"
+    },
+    {
+      "english": "Simple joys, bring happiness.",
+      "arabic": "البهجة البسيطة, تجلب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452726"
+    },
+    {
+      "english": "He is a happy person.",
+      "arabic": "هو شخص سعيد.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452727"
+    },
+    {
+      "english": "She looks very happy.",
+      "arabic": "تبدو سعيدة جدًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452730"
+    },
+    {
+      "english": "We found happiness, here.",
+      "arabic": "وجدنا السعادة, هنا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452731"
+    },
+    {
+      "english": "This journey, is happiness.",
+      "arabic": "هذه الرحلة, هي السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452732"
+    },
+    {
+      "english": "Focus on what's good.",
+      "arabic": "ركز على ما هو جيد.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452733"
+    },
+    {
+      "english": "Happiness is a choice.",
+      "arabic": "السعادة اختيار.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452734"
+    },
+    {
+      "english": "Let happiness bloom.",
+      "arabic": "دع السعادة تزهر.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452735"
+    },
+    {
+      "english": "Enjoy this moment.",
+      "arabic": "استمتع بهذه اللحظة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452736"
+    },
+    {
+      "english": "Gratitude, brings happiness.",
+      "arabic": "الامتنان, يجلب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452738"
+    },
+    {
+      "english": "Be content, be happy.",
+      "arabic": "كن راضيًا, كن سعيدًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452741"
+    },
+    {
+      "english": "This is pure joy.",
+      "arabic": "هذا فرح نقي.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452742"
+    },
+    {
+      "english": "Spread happiness around.",
+      "arabic": "انشر السعادة حولك.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452743"
+    },
+    {
+      "english": "A happy heart, is healthy.",
+      "arabic": "القلب السعيد, صحي.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452744"
+    },
+    {
+      "english": "Dream big, be happy.",
+      "arabic": "احلم كبيرًا, كن سعيدًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452745"
+    },
+    {
+      "english": "This moment, feels happy.",
+      "arabic": "هذه اللحظة, تشعر بالسعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452746"
+    },
+    {
+      "english": "I wish you joy.",
+      "arabic": "أتمنى لك الفرح.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452747"
+    },
+    {
+      "english": "Inner peace, brings happiness.",
+      "arabic": "السلام الداخلي, يجلب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452748"
+    },
+    {
+      "english": "He earned his happiness.",
+      "arabic": "هو كسب سعادته.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452749"
+    },
+    {
+      "english": "She radiated happiness.",
+      "arabic": "كانت تشع سعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452750"
+    },
+    {
+      "english": "Let's celebrate, with joy.",
+      "arabic": "فلنحتفل, بالفرح.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452751"
+    },
+    {
+      "english": "Today is a happy day.",
+      "arabic": "اليوم يوم سعيد.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452752"
+    },
+    {
+      "english": "Be happy, always.",
+      "arabic": "كن سعيدًا, دائمًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452753"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "arabic": "ابتسم أكثر, قلل القلق.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452754"
+    },
+    {
+      "english": "Find joy, in small things.",
+      "arabic": "ابحث عن الفرح, في الأشياء الصغيرة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452755"
+    },
+    {
+      "english": "You look happy, today.",
+      "arabic": "تبدو سعيدًا, اليوم.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452756"
+    },
+    {
+      "english": "This makes me happy.",
+      "arabic": "هذا يجعلني سعيدًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452757"
+    },
+    {
+      "english": "I am so happy.",
+      "arabic": "أنا سعيد جدًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452758"
+    },
+    {
+      "english": "Happiness is within you.",
+      "arabic": "السعادة بداخلك.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452759"
+    },
+    {
+      "english": "Share your happiness.",
+      "arabic": "شارك سعادتك.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452760"
+    },
+    {
+      "english": "Good news, brings happiness.",
+      "arabic": "الأخبار الجيدة, تجلب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452761"
+    },
+    {
+      "english": "Live a happy life.",
+      "arabic": "عش حياة سعيدة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452762"
+    },
+    {
+      "english": "Let's be happy, together.",
+      "arabic": "فلنسعد, معًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452763"
+    },
+    {
+      "english": "Your smile, is my happiness.",
+      "arabic": "ابتسامتك, سعادتي.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452764"
+    },
+    {
+      "english": "Seek happiness, always.",
+      "arabic": "اطلب السعادة, دائمًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452765"
+    },
+    {
+      "english": "What makes you happy?",
+      "arabic": "ما الذي يسعدك؟",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452766"
+    },
+    {
+      "english": "I feel happy, now.",
+      "arabic": "أشعر بالسعادة, الآن.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452767"
+    },
+    {
+      "english": "This is true happiness.",
+      "arabic": "هذه هي السعادة الحقيقية.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452768"
+    },
+    {
+      "english": "Choose happiness, daily.",
+      "arabic": "اختر السعادة, يوميًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452769"
+    },
+    {
+      "english": "May you be happy.",
+      "arabic": "أتمنى لك السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452770"
+    },
+    {
+      "english": "Simple joys, bring happiness.",
+      "arabic": "البهجة البسيطة, تجلب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452771"
+    },
+    {
+      "english": "He is a happy person.",
+      "arabic": "هو شخص سعيد.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452774"
+    },
+    {
+      "english": "She looks very happy.",
+      "arabic": "تبدو سعيدة جدًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452775"
+    },
+    {
+      "english": "We found happiness, here.",
+      "arabic": "وجدنا السعادة, هنا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452776"
+    },
+    {
+      "english": "This journey, is happiness.",
+      "arabic": "هذه الرحلة, هي السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452777"
+    },
+    {
+      "english": "Focus on what's good.",
+      "arabic": "ركز على ما هو جيد.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452778"
+    },
+    {
+      "english": "Happiness is a choice.",
+      "arabic": "السعادة اختيار.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452779"
+    },
+    {
+      "english": "Let happiness bloom.",
+      "arabic": "دع السعادة تزهر.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452780"
+    },
+    {
+      "english": "Enjoy this moment.",
+      "arabic": "استمتع بهذه اللحظة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452781"
+    },
+    {
+      "english": "Gratitude, brings happiness.",
+      "arabic": "الامتنان, يجلب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452782"
+    },
+    {
+      "english": "Be content, be happy.",
+      "arabic": "كن راضيًا, كن سعيدًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452783"
+    },
+    {
+      "english": "This is pure joy.",
+      "arabic": "هذا فرح نقي.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452784"
+    },
+    {
+      "english": "Spread happiness around.",
+      "arabic": "انشر السعادة حولك.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452785"
+    },
+    {
+      "english": "A happy heart, is healthy.",
+      "arabic": "القلب السعيد, صحي.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452786"
+    },
+    {
+      "english": "Dream big, be happy.",
+      "arabic": "احلم كبيرًا, كن سعيدًا.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452789"
+    },
+    {
+      "english": "This moment, feels happy.",
+      "arabic": "هذه اللحظة, تشعر بالسعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452790"
+    },
+    {
+      "english": "I wish you joy.",
+      "arabic": "أتمنى لك الفرح.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452791"
+    },
+    {
+      "english": "Inner peace, brings happiness.",
+      "arabic": "السلام الداخلي, يجلب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452792"
+    },
+    {
+      "english": "He earned his happiness.",
+      "arabic": "هو كسب سعادته.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452793"
+    },
+    {
+      "english": "She radiated happiness.",
+      "arabic": "كانت تشع سعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452794"
+    },
+    {
+      "english": "Let's celebrate, with joy.",
+      "arabic": "فلنحتفل, بالفرح.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452795"
+    },
+    {
+      "english": "Today is a happy day.",
+      "arabic": "اليوم يوم سعيد.",
+      "category": "Happiness",
+      "generated_at": "2026-07-15T02:38:59.452796"
+    }
+  ],
+  "last_updated": "2026-07-15T02:38:59.452798"
+}
