@@ -1439,7 +1439,727 @@
       "arabic": "أنت، حلمي المفضل.",
       "category": "Love",
       "generated_at": "2026-07-15T03:57:42.008765"
+    },
+    {
+      "english": "You're, the best, my friend.",
+      "arabic": "أنت, الأفضل, يا صديقي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512794"
+    },
+    {
+      "english": "We stick, together, always.",
+      "arabic": "نحن نبقى, معًا, دائمًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512803"
+    },
+    {
+      "english": "Good times, with good people.",
+      "arabic": "أوقات رائعة, مع أناس طيبين.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512805"
+    },
+    {
+      "english": "Sharing laughs, is the best.",
+      "arabic": "مشاركة الضحكات, هي الأفضل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512806"
+    },
+    {
+      "english": "You make, my day, brighter.",
+      "arabic": "أنت تجعل, يومي, أكثر إشراقًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512807"
+    },
+    {
+      "english": "Glad we met, truly.",
+      "arabic": "سعيد بلقائك, حقًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512808"
+    },
+    {
+      "english": "You're, a true gem, friend.",
+      "arabic": "أنت, جوهرة حقيقية, يا صديق.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512810"
+    },
+    {
+      "english": "Miles apart, still close.",
+      "arabic": "مسافات بعيدة, ما زلنا قريبين.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512812"
+    },
+    {
+      "english": "Here for you, always.",
+      "arabic": "معك, دائمًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512814"
+    },
+    {
+      "english": "Friends forever, is our pact.",
+      "arabic": "أصدقاء للأبد, هو عهدنا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512815"
+    },
+    {
+      "english": "My confidant, my rock.",
+      "arabic": "ملجأي السري, صخرتي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512816"
+    },
+    {
+      "english": "Easy to be, with you.",
+      "arabic": "من السهل أن أكون, معك.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512817"
+    },
+    {
+      "english": "You understand, me perfectly.",
+      "arabic": "أنت تفهم, تعي تمامًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512819"
+    },
+    {
+      "english": "What a connection, we have.",
+      "arabic": "يا لها من صلة, لدينا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512820"
+    },
+    {
+      "english": "Thanks for being, you.",
+      "arabic": "شكرًا لكونك, أنت.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512821"
+    },
+    {
+      "english": "Our adventures, continue.",
+      "arabic": "مغامراتنا, مستمرة.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512822"
+    },
+    {
+      "english": "You lift, my spirits.",
+      "arabic": "أنت ترفع, معنوياتي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512823"
+    },
+    {
+      "english": "Loyalty, that's you.",
+      "arabic": "الوفاء, هذا أنت.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512824"
+    },
+    {
+      "english": "So lucky, to call you friend.",
+      "arabic": "محظوظ جدًا, أن أناديك صديق.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512826"
+    },
+    {
+      "english": "Our bond, is strong.",
+      "arabic": "رابطتنا, قوية.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512827"
+    },
+    {
+      "english": "You're, my chosen family.",
+      "arabic": "أنت, عائلتي المختارة.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512828"
+    },
+    {
+      "english": "A friend like you, rare.",
+      "arabic": "صديق مثلك, نادر.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512829"
+    },
+    {
+      "english": "Always a good, time with you.",
+      "arabic": "دائما وقت جيد, معك.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512830"
+    },
+    {
+      "english": "You support, me fully.",
+      "arabic": "أنت تدعمني, بالكامل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512831"
+    },
+    {
+      "english": "My partner, in crime.",
+      "arabic": "شريكي, في الجريمة.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512832"
+    },
+    {
+      "english": "You bring, out the best.",
+      "arabic": "أنت تبرز, الأفضل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512833"
+    },
+    {
+      "english": "Trust you, implicitly.",
+      "arabic": "أثق بك, ضمنيًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512834"
+    },
+    {
+      "english": "My reliable, confidant.",
+      "arabic": "صديقي الموثوق, سري.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512835"
+    },
+    {
+      "english": "Life's better, with friends.",
+      "arabic": "الحياة أفضل, مع الأصدقاء.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512836"
+    },
+    {
+      "english": "You're, a true blessing.",
+      "arabic": "أنت, نعمة حقيقية.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512837"
+    },
+    {
+      "english": "My friend, my ally.",
+      "arabic": "صديقي, حليفي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512838"
+    },
+    {
+      "english": "We go, way back.",
+      "arabic": "نحن نعرف, بعضنا منذ زمن طويل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512839"
+    },
+    {
+      "english": "You make, everything fun.",
+      "arabic": "أنت تجعل, كل شيء ممتعًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512840"
+    },
+    {
+      "english": "A friend, indeed.",
+      "arabic": "صديق, حقًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512841"
+    },
+    {
+      "english": "You're, my favorite person.",
+      "arabic": "أنت, شخصي المفضل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512842"
+    },
+    {
+      "english": "Always there, for me.",
+      "arabic": "دائمًا موجود, لأجلي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512843"
+    },
+    {
+      "english": "My loyal, companion.",
+      "arabic": "رفيقي, المخلص.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512848"
+    },
+    {
+      "english": "What a journey, together.",
+      "arabic": "يا لها من رحلة, معًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512849"
+    },
+    {
+      "english": "You're, simply the best.",
+      "arabic": "أنت, ببساطة الأفضل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512850"
+    },
+    {
+      "english": "You're, the best, my friend.",
+      "arabic": "أنت, الأفضل, يا صديقي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512852"
+    },
+    {
+      "english": "We stick, together, always.",
+      "arabic": "نحن نبقى, معًا, دائمًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512853"
+    },
+    {
+      "english": "Good times, with good people.",
+      "arabic": "أوقات رائعة, مع أناس طيبين.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512854"
+    },
+    {
+      "english": "Sharing laughs, is the best.",
+      "arabic": "مشاركة الضحكات, هي الأفضل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512856"
+    },
+    {
+      "english": "You make, my day, brighter.",
+      "arabic": "أنت تجعل, يومي, أكثر إشراقًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512857"
+    },
+    {
+      "english": "Glad we met, truly.",
+      "arabic": "سعيد بلقائك, حقًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512858"
+    },
+    {
+      "english": "You're, a true gem, friend.",
+      "arabic": "أنت, جوهرة حقيقية, يا صديق.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512859"
+    },
+    {
+      "english": "Miles apart, still close.",
+      "arabic": "مسافات بعيدة, ما زلنا قريبين.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512860"
+    },
+    {
+      "english": "Here for you, always.",
+      "arabic": "معك, دائمًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512861"
+    },
+    {
+      "english": "Friends forever, is our pact.",
+      "arabic": "أصدقاء للأبد, هو عهدنا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512862"
+    },
+    {
+      "english": "My confidant, my rock.",
+      "arabic": "ملجأي السري, صخرتي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512863"
+    },
+    {
+      "english": "Easy to be, with you.",
+      "arabic": "من السهل أن أكون, معك.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512865"
+    },
+    {
+      "english": "You understand, me perfectly.",
+      "arabic": "أنت تفهم, تعي تمامًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512866"
+    },
+    {
+      "english": "What a connection, we have.",
+      "arabic": "يا لها من صلة, لدينا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512867"
+    },
+    {
+      "english": "Thanks for being, you.",
+      "arabic": "شكرًا لكونك, أنت.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512868"
+    },
+    {
+      "english": "Our adventures, continue.",
+      "arabic": "مغامراتنا, مستمرة.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512869"
+    },
+    {
+      "english": "You lift, my spirits.",
+      "arabic": "أنت ترفع, معنوياتي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512870"
+    },
+    {
+      "english": "Loyalty, that's you.",
+      "arabic": "الوفاء, هذا أنت.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512871"
+    },
+    {
+      "english": "So lucky, to call you friend.",
+      "arabic": "محظوظ جدًا, أن أناديك صديق.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512872"
+    },
+    {
+      "english": "Our bond, is strong.",
+      "arabic": "رابطتنا, قوية.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512873"
+    },
+    {
+      "english": "You're, my chosen family.",
+      "arabic": "أنت, عائلتي المختارة.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512874"
+    },
+    {
+      "english": "A friend like you, rare.",
+      "arabic": "صديق مثلك, نادر.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512875"
+    },
+    {
+      "english": "Always a good, time with you.",
+      "arabic": "دائما وقت جيد, معك.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512876"
+    },
+    {
+      "english": "You support, me fully.",
+      "arabic": "أنت تدعمني, بالكامل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512877"
+    },
+    {
+      "english": "My partner, in crime.",
+      "arabic": "شريكي, في الجريمة.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512878"
+    },
+    {
+      "english": "You bring, out the best.",
+      "arabic": "أنت تبرز, الأفضل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512879"
+    },
+    {
+      "english": "Trust you, implicitly.",
+      "arabic": "أثق بك, ضمنيًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512881"
+    },
+    {
+      "english": "My reliable, confidant.",
+      "arabic": "صديقي الموثوق, سري.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512883"
+    },
+    {
+      "english": "Life's better, with friends.",
+      "arabic": "الحياة أفضل, مع الأصدقاء.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512885"
+    },
+    {
+      "english": "You're, a true blessing.",
+      "arabic": "أنت, نعمة حقيقية.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512887"
+    },
+    {
+      "english": "My friend, my ally.",
+      "arabic": "صديقي, حليفي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512889"
+    },
+    {
+      "english": "We go, way back.",
+      "arabic": "نحن نعرف, بعضنا منذ زمن طويل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512890"
+    },
+    {
+      "english": "You make, everything fun.",
+      "arabic": "أنت تجعل, كل شيء ممتعًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512891"
+    },
+    {
+      "english": "A friend, indeed.",
+      "arabic": "صديق, حقًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512892"
+    },
+    {
+      "english": "You're, my favorite person.",
+      "arabic": "أنت, شخصي المفضل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512893"
+    },
+    {
+      "english": "Always there, for me.",
+      "arabic": "دائمًا موجود, لأجلي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512894"
+    },
+    {
+      "english": "My loyal, companion.",
+      "arabic": "رفيقي, المخلص.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512895"
+    },
+    {
+      "english": "What a journey, together.",
+      "arabic": "يا لها من رحلة, معًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512896"
+    },
+    {
+      "english": "You're, simply the best.",
+      "arabic": "أنت, ببساطة الأفضل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512897"
+    },
+    {
+      "english": "You're, the best, my friend.",
+      "arabic": "أنت, الأفضل, يا صديقي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512898"
+    },
+    {
+      "english": "We stick, together, always.",
+      "arabic": "نحن نبقى, معًا, دائمًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512900"
+    },
+    {
+      "english": "Good times, with good people.",
+      "arabic": "أوقات رائعة, مع أناس طيبين.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512901"
+    },
+    {
+      "english": "Sharing laughs, is the best.",
+      "arabic": "مشاركة الضحكات, هي الأفضل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512902"
+    },
+    {
+      "english": "You make, my day, brighter.",
+      "arabic": "أنت تجعل, يومي, أكثر إشراقًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512903"
+    },
+    {
+      "english": "Glad we met, truly.",
+      "arabic": "سعيد بلقائك, حقًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512904"
+    },
+    {
+      "english": "You're, a true gem, friend.",
+      "arabic": "أنت, جوهرة حقيقية, يا صديق.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512905"
+    },
+    {
+      "english": "Miles apart, still close.",
+      "arabic": "مسافات بعيدة, ما زلنا قريبين.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512906"
+    },
+    {
+      "english": "Here for you, always.",
+      "arabic": "معك, دائمًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512907"
+    },
+    {
+      "english": "Friends forever, is our pact.",
+      "arabic": "أصدقاء للأبد, هو عهدنا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512908"
+    },
+    {
+      "english": "My confidant, my rock.",
+      "arabic": "ملجأي السري, صخرتي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512909"
+    },
+    {
+      "english": "Easy to be, with you.",
+      "arabic": "من السهل أن أكون, معك.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512910"
+    },
+    {
+      "english": "You understand, me perfectly.",
+      "arabic": "أنت تفهم, تعي تمامًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512911"
+    },
+    {
+      "english": "What a connection, we have.",
+      "arabic": "يا لها من صلة, لدينا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512913"
+    },
+    {
+      "english": "Thanks for being, you.",
+      "arabic": "شكرًا لكونك, أنت.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512914"
+    },
+    {
+      "english": "Our adventures, continue.",
+      "arabic": "مغامراتنا, مستمرة.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512914"
+    },
+    {
+      "english": "You lift, my spirits.",
+      "arabic": "أنت ترفع, معنوياتي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512915"
+    },
+    {
+      "english": "Loyalty, that's you.",
+      "arabic": "الوفاء, هذا أنت.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512917"
+    },
+    {
+      "english": "So lucky, to call you friend.",
+      "arabic": "محظوظ جدًا, أن أناديك صديق.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512918"
+    },
+    {
+      "english": "Our bond, is strong.",
+      "arabic": "رابطتنا, قوية.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512919"
+    },
+    {
+      "english": "You're, my chosen family.",
+      "arabic": "أنت, عائلتي المختارة.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512920"
+    },
+    {
+      "english": "A friend like you, rare.",
+      "arabic": "صديق مثلك, نادر.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512923"
+    },
+    {
+      "english": "Always a good, time with you.",
+      "arabic": "دائما وقت جيد, معك.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512924"
+    },
+    {
+      "english": "You support, me fully.",
+      "arabic": "أنت تدعمني, بالكامل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512925"
+    },
+    {
+      "english": "My partner, in crime.",
+      "arabic": "شريكي, في الجريمة.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512926"
+    },
+    {
+      "english": "You bring, out the best.",
+      "arabic": "أنت تبرز, الأفضل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512927"
+    },
+    {
+      "english": "Trust you, implicitly.",
+      "arabic": "أثق بك, ضمنيًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512928"
+    },
+    {
+      "english": "My reliable, confidant.",
+      "arabic": "صديقي الموثوق, سري.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512929"
+    },
+    {
+      "english": "Life's better, with friends.",
+      "arabic": "الحياة أفضل, مع الأصدقاء.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512930"
+    },
+    {
+      "english": "You're, a true blessing.",
+      "arabic": "أنت, نعمة حقيقية.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512931"
+    },
+    {
+      "english": "My friend, my ally.",
+      "arabic": "صديقي, حليفي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512932"
+    },
+    {
+      "english": "We go, way back.",
+      "arabic": "نحن نعرف, بعضنا منذ زمن طويل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512933"
+    },
+    {
+      "english": "You make, everything fun.",
+      "arabic": "أنت تجعل, كل شيء ممتعًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512934"
+    },
+    {
+      "english": "A friend, indeed.",
+      "arabic": "صديق, حقًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512935"
+    },
+    {
+      "english": "You're, my favorite person.",
+      "arabic": "أنت, شخصي المفضل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512936"
+    },
+    {
+      "english": "Always there, for me.",
+      "arabic": "دائمًا موجود, لأجلي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512937"
+    },
+    {
+      "english": "My loyal, companion.",
+      "arabic": "رفيقي, المخلص.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512938"
+    },
+    {
+      "english": "What a journey, together.",
+      "arabic": "يا لها من رحلة, معًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512958"
+    },
+    {
+      "english": "You're, simply the best.",
+      "arabic": "أنت, ببساطة الأفضل.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512959"
+    },
+    {
+      "english": "You're, the best, my friend.",
+      "arabic": "أنت, الأفضل, يا صديقي.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512960"
+    },
+    {
+      "english": "We stick, together, always.",
+      "arabic": "نحن نبقى, معًا, دائمًا.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512961"
+    },
+    {
+      "english": "Good times, with good people.",
+      "arabic": "أوقات رائعة, مع أناس طيبين.",
+      "category": "Friendship",
+      "generated_at": "2026-07-15T20:35:20.512962"
     }
   ],
-  "last_updated": "2026-07-15T03:57:42.008767"
+  "last_updated": "2026-07-15T20:35:20.512964"
 }
