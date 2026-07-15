@@ -659,12 +659,12 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     # Load fonts
     english_font_paths = [
         "C:/Windows/Fonts/segoeuib.ttf",
-        "C:/Windows/Fonts/arialbd.ttf",
+        "C:/Windows/Fonts/arialbd.ttf","C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/segoeuib.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
 
     arabic_font_paths = [
-        "C:/Windows/Fonts/arialbd.ttf",
+        "C:/Windows/Fonts/arialbd.ttf","C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/segoeuib.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
 
