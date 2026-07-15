@@ -1,0 +1,102 @@
+name: Velocity Arabic - Daily Long-Form Upload
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 8:00 PM EST (1:00 AM UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: ⬇️ Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 📥 Download phrase history
+        uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: longform-history
+          path: output/history/
+
+      - name: 📝 Init history
+        run: |
+          mkdir -p output/history
+          if [ ! -f "output/history/all_generated_phrases.json" ]; then
+            echo '{"phrases": [], "last_updated": null}' > output/history/all_generated_phrases.json
+          fi
+          if [ ! -f "output/history/used_categories.json" ]; then
+            echo '{"categories": []}' > output/history/used_categories.json
+          fi
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-dejavu-core fonts-liberation fonts-noto-color-emoji
+          sudo fc-cache -fv
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🔐 Create .env
+        run: |
+          echo "POLLINATIONS_API_KEY=${{ secrets.POLLINATIONS_API_KEY }}" >> .env
+          echo "AI_MODEL=${{ secrets.AI_MODEL || 'gemini-fast' }}" >> .env
+          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> .env
+          echo "YT_CLIENT_ID=${{ secrets.YT_CLIENT_ID }}" >> .env
+          echo "YT_CLIENT_SECRET=${{ secrets.YT_CLIENT_SECRET }}" >> .env
+          echo "YT_REFRESH_TOKEN=${{ secrets.YT_REFRESH_TOKEN }}" >> .env
+
+      - name: 🎬 Generate video
+        run: python youtube_longform_automation.py
+
+      - name: 📺 Upload to YouTube
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          export PYTHONPATH="${{ github.workspace }}:$PYTHONPATH"
+          python upload_to_youtube.py
+
+      - name: 📤 Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: longform-video-${{ github.run_number }}
+          path: |
+            output/longform_videos/*/final_video.mp4
+            output/longform_videos/*/thumbnail.jpg
+            output/longform_videos/*/video_metadata.json
+          retention-days: 7
+
+      - name: 💾 Save history
+        uses: actions/upload-artifact@v4
+        if: success()
+        with:
+          name: longform-history
+          path: |
+            output/history/all_generated_phrases.json
+            output/history/used_categories.json
+          retention-days: 90
+          overwrite: true
+
+      - name: 💾 Commit history
+        if: success()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/history/
+          if ! git diff --staged --quiet; then
+            git commit -m "Update history - Run #${{ github.run_number }}"
+            git push
+          fi
