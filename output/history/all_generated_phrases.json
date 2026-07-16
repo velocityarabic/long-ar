@@ -2159,7 +2159,727 @@
       "arabic": "أوقات رائعة, مع أناس طيبين.",
       "category": "Friendship",
       "generated_at": "2026-07-15T20:35:20.512962"
+    },
+    {
+      "english": "Arabic is easy, like a warm hug.",
+      "Arabic": "العربية سهلة، مثل حضن دافئ.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622637"
+    },
+    {
+      "english": "Learn Arabic, unlock new worlds.",
+      "Arabic": "تعلم العربية، افتح عوالم جديدة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622649"
+    },
+    {
+      "english": "One word a day, builds a language.",
+      "Arabic": "كلمة واحدة باليوم، تبني لغة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622651"
+    },
+    {
+      "english": "Mistakes are okay, they teach you.",
+      "Arabic": "الأخطاء مقبولة، تعلمك.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622652"
+    },
+    {
+      "english": "You're a language superstar, emerging.",
+      "Arabic": "أنت نجم لغة، صاعد.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622654"
+    },
+    {
+      "english": "Speak Arabic, with a smile.",
+      "Arabic": "تكلم العربية، بابتسامة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622655"
+    },
+    {
+      "english": "This is your moment, to shine.",
+      "Arabic": "هذه لحظتك، لتشرق.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622657"
+    },
+    {
+      "english": "Keep pushing, you're getting there.",
+      "Arabic": "استمر بالدفع، أنت تقترب.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622659"
+    },
+    {
+      "english": "Your Arabic is growing, like a plant.",
+      "Arabic": "عربيتك تنمو، كالنبات.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622661"
+    },
+    {
+      "english": "Every lesson, a new superpower.",
+      "Arabic": "كل درس، قوة خارقة جديدة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622663"
+    },
+    {
+      "english": "Don't give up, your brain loves it.",
+      "Arabic": "لا تستسلم، عقلك يحبها.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622664"
+    },
+    {
+      "english": "You're doing great, keep it up!",
+      "Arabic": "أنت تبلي بلاء حسنا، استمر!",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622665"
+    },
+    {
+      "english": "Arabic is fun, like a game.",
+      "Arabic": "العربية ممتعة، مثل لعبة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622666"
+    },
+    {
+      "english": "Imagine the conversations, you'll have.",
+      "Arabic": "تخيل المحادثات، التي ستجريها.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622676"
+    },
+    {
+      "english": "Your progress, is impressive, really.",
+      "Arabic": "تقدمك، مثير للإعجاب، حقًا.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622677"
+    },
+    {
+      "english": "You're unlocking, a beautiful language.",
+      "Arabic": "أنت تفتح، لغة جميلة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622678"
+    },
+    {
+      "english": "Each sentence, a small victory.",
+      "Arabic": "كل جملة، انتصار صغير.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622679"
+    },
+    {
+      "english": "You're a language ninja, in training.",
+      "Arabic": "أنت نينجا لغة، قيد التدريب.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622690"
+    },
+    {
+      "english": "Think of the travel, you'll do.",
+      "Arabic": "فكر بالسفر، الذي ستقوم به.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622691"
+    },
+    {
+      "english": "Your voice, in Arabic, is powerful.",
+      "Arabic": "صوتك، بالعربية، قوي.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622692"
+    },
+    {
+      "english": "Little by little, you're fluent.",
+      "Arabic": "شيئًا فشيئًا، ستصبح طليقًا.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622693"
+    },
+    {
+      "english": "You're a language explorer, bravo!",
+      "Arabic": "أنت مستكشف لغة، رائع!",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622694"
+    },
+    {
+      "english": "This is your language, adventure.",
+      "Arabic": "هذه مغامرتك، اللغوية.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622695"
+    },
+    {
+      "english": "Embrace the challenge, it's rewarding.",
+      "Arabic": "احتضن التحدي، إنه مجز.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622696"
+    },
+    {
+      "english": "You're building, a bridge, with words.",
+      "Arabic": "أنت تبني، جسرًا، بالكلمات.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622697"
+    },
+    {
+      "english": "Future you, will thank you.",
+      "Arabic": "مستقبلك، سيشكرك.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622698"
+    },
+    {
+      "english": "One conversation, at a time.",
+      "Arabic": "محادثة واحدة، في كل مرة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622699"
+    },
+    {
+      "english": "Your determination, is inspiring.",
+      "Arabic": "عزيمتك، ملهمة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622700"
+    },
+    {
+      "english": "Arabic is a gift, unwrap it.",
+      "Arabic": "العربية هدية، فكها.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622701"
+    },
+    {
+      "english": "You're crafting, your own story.",
+      "Arabic": "أنت تصنع، قصتك الخاصة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622702"
+    },
+    {
+      "english": "Every attempt, is a step forward.",
+      "Arabic": "كل محاولة، خطوة للأمام.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622703"
+    },
+    {
+      "english": "You're making, Arabic your own.",
+      "Arabic": "أنت تجعل، العربية ملكك.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622704"
+    },
+    {
+      "english": "Think of the connections, you'll make.",
+      "Arabic": "فكر بالصلات، التي ستكونها.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622705"
+    },
+    {
+      "english": "Your mind is expanding, globally.",
+      "Arabic": "عقلك يتوسع، عالميًا.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622706"
+    },
+    {
+      "english": "This is more than words, it's culture.",
+      "Arabic": "هذه أكثر من كلمات، إنها ثقافة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622707"
+    },
+    {
+      "english": "You're a language artist, creating.",
+      "Arabic": "أنت فنان لغة، مبدع.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622708"
+    },
+    {
+      "english": "Your Arabic journey, is exciting.",
+      "Arabic": "رحلتك العربية، مثيرة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622709"
+    },
+    {
+      "english": "You've got this, big time.",
+      "Arabic": "أنت قادر على هذا، بقوة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622710"
+    },
+    {
+      "english": "Keep speaking, it gets easier.",
+      "Arabic": "استمر بالتكلم، يصبح أسهل.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622711"
+    },
+    {
+      "english": "Arabic is easy, like a warm hug.",
+      "Arabic": "العربية سهلة، مثل حضن دافئ.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622713"
+    },
+    {
+      "english": "Learn Arabic, unlock new worlds.",
+      "Arabic": "تعلم العربية، افتح عوالم جديدة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622714"
+    },
+    {
+      "english": "One word a day, builds a language.",
+      "Arabic": "كلمة واحدة باليوم، تبني لغة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622716"
+    },
+    {
+      "english": "Mistakes are okay, they teach you.",
+      "Arabic": "الأخطاء مقبولة، تعلمك.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622717"
+    },
+    {
+      "english": "You're a language superstar, emerging.",
+      "Arabic": "أنت نجم لغة، صاعد.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622719"
+    },
+    {
+      "english": "Speak Arabic, with a smile.",
+      "Arabic": "تكلم العربية، بابتسامة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622722"
+    },
+    {
+      "english": "This is your moment, to shine.",
+      "Arabic": "هذه لحظتك، لتشرق.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622724"
+    },
+    {
+      "english": "Keep pushing, you're getting there.",
+      "Arabic": "استمر بالدفع، أنت تقترب.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622725"
+    },
+    {
+      "english": "Your Arabic is growing, like a plant.",
+      "Arabic": "عربيتك تنمو، كالنبات.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622726"
+    },
+    {
+      "english": "Every lesson, a new superpower.",
+      "Arabic": "كل درس، قوة خارقة جديدة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622727"
+    },
+    {
+      "english": "Don't give up, your brain loves it.",
+      "Arabic": "لا تستسلم، عقلك يحبها.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622728"
+    },
+    {
+      "english": "You're doing great, keep it up!",
+      "Arabic": "أنت تبلي بلاء حسنا، استمر!",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622729"
+    },
+    {
+      "english": "Arabic is fun, like a game.",
+      "Arabic": "العربية ممتعة، مثل لعبة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622731"
+    },
+    {
+      "english": "Imagine the conversations, you'll have.",
+      "Arabic": "تخيل المحادثات، التي ستجريها.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622732"
+    },
+    {
+      "english": "Your progress, is impressive, really.",
+      "Arabic": "تقدمك، مثير للإعجاب، حقًا.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622733"
+    },
+    {
+      "english": "You're unlocking, a beautiful language.",
+      "Arabic": "أنت تفتح، لغة جميلة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622734"
+    },
+    {
+      "english": "Each sentence, a small victory.",
+      "Arabic": "كل جملة، انتصار صغير.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622735"
+    },
+    {
+      "english": "You're a language ninja, in training.",
+      "Arabic": "أنت نينجا لغة، قيد التدريب.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622736"
+    },
+    {
+      "english": "Think of the travel, you'll do.",
+      "Arabic": "فكر بالسفر، الذي ستقوم به.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622737"
+    },
+    {
+      "english": "Your voice, in Arabic, is powerful.",
+      "Arabic": "صوتك، بالعربية، قوي.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622738"
+    },
+    {
+      "english": "Little by little, you're fluent.",
+      "Arabic": "شيئًا فشيئًا، ستصبح طليقًا.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622739"
+    },
+    {
+      "english": "You're a language explorer, bravo!",
+      "Arabic": "أنت مستكشف لغة، رائع!",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622740"
+    },
+    {
+      "english": "This is your language, adventure.",
+      "Arabic": "هذه مغامرتك، اللغوية.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622741"
+    },
+    {
+      "english": "Embrace the challenge, it's rewarding.",
+      "Arabic": "احتضن التحدي، إنه مجز.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622742"
+    },
+    {
+      "english": "You're building, a bridge, with words.",
+      "Arabic": "أنت تبني، جسرًا، بالكلمات.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622743"
+    },
+    {
+      "english": "Future you, will thank you.",
+      "Arabic": "مستقبلك، سيشكرك.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622744"
+    },
+    {
+      "english": "One conversation, at a time.",
+      "Arabic": "محادثة واحدة، في كل مرة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622745"
+    },
+    {
+      "english": "Your determination, is inspiring.",
+      "Arabic": "عزيمتك، ملهمة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622746"
+    },
+    {
+      "english": "Arabic is a gift, unwrap it.",
+      "Arabic": "العربية هدية، فكها.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622747"
+    },
+    {
+      "english": "You're crafting, your own story.",
+      "Arabic": "أنت تصنع، قصتك الخاصة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622748"
+    },
+    {
+      "english": "Every attempt, is a step forward.",
+      "Arabic": "كل محاولة، خطوة للأمام.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622751"
+    },
+    {
+      "english": "You're making, Arabic your own.",
+      "Arabic": "أنت تجعل، العربية ملكك.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622753"
+    },
+    {
+      "english": "Think of the connections, you'll make.",
+      "Arabic": "فكر بالصلات، التي ستكونها.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622754"
+    },
+    {
+      "english": "Your mind is expanding, globally.",
+      "Arabic": "عقلك يتوسع، عالميًا.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622755"
+    },
+    {
+      "english": "This is more than words, it's culture.",
+      "Arabic": "هذه أكثر من كلمات، إنها ثقافة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622756"
+    },
+    {
+      "english": "You're a language artist, creating.",
+      "Arabic": "أنت فنان لغة، مبدع.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622757"
+    },
+    {
+      "english": "Your Arabic journey, is exciting.",
+      "Arabic": "رحلتك العربية، مثيرة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622758"
+    },
+    {
+      "english": "You've got this, big time.",
+      "Arabic": "أنت قادر على هذا، بقوة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622761"
+    },
+    {
+      "english": "Keep speaking, it gets easier.",
+      "Arabic": "استمر بالتكلم، يصبح أسهل.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622762"
+    },
+    {
+      "english": "Arabic is easy, like a warm hug.",
+      "Arabic": "العربية سهلة، مثل حضن دافئ.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622763"
+    },
+    {
+      "english": "Learn Arabic, unlock new worlds.",
+      "Arabic": "تعلم العربية، افتح عوالم جديدة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622764"
+    },
+    {
+      "english": "One word a day, builds a language.",
+      "Arabic": "كلمة واحدة باليوم، تبني لغة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622765"
+    },
+    {
+      "english": "Mistakes are okay, they teach you.",
+      "Arabic": "الأخطاء مقبولة، تعلمك.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622766"
+    },
+    {
+      "english": "You're a language superstar, emerging.",
+      "Arabic": "أنت نجم لغة، صاعد.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622767"
+    },
+    {
+      "english": "Speak Arabic, with a smile.",
+      "Arabic": "تكلم العربية، بابتسامة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622768"
+    },
+    {
+      "english": "This is your moment, to shine.",
+      "Arabic": "هذه لحظتك، لتشرق.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622769"
+    },
+    {
+      "english": "Keep pushing, you're getting there.",
+      "Arabic": "استمر بالدفع، أنت تقترب.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622770"
+    },
+    {
+      "english": "Your Arabic is growing, like a plant.",
+      "Arabic": "عربيتك تنمو، كالنبات.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622771"
+    },
+    {
+      "english": "Every lesson, a new superpower.",
+      "Arabic": "كل درس، قوة خارقة جديدة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622772"
+    },
+    {
+      "english": "Don't give up, your brain loves it.",
+      "Arabic": "لا تستسلم، عقلك يحبها.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622773"
+    },
+    {
+      "english": "You're doing great, keep it up!",
+      "Arabic": "أنت تبلي بلاء حسنا، استمر!",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622774"
+    },
+    {
+      "english": "Arabic is fun, like a game.",
+      "Arabic": "العربية ممتعة، مثل لعبة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622775"
+    },
+    {
+      "english": "Imagine the conversations, you'll have.",
+      "Arabic": "تخيل المحادثات، التي ستجريها.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622776"
+    },
+    {
+      "english": "Your progress, is impressive, really.",
+      "Arabic": "تقدمك، مثير للإعجاب، حقًا.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622777"
+    },
+    {
+      "english": "You're unlocking, a beautiful language.",
+      "Arabic": "أنت تفتح، لغة جميلة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622778"
+    },
+    {
+      "english": "Each sentence, a small victory.",
+      "Arabic": "كل جملة، انتصار صغير.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622779"
+    },
+    {
+      "english": "You're a language ninja, in training.",
+      "Arabic": "أنت نينجا لغة، قيد التدريب.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622780"
+    },
+    {
+      "english": "Think of the travel, you'll do.",
+      "Arabic": "فكر بالسفر، الذي ستقوم به.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622781"
+    },
+    {
+      "english": "Your voice, in Arabic, is powerful.",
+      "Arabic": "صوتك، بالعربية، قوي.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622783"
+    },
+    {
+      "english": "Little by little, you're fluent.",
+      "Arabic": "شيئًا فشيئًا، ستصبح طليقًا.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622784"
+    },
+    {
+      "english": "You're a language explorer, bravo!",
+      "Arabic": "أنت مستكشف لغة، رائع!",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622785"
+    },
+    {
+      "english": "This is your language, adventure.",
+      "Arabic": "هذه مغامرتك، اللغوية.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622786"
+    },
+    {
+      "english": "Embrace the challenge, it's rewarding.",
+      "Arabic": "احتضن التحدي، إنه مجز.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622787"
+    },
+    {
+      "english": "You're building, a bridge, with words.",
+      "Arabic": "أنت تبني، جسرًا، بالكلمات.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622788"
+    },
+    {
+      "english": "Future you, will thank you.",
+      "Arabic": "مستقبلك، سيشكرك.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622789"
+    },
+    {
+      "english": "One conversation, at a time.",
+      "Arabic": "محادثة واحدة، في كل مرة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622790"
+    },
+    {
+      "english": "Your determination, is inspiring.",
+      "Arabic": "عزيمتك، ملهمة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622793"
+    },
+    {
+      "english": "Arabic is a gift, unwrap it.",
+      "Arabic": "العربية هدية، فكها.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622794"
+    },
+    {
+      "english": "You're crafting, your own story.",
+      "Arabic": "أنت تصنع، قصتك الخاصة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622795"
+    },
+    {
+      "english": "Every attempt, is a step forward.",
+      "Arabic": "كل محاولة، خطوة للأمام.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622798"
+    },
+    {
+      "english": "You're making, Arabic your own.",
+      "Arabic": "أنت تجعل، العربية ملكك.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622799"
+    },
+    {
+      "english": "Think of the connections, you'll make.",
+      "Arabic": "فكر بالصلات، التي ستكونها.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622800"
+    },
+    {
+      "english": "Your mind is expanding, globally.",
+      "Arabic": "عقلك يتوسع، عالميًا.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622801"
+    },
+    {
+      "english": "This is more than words, it's culture.",
+      "Arabic": "هذه أكثر من كلمات، إنها ثقافة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622802"
+    },
+    {
+      "english": "You're a language artist, creating.",
+      "Arabic": "أنت فنان لغة، مبدع.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622803"
+    },
+    {
+      "english": "Your Arabic journey, is exciting.",
+      "Arabic": "رحلتك العربية، مثيرة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622804"
+    },
+    {
+      "english": "You've got this, big time.",
+      "Arabic": "أنت قادر على هذا، بقوة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622805"
+    },
+    {
+      "english": "Keep speaking, it gets easier.",
+      "Arabic": "استمر بالتكلم، يصبح أسهل.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622806"
+    },
+    {
+      "english": "Arabic is easy, like a warm hug.",
+      "Arabic": "العربية سهلة، مثل حضن دافئ.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622807"
+    },
+    {
+      "english": "Learn Arabic, unlock new worlds.",
+      "Arabic": "تعلم العربية، افتح عوالم جديدة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622808"
+    },
+    {
+      "english": "One word a day, builds a language.",
+      "Arabic": "كلمة واحدة باليوم، تبني لغة.",
+      "category": "Motivation",
+      "generated_at": "2026-07-16T04:08:50.622811"
     }
   ],
-  "last_updated": "2026-07-15T20:35:20.512964"
+  "last_updated": "2026-07-16T04:08:50.622813"
 }
