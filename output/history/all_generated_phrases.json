@@ -2879,7 +2879,727 @@
       "Arabic": "كلمة واحدة باليوم، تبني لغة.",
       "category": "Motivation",
       "generated_at": "2026-07-16T04:08:50.622811"
+    },
+    {
+      "english": "Breathe in, Arabic. Breathe out, smiles.",
+      "Arabic": "تنفس العربية، تنفس الابتسامات.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106072"
+    },
+    {
+      "english": "Listen closely, to the rhythm.",
+      "Arabic": "استمع جيداً، للإيقاع.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106081"
+    },
+    {
+      "english": "Speak slowly, feel the words.",
+      "Arabic": "تحدث ببطء، اشعر بالكلمات.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106083"
+    },
+    {
+      "english": "One sound, at a time, master it.",
+      "Arabic": "صوت واحد، في كل مرة، أتقنه.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106084"
+    },
+    {
+      "english": "Don't fear mistakes, they teach you.",
+      "Arabic": "لا تخف من الأخطاء، إنها تعلمك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106086"
+    },
+    {
+      "english": "Smile, when you speak, it helps.",
+      "Arabic": "ابتسم، عندما تتحدث، هذا يساعد.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106087"
+    },
+    {
+      "english": "Repeat this phrase, five times.",
+      "Arabic": "كرر هذه الجملة، خمس مرات.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106088"
+    },
+    {
+      "english": "Your accent, is unique, embrace it.",
+      "Arabic": "لهجتك، فريدة، احتضنها.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106091"
+    },
+    {
+      "english": "This moment, is your learning zone.",
+      "Arabic": "هذه اللحظة، هي منطقة تعلمك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106093"
+    },
+    {
+      "english": "Find one new word, today.",
+      "Arabic": "ابحث عن كلمة جديدة، اليوم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106094"
+    },
+    {
+      "english": "Listen to Arabic, for ten minutes.",
+      "Arabic": "استمع للعربية، لعشر دقائق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106095"
+    },
+    {
+      "english": "Write down, one good sentence.",
+      "Arabic": "اكتب، جملة واحدة جيدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106097"
+    },
+    {
+      "english": "Think in Arabic, for a bit.",
+      "Arabic": "فكر بالعربية، قليلاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106098"
+    },
+    {
+      "english": "Your mind, is a language garden.",
+      "Arabic": "عقلك، حديقة لغة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106099"
+    },
+    {
+      "english": "Water your thoughts, with new words.",
+      "Arabic": "اسقِ أفكارك، بكلمات جديدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106100"
+    },
+    {
+      "english": "This feeling, is progress, real progress.",
+      "Arabic": "هذا الشعور، هو تقدم، تقدم حقيقي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106102"
+    },
+    {
+      "english": "Your Arabic, is blooming, beautifully.",
+      "Arabic": "عربيتك، تزهر، بجمال.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106103"
+    },
+    {
+      "english": "Enjoy the journey, not just the destination.",
+      "Arabic": "استمتع بالرحلة، لا الوجهة فقط.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106104"
+    },
+    {
+      "english": "Every day, a small step, forward.",
+      "Arabic": "كل يوم، خطوة صغيرة، للأمام.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106105"
+    },
+    {
+      "english": "You are speaking, you are learning.",
+      "Arabic": "أنت تتحدث، أنت تتعلم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106106"
+    },
+    {
+      "english": "The sounds, are friends, welcome them.",
+      "Arabic": "الأصوات، أصدقاء، رحب بهم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106107"
+    },
+    {
+      "english": "This culture, is now yours, explore.",
+      "Arabic": "هذه الثقافة، صارت لك، استكشف.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106109"
+    },
+    {
+      "english": "Your brain, loves new patterns.",
+      "Arabic": "دماغك، يحب الأنماط الجديدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106110"
+    },
+    {
+      "english": "Practice this phrase, every morning.",
+      "Arabic": "تدرب على هذه الجملة، كل صباح.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106111"
+    },
+    {
+      "english": "Your voice, finding its Arabic song.",
+      "Arabic": "صوتك، يجد أغنيته العربية.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106112"
+    },
+    {
+      "english": "Patience is key, in language.",
+      "Arabic": "الصبر مفتاح، في اللغة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106113"
+    },
+    {
+      "english": "Be kind, to your learning self.",
+      "Arabic": "كن لطيفاً، مع ذاتك المتعلمة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106114"
+    },
+    {
+      "english": "The world, is listening, to your Arabic.",
+      "Arabic": "العالم، يستمع، لعربيتك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106115"
+    },
+    {
+      "english": "Find joy, in the small wins.",
+      "Arabic": "ابحث عن الفرح، في الانتصارات الصغيرة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106116"
+    },
+    {
+      "english": "This pause, is for thinking.",
+      "Arabic": "هذه الوقفة، للتفكير.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106117"
+    },
+    {
+      "english": "Your effort, is valuable, truly.",
+      "Arabic": "جهدك، ذو قيمة، حقاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106118"
+    },
+    {
+      "english": "The sounds connect, like magic.",
+      "Arabic": "الأصوات تتصل، كالسحر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106119"
+    },
+    {
+      "english": "Open your ears, to new music.",
+      "Arabic": "افتح أذنيك، للموسيقى الجديدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106120"
+    },
+    {
+      "english": "Your tongue, is getting flexible.",
+      "Arabic": "لسانك، يصبح مرناً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106121"
+    },
+    {
+      "english": "This word, has a story, learn it.",
+      "Arabic": "هذه الكلمة، لها قصة، تعلمها.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106122"
+    },
+    {
+      "english": "Focus on one thing, for now.",
+      "Arabic": "ركز على شيء واحد، الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106123"
+    },
+    {
+      "english": "You are building, fluency, brick by brick.",
+      "Arabic": "أنت تبني، الطلاقة، حجراً بحجر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106124"
+    },
+    {
+      "english": "Your patience, is a superpower.",
+      "Arabic": "صبرك، قوة خارقة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106125"
+    },
+    {
+      "english": "This moment, is your Arabic moment.",
+      "Arabic": "هذه اللحظة، لحظتك العربية.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106126"
+    },
+    {
+      "english": "Celebrate every new word, you learn.",
+      "Arabic": "احتفل بكل كلمة جديدة، تتعلمها.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106127"
+    },
+    {
+      "english": "Breathe in, Arabic. Breathe out, smiles.",
+      "Arabic": "تنفس العربية، تنفس الابتسامات.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106128"
+    },
+    {
+      "english": "Listen closely, to the rhythm.",
+      "Arabic": "استمع جيداً، للإيقاع.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106130"
+    },
+    {
+      "english": "Speak slowly, feel the words.",
+      "Arabic": "تحدث ببطء، اشعر بالكلمات.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106131"
+    },
+    {
+      "english": "One sound, at a time, master it.",
+      "Arabic": "صوت واحد، في كل مرة، أتقنه.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106133"
+    },
+    {
+      "english": "Don't fear mistakes, they teach you.",
+      "Arabic": "لا تخف من الأخطاء، إنها تعلمك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106134"
+    },
+    {
+      "english": "Smile, when you speak, it helps.",
+      "Arabic": "ابتسم، عندما تتحدث، هذا يساعد.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106135"
+    },
+    {
+      "english": "Repeat this phrase, five times.",
+      "Arabic": "كرر هذه الجملة، خمس مرات.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106136"
+    },
+    {
+      "english": "Your accent, is unique, embrace it.",
+      "Arabic": "لهجتك، فريدة، احتضنها.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106138"
+    },
+    {
+      "english": "This moment, is your learning zone.",
+      "Arabic": "هذه اللحظة، هي منطقة تعلمك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106139"
+    },
+    {
+      "english": "Find one new word, today.",
+      "Arabic": "ابحث عن كلمة جديدة، اليوم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106140"
+    },
+    {
+      "english": "Listen to Arabic, for ten minutes.",
+      "Arabic": "استمع للعربية، لعشر دقائق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106141"
+    },
+    {
+      "english": "Write down, one good sentence.",
+      "Arabic": "اكتب، جملة واحدة جيدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106142"
+    },
+    {
+      "english": "Think in Arabic, for a bit.",
+      "Arabic": "فكر بالعربية، قليلاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106143"
+    },
+    {
+      "english": "Your mind, is a language garden.",
+      "Arabic": "عقلك، حديقة لغة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106144"
+    },
+    {
+      "english": "Water your thoughts, with new words.",
+      "Arabic": "اسقِ أفكارك، بكلمات جديدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106145"
+    },
+    {
+      "english": "This feeling, is progress, real progress.",
+      "Arabic": "هذا الشعور، هو تقدم، تقدم حقيقي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106146"
+    },
+    {
+      "english": "Your Arabic, is blooming, beautifully.",
+      "Arabic": "عربيتك، تزهر، بجمال.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106147"
+    },
+    {
+      "english": "Enjoy the journey, not just the destination.",
+      "Arabic": "استمتع بالرحلة، لا الوجهة فقط.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106149"
+    },
+    {
+      "english": "Every day, a small step, forward.",
+      "Arabic": "كل يوم، خطوة صغيرة، للأمام.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106152"
+    },
+    {
+      "english": "You are speaking, you are learning.",
+      "Arabic": "أنت تتحدث، أنت تتعلم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106154"
+    },
+    {
+      "english": "The sounds, are friends, welcome them.",
+      "Arabic": "الأصوات، أصدقاء، رحب بهم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106155"
+    },
+    {
+      "english": "This culture, is now yours, explore.",
+      "Arabic": "هذه الثقافة، صارت لك، استكشف.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106156"
+    },
+    {
+      "english": "Your brain, loves new patterns.",
+      "Arabic": "دماغك، يحب الأنماط الجديدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106157"
+    },
+    {
+      "english": "Practice this phrase, every morning.",
+      "Arabic": "تدرب على هذه الجملة، كل صباح.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106158"
+    },
+    {
+      "english": "Your voice, finding its Arabic song.",
+      "Arabic": "صوتك، يجد أغنيته العربية.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106160"
+    },
+    {
+      "english": "Patience is key, in language.",
+      "Arabic": "الصبر مفتاح، في اللغة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106161"
+    },
+    {
+      "english": "Be kind, to your learning self.",
+      "Arabic": "كن لطيفاً، مع ذاتك المتعلمة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106162"
+    },
+    {
+      "english": "The world, is listening, to your Arabic.",
+      "Arabic": "العالم، يستمع، لعربيتك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106163"
+    },
+    {
+      "english": "Find joy, in the small wins.",
+      "Arabic": "ابحث عن الفرح، في الانتصارات الصغيرة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106164"
+    },
+    {
+      "english": "This pause, is for thinking.",
+      "Arabic": "هذه الوقفة، للتفكير.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106165"
+    },
+    {
+      "english": "Your effort, is valuable, truly.",
+      "Arabic": "جهدك، ذو قيمة، حقاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106166"
+    },
+    {
+      "english": "The sounds connect, like magic.",
+      "Arabic": "الأصوات تتصل، كالسحر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106167"
+    },
+    {
+      "english": "Open your ears, to new music.",
+      "Arabic": "افتح أذنيك، للموسيقى الجديدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106168"
+    },
+    {
+      "english": "Your tongue, is getting flexible.",
+      "Arabic": "لسانك، يصبح مرناً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106169"
+    },
+    {
+      "english": "This word, has a story, learn it.",
+      "Arabic": "هذه الكلمة، لها قصة، تعلمها.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106170"
+    },
+    {
+      "english": "Focus on one thing, for now.",
+      "Arabic": "ركز على شيء واحد، الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106171"
+    },
+    {
+      "english": "You are building, fluency, brick by brick.",
+      "Arabic": "أنت تبني، الطلاقة، حجراً بحجر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106172"
+    },
+    {
+      "english": "Your patience, is a superpower.",
+      "Arabic": "صبرك، قوة خارقة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106173"
+    },
+    {
+      "english": "This moment, is your Arabic moment.",
+      "Arabic": "هذه اللحظة، لحظتك العربية.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106174"
+    },
+    {
+      "english": "Celebrate every new word, you learn.",
+      "Arabic": "احتفل بكل كلمة جديدة، تتعلمها.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106175"
+    },
+    {
+      "english": "Breathe in, Arabic. Breathe out, smiles.",
+      "Arabic": "تنفس العربية، تنفس الابتسامات.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106176"
+    },
+    {
+      "english": "Listen closely, to the rhythm.",
+      "Arabic": "استمع جيداً، للإيقاع.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106177"
+    },
+    {
+      "english": "Speak slowly, feel the words.",
+      "Arabic": "تحدث ببطء، اشعر بالكلمات.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106178"
+    },
+    {
+      "english": "One sound, at a time, master it.",
+      "Arabic": "صوت واحد، في كل مرة، أتقنه.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106179"
+    },
+    {
+      "english": "Don't fear mistakes, they teach you.",
+      "Arabic": "لا تخف من الأخطاء، إنها تعلمك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106180"
+    },
+    {
+      "english": "Smile, when you speak, it helps.",
+      "Arabic": "ابتسم، عندما تتحدث، هذا يساعد.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106181"
+    },
+    {
+      "english": "Repeat this phrase, five times.",
+      "Arabic": "كرر هذه الجملة، خمس مرات.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106182"
+    },
+    {
+      "english": "Your accent, is unique, embrace it.",
+      "Arabic": "لهجتك، فريدة، احتضنها.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106183"
+    },
+    {
+      "english": "This moment, is your learning zone.",
+      "Arabic": "هذه اللحظة، هي منطقة تعلمك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106184"
+    },
+    {
+      "english": "Find one new word, today.",
+      "Arabic": "ابحث عن كلمة جديدة، اليوم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106185"
+    },
+    {
+      "english": "Listen to Arabic, for ten minutes.",
+      "Arabic": "استمع للعربية، لعشر دقائق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106186"
+    },
+    {
+      "english": "Write down, one good sentence.",
+      "Arabic": "اكتب، جملة واحدة جيدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106187"
+    },
+    {
+      "english": "Think in Arabic, for a bit.",
+      "Arabic": "فكر بالعربية، قليلاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106188"
+    },
+    {
+      "english": "Your mind, is a language garden.",
+      "Arabic": "عقلك، حديقة لغة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106189"
+    },
+    {
+      "english": "Water your thoughts, with new words.",
+      "Arabic": "اسقِ أفكارك، بكلمات جديدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106190"
+    },
+    {
+      "english": "This feeling, is progress, real progress.",
+      "Arabic": "هذا الشعور، هو تقدم، تقدم حقيقي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106191"
+    },
+    {
+      "english": "Your Arabic, is blooming, beautifully.",
+      "Arabic": "عربيتك، تزهر، بجمال.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106192"
+    },
+    {
+      "english": "Enjoy the journey, not just the destination.",
+      "Arabic": "استمتع بالرحلة، لا الوجهة فقط.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106193"
+    },
+    {
+      "english": "Every day, a small step, forward.",
+      "Arabic": "كل يوم، خطوة صغيرة، للأمام.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106194"
+    },
+    {
+      "english": "You are speaking, you are learning.",
+      "Arabic": "أنت تتحدث، أنت تتعلم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106195"
+    },
+    {
+      "english": "The sounds, are friends, welcome them.",
+      "Arabic": "الأصوات، أصدقاء، رحب بهم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106196"
+    },
+    {
+      "english": "This culture, is now yours, explore.",
+      "Arabic": "هذه الثقافة، صارت لك، استكشف.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106197"
+    },
+    {
+      "english": "Your brain, loves new patterns.",
+      "Arabic": "دماغك، يحب الأنماط الجديدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106198"
+    },
+    {
+      "english": "Practice this phrase, every morning.",
+      "Arabic": "تدرب على هذه الجملة، كل صباح.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106199"
+    },
+    {
+      "english": "Your voice, finding its Arabic song.",
+      "Arabic": "صوتك، يجد أغنيته العربية.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106200"
+    },
+    {
+      "english": "Patience is key, in language.",
+      "Arabic": "الصبر مفتاح، في اللغة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106201"
+    },
+    {
+      "english": "Be kind, to your learning self.",
+      "Arabic": "كن لطيفاً، مع ذاتك المتعلمة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106202"
+    },
+    {
+      "english": "The world, is listening, to your Arabic.",
+      "Arabic": "العالم، يستمع، لعربيتك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106203"
+    },
+    {
+      "english": "Find joy, in the small wins.",
+      "Arabic": "ابحث عن الفرح، في الانتصارات الصغيرة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106206"
+    },
+    {
+      "english": "This pause, is for thinking.",
+      "Arabic": "هذه الوقفة، للتفكير.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106207"
+    },
+    {
+      "english": "Your effort, is valuable, truly.",
+      "Arabic": "جهدك، ذو قيمة، حقاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106208"
+    },
+    {
+      "english": "The sounds connect, like magic.",
+      "Arabic": "الأصوات تتصل، كالسحر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106209"
+    },
+    {
+      "english": "Open your ears, to new music.",
+      "Arabic": "افتح أذنيك، للموسيقى الجديدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106210"
+    },
+    {
+      "english": "Your tongue, is getting flexible.",
+      "Arabic": "لسانك، يصبح مرناً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106214"
+    },
+    {
+      "english": "This word, has a story, learn it.",
+      "Arabic": "هذه الكلمة، لها قصة، تعلمها.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106215"
+    },
+    {
+      "english": "Focus on one thing, for now.",
+      "Arabic": "ركز على شيء واحد، الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106216"
+    },
+    {
+      "english": "You are building, fluency, brick by brick.",
+      "Arabic": "أنت تبني، الطلاقة، حجراً بحجر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106217"
+    },
+    {
+      "english": "Your patience, is a superpower.",
+      "Arabic": "صبرك، قوة خارقة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106218"
+    },
+    {
+      "english": "This moment, is your Arabic moment.",
+      "Arabic": "هذه اللحظة، لحظتك العربية.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106219"
+    },
+    {
+      "english": "Celebrate every new word, you learn.",
+      "Arabic": "احتفل بكل كلمة جديدة، تتعلمها.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T03:59:48.106220"
     }
   ],
-  "last_updated": "2026-07-16T04:08:50.622813"
+  "last_updated": "2026-07-17T03:59:48.106221"
 }
