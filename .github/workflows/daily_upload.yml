@@ -43,7 +43,7 @@ jobs:
       - name: 📦 Install deps
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg fonts-noto fonts-noto-color-emoji
+          sudo apt-get install -y ffmpeg fonts-noto fonts-noto fonts-noto-color-emoji
           sudo fc-cache -fv
           python -m pip install --upgrade pip
           pip install -r requirements.txt
