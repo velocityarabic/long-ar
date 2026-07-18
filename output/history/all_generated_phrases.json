@@ -3599,7 +3599,727 @@
       "Arabic": "احتفل بكل كلمة جديدة، تتعلمها.",
       "category": "Mindfulness",
       "generated_at": "2026-07-17T03:59:48.106220"
+    },
+    {
+      "english": "A new word, opens a new door.",
+      "Arabic": "كلمة جديدة، تفتح بابًا جديدًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009223"
+    },
+    {
+      "english": "This sound, is your victory.",
+      "Arabic": "هذا الصوت، هو انتصارك.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009234"
+    },
+    {
+      "english": "Mistakes, are just detours.",
+      "Arabic": "الأخطاء، مجرد طرق فرعية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009235"
+    },
+    {
+      "english": "Your accent, is your unique stamp.",
+      "Arabic": "لهجتك، هي بصمتك الفريدة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009237"
+    },
+    {
+      "english": "Understanding, is a small miracle.",
+      "Arabic": "الفهم، معجزة صغيرة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009238"
+    },
+    {
+      "english": "That phrase, you just said? Brilliant!",
+      "Arabic": "تلك الجملة، التي قلتها؟ رائعة!",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009239"
+    },
+    {
+      "english": "Every question, builds knowledge.",
+      "Arabic": "كل سؤال، يبني المعرفة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009240"
+    },
+    {
+      "english": "This language, is a gift.",
+      "Arabic": "هذه اللغة، هدية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009242"
+    },
+    {
+      "english": "You can do this, truly.",
+      "Arabic": "يمكنك فعل هذا، حقًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009244"
+    },
+    {
+      "english": "Listen closely, you'll catch it.",
+      "Arabic": "استمع جيدًا، ستفهم.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009245"
+    },
+    {
+      "english": "Your Arabic, is starting to flow.",
+      "Arabic": "لغتك العربية، بدأت تتدفق.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009246"
+    },
+    {
+      "english": "This grammar rule, is simple now.",
+      "Arabic": "قاعدة النحو هذه، بسيطة الآن.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009247"
+    },
+    {
+      "english": "You're connecting, the dots.",
+      "Arabic": "أنت تربط، النقاط.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009248"
+    },
+    {
+      "english": "A smile, is understood everywhere.",
+      "Arabic": "الابتسامة، مفهومة في كل مكان.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009249"
+    },
+    {
+      "english": "This rhythm, feels natural.",
+      "Arabic": "هذا الإيقاع، يبدو طبيعيًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009250"
+    },
+    {
+      "english": "You are more capable, than you think.",
+      "Arabic": "أنت أكثر قدرة، مما تظن.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009251"
+    },
+    {
+      "english": "That word, has power.",
+      "Arabic": "تلك الكلمة، لها قوة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009252"
+    },
+    {
+      "english": "Small progress, adds up fast.",
+      "Arabic": "التقدم البسيط، يتراكم بسرعة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009253"
+    },
+    {
+      "english": "This idiom, is a secret code.",
+      "Arabic": "هذا التعبير، شفرة سرية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009254"
+    },
+    {
+      "english": "Your ears, are tuning in.",
+      "Arabic": "أذناك، تضبطان.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009255"
+    },
+    {
+      "english": "This accent, is charming.",
+      "Arabic": "هذه اللهجة، ساحرة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009256"
+    },
+    {
+      "english": "You found the right word!",
+      "Arabic": "لقد وجدت الكلمة الصحيحة!",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009256"
+    },
+    {
+      "english": "Learning, is a superpower.",
+      "Arabic": "التعلم، قوة خارقة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009257"
+    },
+    {
+      "english": "This conversation, is growing.",
+      "Arabic": "هذه المحادثة، تنمو.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009258"
+    },
+    {
+      "english": "Your brain, loves this challenge.",
+      "Arabic": "عقلك، يحب هذا التحدي.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009293"
+    },
+    {
+      "english": "You understood, that sentence!",
+      "Arabic": "لقد فهمت، تلك الجملة!",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009295"
+    },
+    {
+      "english": "This phrase, makes sense now.",
+      "Arabic": "هذه العبارة، منطقية الآن.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009296"
+    },
+    {
+      "english": "You are building bridges.",
+      "Arabic": "أنت تبني جسورًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009296"
+    },
+    {
+      "english": "Your voice, has found its way.",
+      "Arabic": "صوتك، وجد طريقه.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009297"
+    },
+    {
+      "english": "This dialect, is so cool.",
+      "Arabic": "هذا اللهجة، رائعة جدًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009298"
+    },
+    {
+      "english": "You are creating, connections.",
+      "Arabic": "أنت تخلق، اتصالات.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009299"
+    },
+    {
+      "english": "This feeling, is achievement.",
+      "Arabic": "هذا الشعور، هو إنجاز.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009300"
+    },
+    {
+      "english": "You just used, a new verb!",
+      "Arabic": "لقد استخدمت، فعلًا جديدًا!",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009300"
+    },
+    {
+      "english": "This sound, is beautiful.",
+      "Arabic": "هذا الصوت، جميل.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009301"
+    },
+    {
+      "english": "You are unlocking, meaning.",
+      "Arabic": "أنت تفتح، المعنى.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009302"
+    },
+    {
+      "english": "This sentence, is a masterpiece.",
+      "Arabic": "هذه الجملة، تحفة فنية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009303"
+    },
+    {
+      "english": "You are growing, every moment.",
+      "Arabic": "أنت تنمو، كل لحظة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009304"
+    },
+    {
+      "english": "This word, is now yours.",
+      "Arabic": "هذه الكلمة، لك الآن.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009304"
+    },
+    {
+      "english": "You are fluent, in this thought.",
+      "Arabic": "أنت طليق، في هذه الفكرة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009305"
+    },
+    {
+      "english": "This practice, is powerful.",
+      "Arabic": "هذه الممارسة، قوية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009306"
+    },
+    {
+      "english": "A new word, opens a new door.",
+      "Arabic": "كلمة جديدة، تفتح بابًا جديدًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009307"
+    },
+    {
+      "english": "This sound, is your victory.",
+      "Arabic": "هذا الصوت، هو انتصارك.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009307"
+    },
+    {
+      "english": "Mistakes, are just detours.",
+      "Arabic": "الأخطاء، مجرد طرق فرعية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009308"
+    },
+    {
+      "english": "Your accent, is your unique stamp.",
+      "Arabic": "لهجتك، هي بصمتك الفريدة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009309"
+    },
+    {
+      "english": "Understanding, is a small miracle.",
+      "Arabic": "الفهم، معجزة صغيرة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009310"
+    },
+    {
+      "english": "That phrase, you just said? Brilliant!",
+      "Arabic": "تلك الجملة، التي قلتها؟ رائعة!",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009311"
+    },
+    {
+      "english": "Every question, builds knowledge.",
+      "Arabic": "كل سؤال، يبني المعرفة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009312"
+    },
+    {
+      "english": "This language, is a gift.",
+      "Arabic": "هذه اللغة، هدية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009313"
+    },
+    {
+      "english": "You can do this, truly.",
+      "Arabic": "يمكنك فعل هذا، حقًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009313"
+    },
+    {
+      "english": "Listen closely, you'll catch it.",
+      "Arabic": "استمع جيدًا، ستفهم.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009314"
+    },
+    {
+      "english": "Your Arabic, is starting to flow.",
+      "Arabic": "لغتك العربية، بدأت تتدفق.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009315"
+    },
+    {
+      "english": "This grammar rule, is simple now.",
+      "Arabic": "قاعدة النحو هذه، بسيطة الآن.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009316"
+    },
+    {
+      "english": "You're connecting, the dots.",
+      "Arabic": "أنت تربط، النقاط.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009317"
+    },
+    {
+      "english": "A smile, is understood everywhere.",
+      "Arabic": "الابتسامة، مفهومة في كل مكان.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009318"
+    },
+    {
+      "english": "This rhythm, feels natural.",
+      "Arabic": "هذا الإيقاع، يبدو طبيعيًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009318"
+    },
+    {
+      "english": "You are more capable, than you think.",
+      "Arabic": "أنت أكثر قدرة، مما تظن.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009319"
+    },
+    {
+      "english": "That word, has power.",
+      "Arabic": "تلك الكلمة، لها قوة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009320"
+    },
+    {
+      "english": "Small progress, adds up fast.",
+      "Arabic": "التقدم البسيط، يتراكم بسرعة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009321"
+    },
+    {
+      "english": "This idiom, is a secret code.",
+      "Arabic": "هذا التعبير، شفرة سرية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009322"
+    },
+    {
+      "english": "Your ears, are tuning in.",
+      "Arabic": "أذناك، تضبطان.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009323"
+    },
+    {
+      "english": "This accent, is charming.",
+      "Arabic": "هذه اللهجة، ساحرة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009324"
+    },
+    {
+      "english": "You found the right word!",
+      "Arabic": "لقد وجدت الكلمة الصحيحة!",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009325"
+    },
+    {
+      "english": "Learning, is a superpower.",
+      "Arabic": "التعلم، قوة خارقة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009326"
+    },
+    {
+      "english": "This conversation, is growing.",
+      "Arabic": "هذه المحادثة، تنمو.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009326"
+    },
+    {
+      "english": "Your brain, loves this challenge.",
+      "Arabic": "عقلك، يحب هذا التحدي.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009327"
+    },
+    {
+      "english": "You understood, that sentence!",
+      "Arabic": "لقد فهمت، تلك الجملة!",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009328"
+    },
+    {
+      "english": "This phrase, makes sense now.",
+      "Arabic": "هذه العبارة، منطقية الآن.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009329"
+    },
+    {
+      "english": "You are building bridges.",
+      "Arabic": "أنت تبني جسورًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009330"
+    },
+    {
+      "english": "Your voice, has found its way.",
+      "Arabic": "صوتك، وجد طريقه.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009333"
+    },
+    {
+      "english": "This dialect, is so cool.",
+      "Arabic": "هذا اللهجة، رائعة جدًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009334"
+    },
+    {
+      "english": "You are creating, connections.",
+      "Arabic": "أنت تخلق، اتصالات.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009335"
+    },
+    {
+      "english": "This feeling, is achievement.",
+      "Arabic": "هذا الشعور، هو إنجاز.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009336"
+    },
+    {
+      "english": "You just used, a new verb!",
+      "Arabic": "لقد استخدمت، فعلًا جديدًا!",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009337"
+    },
+    {
+      "english": "This sound, is beautiful.",
+      "Arabic": "هذا الصوت، جميل.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009338"
+    },
+    {
+      "english": "You are unlocking, meaning.",
+      "Arabic": "أنت تفتح، المعنى.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009339"
+    },
+    {
+      "english": "This sentence, is a masterpiece.",
+      "Arabic": "هذه الجملة، تحفة فنية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009340"
+    },
+    {
+      "english": "You are growing, every moment.",
+      "Arabic": "أنت تنمو، كل لحظة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009341"
+    },
+    {
+      "english": "This word, is now yours.",
+      "Arabic": "هذه الكلمة، لك الآن.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009342"
+    },
+    {
+      "english": "You are fluent, in this thought.",
+      "Arabic": "أنت طليق، في هذه الفكرة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009343"
+    },
+    {
+      "english": "This practice, is powerful.",
+      "Arabic": "هذه الممارسة، قوية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009343"
+    },
+    {
+      "english": "A new word, opens a new door.",
+      "Arabic": "كلمة جديدة، تفتح بابًا جديدًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009344"
+    },
+    {
+      "english": "This sound, is your victory.",
+      "Arabic": "هذا الصوت، هو انتصارك.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009345"
+    },
+    {
+      "english": "Mistakes, are just detours.",
+      "Arabic": "الأخطاء، مجرد طرق فرعية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009346"
+    },
+    {
+      "english": "Your accent, is your unique stamp.",
+      "Arabic": "لهجتك، هي بصمتك الفريدة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009346"
+    },
+    {
+      "english": "Understanding, is a small miracle.",
+      "Arabic": "الفهم، معجزة صغيرة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009347"
+    },
+    {
+      "english": "That phrase, you just said? Brilliant!",
+      "Arabic": "تلك الجملة، التي قلتها؟ رائعة!",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009348"
+    },
+    {
+      "english": "Every question, builds knowledge.",
+      "Arabic": "كل سؤال، يبني المعرفة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009349"
+    },
+    {
+      "english": "This language, is a gift.",
+      "Arabic": "هذه اللغة، هدية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009349"
+    },
+    {
+      "english": "You can do this, truly.",
+      "Arabic": "يمكنك فعل هذا، حقًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009350"
+    },
+    {
+      "english": "Listen closely, you'll catch it.",
+      "Arabic": "استمع جيدًا، ستفهم.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009351"
+    },
+    {
+      "english": "Your Arabic, is starting to flow.",
+      "Arabic": "لغتك العربية، بدأت تتدفق.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009352"
+    },
+    {
+      "english": "This grammar rule, is simple now.",
+      "Arabic": "قاعدة النحو هذه، بسيطة الآن.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009353"
+    },
+    {
+      "english": "You're connecting, the dots.",
+      "Arabic": "أنت تربط، النقاط.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009353"
+    },
+    {
+      "english": "A smile, is understood everywhere.",
+      "Arabic": "الابتسامة، مفهومة في كل مكان.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009354"
+    },
+    {
+      "english": "This rhythm, feels natural.",
+      "Arabic": "هذا الإيقاع، يبدو طبيعيًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009355"
+    },
+    {
+      "english": "You are more capable, than you think.",
+      "Arabic": "أنت أكثر قدرة، مما تظن.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009356"
+    },
+    {
+      "english": "That word, has power.",
+      "Arabic": "تلك الكلمة، لها قوة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009356"
+    },
+    {
+      "english": "Small progress, adds up fast.",
+      "Arabic": "التقدم البسيط، يتراكم بسرعة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009357"
+    },
+    {
+      "english": "This idiom, is a secret code.",
+      "Arabic": "هذا التعبير، شفرة سرية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009358"
+    },
+    {
+      "english": "Your ears, are tuning in.",
+      "Arabic": "أذناك، تضبطان.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009360"
+    },
+    {
+      "english": "This accent, is charming.",
+      "Arabic": "هذه اللهجة، ساحرة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009361"
+    },
+    {
+      "english": "You found the right word!",
+      "Arabic": "لقد وجدت الكلمة الصحيحة!",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009362"
+    },
+    {
+      "english": "Learning, is a superpower.",
+      "Arabic": "التعلم، قوة خارقة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009363"
+    },
+    {
+      "english": "This conversation, is growing.",
+      "Arabic": "هذه المحادثة، تنمو.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009364"
+    },
+    {
+      "english": "Your brain, loves this challenge.",
+      "Arabic": "عقلك، يحب هذا التحدي.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009365"
+    },
+    {
+      "english": "You understood, that sentence!",
+      "Arabic": "لقد فهمت، تلك الجملة!",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009366"
+    },
+    {
+      "english": "This phrase, makes sense now.",
+      "Arabic": "هذه العبارة، منطقية الآن.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009366"
+    },
+    {
+      "english": "You are building bridges.",
+      "Arabic": "أنت تبني جسورًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009367"
+    },
+    {
+      "english": "Your voice, has found its way.",
+      "Arabic": "صوتك، وجد طريقه.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009368"
+    },
+    {
+      "english": "This dialect, is so cool.",
+      "Arabic": "هذا اللهجة، رائعة جدًا.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009369"
+    },
+    {
+      "english": "You are creating, connections.",
+      "Arabic": "أنت تخلق، اتصالات.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009369"
+    },
+    {
+      "english": "This feeling, is achievement.",
+      "Arabic": "هذا الشعور، هو إنجاز.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009370"
+    },
+    {
+      "english": "You just used, a new verb!",
+      "Arabic": "لقد استخدمت، فعلًا جديدًا!",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009371"
+    },
+    {
+      "english": "This sound, is beautiful.",
+      "Arabic": "هذا الصوت، جميل.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009372"
+    },
+    {
+      "english": "You are unlocking, meaning.",
+      "Arabic": "أنت تفتح، المعنى.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009373"
+    },
+    {
+      "english": "This sentence, is a masterpiece.",
+      "Arabic": "هذه الجملة، تحفة فنية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009373"
+    },
+    {
+      "english": "You are growing, every moment.",
+      "Arabic": "أنت تنمو، كل لحظة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009374"
+    },
+    {
+      "english": "This word, is now yours.",
+      "Arabic": "هذه الكلمة، لك الآن.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009375"
+    },
+    {
+      "english": "You are fluent, in this thought.",
+      "Arabic": "أنت طليق، في هذه الفكرة.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009375"
+    },
+    {
+      "english": "This practice, is powerful.",
+      "Arabic": "هذه الممارسة، قوية.",
+      "category": "Hope",
+      "generated_at": "2026-07-18T03:55:23.009376"
     }
   ],
-  "last_updated": "2026-07-17T03:59:48.106221"
+  "last_updated": "2026-07-18T03:55:23.009378"
 }
