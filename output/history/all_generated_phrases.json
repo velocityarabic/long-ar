@@ -4319,7 +4319,727 @@
       "Arabic": "هذه الممارسة، قوية.",
       "category": "Hope",
       "generated_at": "2026-07-18T03:55:23.009376"
+    },
+    {
+      "english": "Let's move past, this, okay?",
+      "Arabic": "خلينا نتجاوز هاد الشي، تمام؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718333"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "Arabic": "أنا مسامحك، عن جد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718344"
+    },
+    {
+      "english": "No hard feelings, anymore.",
+      "Arabic": "ما في ضغينة، بعد اليوم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718346"
+    },
+    {
+      "english": "We can start, fresh.",
+      "Arabic": "نقدر نبدأ، صفحة جديدة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718347"
+    },
+    {
+      "english": "It's water, under the bridge.",
+      "Arabic": "هذا شي راح، وانتهى.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718348"
+    },
+    {
+      "english": "Forget it, it's fine.",
+      "Arabic": "انسى الموضوع، مش مشكلة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718349"
+    },
+    {
+      "english": "I let go, of the past.",
+      "Arabic": "تخليت عن، الماضي.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718350"
+    },
+    {
+      "english": "Let's not dwell, on it.",
+      "Arabic": "خلينا ما نتمسك، فيه.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718353"
+    },
+    {
+      "english": "I accept your apology.",
+      "Arabic": "قبلت اعتذارك.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718355"
+    },
+    {
+      "english": "We're good now.",
+      "Arabic": "احنا تمام، الحين.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718356"
+    },
+    {
+      "english": "Peace between us, always.",
+      "Arabic": "سلام بينا، دايمًا.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718357"
+    },
+    {
+      "english": "No more anger, between us.",
+      "Arabic": "ما في غضب، بيننا.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718358"
+    },
+    {
+      "english": "I release this, burden.",
+      "Arabic": "حُررت هذا، العبء.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718359"
+    },
+    {
+      "english": "May we both heal.",
+      "Arabic": "الله يشفينا، إحنا الاثنين.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718360"
+    },
+    {
+      "english": "It's forgotten, truly.",
+      "Arabic": "نُسي، بجد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718361"
+    },
+    {
+      "english": "Let's rebuild, trust.",
+      "Arabic": "نبني الثقة، من جديد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718361"
+    },
+    {
+      "english": "I wish you, well.",
+      "Arabic": "أتمنى لك، الخير.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718362"
+    },
+    {
+      "english": "No need, for blame.",
+      "Arabic": "ما في داعي، للوم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718363"
+    },
+    {
+      "english": "Let this be, a lesson.",
+      "Arabic": "خلي هذا، درس.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718364"
+    },
+    {
+      "english": "We move forward, together.",
+      "Arabic": "نمشي للأمام، مع بعض.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718365"
+    },
+    {
+      "english": "My heart is, open.",
+      "Arabic": "قلبي مفتوح،.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718366"
+    },
+    {
+      "english": "I value, our peace.",
+      "Arabic": "أقدّر، سلامنا.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718367"
+    },
+    {
+      "english": "This misunderstanding, is over.",
+      "Arabic": "هذا سوء التفاهم، انتهى.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718368"
+    },
+    {
+      "english": "Let's grow, from this.",
+      "Arabic": "نتعلم، من هذا.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718369"
+    },
+    {
+      "english": "I offer, a clean slate.",
+      "Arabic": "أقدم، صفحة بيضاء.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718370"
+    },
+    {
+      "english": "No resentment, held.",
+      "Arabic": "لا حقد، متمسك فيه.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718371"
+    },
+    {
+      "english": "We choose, understanding.",
+      "Arabic": "نختار، التفاهم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718371"
+    },
+    {
+      "english": "May kindness, prevail.",
+      "Arabic": "عسى اللطف، ينتصر.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718372"
+    },
+    {
+      "english": "I release, the hurt.",
+      "Arabic": "أحرر، الأذى.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718373"
+    },
+    {
+      "english": "This chapter, is closed.",
+      "Arabic": "هذا الفصل، أُغلق.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718374"
+    },
+    {
+      "english": "Let's focus, on tomorrow.",
+      "Arabic": "نركز، على بكرة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718375"
+    },
+    {
+      "english": "Your actions, are forgiven.",
+      "Arabic": "أفعالك، مسامح عليها.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718376"
+    },
+    {
+      "english": "We clear the air, now.",
+      "Arabic": "نصفّي الجو، الحين.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718377"
+    },
+    {
+      "english": "Let's rebuild, the connection.",
+      "Arabic": "نعيد بناء، الصلة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718377"
+    },
+    {
+      "english": "I choose, serenity.",
+      "Arabic": "أختار، السكينة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718378"
+    },
+    {
+      "english": "This hurt, will fade.",
+      "Arabic": "هذا الألم، راح يختفي.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718379"
+    },
+    {
+      "english": "Let's find, common ground.",
+      "Arabic": "نلاقي، أرضية مشتركة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718380"
+    },
+    {
+      "english": "I hold no, grudges.",
+      "Arabic": "ما أحمل، ضغينة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718381"
+    },
+    {
+      "english": "We heal, and move on.",
+      "Arabic": "نشفي، ونكمل.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718381"
+    },
+    {
+      "english": "Let's move past, this, okay?",
+      "Arabic": "خلينا نتجاوز هاد الشي، تمام؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718383"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "Arabic": "أنا مسامحك، عن جد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718384"
+    },
+    {
+      "english": "No hard feelings, anymore.",
+      "Arabic": "ما في ضغينة، بعد اليوم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718386"
+    },
+    {
+      "english": "We can start, fresh.",
+      "Arabic": "نقدر نبدأ، صفحة جديدة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718387"
+    },
+    {
+      "english": "It's water, under the bridge.",
+      "Arabic": "هذا شي راح، وانتهى.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718388"
+    },
+    {
+      "english": "Forget it, it's fine.",
+      "Arabic": "انسى الموضوع، مش مشكلة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718389"
+    },
+    {
+      "english": "I let go, of the past.",
+      "Arabic": "تخليت عن، الماضي.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718389"
+    },
+    {
+      "english": "Let's not dwell, on it.",
+      "Arabic": "خلينا ما نتمسك، فيه.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718390"
+    },
+    {
+      "english": "I accept your apology.",
+      "Arabic": "قبلت اعتذارك.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718391"
+    },
+    {
+      "english": "We're good now.",
+      "Arabic": "احنا تمام، الحين.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718392"
+    },
+    {
+      "english": "Peace between us, always.",
+      "Arabic": "سلام بينا، دايمًا.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718393"
+    },
+    {
+      "english": "No more anger, between us.",
+      "Arabic": "ما في غضب، بيننا.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718394"
+    },
+    {
+      "english": "I release this, burden.",
+      "Arabic": "حُررت هذا، العبء.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718395"
+    },
+    {
+      "english": "May we both heal.",
+      "Arabic": "الله يشفينا، إحنا الاثنين.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718395"
+    },
+    {
+      "english": "It's forgotten, truly.",
+      "Arabic": "نُسي، بجد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718396"
+    },
+    {
+      "english": "Let's rebuild, trust.",
+      "Arabic": "نبني الثقة، من جديد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718397"
+    },
+    {
+      "english": "I wish you, well.",
+      "Arabic": "أتمنى لك، الخير.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718398"
+    },
+    {
+      "english": "No need, for blame.",
+      "Arabic": "ما في داعي، للوم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718399"
+    },
+    {
+      "english": "Let this be, a lesson.",
+      "Arabic": "خلي هذا، درس.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718400"
+    },
+    {
+      "english": "We move forward, together.",
+      "Arabic": "نمشي للأمام، مع بعض.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718406"
+    },
+    {
+      "english": "My heart is, open.",
+      "Arabic": "قلبي مفتوح،.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718407"
+    },
+    {
+      "english": "I value, our peace.",
+      "Arabic": "أقدّر، سلامنا.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718407"
+    },
+    {
+      "english": "This misunderstanding, is over.",
+      "Arabic": "هذا سوء التفاهم، انتهى.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718408"
+    },
+    {
+      "english": "Let's grow, from this.",
+      "Arabic": "نتعلم، من هذا.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718409"
+    },
+    {
+      "english": "I offer, a clean slate.",
+      "Arabic": "أقدم، صفحة بيضاء.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718411"
+    },
+    {
+      "english": "No resentment, held.",
+      "Arabic": "لا حقد، متمسك فيه.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718412"
+    },
+    {
+      "english": "We choose, understanding.",
+      "Arabic": "نختار، التفاهم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718413"
+    },
+    {
+      "english": "May kindness, prevail.",
+      "Arabic": "عسى اللطف، ينتصر.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718414"
+    },
+    {
+      "english": "I release, the hurt.",
+      "Arabic": "أحرر، الأذى.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718414"
+    },
+    {
+      "english": "This chapter, is closed.",
+      "Arabic": "هذا الفصل، أُغلق.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718415"
+    },
+    {
+      "english": "Let's focus, on tomorrow.",
+      "Arabic": "نركز، على بكرة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718416"
+    },
+    {
+      "english": "Your actions, are forgiven.",
+      "Arabic": "أفعالك، مسامح عليها.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718417"
+    },
+    {
+      "english": "We clear the air, now.",
+      "Arabic": "نصفّي الجو، الحين.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718417"
+    },
+    {
+      "english": "Let's rebuild, the connection.",
+      "Arabic": "نعيد بناء، الصلة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718418"
+    },
+    {
+      "english": "I choose, serenity.",
+      "Arabic": "أختار، السكينة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718419"
+    },
+    {
+      "english": "This hurt, will fade.",
+      "Arabic": "هذا الألم، راح يختفي.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718420"
+    },
+    {
+      "english": "Let's find, common ground.",
+      "Arabic": "نلاقي، أرضية مشتركة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718420"
+    },
+    {
+      "english": "I hold no, grudges.",
+      "Arabic": "ما أحمل، ضغينة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718421"
+    },
+    {
+      "english": "We heal, and move on.",
+      "Arabic": "نشفي، ونكمل.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718422"
+    },
+    {
+      "english": "Let's move past, this, okay?",
+      "Arabic": "خلينا نتجاوز هاد الشي، تمام؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718423"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "Arabic": "أنا مسامحك، عن جد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718424"
+    },
+    {
+      "english": "No hard feelings, anymore.",
+      "Arabic": "ما في ضغينة، بعد اليوم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718425"
+    },
+    {
+      "english": "We can start, fresh.",
+      "Arabic": "نقدر نبدأ، صفحة جديدة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718426"
+    },
+    {
+      "english": "It's water, under the bridge.",
+      "Arabic": "هذا شي راح، وانتهى.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718427"
+    },
+    {
+      "english": "Forget it, it's fine.",
+      "Arabic": "انسى الموضوع، مش مشكلة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718427"
+    },
+    {
+      "english": "I let go, of the past.",
+      "Arabic": "تخليت عن، الماضي.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718428"
+    },
+    {
+      "english": "Let's not dwell, on it.",
+      "Arabic": "خلينا ما نتمسك، فيه.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718429"
+    },
+    {
+      "english": "I accept your apology.",
+      "Arabic": "قبلت اعتذارك.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718430"
+    },
+    {
+      "english": "We're good now.",
+      "Arabic": "احنا تمام، الحين.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718430"
+    },
+    {
+      "english": "Peace between us, always.",
+      "Arabic": "سلام بينا، دايمًا.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718431"
+    },
+    {
+      "english": "No more anger, between us.",
+      "Arabic": "ما في غضب، بيننا.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718432"
+    },
+    {
+      "english": "I release this, burden.",
+      "Arabic": "حُررت هذا، العبء.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718433"
+    },
+    {
+      "english": "May we both heal.",
+      "Arabic": "الله يشفينا، إحنا الاثنين.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718433"
+    },
+    {
+      "english": "It's forgotten, truly.",
+      "Arabic": "نُسي، بجد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718434"
+    },
+    {
+      "english": "Let's rebuild, trust.",
+      "Arabic": "نبني الثقة، من جديد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718435"
+    },
+    {
+      "english": "I wish you, well.",
+      "Arabic": "أتمنى لك، الخير.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718436"
+    },
+    {
+      "english": "No need, for blame.",
+      "Arabic": "ما في داعي، للوم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718438"
+    },
+    {
+      "english": "Let this be, a lesson.",
+      "Arabic": "خلي هذا، درس.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718438"
+    },
+    {
+      "english": "We move forward, together.",
+      "Arabic": "نمشي للأمام، مع بعض.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718439"
+    },
+    {
+      "english": "My heart is, open.",
+      "Arabic": "قلبي مفتوح،.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718440"
+    },
+    {
+      "english": "I value, our peace.",
+      "Arabic": "أقدّر، سلامنا.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718441"
+    },
+    {
+      "english": "This misunderstanding, is over.",
+      "Arabic": "هذا سوء التفاهم، انتهى.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718441"
+    },
+    {
+      "english": "Let's grow, from this.",
+      "Arabic": "نتعلم، من هذا.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718442"
+    },
+    {
+      "english": "I offer, a clean slate.",
+      "Arabic": "أقدم، صفحة بيضاء.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718443"
+    },
+    {
+      "english": "No resentment, held.",
+      "Arabic": "لا حقد، متمسك فيه.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718444"
+    },
+    {
+      "english": "We choose, understanding.",
+      "Arabic": "نختار، التفاهم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718444"
+    },
+    {
+      "english": "May kindness, prevail.",
+      "Arabic": "عسى اللطف، ينتصر.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718445"
+    },
+    {
+      "english": "I release, the hurt.",
+      "Arabic": "أحرر، الأذى.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718446"
+    },
+    {
+      "english": "This chapter, is closed.",
+      "Arabic": "هذا الفصل، أُغلق.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718447"
+    },
+    {
+      "english": "Let's focus, on tomorrow.",
+      "Arabic": "نركز، على بكرة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718447"
+    },
+    {
+      "english": "Your actions, are forgiven.",
+      "Arabic": "أفعالك، مسامح عليها.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718448"
+    },
+    {
+      "english": "We clear the air, now.",
+      "Arabic": "نصفّي الجو، الحين.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718449"
+    },
+    {
+      "english": "Let's rebuild, the connection.",
+      "Arabic": "نعيد بناء، الصلة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718450"
+    },
+    {
+      "english": "I choose, serenity.",
+      "Arabic": "أختار، السكينة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718450"
+    },
+    {
+      "english": "This hurt, will fade.",
+      "Arabic": "هذا الألم، راح يختفي.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718451"
+    },
+    {
+      "english": "Let's find, common ground.",
+      "Arabic": "نلاقي، أرضية مشتركة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718452"
+    },
+    {
+      "english": "I hold no, grudges.",
+      "Arabic": "ما أحمل، ضغينة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718452"
+    },
+    {
+      "english": "We heal, and move on.",
+      "Arabic": "نشفي، ونكمل.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718453"
+    },
+    {
+      "english": "Let's move past, this, okay?",
+      "Arabic": "خلينا نتجاوز هاد الشي، تمام؟",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718454"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "Arabic": "أنا مسامحك، عن جد.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718455"
+    },
+    {
+      "english": "No hard feelings, anymore.",
+      "Arabic": "ما في ضغينة، بعد اليوم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-19T04:21:34.718455"
     }
   ],
-  "last_updated": "2026-07-18T03:55:23.009378"
+  "last_updated": "2026-07-19T04:21:34.718457"
 }
