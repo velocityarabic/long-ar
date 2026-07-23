@@ -7199,7 +7199,727 @@
       "Arabic": "خطوات صغيرة، مستقبل كبير.",
       "category": "Growth",
       "generated_at": "2026-07-22T04:16:54.639749"
+    },
+    {
+      "english": "Kindness, is a gift to yourself.",
+      "Arabic": "اللطف، هدية لنفسك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.809997"
+    },
+    {
+      "english": "Listen more, speak less, learn more.",
+      "Arabic": "اسمع أكثر، تكلم أقل، تعلم أكثر.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810008"
+    },
+    {
+      "english": "Joy is found, in simple moments.",
+      "Arabic": "الفرح موجود، في اللحظات البسيطة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810010"
+    },
+    {
+      "english": "A smile, can change someone's day.",
+      "Arabic": "الابتسامة، تغير يوم أحدهم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810011"
+    },
+    {
+      "english": "Patience, is a virtue worth keeping.",
+      "Arabic": "الصبر، فضيلة تستحق الحفاظ عليها.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810012"
+    },
+    {
+      "english": "Water your dreams, watch them grow.",
+      "Arabic": "اسقِ أحلامك، شاهدها تنمو.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810013"
+    },
+    {
+      "english": "Share your light, illuminate the path.",
+      "Arabic": "شارك نورك، أنر الطريق.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810015"
+    },
+    {
+      "english": "Forgiveness, sets your spirit free.",
+      "Arabic": "المسامحة، تحرر روحك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810017"
+    },
+    {
+      "english": "Your actions, speak louder than words.",
+      "Arabic": "أفعالك، أبلغ من الكلمات.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810018"
+    },
+    {
+      "english": "Gratitude, opens new doors.",
+      "Arabic": "الامتنان، يفتح أبواباً جديدة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810019"
+    },
+    {
+      "english": "Stay grounded, reach for the stars.",
+      "Arabic": "ابقَ صادقاً، وارتقِ نحو النجوم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810021"
+    },
+    {
+      "english": "Wisdom comes, from quiet reflection.",
+      "Arabic": "الحكمة تأتي، من التأمل الهادئ.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810022"
+    },
+    {
+      "english": "Be the change, you wish to see.",
+      "Arabic": "كن التغيير، الذي ترجو رؤيته.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810023"
+    },
+    {
+      "english": "Every sunrise, brings new hope.",
+      "Arabic": "كل شروق شمس، يجلب أملاً جديداً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810024"
+    },
+    {
+      "english": "Cultivate peace, within your heart.",
+      "Arabic": "ازرع السلام، في قلبك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810025"
+    },
+    {
+      "english": "Believe in your strength, little by little.",
+      "Arabic": "آمن بقوتك، شيئاً فشيئاً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810026"
+    },
+    {
+      "english": "A helping hand, makes a difference.",
+      "Arabic": "يد المساعدة، تحدث فرقاً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810026"
+    },
+    {
+      "english": "Cherish connections, with loved ones.",
+      "Arabic": "قدّر العلاقات، مع الأحباء.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810027"
+    },
+    {
+      "english": "Truth is simple, and beautiful.",
+      "Arabic": "الحقيقة بسيطة، وجميلة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810028"
+    },
+    {
+      "english": "Embrace silences, they hold answers.",
+      "Arabic": "احتضن الصمت، فيه إجابات.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810029"
+    },
+    {
+      "english": "Find beauty, in the ordinary.",
+      "Arabic": "ابحث عن الجمال، في العادي.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810030"
+    },
+    {
+      "english": "Your inner voice, is your guide.",
+      "Arabic": "صوتك الداخلي، هو دليلك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810031"
+    },
+    {
+      "english": "Let go of what hurts, hold onto joy.",
+      "Arabic": "دع ما يؤلمك، وتمسك بالفرح.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810032"
+    },
+    {
+      "english": "A single step, can start a journey.",
+      "Arabic": "خطوة واحدة، يمكن أن تبدأ الرحلة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810033"
+    },
+    {
+      "english": "Humility, makes you relatable.",
+      "Arabic": "التواضع، يجعلك محبوباً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810034"
+    },
+    {
+      "english": "Be present, in this moment.",
+      "Arabic": "كن حاضراً، في هذه اللحظة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810034"
+    },
+    {
+      "english": "Learn to rest, not to quit.",
+      "Arabic": "تعلم أن ترتاح، لا أن تستسلم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810035"
+    },
+    {
+      "english": "Honesty, builds lasting trust.",
+      "Arabic": "الصدق، يبني ثقة دائمة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810036"
+    },
+    {
+      "english": "Your dreams matter, pursue them.",
+      "Arabic": "أحلامك مهمة، اسعَ إليها.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810037"
+    },
+    {
+      "english": "Empathy bridges, every divide.",
+      "Arabic": "التعاطف يصل، كل الفجوات.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810037"
+    },
+    {
+      "english": "Seek understanding, before judgment.",
+      "Arabic": "ابحث عن الفهم، قبل الحكم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810038"
+    },
+    {
+      "english": "A shared laugh, is pure gold.",
+      "Arabic": "ضحكة مشتركة، كنز حقيقي.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810039"
+    },
+    {
+      "english": "Be brave, and be kind.",
+      "Arabic": "كن شجاعاً، وكن لطيفاً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810039"
+    },
+    {
+      "english": "Inner peace, is the greatest wealth.",
+      "Arabic": "السلام الداخلي، هو أعظم ثروة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810040"
+    },
+    {
+      "english": "Every ending, is a new beginning.",
+      "Arabic": "كل نهاية، هي بداية جديدة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810041"
+    },
+    {
+      "english": "Listen to your intuition, it knows.",
+      "Arabic": "استمع لحدسك، فهو يعلم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810042"
+    },
+    {
+      "english": "Spread love, like wildfire.",
+      "Arabic": "انشر الحب، كالنار في الهشيم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810043"
+    },
+    {
+      "english": "Simple joys, are the best joys.",
+      "Arabic": "البهجة البسيطة، هي أروع بهجة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810043"
+    },
+    {
+      "english": "Be gentle, with yourself and others.",
+      "Arabic": "كن رقيقاً، مع نفسك والآخرين.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810044"
+    },
+    {
+      "english": "Your passion, ignites your purpose.",
+      "Arabic": "شغفك، يضيء هدفك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810045"
+    },
+    {
+      "english": "Kindness, is a gift to yourself.",
+      "Arabic": "اللطف، هدية لنفسك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810046"
+    },
+    {
+      "english": "Listen more, speak less, learn more.",
+      "Arabic": "اسمع أكثر، تكلم أقل، تعلم أكثر.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810047"
+    },
+    {
+      "english": "Joy is found, in simple moments.",
+      "Arabic": "الفرح موجود، في اللحظات البسيطة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810048"
+    },
+    {
+      "english": "A smile, can change someone's day.",
+      "Arabic": "الابتسامة، تغير يوم أحدهم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810049"
+    },
+    {
+      "english": "Patience, is a virtue worth keeping.",
+      "Arabic": "الصبر، فضيلة تستحق الحفاظ عليها.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810050"
+    },
+    {
+      "english": "Water your dreams, watch them grow.",
+      "Arabic": "اسقِ أحلامك، شاهدها تنمو.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810052"
+    },
+    {
+      "english": "Share your light, illuminate the path.",
+      "Arabic": "شارك نورك، أنر الطريق.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810053"
+    },
+    {
+      "english": "Forgiveness, sets your spirit free.",
+      "Arabic": "المسامحة، تحرر روحك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810054"
+    },
+    {
+      "english": "Your actions, speak louder than words.",
+      "Arabic": "أفعالك، أبلغ من الكلمات.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810055"
+    },
+    {
+      "english": "Gratitude, opens new doors.",
+      "Arabic": "الامتنان، يفتح أبواباً جديدة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810056"
+    },
+    {
+      "english": "Stay grounded, reach for the stars.",
+      "Arabic": "ابقَ صادقاً، وارتقِ نحو النجوم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810056"
+    },
+    {
+      "english": "Wisdom comes, from quiet reflection.",
+      "Arabic": "الحكمة تأتي، من التأمل الهادئ.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810057"
+    },
+    {
+      "english": "Be the change, you wish to see.",
+      "Arabic": "كن التغيير، الذي ترجو رؤيته.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810058"
+    },
+    {
+      "english": "Every sunrise, brings new hope.",
+      "Arabic": "كل شروق شمس، يجلب أملاً جديداً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810059"
+    },
+    {
+      "english": "Cultivate peace, within your heart.",
+      "Arabic": "ازرع السلام، في قلبك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810060"
+    },
+    {
+      "english": "Believe in your strength, little by little.",
+      "Arabic": "آمن بقوتك، شيئاً فشيئاً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810061"
+    },
+    {
+      "english": "A helping hand, makes a difference.",
+      "Arabic": "يد المساعدة، تحدث فرقاً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810062"
+    },
+    {
+      "english": "Cherish connections, with loved ones.",
+      "Arabic": "قدّر العلاقات، مع الأحباء.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810062"
+    },
+    {
+      "english": "Truth is simple, and beautiful.",
+      "Arabic": "الحقيقة بسيطة، وجميلة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810063"
+    },
+    {
+      "english": "Embrace silences, they hold answers.",
+      "Arabic": "احتضن الصمت، فيه إجابات.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810064"
+    },
+    {
+      "english": "Find beauty, in the ordinary.",
+      "Arabic": "ابحث عن الجمال، في العادي.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810065"
+    },
+    {
+      "english": "Your inner voice, is your guide.",
+      "Arabic": "صوتك الداخلي، هو دليلك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810066"
+    },
+    {
+      "english": "Let go of what hurts, hold onto joy.",
+      "Arabic": "دع ما يؤلمك، وتمسك بالفرح.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810066"
+    },
+    {
+      "english": "A single step, can start a journey.",
+      "Arabic": "خطوة واحدة، يمكن أن تبدأ الرحلة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810067"
+    },
+    {
+      "english": "Humility, makes you relatable.",
+      "Arabic": "التواضع، يجعلك محبوباً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810068"
+    },
+    {
+      "english": "Be present, in this moment.",
+      "Arabic": "كن حاضراً، في هذه اللحظة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810069"
+    },
+    {
+      "english": "Learn to rest, not to quit.",
+      "Arabic": "تعلم أن ترتاح، لا أن تستسلم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810070"
+    },
+    {
+      "english": "Honesty, builds lasting trust.",
+      "Arabic": "الصدق، يبني ثقة دائمة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810071"
+    },
+    {
+      "english": "Your dreams matter, pursue them.",
+      "Arabic": "أحلامك مهمة، اسعَ إليها.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810071"
+    },
+    {
+      "english": "Empathy bridges, every divide.",
+      "Arabic": "التعاطف يصل، كل الفجوات.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810072"
+    },
+    {
+      "english": "Seek understanding, before judgment.",
+      "Arabic": "ابحث عن الفهم، قبل الحكم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810073"
+    },
+    {
+      "english": "A shared laugh, is pure gold.",
+      "Arabic": "ضحكة مشتركة، كنز حقيقي.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810074"
+    },
+    {
+      "english": "Be brave, and be kind.",
+      "Arabic": "كن شجاعاً، وكن لطيفاً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810074"
+    },
+    {
+      "english": "Inner peace, is the greatest wealth.",
+      "Arabic": "السلام الداخلي، هو أعظم ثروة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810075"
+    },
+    {
+      "english": "Every ending, is a new beginning.",
+      "Arabic": "كل نهاية، هي بداية جديدة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810076"
+    },
+    {
+      "english": "Listen to your intuition, it knows.",
+      "Arabic": "استمع لحدسك، فهو يعلم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810077"
+    },
+    {
+      "english": "Spread love, like wildfire.",
+      "Arabic": "انشر الحب، كالنار في الهشيم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810077"
+    },
+    {
+      "english": "Simple joys, are the best joys.",
+      "Arabic": "البهجة البسيطة، هي أروع بهجة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810078"
+    },
+    {
+      "english": "Be gentle, with yourself and others.",
+      "Arabic": "كن رقيقاً، مع نفسك والآخرين.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810079"
+    },
+    {
+      "english": "Your passion, ignites your purpose.",
+      "Arabic": "شغفك، يضيء هدفك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810080"
+    },
+    {
+      "english": "Kindness, is a gift to yourself.",
+      "Arabic": "اللطف، هدية لنفسك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810081"
+    },
+    {
+      "english": "Listen more, speak less, learn more.",
+      "Arabic": "اسمع أكثر، تكلم أقل، تعلم أكثر.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810082"
+    },
+    {
+      "english": "Joy is found, in simple moments.",
+      "Arabic": "الفرح موجود، في اللحظات البسيطة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810082"
+    },
+    {
+      "english": "A smile, can change someone's day.",
+      "Arabic": "الابتسامة، تغير يوم أحدهم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810083"
+    },
+    {
+      "english": "Patience, is a virtue worth keeping.",
+      "Arabic": "الصبر، فضيلة تستحق الحفاظ عليها.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810084"
+    },
+    {
+      "english": "Water your dreams, watch them grow.",
+      "Arabic": "اسقِ أحلامك، شاهدها تنمو.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810085"
+    },
+    {
+      "english": "Share your light, illuminate the path.",
+      "Arabic": "شارك نورك، أنر الطريق.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810086"
+    },
+    {
+      "english": "Forgiveness, sets your spirit free.",
+      "Arabic": "المسامحة، تحرر روحك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810087"
+    },
+    {
+      "english": "Your actions, speak louder than words.",
+      "Arabic": "أفعالك، أبلغ من الكلمات.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810091"
+    },
+    {
+      "english": "Gratitude, opens new doors.",
+      "Arabic": "الامتنان، يفتح أبواباً جديدة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810092"
+    },
+    {
+      "english": "Stay grounded, reach for the stars.",
+      "Arabic": "ابقَ صادقاً، وارتقِ نحو النجوم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810093"
+    },
+    {
+      "english": "Wisdom comes, from quiet reflection.",
+      "Arabic": "الحكمة تأتي، من التأمل الهادئ.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810094"
+    },
+    {
+      "english": "Be the change, you wish to see.",
+      "Arabic": "كن التغيير، الذي ترجو رؤيته.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810095"
+    },
+    {
+      "english": "Every sunrise, brings new hope.",
+      "Arabic": "كل شروق شمس، يجلب أملاً جديداً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810096"
+    },
+    {
+      "english": "Cultivate peace, within your heart.",
+      "Arabic": "ازرع السلام، في قلبك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810097"
+    },
+    {
+      "english": "Believe in your strength, little by little.",
+      "Arabic": "آمن بقوتك، شيئاً فشيئاً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810098"
+    },
+    {
+      "english": "A helping hand, makes a difference.",
+      "Arabic": "يد المساعدة، تحدث فرقاً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810099"
+    },
+    {
+      "english": "Cherish connections, with loved ones.",
+      "Arabic": "قدّر العلاقات، مع الأحباء.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810099"
+    },
+    {
+      "english": "Truth is simple, and beautiful.",
+      "Arabic": "الحقيقة بسيطة، وجميلة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810100"
+    },
+    {
+      "english": "Embrace silences, they hold answers.",
+      "Arabic": "احتضن الصمت، فيه إجابات.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810101"
+    },
+    {
+      "english": "Find beauty, in the ordinary.",
+      "Arabic": "ابحث عن الجمال، في العادي.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810102"
+    },
+    {
+      "english": "Your inner voice, is your guide.",
+      "Arabic": "صوتك الداخلي، هو دليلك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810103"
+    },
+    {
+      "english": "Let go of what hurts, hold onto joy.",
+      "Arabic": "دع ما يؤلمك، وتمسك بالفرح.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810104"
+    },
+    {
+      "english": "A single step, can start a journey.",
+      "Arabic": "خطوة واحدة، يمكن أن تبدأ الرحلة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810105"
+    },
+    {
+      "english": "Humility, makes you relatable.",
+      "Arabic": "التواضع، يجعلك محبوباً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810106"
+    },
+    {
+      "english": "Be present, in this moment.",
+      "Arabic": "كن حاضراً، في هذه اللحظة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810106"
+    },
+    {
+      "english": "Learn to rest, not to quit.",
+      "Arabic": "تعلم أن ترتاح، لا أن تستسلم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810107"
+    },
+    {
+      "english": "Honesty, builds lasting trust.",
+      "Arabic": "الصدق، يبني ثقة دائمة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810108"
+    },
+    {
+      "english": "Your dreams matter, pursue them.",
+      "Arabic": "أحلامك مهمة، اسعَ إليها.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810109"
+    },
+    {
+      "english": "Empathy bridges, every divide.",
+      "Arabic": "التعاطف يصل، كل الفجوات.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810110"
+    },
+    {
+      "english": "Seek understanding, before judgment.",
+      "Arabic": "ابحث عن الفهم، قبل الحكم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810112"
+    },
+    {
+      "english": "A shared laugh, is pure gold.",
+      "Arabic": "ضحكة مشتركة، كنز حقيقي.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810113"
+    },
+    {
+      "english": "Be brave, and be kind.",
+      "Arabic": "كن شجاعاً، وكن لطيفاً.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810114"
+    },
+    {
+      "english": "Inner peace, is the greatest wealth.",
+      "Arabic": "السلام الداخلي، هو أعظم ثروة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810115"
+    },
+    {
+      "english": "Every ending, is a new beginning.",
+      "Arabic": "كل نهاية، هي بداية جديدة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810116"
+    },
+    {
+      "english": "Listen to your intuition, it knows.",
+      "Arabic": "استمع لحدسك، فهو يعلم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810116"
+    },
+    {
+      "english": "Spread love, like wildfire.",
+      "Arabic": "انشر الحب، كالنار في الهشيم.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810117"
+    },
+    {
+      "english": "Simple joys, are the best joys.",
+      "Arabic": "البهجة البسيطة، هي أروع بهجة.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810118"
+    },
+    {
+      "english": "Be gentle, with yourself and others.",
+      "Arabic": "كن رقيقاً، مع نفسك والآخرين.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810118"
+    },
+    {
+      "english": "Your passion, ignites your purpose.",
+      "Arabic": "شغفك، يضيء هدفك.",
+      "category": "امتنانe",
+      "generated_at": "2026-07-23T04:16:24.810119"
     }
   ],
-  "last_updated": "2026-07-22T04:16:54.639752"
+  "last_updated": "2026-07-23T04:16:24.810121"
 }
