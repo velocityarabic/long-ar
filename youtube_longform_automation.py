@@ -664,6 +664,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     ]
 
     Arabic_font_paths = [
+        str(BASE_DIR / "fonts" / "NotoSansArabic-Bold.ttf"),
         "C:/Windows/Fonts/arialbd.ttf","C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/segoeuib.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
@@ -824,7 +825,7 @@ def generate_thumbnail(category_english: str, category_Arabic: str, output_path:
 
     # Load fonts
     english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"]
-    Arabic_font_paths = ["C:/Windows/Fonts/arialbd.ttf"]
+    Arabic_font_paths = [str(BASE_DIR / "fonts" / "NotoSansArabic-Bold.ttf"), "C:/Windows/Fonts/arialbd.ttf"]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
