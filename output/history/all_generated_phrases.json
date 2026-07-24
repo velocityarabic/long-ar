@@ -7919,7 +7919,727 @@
       "Arabic": "شغفك، يضيء هدفك.",
       "category": "امتنانe",
       "generated_at": "2026-07-23T04:16:24.810119"
+    },
+    {
+      "english": "Dream wild, learn often.",
+      "Arabic": "فكر بجرأة، تعلم باستمرار.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528897"
+    },
+    {
+      "english": "Grow through what you go through.",
+      "Arabic": "تنمو بما تمر به.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528905"
+    },
+    {
+      "english": "Plant seeds, watch them bloom.",
+      "Arabic": "ازرع بذورك، شاهدها تزهر.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528907"
+    },
+    {
+      "english": "Keep learning, keep growing.",
+      "Arabic": "استمر في التعلم، استمر في النمو.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528909"
+    },
+    {
+      "english": "Progress, not perfection.",
+      "Arabic": "تقدم، لا كمال.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528910"
+    },
+    {
+      "english": "Build yourself, up, up, up.",
+      "Arabic": "ابنِ نفسك، للأعلى، للأعلى.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528911"
+    },
+    {
+      "english": "Find joy, in the effort.",
+      "Arabic": "ابحث عن الفرح، في الجهد.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528912"
+    },
+    {
+      "english": "Adapt, and overcome.",
+      "Arabic": "تكيف، وتغلب.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528915"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "Arabic": "احتضن مسار التعلم.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528916"
+    },
+    {
+      "english": "Growth, is a daily habit.",
+      "Arabic": "النمو، عادة يومية.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528918"
+    },
+    {
+      "english": "Challenge yourself, to grow.",
+      "Arabic": "تحدَّ نفسك، لتنمو.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528920"
+    },
+    {
+      "english": "Bloom where you're planted.",
+      "Arabic": "ازهر حيث تُزرع.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528921"
+    },
+    {
+      "english": "Push your limits, gently.",
+      "Arabic": "ادفع حدودك، بلطف.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528922"
+    },
+    {
+      "english": "Every day, a new lesson.",
+      "Arabic": "كل يوم، درس جديد.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528923"
+    },
+    {
+      "english": "Expand your horizons, now.",
+      "Arabic": "وسع آفاقك، الآن.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528924"
+    },
+    {
+      "english": "Learn, from every experience.",
+      "Arabic": "تعلم، من كل تجربة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528926"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "Arabic": "ابنِ جسوراً، لا جدراناً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528927"
+    },
+    {
+      "english": "Seek knowledge, with passion.",
+      "Arabic": "اطلب العلم، بشغف.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528928"
+    },
+    {
+      "english": "Evolve, and adapt, always.",
+      "Arabic": "تطور، وتكيف، دائماً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528929"
+    },
+    {
+      "english": "Nourish it, with good thoughts.",
+      "Arabic": "اسقها، بالأفكار الجيدة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528930"
+    },
+    {
+      "english": "Become, a better version.",
+      "Arabic": "كن، نسخة أفضل.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528931"
+    },
+    {
+      "english": "Embrace discomfort, for growth.",
+      "Arabic": "اعتنق عدم الراحة، للنمو.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528932"
+    },
+    {
+      "english": "Dare to grow, bigger.",
+      "Arabic": "جرؤ على النمو، أكبر.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528933"
+    },
+    {
+      "english": "Collect moments, not things.",
+      "Arabic": "اجمع لحظات، لا أشياء.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528934"
+    },
+    {
+      "english": "Learn to unlearn, and relearn.",
+      "Arabic": "تعلم كيف تنسى، وتتعلم مجدداً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528935"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "Arabic": "رحلتك، فريدة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528937"
+    },
+    {
+      "english": "Embrace the process, patiently.",
+      "Arabic": "احتضن العملية، بصبر.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528938"
+    },
+    {
+      "english": "Grow with, every challenge.",
+      "Arabic": "نما مع، كل تحدٍ.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528939"
+    },
+    {
+      "english": "Unlock your, true potential.",
+      "Arabic": "أطلق العنان، لإمكانياتك الحقيقية.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528940"
+    },
+    {
+      "english": "Invest in yourself, always.",
+      "Arabic": "استثمر في نفسك، دائماً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528941"
+    },
+    {
+      "english": "Adapt to change, with grace.",
+      "Arabic": "تكيف مع التغيير، ببراعة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528942"
+    },
+    {
+      "english": "Seek improvement, daily.",
+      "Arabic": "ابحث عن التحسين، يومياً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528943"
+    },
+    {
+      "english": "Your future, depends on now.",
+      "Arabic": "مستقبلك، يعتمد على الآن.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528947"
+    },
+    {
+      "english": "Learn, love, and grow.",
+      "Arabic": "تعلّم، أحب، انمُ.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528948"
+    },
+    {
+      "english": "Cultivate resilience, strong.",
+      "Arabic": "اغرس المرونة، بقوة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528949"
+    },
+    {
+      "english": "Become, the best you.",
+      "Arabic": "كن، أفضل نسخة منك.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528950"
+    },
+    {
+      "english": "Every moment, a chance.",
+      "Arabic": "كل لحظة، فرصة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528951"
+    },
+    {
+      "english": "Dream wild, learn often.",
+      "Arabic": "فكر بجرأة، تعلم باستمرار.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528952"
+    },
+    {
+      "english": "Grow through what you go through.",
+      "Arabic": "تنمو بما تمر به.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528954"
+    },
+    {
+      "english": "Plant seeds, watch them bloom.",
+      "Arabic": "ازرع بذورك، شاهدها تزهر.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528955"
+    },
+    {
+      "english": "Keep learning, keep growing.",
+      "Arabic": "استمر في التعلم، استمر في النمو.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528956"
+    },
+    {
+      "english": "Progress, not perfection.",
+      "Arabic": "تقدم، لا كمال.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528957"
+    },
+    {
+      "english": "Build yourself, up, up, up.",
+      "Arabic": "ابنِ نفسك، للأعلى، للأعلى.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528958"
+    },
+    {
+      "english": "Find joy, in the effort.",
+      "Arabic": "ابحث عن الفرح، في الجهد.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528959"
+    },
+    {
+      "english": "Adapt, and overcome.",
+      "Arabic": "تكيف، وتغلب.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528960"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "Arabic": "احتضن مسار التعلم.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528961"
+    },
+    {
+      "english": "Growth, is a daily habit.",
+      "Arabic": "النمو، عادة يومية.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528962"
+    },
+    {
+      "english": "Challenge yourself, to grow.",
+      "Arabic": "تحدَّ نفسك، لتنمو.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528963"
+    },
+    {
+      "english": "Bloom where you're planted.",
+      "Arabic": "ازهر حيث تُزرع.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528964"
+    },
+    {
+      "english": "Push your limits, gently.",
+      "Arabic": "ادفع حدودك، بلطف.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528965"
+    },
+    {
+      "english": "Every day, a new lesson.",
+      "Arabic": "كل يوم، درس جديد.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528966"
+    },
+    {
+      "english": "Expand your horizons, now.",
+      "Arabic": "وسع آفاقك، الآن.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528967"
+    },
+    {
+      "english": "Learn, from every experience.",
+      "Arabic": "تعلم، من كل تجربة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528968"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "Arabic": "ابنِ جسوراً، لا جدراناً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528969"
+    },
+    {
+      "english": "Seek knowledge, with passion.",
+      "Arabic": "اطلب العلم، بشغف.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528971"
+    },
+    {
+      "english": "Evolve, and adapt, always.",
+      "Arabic": "تطور، وتكيف، دائماً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528972"
+    },
+    {
+      "english": "Nourish it, with good thoughts.",
+      "Arabic": "اسقها، بالأفكار الجيدة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528973"
+    },
+    {
+      "english": "Become, a better version.",
+      "Arabic": "كن، نسخة أفضل.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528974"
+    },
+    {
+      "english": "Embrace discomfort, for growth.",
+      "Arabic": "اعتنق عدم الراحة، للنمو.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528975"
+    },
+    {
+      "english": "Dare to grow, bigger.",
+      "Arabic": "جرؤ على النمو، أكبر.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528976"
+    },
+    {
+      "english": "Collect moments, not things.",
+      "Arabic": "اجمع لحظات، لا أشياء.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528977"
+    },
+    {
+      "english": "Learn to unlearn, and relearn.",
+      "Arabic": "تعلم كيف تنسى، وتتعلم مجدداً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528978"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "Arabic": "رحلتك، فريدة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528979"
+    },
+    {
+      "english": "Embrace the process, patiently.",
+      "Arabic": "احتضن العملية، بصبر.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528980"
+    },
+    {
+      "english": "Grow with, every challenge.",
+      "Arabic": "نما مع، كل تحدٍ.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528981"
+    },
+    {
+      "english": "Unlock your, true potential.",
+      "Arabic": "أطلق العنان، لإمكانياتك الحقيقية.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528982"
+    },
+    {
+      "english": "Invest in yourself, always.",
+      "Arabic": "استثمر في نفسك، دائماً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528983"
+    },
+    {
+      "english": "Adapt to change, with grace.",
+      "Arabic": "تكيف مع التغيير، ببراعة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528984"
+    },
+    {
+      "english": "Seek improvement, daily.",
+      "Arabic": "ابحث عن التحسين، يومياً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528985"
+    },
+    {
+      "english": "Your future, depends on now.",
+      "Arabic": "مستقبلك، يعتمد على الآن.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528986"
+    },
+    {
+      "english": "Learn, love, and grow.",
+      "Arabic": "تعلّم، أحب، انمُ.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528987"
+    },
+    {
+      "english": "Cultivate resilience, strong.",
+      "Arabic": "اغرس المرونة، بقوة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528988"
+    },
+    {
+      "english": "Become, the best you.",
+      "Arabic": "كن، أفضل نسخة منك.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528989"
+    },
+    {
+      "english": "Every moment, a chance.",
+      "Arabic": "كل لحظة، فرصة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528990"
+    },
+    {
+      "english": "Dream wild, learn often.",
+      "Arabic": "فكر بجرأة، تعلم باستمرار.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528992"
+    },
+    {
+      "english": "Grow through what you go through.",
+      "Arabic": "تنمو بما تمر به.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528994"
+    },
+    {
+      "english": "Plant seeds, watch them bloom.",
+      "Arabic": "ازرع بذورك، شاهدها تزهر.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528996"
+    },
+    {
+      "english": "Keep learning, keep growing.",
+      "Arabic": "استمر في التعلم، استمر في النمو.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528997"
+    },
+    {
+      "english": "Progress, not perfection.",
+      "Arabic": "تقدم، لا كمال.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528998"
+    },
+    {
+      "english": "Build yourself, up, up, up.",
+      "Arabic": "ابنِ نفسك، للأعلى، للأعلى.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.528999"
+    },
+    {
+      "english": "Find joy, in the effort.",
+      "Arabic": "ابحث عن الفرح، في الجهد.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529000"
+    },
+    {
+      "english": "Adapt, and overcome.",
+      "Arabic": "تكيف، وتغلب.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529001"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "Arabic": "احتضن مسار التعلم.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529002"
+    },
+    {
+      "english": "Growth, is a daily habit.",
+      "Arabic": "النمو، عادة يومية.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529003"
+    },
+    {
+      "english": "Challenge yourself, to grow.",
+      "Arabic": "تحدَّ نفسك، لتنمو.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529004"
+    },
+    {
+      "english": "Bloom where you're planted.",
+      "Arabic": "ازهر حيث تُزرع.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529006"
+    },
+    {
+      "english": "Push your limits, gently.",
+      "Arabic": "ادفع حدودك، بلطف.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529007"
+    },
+    {
+      "english": "Every day, a new lesson.",
+      "Arabic": "كل يوم، درس جديد.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529008"
+    },
+    {
+      "english": "Expand your horizons, now.",
+      "Arabic": "وسع آفاقك، الآن.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529011"
+    },
+    {
+      "english": "Learn, from every experience.",
+      "Arabic": "تعلم، من كل تجربة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529012"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "Arabic": "ابنِ جسوراً، لا جدراناً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529013"
+    },
+    {
+      "english": "Seek knowledge, with passion.",
+      "Arabic": "اطلب العلم، بشغف.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529014"
+    },
+    {
+      "english": "Evolve, and adapt, always.",
+      "Arabic": "تطور، وتكيف، دائماً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529015"
+    },
+    {
+      "english": "Nourish it, with good thoughts.",
+      "Arabic": "اسقها، بالأفكار الجيدة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529017"
+    },
+    {
+      "english": "Become, a better version.",
+      "Arabic": "كن، نسخة أفضل.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529018"
+    },
+    {
+      "english": "Embrace discomfort, for growth.",
+      "Arabic": "اعتنق عدم الراحة، للنمو.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529020"
+    },
+    {
+      "english": "Dare to grow, bigger.",
+      "Arabic": "جرؤ على النمو، أكبر.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529021"
+    },
+    {
+      "english": "Collect moments, not things.",
+      "Arabic": "اجمع لحظات، لا أشياء.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529022"
+    },
+    {
+      "english": "Learn to unlearn, and relearn.",
+      "Arabic": "تعلم كيف تنسى، وتتعلم مجدداً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529023"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "Arabic": "رحلتك، فريدة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529024"
+    },
+    {
+      "english": "Embrace the process, patiently.",
+      "Arabic": "احتضن العملية، بصبر.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529025"
+    },
+    {
+      "english": "Grow with, every challenge.",
+      "Arabic": "نما مع، كل تحدٍ.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529026"
+    },
+    {
+      "english": "Unlock your, true potential.",
+      "Arabic": "أطلق العنان، لإمكانياتك الحقيقية.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529027"
+    },
+    {
+      "english": "Invest in yourself, always.",
+      "Arabic": "استثمر في نفسك، دائماً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529028"
+    },
+    {
+      "english": "Adapt to change, with grace.",
+      "Arabic": "تكيف مع التغيير، ببراعة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529029"
+    },
+    {
+      "english": "Seek improvement, daily.",
+      "Arabic": "ابحث عن التحسين، يومياً.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529030"
+    },
+    {
+      "english": "Your future, depends on now.",
+      "Arabic": "مستقبلك، يعتمد على الآن.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529033"
+    },
+    {
+      "english": "Learn, love, and grow.",
+      "Arabic": "تعلّم، أحب، انمُ.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529034"
+    },
+    {
+      "english": "Cultivate resilience, strong.",
+      "Arabic": "اغرس المرونة، بقوة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529035"
+    },
+    {
+      "english": "Become, the best you.",
+      "Arabic": "كن، أفضل نسخة منك.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529036"
+    },
+    {
+      "english": "Every moment, a chance.",
+      "Arabic": "كل لحظة، فرصة.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529037"
+    },
+    {
+      "english": "Dream wild, learn often.",
+      "Arabic": "فكر بجرأة، تعلم باستمرار.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529038"
+    },
+    {
+      "english": "Grow through what you go through.",
+      "Arabic": "تنمو بما تمر به.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529039"
+    },
+    {
+      "english": "Plant seeds, watch them bloom.",
+      "Arabic": "ازرع بذورك، شاهدها تزهر.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529040"
+    },
+    {
+      "english": "Keep learning, keep growing.",
+      "Arabic": "استمر في التعلم، استمر في النمو.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529041"
+    },
+    {
+      "english": "Progress, not perfection.",
+      "Arabic": "تقدم، لا كمال.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529042"
+    },
+    {
+      "english": "Build yourself, up, up, up.",
+      "Arabic": "ابنِ نفسك، للأعلى، للأعلى.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529043"
+    },
+    {
+      "english": "Find joy, in the effort.",
+      "Arabic": "ابحث عن الفرح، في الجهد.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529044"
+    },
+    {
+      "english": "Adapt, and overcome.",
+      "Arabic": "تكيف، وتغلب.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529045"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "Arabic": "احتضن مسار التعلم.",
+      "category": "Growth",
+      "generated_at": "2026-07-24T04:14:08.529046"
     }
   ],
-  "last_updated": "2026-07-23T04:16:24.810121"
+  "last_updated": "2026-07-24T04:14:08.529048"
 }
