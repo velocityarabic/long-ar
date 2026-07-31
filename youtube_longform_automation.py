@@ -259,7 +259,7 @@ For each phrase:
 3. Pronunciation guide (phonetic spelling for English speakers)
 
 Return as JSON array:
-[{{"english": "...", "Arabic": "...", "pronunciation": "..."}}]
+[{{"english": "...", "arabic": "...", "pronunciation": "..."}}]
 
 IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
 
