@@ -42,21 +42,21 @@ TARGET_PHRASES = 120
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
     "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "امتنانe", "Friendship", "Hope", "Creativity",
+    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
     "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
     "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
 ]
 
 # Arabic translations for display
-CATEGORIES_Arabic = {
+CATEGORIES_ARABIC = {
     "Motivation": "تحفيز",
     "Love": "حب",
     "Success": "نجاح",
     "Wisdom": "حكمة",
     "Happiness": "سعادة",
-    "Self Improvement": "تطوير ذاتي",
-    "امتنانe": "امتنان",
+    "Self Improvement": "تطوير الذات",
+    "Gratitude": "امتنان",
     "Friendship": "صداقة",
     "Hope": "أمل",
     "Creativity": "إبداع",
@@ -74,12 +74,12 @@ CATEGORIES_Arabic = {
     "Balance": "توازن",
     "Growth": "نمو",
     "Purpose": "هدف",
-    "Mindfulness": "يقظة",
+    "Mindfulness": "وعي ذهني",
 }
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
-Arabic_VOICE = "ar-SA-ZariyahNeural"
+ARABIC_VOICE = "ar-SA-ZariyahNeural"
 
 # Phrase history file (NEVER delete this!)
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
@@ -182,7 +182,7 @@ def add_phrases_to_history(phrases, category):
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
-            "Arabic": phrase["Arabic"],
+            "Arabic": phrase["arabic"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
@@ -206,7 +206,7 @@ def calculate_phrases_needed(target_minutes: int) -> int:
 def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
     """Generate unique bilingual phrases for long-form video"""
 
-    category_Arabic = CATEGORIES_Arabic[category_english]
+    category_arabic = CATEGORIES_ARABIC[category_english]
 
     history = load_phrase_history()
     used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
@@ -272,7 +272,7 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
                     "temperature": 1.0
                 }
 
-                response = requests.post(url, headers=headers, json=payload, timeout=90)
+                response = requests.post(url, headers=headers, json=payload, timeout=180)
                 response.raise_for_status()
 
                 data = response.json()
@@ -365,7 +365,7 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
             {"english": "Grow through what you go through.", "Arabic": "Crece a través de lo que pasas.", "pronunciation": "cre-se a tra-ves de lo ke pa-sas."},
             {"english": "Invest in yourself daily.", "Arabic": "Invierte en ti mismo a diario.", "pronunciation": "in-vyer-te en ti mis-mo a dya-ryo."},
         ],
-        "امتنانe": [
+        "Gratitude": [
             {"english": "Thank you for everything.", "Arabic": "Gracias por todo.", "pronunciation": "gra-syas por to-do."},
             {"english": "I appreciate your help.", "Arabic": "Agradezco tu ayuda.", "pronunciation": "a-gra-dez-co tu a-yu-da."},
             {"english": "Grateful for this moment.", "Arabic": "Agradecido por este momento.", "pronunciation": "a-gra-de-si-do por es-te mo-men-to."},
@@ -509,7 +509,7 @@ def generate_all_audio(phrases: list, output_dir: str):
 
     for i, phrase in enumerate(phrases):
         english_file = output_dir / f"english_{i}.mp3"
-        Arabic_file = output_dir / f"Arabic_{i}.mp3"
+        arabic_file = output_dir / f"arabic_{i}.mp3"
         combined_file = output_dir / f"combined_{i}.mp3"
 
         if (i + 1) % 20 == 0:
@@ -522,14 +522,14 @@ def generate_all_audio(phrases: list, output_dir: str):
             subprocess.run(cmd, capture_output=True)
 
         # Generate Arabic audio
-        ar_success = asyncio.run(generate_single_audio(phrase["Arabic"], Arabic_VOICE, str(Arabic_file)))
+        ar_success = asyncio.run(generate_single_audio(phrase["arabic"], ARABIC_VOICE, str(arabic_file)))
         if not ar_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(Arabic_file)]
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(arabic_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        ar_duration = get_audio_duration(str(Arabic_file))
+        ar_duration = get_audio_duration(str(arabic_file))
 
         # Add pause between English and Arabic
         pause_between = 0.5
@@ -539,7 +539,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(Arabic_file),
+            "-i", str(arabic_file),
             "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
@@ -551,7 +551,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             concat_file = output_dir / f"concat_{i}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{Arabic_file.as_posix()}'\n")
+                f.write(f"file '{arabic_file.as_posix()}'\n")
 
             cmd = [
                 "ffmpeg", "-y",
@@ -569,7 +569,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "Arabic": str(Arabic_file),
+            "Arabic": str(arabic_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
@@ -659,13 +659,12 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     # Load fonts
     english_font_paths = [
         "C:/Windows/Fonts/segoeuib.ttf",
-        "C:/Windows/Fonts/arialbd.ttf","C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/segoeuib.ttf",
+        "C:/Windows/Fonts/arialbd.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
 
     Arabic_font_paths = [
-        str(BASE_DIR / "fonts" / "NotoSansArabic-Bold.ttf"),
-        "C:/Windows/Fonts/arialbd.ttf","C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/segoeuib.ttf",
+        "C:/Windows/Fonts/arialbd.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
 
@@ -685,7 +684,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    Arabic_text = phrase_data.get("Arabic", "")
+    Arabic = phrase_data.get("Arabic", "")
     pronunciation = phrase_data.get("pronunciation", "")
 
     def wrap_text(text, font, max_width):
@@ -739,9 +738,9 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_total_h = len(en_lines) * en_line_h
     
     # 2. Arabic Box
-    ar_lines = wrap_text(Arabic_text, font_Arabic, VIDEO_WIDTH - 300)
-    ar_line_h = 100
-    ar_total_h = len(ar_lines) * ar_line_h
+    es_lines = wrap_text(Arabic, font_Arabic, VIDEO_WIDTH - 300)
+    es_line_h = 100
+    es_total_h = len(es_lines) * es_line_h
     
     # 3. Pronunciation Box
     pron_text = f"[{pronunciation}]"
@@ -749,7 +748,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     pron_line_h = 60
     pron_total_h = len(pron_lines) * pron_line_h
 
-    total_content_h = en_total_h + ar_total_h + pron_total_h + (GAP * 2)
+    total_content_h = en_total_h + es_total_h + pron_total_h + (GAP * 2)
     y_start = CONTENT_Y_CENTER - (total_content_h // 2)
 
     # Draw English Section
@@ -769,16 +768,16 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     y_cursor = y_start + en_box_h + GAP
 
     # Arabic Section (Lingexa Lighter Purple)
-    ar_box_h = ar_total_h + 60
+    es_box_h = es_total_h + 60
     draw.rounded_rectangle(
-        [(box_x, y_cursor), (box_x + box_w, y_cursor + ar_box_h)],
+        [(box_x, y_cursor), (box_x + box_w, y_cursor + es_box_h)],
         radius=25, fill=(95, 80, 125, 255)
     )
-    for i, line in enumerate(ar_lines):
-        draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * ar_line_h) + ar_line_h // 2), 
+    for i, line in enumerate(es_lines):
+        draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * es_line_h) + es_line_h // 2), 
                   line, fill=(255, 255, 255), font=font_Arabic, anchor="mm")
 
-    y_cursor += ar_box_h + (GAP // 2)
+    y_cursor += es_box_h + (GAP // 2)
 
     # Pronunciation Section (Lingexa Peach)
     pron_box_h = pron_total_h + 40
@@ -794,7 +793,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
                   line, fill=(70, 45, 25), font=font_pronunciation, anchor="mm")
 
     # Branding (Bottom Right)
-    brand_text = "VELOCITY Arabic"
+    brand_text = "VELOCITY ARABIC"
     brand_bbox = draw.textbbox((0, 0), brand_text, font=font_branding)
     brand_w = brand_bbox[2] - brand_bbox[0]
     draw.text((VIDEO_WIDTH - brand_w - 60, VIDEO_HEIGHT - 80), brand_text, 
@@ -810,7 +809,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
 # ============== THUMBNAIL GENERATION ==============
 
-def generate_thumbnail(category_english: str, category_Arabic: str, output_path: str):
+def generate_thumbnail(category_english: str, category_arabic: str, output_path: str):
     """Generate a modern, high-impact thumbnail - Lingexa Inspired"""
     try:
         from PIL import Image, ImageDraw, ImageFont
@@ -825,7 +824,7 @@ def generate_thumbnail(category_english: str, category_Arabic: str, output_path:
 
     # Load fonts
     english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"]
-    Arabic_font_paths = [str(BASE_DIR / "fonts" / "NotoSansArabic-Bold.ttf"), "C:/Windows/Fonts/arialbd.ttf"]
+    Arabic_font_paths = ["C:/Windows/Fonts/arialbd.ttf"]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
@@ -839,7 +838,7 @@ def generate_thumbnail(category_english: str, category_Arabic: str, output_path:
     font_badge = load_font(english_font_paths, 45)
 
     # Big Impact Title (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 220), "MASTER Arabic", fill=(45, 35, 65), font=font_huge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 220), "MASTER ARABIC", fill=(45, 35, 65), font=font_huge, anchor="mm")
     
     # Category Badge (Lingexa Dark Purple)
     cat_text = category_english.upper()
@@ -852,7 +851,7 @@ def generate_thumbnail(category_english: str, category_Arabic: str, output_path:
     draw.text((VIDEO_WIDTH // 2, 365), cat_text, fill=(255, 255, 255), font=font_sub, anchor="mm")
 
     # Arabic Translation (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 530), category_Arabic, fill=(45, 35, 65), font=font_main, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 530), category_arabic, fill=(45, 35, 65), font=font_main, anchor="mm")
 
     # Features / Call to Action (Lingexa Peach)
     cta_text = "60 ESSENTIAL PHRASES"
@@ -864,7 +863,7 @@ def generate_thumbnail(category_english: str, category_Arabic: str, output_path:
 
     # Bottom Branding (Dark Purple Bar)
     draw.rectangle([(0, VIDEO_HEIGHT - 100), (VIDEO_WIDTH, VIDEO_HEIGHT)], fill=(45, 35, 65, 255))
-    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY Arabic", fill=(255, 255, 255), font=font_badge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY ARABIC", fill=(255, 255, 255), font=font_badge, anchor="mm")
 
     img = img.convert('RGB')
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
@@ -899,22 +898,22 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_Arabic: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_arabic: str, phrases: list, duration_minutes: float, output_dir: str):
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
     
     # Generate viral title variations
     titles = [
-        f"Learn Arabic in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_Arabic})",
-        f"60 Arabic Phrases for {category_english} | Speak Arabic Like a Native! ({category_Arabic})",
-        f"Master Arabic {category_english} | 60 Essential Arabic Phrases with Pronunciation | Velocity Arabic",
+        f"Learn Arabic in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_arabic})",
+        f"60 Arabic Phrases for {category_english} | Speak Arabic Like a Native! ({category_arabic})",
+        f"Master Arabic {category_english} | 120 Essential Arabic Phrases with Pronunciation | Velocity Arabic",
         f"Arabic Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
         f"Speak Arabic Fluently | {category_english} Phrases | English + Arabic + Pronunciation",
     ]
 
     # Generate comprehensive description
-    description = f"""🇦🇪 Learn Arabic with Velocity Arabic! 🇦🇪
+    description = f"""🇪🇸 Learn Arabic with VELOCITY ARABIC! 🇪🇸
 
-In this video, you'll learn 60 essential Arabic phrases about {category_english} ({category_Arabic}).
+In this video, you'll learn 60 essential Arabic phrases about {category_english} ({category_arabic}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
@@ -966,7 +965,7 @@ Perfect for beginners and intermediate learners!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
-📱 FOLLOW VELOCITY Arabic:
+📱 FOLLOW VELOCITY ARABIC:
 [Add your social media links here]
 
 🎵 MUSIC:
@@ -977,10 +976,10 @@ Perfect for beginners and intermediate learners!
 • Arabic Love Expressions
 • Basic Arabic Greetings
 
-#LearnArabic #ArabicPhrases #ArabicLanguage #{category_english.replace(' ', '')} #VelocityArabic #ArabicForBeginners #SpeakArabic #ArabicVocabulary #Pronunciation #LanguageLearning #Arabic101 #ArabicLesson
+#LearnArabic #ArabicPhrases #ArabicLanguage #{category_english.replace(' ', '')} #Arabic #ArabicForBeginners #SpeakArabic #ArabicVocabulary #Pronunciation #LanguageLearning #Arabic101 #ArabicLesson
 
 ---
-© Velocity Arabic - Making Arabic learning accessible to everyone!
+© VELOCITY ARABIC - Making Arabic learning accessible to everyone!
 """
 
     # Write to COMBINED file (title + description in one)
@@ -1016,7 +1015,7 @@ Perfect for beginners and intermediate learners!
             "Arabic Phrases",
             "Arabic Language",
             category_english,
-            "Velocity Arabic",
+            "VELOCITY ARABIC",
             "Arabic for Beginners",
             "Speak Arabic",
             "Arabic Vocabulary",
@@ -1033,7 +1032,7 @@ Perfect for beginners and intermediate learners!
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_Arabic": category_Arabic,
+        "category_arabic": category_arabic,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1117,7 +1116,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
 
     print(f"\n{'='*80}")
-    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_Arabic[category_english]})")
+    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_ARABIC[category_english]})")
     print(f"🎯 Target Phrases: {phrases_count}")
     print(f"{'='*80}\n")
 
@@ -1158,10 +1157,10 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
                 print(f"  gpt-image-2 thumbnail saved")
             else:
                 print(f"  gpt-image-2 failed, using built-in")
-                generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+                generate_thumbnail(category_english, CATEGORIES_ARABIC[category_english], str(thumbnail_path))
         except Exception as e:
             print(f"  Thumbnail error: {e}, using built-in")
-            generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+            generate_thumbnail(category_english, CATEGORIES_ARABIC[category_english], str(thumbnail_path))
     video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"
     print(f"\n[4/6] Generating audio for {len(phrases)} phrases...")
     audio_files = generate_all_audio(phrases, str(video_dir))
@@ -1194,7 +1193,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
     title_meta = generate_title_description(
         category_english,
-        CATEGORIES_Arabic[category_english],
+        CATEGORIES_ARABIC[category_english],
         phrases,
         total_duration / 60,
         str(video_dir)
@@ -1206,9 +1205,9 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     meta_out = {
         "title": title_meta.get("selected_title", f"Learn Arabic: {category_english}"),
         "description": title_meta.get("description", ""),
-        "tags": ["Learn Arabic", "Arabic Phrases", "Arabic", category_english, "Velocity Arabic"],
+        "tags": ["Learn Arabic", "Arabic Phrases", "Arabic", category_english, "VELOCITY ARABIC"],
         "category_english": category_english,
-        "category_Arabic": CATEGORIES_Arabic[category_english],
+        "category_arabic": CATEGORIES_ARABIC[category_english],
         "phrases_count": len(phrases),
         "duration_seconds": total_duration,
         "duration_minutes": total_duration / 60,
@@ -1259,12 +1258,12 @@ def generate_multiple_longform(count: int = 1, target_phrases: int = None):
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Velocity Arabic YouTube Long-form Video Generator")
-    parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate (determines video length, ~5.5s per phrase. 60 phrases = ~5.5 mins)")
+    parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate (determines video length, ~5.5s per phrase. 120 phrases = ~11.0 mins)")
     parser.add_argument("--category", type=str, default=None, help="Specific category to generate (e.g. 'Motivation', 'Friendship'). Random if not provided.")
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("🇦🇪 VELOCITY Arabic - YOUTUBE LONG-FORM AUTOMATION 🇦🇪")
+    print("🇪🇸 VELOCITY ARABIC - YOUTUBE LONG-FORM AUTOMATION 🇪🇸")
     print("="*80)
     print("\n✨ FEATURES:")
     print("  ✓ 16:9 format (1920x1080) for YouTube long-form")
@@ -1276,7 +1275,7 @@ if __name__ == "__main__":
     print("  ✓ NEVER repeats phrases (permanent history tracking)")
     print(f"\n📊 AVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
-        print(f"   {i:2d}. {cat} ({CATEGORIES_Arabic[cat]})")
+        print(f"   {i:2d}. {cat} ({CATEGORIES_ARABIC[cat]})")
     print(f"\n📈 VIDEO SPECIFICATIONS:")
     print(f"  • Resolution: {VIDEO_WIDTH}x{VIDEO_HEIGHT} (16:9)")
     print(f"  • Frame Rate: {FPS} FPS")
