@@ -738,7 +738,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_total_h = len(en_lines) * en_line_h
     
     # 2. Arabic Box
-    arabic_lines = wrap_text(arabic_text, font_Arabic, VIDEO_WIDTH - 300)
+    es_lines = wrap_text(arabic_text, font_Arabic, VIDEO_WIDTH - 300)
     es_line_h = 100
     es_total_h = len(es_lines) * es_line_h
     
