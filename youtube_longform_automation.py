@@ -684,7 +684,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    Arabic = phrase_data.get("Arabic", "")
+    arabic_text = phrase_data.get('arabic') or phrase_data.get('Arabic', '')
     pronunciation = phrase_data.get("pronunciation", "")
 
     def wrap_text(text, font, max_width):
@@ -738,7 +738,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_total_h = len(en_lines) * en_line_h
     
     # 2. Arabic Box
-    es_lines = wrap_text(Arabic, font_Arabic, VIDEO_WIDTH - 300)
+    arabic_lines = wrap_text(arabic_text, font_Arabic, VIDEO_WIDTH - 300)
     es_line_h = 100
     es_total_h = len(es_lines) * es_line_h
     
@@ -942,7 +942,7 @@ Perfect for beginners and intermediate learners!
     for i, phrase in enumerate(phrases, 1):
         description += f"""
 {i}. {phrase['english']}
-   Arabic: {phrase['Arabic']}
+   Arabic: {phrase['arabic']}
    Pronunciation: {phrase['pronunciation']}
 """
 
@@ -1129,7 +1129,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases = generate_phrases_for_longform(category_english, phrases_count)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase['Arabic']}")
+        print(f"  {i}. {phrase['english']} → {phrase['arabic']}")
 
     print(f"\n[info] Total phrases: {len(phrases)}")
 
