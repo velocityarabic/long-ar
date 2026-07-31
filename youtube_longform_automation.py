@@ -327,143 +327,136 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
     all_fallbacks = {
         "Motivation": [
-            {"english": "Believe in yourself.", "Arabic": "Cree en ti mismo.", "pronunciation": "cre-e en ti mis-mo."},
-            {"english": "You are capable of amazing things.", "Arabic": "Eres capaz de cosas asombrosas.", "pronunciation": "e-res ca-paz de co-sas a-som-bro-sas."},
-            {"english": "Dream big, start small.", "Arabic": "Sueña en grande, empieza pequeño.", "pronunciation": "swe-nya en gran-de, em-pje-za pe-ke-nyo."},
-            {"english": "Your future is created by your actions.", "Arabic": "Tu futuro es creado por tus acciones.", "pronunciation": "tu fu-tu-ro es cre-a-do por tus ak-syo-nes."},
-            {"english": "Never give up on your dreams.", "Arabic": "Nunca te rindas en tus sueños.", "pronunciation": "nun-ka te rin-das en tus swe-nyos."},
-            {"english": "Small steps lead to big changes.", "Arabic": "Pequeños pasos llevan a grandes cambios.", "pronunciation": "pe-ke-nyos pa-sos ye-van a gran-des cam-byos."},
-            {"english": "You are stronger than you think.", "Arabic": "Eres más fuerte de lo que crees.", "pronunciation": "e-res mas fwer-te de lo ke cre-es."},
+            {"english": "Believe in yourself.", "arabic": "آمن بنفسك.", "pronunciation": "aa-min bi-naf-sek"},
+            {"english": "You are capable of amazing things.", "arabic": "أنت قادر على أشياء مذهلة.", "pronunciation": "an-ta qa-dir a-la ash-yaa mudh-hi-la"},
+            {"english": "Dream big, start small.", "arabic": "احلم كبيراً، ابدأ صغيراً.", "pronunciation": "ih-lum ka-bi-ran, ib-da sa-ghi-ran"},
+            {"english": "Your future is created by your actions.", "arabic": "مستقبلك يصنعه أفعالك.", "pronunciation": "mus-taq-ba-luk yas-na-u-hu af-a-luk"},
+            {"english": "Never give up on your dreams.", "arabic": "لا تستسلم أبداً لأحلامك.", "pronunciation": "la tas-tas-lim a-ba-dan li-ah-la-mik"},
+            {"english": "Small steps lead to big changes.", "arabic": "الخطوات الصغيرة تؤدي لتغييرات كبيرة.", "pronunciation": "al-khu-tu-wat al-sa-ghi-ra tu-ad-di li-tagh-yi-rat ka-bi-ra"},
+            {"english": "You are stronger than you think.", "arabic": "أنت أقوى مما تظن.", "pronunciation": "an-ta aq-wa mim-ma ta-zun"},
         ],
         "Love": [
-            {"english": "Love yourself first.", "Arabic": "Ámate a ti mismo primero.", "pronunciation": "a-ma-te a ti mis-mo pri-me-ro."},
-            {"english": "Love makes everything possible.", "Arabic": "El amor hace que todo sea posible.", "pronunciation": "el a-mor a-se ke to-do se-a po-si-ble."},
-            {"english": "My heart beats for you.", "Arabic": "Mi corazón late por ti.", "pronunciation": "mi co-ra-zon la-te por ti."},
-            {"english": "You are my everything.", "Arabic": "Eres mi todo.", "pronunciation": "e-res mi to-do."},
-            {"english": "Together forever, hand in hand.", "Arabic": "Juntos por siempre, mano a mano.", "pronunciation": "jun-tos por syem-pre, ma-no a ma-no."},
+            {"english": "Love yourself first.", "arabic": "أحب نفسك أولاً.", "pronunciation": "ah-bib naf-sak aw-wa-lan"},
+            {"english": "Love makes everything possible.", "arabic": "الحب يجعل كل شيء ممكناً.", "pronunciation": "al-hubb yaj-al kul-la shay-im mum-ki-nan"},
+            {"english": "My heart beats for you.", "arabic": "قلبي ينبض من أجلك.", "pronunciation": "qal-bi yan-bid min aj-lik"},
+            {"english": "You are my everything.", "arabic": "أنت كل شيء لي.", "pronunciation": "an-ta kul-lu shay-in li"},
+            {"english": "Together forever, hand in hand.", "arabic": "معاً للأبد، يداً بيد.", "pronunciation": "ma-an lil-a-bad, ya-dan bi-yad"},
         ],
         "Success": [
-            {"english": "Success comes from hard work.", "Arabic": "El éxito viene del trabajo duro.", "pronunciation": "el ek-si-to vye-ne del tra-ba-jo du-ro."},
-            {"english": "Keep going, you're getting there.", "Arabic": "Sigue adelante, ya casi llegas.", "pronunciation": "si-ge a-de-lan-te, ya ca-si ye-gas."},
-            {"english": "Winners never quit.", "Arabic": "Los ganadores nunca se rinden.", "pronunciation": "los ga-na-do-res nun-ka se rin-den."},
-            {"english": "Your effort will pay off.", "Arabic": "Tu esfuerzo valdrá la pena.", "pronunciation": "tu es-fwer-zo val-dra la pe-na."},
+            {"english": "Success comes from hard work.", "arabic": "النجاح يأتي من العمل الجاد.", "pronunciation": "al-na-jah ya-ti mi-na al-a-mal al-jad"},
+            {"english": "Keep going, you're getting there.", "arabic": "واصل، أنت تقترب.", "pronunciation": "wa-sil, an-ta taq-ta-rib"},
+            {"english": "Winners never quit.", "arabic": "الفائزون لا يستسلمون أبداً.", "pronunciation": "al-fa-i-zun la yas-tas-li-mun a-ba-dan"},
+            {"english": "Your effort will pay off.", "arabic": "جهدك سيؤتي ثماره.", "pronunciation": "juh-duk sa-yu-ti tha-ma-ra-h"},
         ],
         "Wisdom": [
-            {"english": "Knowledge is power.", "Arabic": "El conocimiento es poder.", "pronunciation": "el co-no-si-myen-to es po-der."},
-            {"english": "Learn from yesterday, live for today.", "Arabic": "Aprende del ayer, vive por el hoy.", "pronunciation": "a-pren-de del a-yer, vi-ve por el oy."},
-            {"english": "Think before you act.", "Arabic": "Piensa antes de actuar.", "pronunciation": "pyen-sa an-tes de ak-twar."},
-            {"english": "Experience is the best teacher.", "Arabic": "La experiencia es la mejor maestra.", "pronunciation": "la ex-pe-ryen-sya es la me-jor ma-es-tra."},
+            {"english": "Knowledge is power.", "arabic": "المعرفة قوة.", "pronunciation": "al-ma-ri-fa qu-wa"},
+            {"english": "Learn from yesterday, live for today.", "arabic": "تعلم من الأمس، عش من أجل اليوم.", "pronunciation": "ta-al-lam mi-na al-ams, ish min aj-li al-yawm"},
+            {"english": "Think before you act.", "arabic": "فكر قبل أن تتصرف.", "pronunciation": "fak-kir qab-la an ta-tas-ar-raf"},
+            {"english": "Experience is the best teacher.", "arabic": "الخبرة هي أفضل معلم.", "pronunciation": "al-khib-ra hi-ya af-dal mu-al-lim"},
         ],
         "Happiness": [
-            {"english": "Happiness is a choice.", "Arabic": "La felicidad es una elección.", "pronunciation": "la fe-li-si-dad es u-na e-lek-syon."},
-            {"english": "Find joy in the little things.", "Arabic": "Encuentra alegría en las pequeñas cosas.", "pronunciation": "en-kwen-tra a-le-gri-a en las pe-ke-nyas co-sas."},
-            {"english": "Smile, it makes others happy.", "Arabic": "Sonríe, hace felices a los demás.", "pronunciation": "son-ri-e, a-se fe-li-ses a los de-mas."},
-            {"english": "Today is a gift.", "Arabic": "Hoy es un regalo.", "pronunciation": "oy es un re-ga-lo."},
-        ],
-        "Self Improvement": [
-            {"english": "Be better than yesterday.", "Arabic": "Sé mejor que ayer.", "pronunciation": "se me-jor ke a-yer."},
-            {"english": "Grow through what you go through.", "Arabic": "Crece a través de lo que pasas.", "pronunciation": "cre-se a tra-ves de lo ke pa-sas."},
-            {"english": "Invest in yourself daily.", "Arabic": "Invierte en ti mismo a diario.", "pronunciation": "in-vyer-te en ti mis-mo a dya-ryo."},
+            {"english": "Happiness is a choice.", "arabic": "السعادة اختيار.", "pronunciation": "al-sa-a-da ikh-ti-yar"},
+            {"english": "Find joy in the little things.", "arabic": "ابحث عن الفرح في الأشياء الصغيرة.", "pronunciation": "ib-hath an al-fa-rah fi al-ash-ya al-sa-ghi-ra"},
+            {"english": "Smile, it makes others happy.", "arabic": "ابتسم، فهو يسعد الآخرين.", "pronunciation": "ib-ta-sim, fa-hu-wa yus-id al-a-kha-rin"},
+            {"english": "Today is a gift.", "arabic": "اليوم هدية.", "pronunciation": "al-yawm ha-diy-ya"},
+            {"english": "Be better than yesterday.", "arabic": "كن أفضل من الأمس.", "pronunciation": "kun af-dal mi-na al-ams"},
+            {"english": "Grow through what you go through.", "arabic": "انمو من خلال ما تمر به.", "pronunciation": "un-mu min khi-lal ma ta-mur bi-hi"},
+            {"english": "Invest in yourself daily.", "arabic": "استثمر في نفسك يومياً.", "pronunciation": "is-tath-mir fi naf-sik yaw-mi-yan"},
         ],
         "Gratitude": [
-            {"english": "Thank you for everything.", "Arabic": "Gracias por todo.", "pronunciation": "gra-syas por to-do."},
-            {"english": "I appreciate your help.", "Arabic": "Agradezco tu ayuda.", "pronunciation": "a-gra-dez-co tu a-yu-da."},
-            {"english": "Grateful for this moment.", "Arabic": "Agradecido por este momento.", "pronunciation": "a-gra-de-si-do por es-te mo-men-to."},
+            {"english": "Thank you for everything.", "arabic": "شكراً لك على كل شيء.", "pronunciation": "shuk-ran la-ka a-la kul-li shay"},
+            {"english": "I appreciate your help.", "arabic": "أقدر مساعدتك.", "pronunciation": "uqad-dir mu-sa-a-da-tak"},
+            {"english": "Grateful for this moment.", "arabic": "شاكر لهذه اللحظة.", "pronunciation": "sha-kir li-ha-dhi-hi al-lah-za"},
         ],
         "Friendship": [
-            {"english": "Friends forever, no matter what.", "Arabic": "Amigos por siempre, pase lo que pase.", "pronunciation": "a-mi-gos por syem-pre, pa-se lo ke pa-se."},
-            {"english": "You are my best friend.", "Arabic": "Eres mi mejor amigo.", "pronunciation": "e-res mi me-jor a-mi-go."},
-            {"english": "True friends stick together.", "Arabic": "Los verdaderos amigos se mantienen unidos.", "pronunciation": "los ver-da-de-ros a-mi-gos se man-tye-nen u-ni-dos."},
+            {"english": "Friends forever, no matter what.", "arabic": "أصدقاء للأبد مهما حدث.", "pronunciation": "as-di-qa lil-a-bad mah-ma ha-dath"},
+            {"english": "You are my best friend.", "arabic": "أنت أفضل صديق لي.", "pronunciation": "an-ta af-dal sa-diq li"},
+            {"english": "True friends stick together.", "arabic": "الأصدقاء الحقيقيون يبقون معاً.", "pronunciation": "al-as-di-qa al-ha-qi-qiy-un yab-qaun ma-an"},
         ],
         "Hope": [
-            {"english": "There is always hope.", "Arabic": "Siempre hay esperanza.", "pronunciation": "syem-pre ay es-pe-ran-za."},
-            {"english": "Better days are coming.", "Arabic": "Vienen días mejores.", "pronunciation": "vye-nen di-as me-jo-res."},
-            {"english": "Keep faith, keep going.", "Arabic": "Mantén la fe, sigue adelante.", "pronunciation": "man-ten la fe, si-ge a-de-lan-te."},
+            {"english": "There is always hope.", "arabic": "هناك دائماً أمل.", "pronunciation": "hu-na-ka dai-man a-mal"},
+            {"english": "Better days are coming.", "arabic": "أيام أفضل قادمة.", "pronunciation": "ay-yam af-dal qa-di-ma"},
+            {"english": "Keep faith, keep going.", "arabic": "حافظ على الإيمان، واصل.", "pronunciation": "ha-fiz a-la al-i-man, wa-sil"},
         ],
         "Creativity": [
-            {"english": "Create something beautiful today.", "Arabic": "Crea algo hermoso hoy.", "pronunciation": "cre-a al-go er-mo-so oy."},
-            {"english": "Your imagination is unlimited.", "Arabic": "Tu imaginación es ilimitada.", "pronunciation": "tu i-ma-ji-na-syon es i-li-mi-ta-da."},
-            {"english": "Art comes from the heart.", "Arabic": "El arte viene del corazón.", "pronunciation": "el ar-te vye-ne del co-ra-zon."},
-            {"english": "Express yourself freely.", "Arabic": "Exprésate libremente.", "pronunciation": "ex-pre-sa-te li-bre-men-te."},
-            {"english": "Innovation starts with curiosity.", "Arabic": "La innovación comienza con la curiosidad.", "pronunciation": "la i-no-va-syon co-myen-za con la cu-ryo-si-dad."},
-        ],
-        "Inner Peace": [
-            {"english": "Find peace within yourself.", "Arabic": "Encuentra la paz dentro de ti.", "pronunciation": "en-kwen-tra la paz den-tro de ti."},
-            {"english": "Breathe, relax, let go.", "Arabic": "Respira, relájate, suelta.", "pronunciation": "res-pi-ra, re-la-ja-te, swel-ta."},
-            {"english": "Calm mind, happy heart.", "Arabic": "Mente tranquila, corazón feliz.", "pronunciation": "men-te tran-ki-la, co-ra-zon fe-liz."},
+            {"english": "Create something beautiful today.", "arabic": "اصنع شيئاً جميلاً اليوم.", "pronunciation": "us-nu shay-an ja-mi-lan al-yawm"},
+            {"english": "Your imagination is unlimited.", "arabic": "خيالك لا حدود له.", "pronunciation": "kha-ya-luk la hu-dud la-hu"},
+            {"english": "Art comes from the heart.", "arabic": "الفن يأتي من القلب.", "pronunciation": "al-fan ya-ti mi-na al-qalb"},
+            {"english": "Express yourself freely.", "arabic": "عبّر عن نفسك بحرية.", "pronunciation": "ab-bir an naf-sik bi-hu-riy-ya"},
+            {"english": "Innovation starts with curiosity.", "arabic": "الابتكار يبدأ بالفضول.", "pronunciation": "al-ib-ti-kar yab-da bil-fu-dul"},
+            {"english": "Find peace within yourself.", "arabic": "ابحث عن السلام داخل نفسك.", "pronunciation": "ib-hath an al-sa-lam da-khil naf-sik"},
+            {"english": "Breathe, relax, let go.", "arabic": "تنفس، استرخِ، تخلص من التوتر.", "pronunciation": "ta-na-fas, is-tar-khi, ta-khal-las mi-na al-taw-tur"},
+            {"english": "Calm mind, happy heart.", "arabic": "عقل هادئ، قلب سعيد.", "pronunciation": "aql ha-di, qalb sa-id"},
         ],
         "Confidence": [
-            {"english": "You are enough, just as you are.", "Arabic": "Eres suficiente, tal como eres.", "pronunciation": "e-res su-fi-syen-te, tal co-mo e-res."},
-            {"english": "Stand tall, speak up.", "Arabic": "Mantente erguido, habla.", "pronunciation": "man-ten-te er-gi-do, a-bla."},
-            {"english": "Believe in your abilities.", "Arabic": "Cree en tus habilidades.", "pronunciation": "cre-e en tus a-bi-li-da-des."},
+            {"english": "You are enough, just as you are.", "arabic": "أنت كافٍ، تماماً كما أنت.", "pronunciation": "an-ta ka-fin, ta-ma-man ka-ma an-ta"},
+            {"english": "Stand tall, speak up.", "arabic": "قف بشموخ، تكلم بصوت عالٍ.", "pronunciation": "qif bi-shu-mukh, ta-kal-lam bi-sawt a-lin"},
+            {"english": "Believe in your abilities.", "arabic": "آمن بقدراتك.", "pronunciation": "aa-min bi-qu-dra-tik"},
         ],
         "Perseverance": [
-            {"english": "Never give up, keep pushing.", "Arabic": "Nunca te rindas, sigue presionando.", "pronunciation": "nun-ka te rin-das, si-ge pre-syo-nan-do."},
-            {"english": "Storms make trees take deeper roots.", "Arabic": "Las tormentas hacen que los árboles echen raíces más profundas.", "pronunciation": "las tor-men-tas a-sen ke los ar-bo-les e-chen ra-i-ses mas pro-fun-das."},
-            {"english": "Patience and persistence win.", "Arabic": "La paciencia y la persistencia ganan.", "pronunciation": "la pa-syen-sya i la per-sis-ten-sya ga-nan."},
+            {"english": "Never give up, keep pushing.", "arabic": "لا تستسلم أبداً، واصل الدفع.", "pronunciation": "la tas-tas-lim a-ba-dan, wa-sil al-daf"},
+            {"english": "Storms make trees take deeper roots.", "arabic": "العواصف تجعل الأشجار تترسخ أعمق.", "pronunciation": "al-a-wa-sif taj-al al-ash-jar ta-ta-ras-sakh a-maq"},
+            {"english": "Patience and persistence win.", "arabic": "الصبر والمثابرة يفوزان.", "pronunciation": "al-sabr wal-mu-tha-ba-ra yaf-u-zan"},
         ],
         "Inspiration": [
-            {"english": "Let your light shine bright.", "Arabic": "Deja que tu luz brille con fuerza.", "pronunciation": "de-ja ke tu luz bri-ye con fwer-za."},
-            {"english": "Inspire others by your actions.", "Arabic": "Inspira a otros con tus acciones.", "pronunciation": "ins-pi-ra a o-tros con tus ak-syo-nes."},
-            {"english": "Be the change you want to see.", "Arabic": "Sé el cambio que quieres ver.", "pronunciation": "se el cam-byo ke kye-res ver."},
-        ],
-        "Positive Life": [
-            {"english": "Choose positivity every day.", "Arabic": "Elige la positividad cada día.", "pronunciation": "e-li-je la po-si-ti-vi-dad ca-da di-a."},
-            {"english": "Good vibes only.", "Arabic": "Solo buenas vibras.", "pronunciation": "so-lo bwe-nas vi-bras."},
-            {"english": "Life is what you make it.", "Arabic": "La vida es lo que tú haces de ella.", "pronunciation": "la vi-da es lo ke tu a-ses de e-ya."},
+            {"english": "Let your light shine bright.", "arabic": "دع نورك يسطع بسطوع.", "pronunciation": "da nurak yas-ta-i bi-su-tu"},
+            {"english": "Inspire others by your actions.", "arabic": "ألهم الآخرين بأفعالك.", "pronunciation": "al-him al-a-kha-rin bi-af-a-lik"},
+            {"english": "Be the change you want to see.", "arabic": "كن التغيير الذي تريد أن تراه.", "pronunciation": "kun al-tagh-yir al-la-dhi tu-rid an ta-ra-h"},
+            {"english": "Choose positivity every day.", "arabic": "اختر الإيجابية كل يوم.", "pronunciation": "ikh-tar al-i-ja-biy-ya kul-la yawm"},
+            {"english": "Good vibes only.", "arabic": "طاقة إيجابية فقط.", "pronunciation": "ta-qa i-ja-biy-ya fa-qat"},
+            {"english": "Life is what you make it.", "arabic": "الحياة ما تصنعه منها.", "pronunciation": "al-ha-ya ma tas-na-u-hu min-ha"},
         ],
         "Courage": [
-            {"english": "Be brave, take the first step.", "Arabic": "Sé valiente, da el primer paso.", "pronunciation": "se va-lyen-te, da el pri-mer pa-so."},
-            {"english": "Courage is not the absence of fear.", "Arabic": "El coraje no es la ausencia de miedo.", "pronunciation": "el co-ra-je no es la au-sen-sya de mye-do."},
-            {"english": "Face your fears head on.", "Arabic": "Enfrenta tus miedos de frente.", "pronunciation": "en-fren-ta tus mye-dos de fren-te."},
+            {"english": "Be brave, take the first step.", "arabic": "كن شجاعاً، خذ الخطوة الأولى.", "pronunciation": "kun sha-ja-an, khudh al-khut-wa al-u-la"},
+            {"english": "Courage is not the absence of fear.", "arabic": "الشجاعة ليست غياب الخوف.", "pronunciation": "al-shu-ja-a laysat ghi-yab al-khawf"},
+            {"english": "Face your fears head on.", "arabic": "واجه مخاوفك وجهاً لوجه.", "pronunciation": "wa-jih ma-kha-wif-ka waj-han li-wajh"},
         ],
         "Kindness": [
-            {"english": "Be kind to everyone you meet.", "Arabic": "Sé amable con todos los que conozcas.", "pronunciation": "se a-ma-ble con to-dos los ke co-noz-cas."},
-            {"english": "Kindness costs nothing, means everything.", "Arabic": "La amabilidad no cuesta nada, lo significa todo.", "pronunciation": "la a-ma-bi-li-dad no kwes-ta na-da, lo sig-ni-fi-ca to-do."},
-            {"english": "Spread kindness wherever you go.", "Arabic": "Difunde amabilidad dondequiera que vayas.", "pronunciation": "di-fun-de a-ma-bi-li-dad don-de-kye-ra va-yas."},
+            {"english": "Be kind to everyone you meet.", "arabic": "كن لطيفاً مع كل من تقابله.", "pronunciation": "kun la-ti-fan ma-a kul-li man tu-qab-il-hu"},
+            {"english": "Kindness costs nothing, means everything.", "arabic": "اللطف لا يكلف شيئاً ويعني كل شيء.", "pronunciation": "al-lutf la yu-kal-li-fu shay-an wa-ya-ni kul-la shay"},
+            {"english": "Spread kindness wherever you go.", "arabic": "انشر اللطف أينما ذهبت.", "pronunciation": "un-shur al-lutf ayn-ma dha-habt"},
         ],
         "Patience": [
-            {"english": "Good things take time.", "Arabic": "Las cosas buenas toman tiempo.", "pronunciation": "las co-sas bwe-nas to-man tyem-po."},
-            {"english": "Wait patiently, trust the process.", "Arabic": "Espera pacientemente, confía en el proceso.", "pronunciation": "es-pe-ra pa-syen-te-men-te, con-fi-a en el pro-se-so."},
-            {"english": "Rome wasn't built in a day.", "Arabic": "Roma no se construyó en un día.", "pronunciation": "ro-ma no se cons-tru-yo en un di-a."},
+            {"english": "Good things take time.", "arabic": "الأشياء الجيدة تحتاج وقتاً.", "pronunciation": "al-ash-ya al-jay-yi-da tahtaj waq-tan"},
+            {"english": "Wait patiently, trust the process.", "arabic": "انتظر بصبر، ثق بالعملية.", "pronunciation": "in-ta-zir bi-sabr, thiq bil-a-ma-liy-ya"},
+            {"english": "Rome wasn't built in a day.", "arabic": "روما لم تُبنَ في يوم واحد.", "pronunciation": "ru-ma lam tub-na fi yawm wa-hid"},
         ],
         "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "Arabic": "Perdona y libérate.", "pronunciation": "per-do-na i li-be-ra-te."},
-            {"english": "Let go of grudges, find peace.", "Arabic": "Suelta los rencores, encuentra la paz.", "pronunciation": "swel-ta los ren-co-res, en-kwen-tra la paz."},
-            {"english": "Forgiveness is a gift to yourself.", "Arabic": "El perdón es un regalo para ti mismo.", "pronunciation": "el per-don es un re-ga-lo pa-ra ti mis-mo."},
+            {"english": "Forgive and set yourself free.", "arabic": "سامح وحرر نفسك.", "pronunciation": "sa-mih wa-har-rir naf-sak"},
+            {"english": "Let go of grudges, find peace.", "arabic": "اترك الضغائن، ابحث عن السلام.", "pronunciation": "ut-ruk al-da-gha-in, ib-hath an al-sa-lam"},
+            {"english": "Forgiveness is a gift to yourself.", "arabic": "التسامح هدية لنفسك.", "pronunciation": "al-ta-sa-muh ha-diy-ya li-naf-sik"},
         ],
         "Strength": [
-            {"english": "You are stronger than you know.", "Arabic": "Eres más fuerte de lo que sabes.", "pronunciation": "e-res mas fwer-te de lo ke sa-bes."},
-            {"english": "Inner strength comes from within.", "Arabic": "La fuerza interior viene de dentro.", "pronunciation": "la fwer-za in-te-ryor vye-ne de den-tro."},
-            {"english": "Challenges make you stronger.", "Arabic": "Los desafíos te hacen más fuerte.", "pronunciation": "los de-sa-fi-os te a-sen mas fwer-te."},
+            {"english": "You are stronger than you know.", "arabic": "أنت أقوى مما تعرف.", "pronunciation": "an-ta aq-wa mim-ma ta-rif"},
+            {"english": "Inner strength comes from within.", "arabic": "القوة الداخلية تأتي من الداخل.", "pronunciation": "al-qu-wa al-da-khi-liy-ya ta-ti mi-na al-da-khil"},
+            {"english": "Challenges make you stronger.", "arabic": "التحديات تجعلك أقوى.", "pronunciation": "al-ta-had-di-yat taj-a-luk aq-wa"},
         ],
         "Joy": [
-            {"english": "Find joy in every moment.", "Arabic": "Encuentra alegría en cada momento.", "pronunciation": "en-kwen-tra a-le-gri-a en ca-da mo-men-to."},
-            {"english": "Joy is contagious, spread it.", "Arabic": "La alegría es contagiosa, difúndela.", "pronunciation": "la a-le-gri-a es con-ta-jo-sa, di-fun-de-la."},
-            {"english": "Dance like nobody's watching.", "Arabic": "Baila como si nadie estuviera mirando.", "pronunciation": "ba-i-la co-mo si na-dye es-tu-vye-ra mi-ran-do."},
+            {"english": "Find joy in every moment.", "arabic": "ابحث عن الفرح في كل لحظة.", "pronunciation": "ib-hath an al-fa-rah fi kul-li lah-za"},
+            {"english": "Joy is contagious, spread it.", "arabic": "الفرح معدٍ، انشره.", "pronunciation": "al-fa-rah mu-din, un-shur-hu"},
+            {"english": "Dance like nobody's watching.", "arabic": "ارقص وكأن أحداً لا يراك.", "pronunciation": "ur-qus wa-ka-an a-ha-dan la ya-ra-k"},
         ],
         "Balance": [
-            {"english": "Find balance in your life.", "Arabic": "Encuentra el equilibrio en tu vida.", "pronunciation": "en-kwen-tra el e-ki-li-bryo en tu vi-da."},
-            {"english": "Work hard, rest well.", "Arabic": "Trabaja duro, descansa bien.", "pronunciation": "tra-ba-ja du-ro, des-can-sa byen."},
-            {"english": "Too much of anything is not good.", "Arabic": "Demasiado de cualquier cosa no es bueno.", "pronunciation": "de-ma-sya-do de cwal-kyer co-sa no es bwe-no."},
+            {"english": "Find balance in your life.", "arabic": "ابحث عن التوازن في حياتك.", "pronunciation": "ib-hath an al-ta-wa-zun fi ha-ya-tik"},
+            {"english": "Work hard, rest well.", "arabic": "اعمل بجد، ارتاح جيداً.", "pronunciation": "i-mal bi-jid, ir-tah jay-yi-dan"},
+            {"english": "Too much of anything is not good.", "arabic": "الإفراط في أي شيء ليس جيداً.", "pronunciation": "al-if-rat fi ay-yi shay laysa jay-yi-dan"},
         ],
         "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "Arabic": "El crecimiento ocurre fuera de tu zona de confort.", "pronunciation": "el cre-si-myen-to o-cu-re fwer-a de tu zo-na de con-fort."},
-            {"english": "Embrace change, grow stronger.", "Arabic": "Acepta el cambio, hazte más fuerte.", "pronunciation": "a-sep-ta el cam-byo, a-se-te mas fwer-te."},
-            {"english": "Every challenge is a chance to grow.", "Arabic": "Cada desafío es una oportunidad para crecer.", "pronunciation": "ca-da de-sa-fi-o es u-na o-por-tu-ni-dad pa-ra cre-ser."},
+            {"english": "Growth happens outside your comfort zone.", "arabic": "النمو يحدث خارج منطقة الراحة.", "pronunciation": "al-nu-mu yah-duth kha-rij man-ti-qat al-ra-ha"},
+            {"english": "Embrace change, grow stronger.", "arabic": "تقبل التغيير، كُن أقوى.", "pronunciation": "ta-qab-bal al-tagh-yir, kun aq-wa"},
+            {"english": "Every challenge is a chance to grow.", "arabic": "كل تحدٍ هو فرصة للنمو.", "pronunciation": "kul-lu ta-had-din hu-wa fur-sa lil-nu-mu"},
         ],
         "Purpose": [
-            {"english": "Find your purpose, follow it.", "Arabic": "Encuentra tu propósito, síguelo.", "pronunciation": "en-kwen-tra tu pro-po-si-to, si-ge-lo."},
-            {"english": "Your life has meaning.", "Arabic": "Tu vida tiene sentido.", "pronunciation": "tu vi-da tye-ne sen-ti-do."},
-            {"english": "Live with intention, not accident.", "Arabic": "Vive con intención, no por accidente.", "pronunciation": "vi-ve con in-ten-syon, no por ak-si-den-te."},
+            {"english": "Find your purpose, follow it.", "arabic": "ابحث عن هدفك، واتبعه.", "pronunciation": "ib-hath an ha-daf-ik, wa-tabi-hu"},
+            {"english": "Your life has meaning.", "arabic": "حياتك لها معنى.", "pronunciation": "ha-ya-tuk la-ha ma-na"},
+            {"english": "Live with intention, not accident.", "arabic": "عش بقصد، ليس بالصدفة.", "pronunciation": "ish bi-qasd, lai-sa bis-sud-fa"},
         ],
         "Mindfulness": [
-            {"english": "Be present in this moment.", "Arabic": "Mantente presente en este momento.", "pronunciation": "man-ten-te pre-sen-te en es-te mo-men-to."},
-            {"english": "Breathe deeply, stay grounded.", "Arabic": "Respira profundo, mantente centrado.", "pronunciation": "res-pi-ra pro-fun-do, man-ten-te sen-tra-do."},
-            {"english": "Notice the little things around you.", "Arabic": "Fíjate en las pequeñas cosas a tu alrededor.", "pronunciation": "fi-ja-te en las pe-ke-nyas co-sas a tu al-re-de-dor."},
+            {"english": "Be present in this moment.", "arabic": "كن حاضراً في هذه اللحظة.", "pronunciation": "kun ha-di-ran fi ha-dhi-hi al-lah-za"},
+            {"english": "Breathe deeply, stay grounded.", "arabic": "تنفس بعمق، ابقَ ثابتاً.", "pronunciation": "ta-na-fas bi-umq, ib-qa tha-bi-tan"},
+            {"english": "Notice the little things around you.", "arabic": "لاحظ الأشياء الصغيرة من حولك.", "pronunciation": "la-hiz al-ash-ya al-sa-ghi-ra min haw-lik"},
         ],
     }
-
     fallbacks = all_fallbacks.get(category, all_fallbacks["Motivation"])
 
     history = load_phrase_history()
@@ -911,7 +904,7 @@ def generate_title_description(category_english: str, category_arabic: str, phra
     ]
 
     # Generate comprehensive description
-    description = f"""🇪🇸 Learn Arabic with VELOCITY ARABIC! 🇪🇸
+    description = f"""🇸🇦 Learn Arabic with VELOCITY ARABIC! 🇸🇦
 
 In this video, you'll learn 60 essential Arabic phrases about {category_english} ({category_arabic}).
 Perfect for beginners and intermediate learners!
@@ -1263,7 +1256,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("🇪🇸 VELOCITY ARABIC - YOUTUBE LONG-FORM AUTOMATION 🇪🇸")
+    print("🇸🇦 VELOCITY ARABIC - YOUTUBE LONG-FORM AUTOMATION 🇸🇦")
     print("="*80)
     print("\n✨ FEATURES:")
     print("  ✓ 16:9 format (1920x1080) for YouTube long-form")
