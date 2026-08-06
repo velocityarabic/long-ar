@@ -13679,7 +13679,727 @@
       "Arabic": "احتفل بانتصاراتك، كبيرة كانت أم صغيرة.",
       "category": "Happiness",
       "generated_at": "2026-08-05T04:17:48.697982"
+    },
+    {
+      "english": "Sunshine, feels like a hug.",
+      "Arabic": "الشمس، تشعر وكأنها عناق.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639655"
+    },
+    {
+      "english": "New shoes, walking on air.",
+      "Arabic": "حذاء جديد، المشي على الهواء.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639666"
+    },
+    {
+      "english": "A child's laugh, pure magic.",
+      "Arabic": "ضحكة طفل، سحر نقي.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639668"
+    },
+    {
+      "english": "Fresh bread, smells like home.",
+      "Arabic": "خبز طازج، رائحته كالبيت.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639669"
+    },
+    {
+      "english": "Learning a word, unlocks a world.",
+      "Arabic": "تعلم كلمة، يفتح عالماً.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639670"
+    },
+    {
+      "english": "A warm cup, chasing cold away.",
+      "Arabic": "كوب دافئ، يطرد البرد.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639671"
+    },
+    {
+      "english": "Finding a lost coin, little treasure.",
+      "Arabic": "إيجاد عملة مفقودة، كنز صغير.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639672"
+    },
+    {
+      "english": "A perfectly ripe fruit, nature's candy.",
+      "Arabic": "فاكهة ناضجة تماماً، حلوى الطبيعة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639675"
+    },
+    {
+      "english": "Receiving a kind message, feels good.",
+      "Arabic": "استلام رسالة لطيفة، شعور رائع.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639677"
+    },
+    {
+      "english": "A cozy blanket, pure comfort.",
+      "Arabic": "بطانية مريحة، راحة خالصة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639679"
+    },
+    {
+      "english": "Watching stars, big amazing sky.",
+      "Arabic": "مشاهدة النجوم، سماء كبيرة رائعة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639680"
+    },
+    {
+      "english": "Your favorite song, playing now.",
+      "Arabic": "أغنيتك المفضلة، تعمل الآن.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639681"
+    },
+    {
+      "english": "A gentle breeze, cools your face.",
+      "Arabic": "نسيم لطيف، يبرد وجهك.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639682"
+    },
+    {
+      "english": "Finishing a hard task, sweet relief.",
+      "Arabic": "إنهاء مهمة صعبة، راحة لذيذة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639683"
+    },
+    {
+      "english": "A bright flower, a splash of color.",
+      "Arabic": "زهرة زاهية، لمسة لون.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639684"
+    },
+    {
+      "english": "Making someone laugh, my goal.",
+      "Arabic": "جعل شخص يضحك، هدفي.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639685"
+    },
+    {
+      "english": "A warm hug, from a friend.",
+      "Arabic": "عناق دافئ، من صديق.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639686"
+    },
+    {
+      "english": "Finding a forgotten memory, a surprise.",
+      "Arabic": "تذكر ذكرى منسية، مفاجأة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639687"
+    },
+    {
+      "english": "A good cup of tea, perfect moment.",
+      "Arabic": "كوب شاي جيد، لحظة مثالية.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639689"
+    },
+    {
+      "english": "Sunlight through leaves, dappled pattern.",
+      "Arabic": "ضوء الشمس عبر الأوراق، نمط مرقط.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639690"
+    },
+    {
+      "english": "Hearing your name, called kindly.",
+      "Arabic": "سماع اسمك، ينادى بلطف.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639691"
+    },
+    {
+      "english": "A tasty cookie, small sweet joy.",
+      "Arabic": "كعكة لذيذة، فرحة حلوة صغيرة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639692"
+    },
+    {
+      "english": "Raindrops on window, peaceful sound.",
+      "Arabic": "قطرات المطر على النافذة، صوت هادئ.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639693"
+    },
+    {
+      "english": "Finishing a drawing, proud moment.",
+      "Arabic": "إنهاء رسم، لحظة فخر.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639694"
+    },
+    {
+      "english": "A beautiful sunset, paints the sky.",
+      "Arabic": "غروب جميل، يلون السماء.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639695"
+    },
+    {
+      "english": "Good news, brightens your day.",
+      "Arabic": "أخبار سارة، تضيء يومك.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639697"
+    },
+    {
+      "english": "A strong handshake, shows confidence.",
+      "Arabic": "مصافحة قوية، تظهر الثقة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639698"
+    },
+    {
+      "english": "Discovering a new café, exciting.",
+      "Arabic": "اكتشاف مقهى جديد، مثير.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639699"
+    },
+    {
+      "english": "A quiet moment, for yourself.",
+      "Arabic": "لحظة هدوء، لنفسك.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639700"
+    },
+    {
+      "english": "Smelling flowers, fresh perfume.",
+      "Arabic": "شم الزهور، عطر منعش.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639701"
+    },
+    {
+      "english": "A warm smile, from a stranger.",
+      "Arabic": "ابتسامة دافئة، من غريب.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639702"
+    },
+    {
+      "english": "Playing a fun game, pure delight.",
+      "Arabic": "لعب لعبة ممتعة، بهجة خالصة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639703"
+    },
+    {
+      "english": "Freshly cut grass, good smell.",
+      "Arabic": "عشب مقصوص حديثاً، رائحة طيبة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639704"
+    },
+    {
+      "english": "Seeing a rainbow, after rain.",
+      "Arabic": "رؤية قوس قزح، بعد المطر.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639705"
+    },
+    {
+      "english": "A thoughtful gift, warms the heart.",
+      "Arabic": "هدية مدروسة، تدفئ القلب.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639706"
+    },
+    {
+      "english": "A successful experiment, feels amazing.",
+      "Arabic": "تجربة ناجحة، شعور مدهش.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639707"
+    },
+    {
+      "english": "Your favorite food, smells wonderful.",
+      "Arabic": "طعامك المفضل، رائحته رائعة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639708"
+    },
+    {
+      "english": "A new idea, sparks creativity.",
+      "Arabic": "فكرة جديدة، تشعل الإبداع.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639709"
+    },
+    {
+      "english": "Watching a cute animal, melts your heart.",
+      "Arabic": "مشاهدة حيوان لطيف، يذوب قلبك.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639711"
+    },
+    {
+      "english": "Sunshine, feels like a hug.",
+      "Arabic": "الشمس، تشعر وكأنها عناق.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639712"
+    },
+    {
+      "english": "New shoes, walking on air.",
+      "Arabic": "حذاء جديد، المشي على الهواء.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639713"
+    },
+    {
+      "english": "A child's laugh, pure magic.",
+      "Arabic": "ضحكة طفل، سحر نقي.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639714"
+    },
+    {
+      "english": "Fresh bread, smells like home.",
+      "Arabic": "خبز طازج، رائحته كالبيت.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639715"
+    },
+    {
+      "english": "Learning a word, unlocks a world.",
+      "Arabic": "تعلم كلمة، يفتح عالماً.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639717"
+    },
+    {
+      "english": "A warm cup, chasing cold away.",
+      "Arabic": "كوب دافئ، يطرد البرد.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639718"
+    },
+    {
+      "english": "Finding a lost coin, little treasure.",
+      "Arabic": "إيجاد عملة مفقودة، كنز صغير.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639719"
+    },
+    {
+      "english": "A perfectly ripe fruit, nature's candy.",
+      "Arabic": "فاكهة ناضجة تماماً، حلوى الطبيعة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639720"
+    },
+    {
+      "english": "Receiving a kind message, feels good.",
+      "Arabic": "استلام رسالة لطيفة، شعور رائع.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639721"
+    },
+    {
+      "english": "A cozy blanket, pure comfort.",
+      "Arabic": "بطانية مريحة، راحة خالصة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639722"
+    },
+    {
+      "english": "Watching stars, big amazing sky.",
+      "Arabic": "مشاهدة النجوم، سماء كبيرة رائعة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639723"
+    },
+    {
+      "english": "Your favorite song, playing now.",
+      "Arabic": "أغنيتك المفضلة، تعمل الآن.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639724"
+    },
+    {
+      "english": "A gentle breeze, cools your face.",
+      "Arabic": "نسيم لطيف، يبرد وجهك.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639725"
+    },
+    {
+      "english": "Finishing a hard task, sweet relief.",
+      "Arabic": "إنهاء مهمة صعبة، راحة لذيذة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639727"
+    },
+    {
+      "english": "A bright flower, a splash of color.",
+      "Arabic": "زهرة زاهية، لمسة لون.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639728"
+    },
+    {
+      "english": "Making someone laugh, my goal.",
+      "Arabic": "جعل شخص يضحك، هدفي.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639729"
+    },
+    {
+      "english": "A warm hug, from a friend.",
+      "Arabic": "عناق دافئ، من صديق.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639730"
+    },
+    {
+      "english": "Finding a forgotten memory, a surprise.",
+      "Arabic": "تذكر ذكرى منسية، مفاجأة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639731"
+    },
+    {
+      "english": "A good cup of tea, perfect moment.",
+      "Arabic": "كوب شاي جيد، لحظة مثالية.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639732"
+    },
+    {
+      "english": "Sunlight through leaves, dappled pattern.",
+      "Arabic": "ضوء الشمس عبر الأوراق، نمط مرقط.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639733"
+    },
+    {
+      "english": "Hearing your name, called kindly.",
+      "Arabic": "سماع اسمك، ينادى بلطف.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639734"
+    },
+    {
+      "english": "A tasty cookie, small sweet joy.",
+      "Arabic": "كعكة لذيذة، فرحة حلوة صغيرة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639736"
+    },
+    {
+      "english": "Raindrops on window, peaceful sound.",
+      "Arabic": "قطرات المطر على النافذة، صوت هادئ.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639737"
+    },
+    {
+      "english": "Finishing a drawing, proud moment.",
+      "Arabic": "إنهاء رسم، لحظة فخر.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639738"
+    },
+    {
+      "english": "A beautiful sunset, paints the sky.",
+      "Arabic": "غروب جميل، يلون السماء.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639739"
+    },
+    {
+      "english": "Good news, brightens your day.",
+      "Arabic": "أخبار سارة، تضيء يومك.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639740"
+    },
+    {
+      "english": "A strong handshake, shows confidence.",
+      "Arabic": "مصافحة قوية، تظهر الثقة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639741"
+    },
+    {
+      "english": "Discovering a new café, exciting.",
+      "Arabic": "اكتشاف مقهى جديد، مثير.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639742"
+    },
+    {
+      "english": "A quiet moment, for yourself.",
+      "Arabic": "لحظة هدوء، لنفسك.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639743"
+    },
+    {
+      "english": "Smelling flowers, fresh perfume.",
+      "Arabic": "شم الزهور، عطر منعش.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639744"
+    },
+    {
+      "english": "A warm smile, from a stranger.",
+      "Arabic": "ابتسامة دافئة، من غريب.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639745"
+    },
+    {
+      "english": "Playing a fun game, pure delight.",
+      "Arabic": "لعب لعبة ممتعة، بهجة خالصة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639746"
+    },
+    {
+      "english": "Freshly cut grass, good smell.",
+      "Arabic": "عشب مقصوص حديثاً، رائحة طيبة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639747"
+    },
+    {
+      "english": "Seeing a rainbow, after rain.",
+      "Arabic": "رؤية قوس قزح، بعد المطر.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639748"
+    },
+    {
+      "english": "A thoughtful gift, warms the heart.",
+      "Arabic": "هدية مدروسة، تدفئ القلب.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639749"
+    },
+    {
+      "english": "A successful experiment, feels amazing.",
+      "Arabic": "تجربة ناجحة، شعور مدهش.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639750"
+    },
+    {
+      "english": "Your favorite food, smells wonderful.",
+      "Arabic": "طعامك المفضل، رائحته رائعة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639751"
+    },
+    {
+      "english": "A new idea, sparks creativity.",
+      "Arabic": "فكرة جديدة، تشعل الإبداع.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639752"
+    },
+    {
+      "english": "Watching a cute animal, melts your heart.",
+      "Arabic": "مشاهدة حيوان لطيف، يذوب قلبك.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639753"
+    },
+    {
+      "english": "Sunshine, feels like a hug.",
+      "Arabic": "الشمس، تشعر وكأنها عناق.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639754"
+    },
+    {
+      "english": "New shoes, walking on air.",
+      "Arabic": "حذاء جديد، المشي على الهواء.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639756"
+    },
+    {
+      "english": "A child's laugh, pure magic.",
+      "Arabic": "ضحكة طفل، سحر نقي.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639757"
+    },
+    {
+      "english": "Fresh bread, smells like home.",
+      "Arabic": "خبز طازج، رائحته كالبيت.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639758"
+    },
+    {
+      "english": "Learning a word, unlocks a world.",
+      "Arabic": "تعلم كلمة، يفتح عالماً.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639759"
+    },
+    {
+      "english": "A warm cup, chasing cold away.",
+      "Arabic": "كوب دافئ، يطرد البرد.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639760"
+    },
+    {
+      "english": "Finding a lost coin, little treasure.",
+      "Arabic": "إيجاد عملة مفقودة، كنز صغير.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639761"
+    },
+    {
+      "english": "A perfectly ripe fruit, nature's candy.",
+      "Arabic": "فاكهة ناضجة تماماً، حلوى الطبيعة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639762"
+    },
+    {
+      "english": "Receiving a kind message, feels good.",
+      "Arabic": "استلام رسالة لطيفة، شعور رائع.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639763"
+    },
+    {
+      "english": "A cozy blanket, pure comfort.",
+      "Arabic": "بطانية مريحة، راحة خالصة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639764"
+    },
+    {
+      "english": "Watching stars, big amazing sky.",
+      "Arabic": "مشاهدة النجوم، سماء كبيرة رائعة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639766"
+    },
+    {
+      "english": "Your favorite song, playing now.",
+      "Arabic": "أغنيتك المفضلة، تعمل الآن.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639767"
+    },
+    {
+      "english": "A gentle breeze, cools your face.",
+      "Arabic": "نسيم لطيف، يبرد وجهك.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639768"
+    },
+    {
+      "english": "Finishing a hard task, sweet relief.",
+      "Arabic": "إنهاء مهمة صعبة، راحة لذيذة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639769"
+    },
+    {
+      "english": "A bright flower, a splash of color.",
+      "Arabic": "زهرة زاهية، لمسة لون.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639771"
+    },
+    {
+      "english": "Making someone laugh, my goal.",
+      "Arabic": "جعل شخص يضحك، هدفي.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639772"
+    },
+    {
+      "english": "A warm hug, from a friend.",
+      "Arabic": "عناق دافئ، من صديق.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639773"
+    },
+    {
+      "english": "Finding a forgotten memory, a surprise.",
+      "Arabic": "تذكر ذكرى منسية، مفاجأة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639774"
+    },
+    {
+      "english": "A good cup of tea, perfect moment.",
+      "Arabic": "كوب شاي جيد، لحظة مثالية.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639775"
+    },
+    {
+      "english": "Sunlight through leaves, dappled pattern.",
+      "Arabic": "ضوء الشمس عبر الأوراق، نمط مرقط.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639776"
+    },
+    {
+      "english": "Hearing your name, called kindly.",
+      "Arabic": "سماع اسمك، ينادى بلطف.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639777"
+    },
+    {
+      "english": "A tasty cookie, small sweet joy.",
+      "Arabic": "كعكة لذيذة، فرحة حلوة صغيرة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639778"
+    },
+    {
+      "english": "Raindrops on window, peaceful sound.",
+      "Arabic": "قطرات المطر على النافذة، صوت هادئ.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639780"
+    },
+    {
+      "english": "Finishing a drawing, proud moment.",
+      "Arabic": "إنهاء رسم، لحظة فخر.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639781"
+    },
+    {
+      "english": "A beautiful sunset, paints the sky.",
+      "Arabic": "غروب جميل، يلون السماء.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639782"
+    },
+    {
+      "english": "Good news, brightens your day.",
+      "Arabic": "أخبار سارة، تضيء يومك.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639783"
+    },
+    {
+      "english": "A strong handshake, shows confidence.",
+      "Arabic": "مصافحة قوية، تظهر الثقة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639784"
+    },
+    {
+      "english": "Discovering a new café, exciting.",
+      "Arabic": "اكتشاف مقهى جديد، مثير.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639785"
+    },
+    {
+      "english": "A quiet moment, for yourself.",
+      "Arabic": "لحظة هدوء، لنفسك.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639786"
+    },
+    {
+      "english": "Smelling flowers, fresh perfume.",
+      "Arabic": "شم الزهور، عطر منعش.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639787"
+    },
+    {
+      "english": "A warm smile, from a stranger.",
+      "Arabic": "ابتسامة دافئة، من غريب.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639791"
+    },
+    {
+      "english": "Playing a fun game, pure delight.",
+      "Arabic": "لعب لعبة ممتعة، بهجة خالصة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639793"
+    },
+    {
+      "english": "Freshly cut grass, good smell.",
+      "Arabic": "عشب مقصوص حديثاً، رائحة طيبة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639794"
+    },
+    {
+      "english": "Seeing a rainbow, after rain.",
+      "Arabic": "رؤية قوس قزح، بعد المطر.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639795"
+    },
+    {
+      "english": "A thoughtful gift, warms the heart.",
+      "Arabic": "هدية مدروسة، تدفئ القلب.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639796"
+    },
+    {
+      "english": "A successful experiment, feels amazing.",
+      "Arabic": "تجربة ناجحة، شعور مدهش.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639797"
+    },
+    {
+      "english": "Your favorite food, smells wonderful.",
+      "Arabic": "طعامك المفضل، رائحته رائعة.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639798"
+    },
+    {
+      "english": "A new idea, sparks creativity.",
+      "Arabic": "فكرة جديدة، تشعل الإبداع.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639799"
+    },
+    {
+      "english": "Watching a cute animal, melts your heart.",
+      "Arabic": "مشاهدة حيوان لطيف، يذوب قلبك.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639800"
+    },
+    {
+      "english": "Sunshine, feels like a hug.",
+      "Arabic": "الشمس، تشعر وكأنها عناق.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639801"
+    },
+    {
+      "english": "New shoes, walking on air.",
+      "Arabic": "حذاء جديد، المشي على الهواء.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639802"
+    },
+    {
+      "english": "A child's laugh, pure magic.",
+      "Arabic": "ضحكة طفل، سحر نقي.",
+      "category": "Joy",
+      "generated_at": "2026-08-06T04:13:22.639804"
     }
   ],
-  "last_updated": "2026-08-05T04:17:48.697984"
+  "last_updated": "2026-08-06T04:13:22.639807"
 }
