@@ -257,6 +257,7 @@ For each phrase:
 1. English phrase (with commas for natural pauses)
 2. Arabic translation
 3. Pronunciation guide (phonetic spelling for English speakers)
+CRITICAL: Every translation MUST be in Arabic. NEVER use German, Spanish, or any other language. Only Arabic.
 
 Return as JSON array:
 [{{"english": "...", "arabic": "...", "pronunciation": "..."}}]
