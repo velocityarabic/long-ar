@@ -15119,7 +15119,727 @@
       "Arabic": "قدّر كل لحظة.",
       "category": "Positive Life",
       "generated_at": "2026-08-07T03:49:57.831316"
+    },
+    {
+      "english": "Mistake happens, learn from it.",
+      "Arabic": "الخطأ يحدث، تعلم منه.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922926"
+    },
+    {
+      "english": "Don't rush, take your time.",
+      "Arabic": "لا تتعجل، خذ وقتك.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922937"
+    },
+    {
+      "english": "Listen first, then speak.",
+      "Arabic": "استمع أولاً، ثم تحدث.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922939"
+    },
+    {
+      "english": "Mistakes are lessons, not failures.",
+      "Arabic": "الأخطاء دروس، ليست فشلاً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922940"
+    },
+    {
+      "english": "Be clear, with your words.",
+      "Arabic": "كن واضحاً، بكلماتك.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922941"
+    },
+    {
+      "english": "Think before you act.",
+      "Arabic": "فكر قبل أن تفعل.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922942"
+    },
+    {
+      "english": "Practice makes progress, not perfect.",
+      "Arabic": "الممارسة تصنع تقدماً، لا كمالاً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922944"
+    },
+    {
+      "english": "It's okay, to not know everything.",
+      "Arabic": "لا بأس، ألا تعرف كل شيء.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922947"
+    },
+    {
+      "english": "Focus on the goal, stay driven.",
+      "Arabic": "ركز على الهدف، ابقَ مدفوعاً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922949"
+    },
+    {
+      "english": "Understand the question, then answer.",
+      "Arabic": "افهم السؤال، ثم أجب.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922950"
+    },
+    {
+      "english": "Patience is a virtue, worth it.",
+      "Arabic": "الصبر فضيلة، يستحق.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922952"
+    },
+    {
+      "english": "Repeat if you don't understand.",
+      "Arabic": "كرر إن لم تفهم.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922953"
+    },
+    {
+      "english": "Use simple words, be direct.",
+      "Arabic": "استخدم كلمات بسيطة، كن مباشراً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922954"
+    },
+    {
+      "english": "A little effort, goes a long way.",
+      "Arabic": "جهد قليل، يقطع شوطاً طويلاً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922956"
+    },
+    {
+      "english": "Don't be afraid, to ask for help.",
+      "Arabic": "لا تخف، من طلب المساعدة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922957"
+    },
+    {
+      "english": "Focus on meaning, not just words.",
+      "Arabic": "ركز على المعنى، وليس الكلمات فقط.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922958"
+    },
+    {
+      "english": "Be consistent, in your learning.",
+      "Arabic": "كن متناسقاً، في تعلمك.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922959"
+    },
+    {
+      "english": "Mistakes are proof, you are trying.",
+      "Arabic": "الأخطاء دليل، أنك تحاول.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922960"
+    },
+    {
+      "english": "Listen to the sound, not just the script.",
+      "Arabic": "استمع للصوت، وليس للنص فقط.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922961"
+    },
+    {
+      "english": "One word at a time, learn it.",
+      "Arabic": "كلمة واحدة في كل مرة، تعلمها.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922962"
+    },
+    {
+      "english": "The journey, is the reward.",
+      "Arabic": "الرحلة، هي المكافأة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922964"
+    },
+    {
+      "english": "Don't translate word for word.",
+      "Arabic": "لا تترجم كلمة بكلمة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922965"
+    },
+    {
+      "english": "Context is key, remember that.",
+      "Arabic": "السياق مفتاح، تذكر ذلك.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922966"
+    },
+    {
+      "english": "Celebrate small victories, daily.",
+      "Arabic": "احتفل بالانتصارات الصغيرة، يومياً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922967"
+    },
+    {
+      "english": "Break it down, make it simple.",
+      "Arabic": "جزّئه، اجعله بسيطاً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922968"
+    },
+    {
+      "english": "Ask why, then you'll know.",
+      "Arabic": "اسأل لماذا، حينها ستعرف.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922969"
+    },
+    {
+      "english": "Repetition builds memory, strongly.",
+      "Arabic": "التكرار يبني الذاكرة، بقوة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922970"
+    },
+    {
+      "english": "Mistakes are stepping stones, upward.",
+      "Arabic": "الأخطاء درجات، للصعود.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922971"
+    },
+    {
+      "english": "Listen for the feeling, behind words.",
+      "Arabic": "استمع للشعور، خلف الكلمات.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922972"
+    },
+    {
+      "english": "Pronounce slowly, clearly.",
+      "Arabic": "انطق ببطء، بوضوح.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922973"
+    },
+    {
+      "english": "Don't be shy, speak out loud.",
+      "Arabic": "لا تخجل، تكلم بصوت عالٍ.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922974"
+    },
+    {
+      "english": "Find patterns, learn faster.",
+      "Arabic": "ابحث عن أنماط، تعلم أسرع.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922975"
+    },
+    {
+      "english": "A little bit each day, counts.",
+      "Arabic": "قليل كل يوم، له قيمة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922976"
+    },
+    {
+      "english": "Correct yourself, when needed.",
+      "Arabic": "صحح نفسك، عند الحاجة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922977"
+    },
+    {
+      "english": "Mistakes mean you're growing, learn.",
+      "Arabic": "الأخطاء تعني أنك تنمو، تعلم.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922978"
+    },
+    {
+      "english": "Embrace the awkwardness, it's normal.",
+      "Arabic": "احتضن الإحراج، إنه طبيعي.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922979"
+    },
+    {
+      "english": "Read aloud, your voice matters.",
+      "Arabic": "اقرأ بصوت عالٍ، صوتك مهم.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922980"
+    },
+    {
+      "english": "Listen to native speakers, imitate them.",
+      "Arabic": "استمع للناطقين الأصليين، قلدْهم.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922981"
+    },
+    {
+      "english": "Mistakes are bridges, to fluency.",
+      "Arabic": "الأخطاء جسور، نحو الطلاقة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922982"
+    },
+    {
+      "english": "Mistake? No, lesson learned.",
+      "Arabic": "خطأ؟ لا، درس تعلمته.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922984"
+    },
+    {
+      "english": "Speak clearly, not too fast.",
+      "Arabic": "تكلم بوضوح، ليس بسرعة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922985"
+    },
+    {
+      "english": "Understand first, then reply.",
+      "Arabic": "افهم أولاً، ثم رد.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922988"
+    },
+    {
+      "english": "Don't worry, just try.",
+      "Arabic": "لا تقلق، فقط حاول.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922989"
+    },
+    {
+      "english": "Mistakes are, bridges, not walls.",
+      "Arabic": "الأخطاء جسور، لا جدران.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922991"
+    },
+    {
+      "english": "Read the sign, carefully.",
+      "Arabic": "اقرأ اللافتة، بعناية.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922992"
+    },
+    {
+      "english": "It's 'shukran', not 'shukra'.",
+      "Arabic": "إنها 'شكراً'، ليست 'شكرا'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922993"
+    },
+    {
+      "english": "Correct pronunciation, matters.",
+      "Arabic": "النطق الصحيح، مهم.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922994"
+    },
+    {
+      "english": "This word means, that thing.",
+      "Arabic": "هذه الكلمة تعني، ذلك الشيء.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922995"
+    },
+    {
+      "english": "Don't confuse 'b' with 'p'.",
+      "Arabic": "لا تخلط بين 'ب' و 'پ'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922997"
+    },
+    {
+      "english": "The accent, changes meaning.",
+      "Arabic": "النبرة، تغير المعنى.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922998"
+    },
+    {
+      "english": "Focus on the vowels, please.",
+      "Arabic": "ركز على الحروف المتحركة، من فضلك.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.922999"
+    },
+    {
+      "english": "It's a phrase, not a sentence.",
+      "Arabic": "إنها عبارة، ليست جملة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923000"
+    },
+    {
+      "english": "Use 'wa' for 'and', simply.",
+      "Arabic": "استخدم 'و' للعطف، ببساطة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923001"
+    },
+    {
+      "english": "The question mark, is key.",
+      "Arabic": "علامة الاستفهام، أساسية.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923002"
+    },
+    {
+      "english": "Be polite, it opens doors.",
+      "Arabic": "كن مهذباً، يفتح الأبواب.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923004"
+    },
+    {
+      "english": "Practice makes, perfect, you know.",
+      "Arabic": "التدريب يجعل، الكمال، تعرف.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923005"
+    },
+    {
+      "english": "Don't fear, the new sound.",
+      "Arabic": "لا تخف، من الصوت الجديد.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923006"
+    },
+    {
+      "english": "It's not hard, just different.",
+      "Arabic": "ليس صعباً، فقط مختلفاً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923007"
+    },
+    {
+      "english": "Repeat after me, slowly.",
+      "Arabic": "كرر ورائي، ببطء.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923008"
+    },
+    {
+      "english": "This gesture, means welcome.",
+      "Arabic": "هذه الإشارة، تعني أهلاً وسهلاً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923009"
+    },
+    {
+      "english": "Your effort, is valued, greatly.",
+      "Arabic": "جهدك، مقدر، كثيراً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923010"
+    },
+    {
+      "english": "Don't be shy, to speak.",
+      "Arabic": "لا تخجل، من الكلام.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923012"
+    },
+    {
+      "english": "This is correct, Arabic way.",
+      "Arabic": "هذه هي الطريقة, العربية الصحيحة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923013"
+    },
+    {
+      "english": "Understand context, first.",
+      "Arabic": "افهم السياق، أولاً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923014"
+    },
+    {
+      "english": "You are learning, well done.",
+      "Arabic": "أنت تتعلم، أحسنت.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923015"
+    },
+    {
+      "english": "It's 'sabah al-khair', morning.",
+      "Arabic": "إنها 'صباح الخير'، يا صباح.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923016"
+    },
+    {
+      "english": "Don't translate word-for-word.",
+      "Arabic": "لا تترجم حرفياً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923017"
+    },
+    {
+      "english": "Meaning over method, always.",
+      "Arabic": "المعنى قبل الطريقة، دائماً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923018"
+    },
+    {
+      "english": "This sounds better, try it.",
+      "Arabic": "هذا يبدو أفضل، جرب.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923019"
+    },
+    {
+      "english": "The idiom, has a story.",
+      "Arabic": "المثل، له قصة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923021"
+    },
+    {
+      "english": "Don't forget, the diphthongs.",
+      "Arabic": "لا تنسَ، الحروف المزدوجه.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923022"
+    },
+    {
+      "english": "It's a common phrase, use it.",
+      "Arabic": "إنها عبارة شائعة، استخدمها.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923023"
+    },
+    {
+      "english": "Your progress, is visible.",
+      "Arabic": "تقدمك، واضح.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923024"
+    },
+    {
+      "english": "This is the, natural flow.",
+      "Arabic": "هذا هو، التدفق الطبيعي.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923025"
+    },
+    {
+      "english": "Mistake? No, lesson learned.",
+      "Arabic": "خطأ؟ لا، درس تعلمته.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923027"
+    },
+    {
+      "english": "Speak clearly, not too fast.",
+      "Arabic": "تكلم بوضوح، ليس بسرعة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923028"
+    },
+    {
+      "english": "Understand first, then reply.",
+      "Arabic": "افهم أولاً، ثم رد.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923029"
+    },
+    {
+      "english": "Don't worry, just try.",
+      "Arabic": "لا تقلق، فقط حاول.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923030"
+    },
+    {
+      "english": "Mistakes are, bridges, not walls.",
+      "Arabic": "الأخطاء جسور، لا جدران.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923031"
+    },
+    {
+      "english": "Read the sign, carefully.",
+      "Arabic": "اقرأ اللافتة، بعناية.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923032"
+    },
+    {
+      "english": "It's 'shukran', not 'shukra'.",
+      "Arabic": "إنها 'شكراً'، ليست 'شكرا'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923034"
+    },
+    {
+      "english": "Correct pronunciation, matters.",
+      "Arabic": "النطق الصحيح، مهم.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923035"
+    },
+    {
+      "english": "This word means, that thing.",
+      "Arabic": "هذه الكلمة تعني، ذلك الشيء.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923036"
+    },
+    {
+      "english": "Don't confuse 'b' with 'p'.",
+      "Arabic": "لا تخلط بين 'ب' و 'پ'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923037"
+    },
+    {
+      "english": "The accent, changes meaning.",
+      "Arabic": "النبرة، تغير المعنى.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923038"
+    },
+    {
+      "english": "Focus on the vowels, please.",
+      "Arabic": "ركز على الحروف المتحركة، من فضلك.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923039"
+    },
+    {
+      "english": "It's a phrase, not a sentence.",
+      "Arabic": "إنها عبارة، ليست جملة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923040"
+    },
+    {
+      "english": "Use 'wa' for 'and', simply.",
+      "Arabic": "استخدم 'و' للعطف، ببساطة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923041"
+    },
+    {
+      "english": "The question mark, is key.",
+      "Arabic": "علامة الاستفهام، أساسية.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923042"
+    },
+    {
+      "english": "Be polite, it opens doors.",
+      "Arabic": "كن مهذباً، يفتح الأبواب.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923044"
+    },
+    {
+      "english": "Practice makes, perfect, you know.",
+      "Arabic": "التدريب يجعل، الكمال، تعرف.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923045"
+    },
+    {
+      "english": "Don't fear, the new sound.",
+      "Arabic": "لا تخف، من الصوت الجديد.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923046"
+    },
+    {
+      "english": "It's not hard, just different.",
+      "Arabic": "ليس صعباً، فقط مختلفاً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923047"
+    },
+    {
+      "english": "Repeat after me, slowly.",
+      "Arabic": "كرر ورائي، ببطء.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923048"
+    },
+    {
+      "english": "This gesture, means welcome.",
+      "Arabic": "هذه الإشارة، تعني أهلاً وسهلاً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923049"
+    },
+    {
+      "english": "Your effort, is valued, greatly.",
+      "Arabic": "جهدك، مقدر، كثيراً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923050"
+    },
+    {
+      "english": "Don't be shy, to speak.",
+      "Arabic": "لا تخجل، من الكلام.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923052"
+    },
+    {
+      "english": "This is correct, Arabic way.",
+      "Arabic": "هذه هي الطريقة, العربية الصحيحة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923053"
+    },
+    {
+      "english": "Understand context, first.",
+      "Arabic": "افهم السياق، أولاً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923054"
+    },
+    {
+      "english": "You are learning, well done.",
+      "Arabic": "أنت تتعلم، أحسنت.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923055"
+    },
+    {
+      "english": "It's 'sabah al-khair', morning.",
+      "Arabic": "إنها 'صباح الخير'، يا صباح.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923056"
+    },
+    {
+      "english": "Don't translate word-for-word.",
+      "Arabic": "لا تترجم حرفياً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923057"
+    },
+    {
+      "english": "Meaning over method, always.",
+      "Arabic": "المعنى قبل الطريقة، دائماً.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923058"
+    },
+    {
+      "english": "This sounds better, try it.",
+      "Arabic": "هذا يبدو أفضل، جرب.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923059"
+    },
+    {
+      "english": "The idiom, has a story.",
+      "Arabic": "المثل، له قصة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923060"
+    },
+    {
+      "english": "Don't forget, the diphthongs.",
+      "Arabic": "لا تنسَ، الحروف المزدوجه.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923062"
+    },
+    {
+      "english": "It's a common phrase, use it.",
+      "Arabic": "إنها عبارة شائعة، استخدمها.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923063"
+    },
+    {
+      "english": "Your progress, is visible.",
+      "Arabic": "تقدمك، واضح.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923064"
+    },
+    {
+      "english": "This is the, natural flow.",
+      "Arabic": "هذا هو، التدفق الطبيعي.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923065"
+    },
+    {
+      "english": "Mistake? No, lesson learned.",
+      "Arabic": "خطأ؟ لا، درس تعلمته.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923066"
+    },
+    {
+      "english": "Speak clearly, not too fast.",
+      "Arabic": "تكلم بوضوح، ليس بسرعة.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923067"
+    },
+    {
+      "english": "Understand first, then reply.",
+      "Arabic": "افهم أولاً، ثم رد.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923069"
+    },
+    {
+      "english": "Don't worry, just try.",
+      "Arabic": "لا تقلق، فقط حاول.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923070"
+    },
+    {
+      "english": "Mistakes are, bridges, not walls.",
+      "Arabic": "الأخطاء جسور، لا جدران.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923071"
+    },
+    {
+      "english": "Read the sign, carefully.",
+      "Arabic": "اقرأ اللافتة، بعناية.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923072"
+    },
+    {
+      "english": "It's 'shukran', not 'shukra'.",
+      "Arabic": "إنها 'شكراً'، ليست 'شكرا'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923073"
+    },
+    {
+      "english": "Correct pronunciation, matters.",
+      "Arabic": "النطق الصحيح، مهم.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923074"
+    },
+    {
+      "english": "This word means, that thing.",
+      "Arabic": "هذه الكلمة تعني، ذلك الشيء.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923076"
+    },
+    {
+      "english": "Don't confuse 'b' with 'p'.",
+      "Arabic": "لا تخلط بين 'ب' و 'پ'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923077"
+    },
+    {
+      "english": "The accent, changes meaning.",
+      "Arabic": "النبرة، تغير المعنى.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:54:28.923078"
     }
   ],
-  "last_updated": "2026-08-07T03:49:57.831318"
+  "last_updated": "2026-08-08T02:54:28.923080"
 }
