@@ -16559,7 +16559,727 @@
       "Arabic": "كن شجاعاً، قل مرحباً.",
       "category": "Confidence",
       "generated_at": "2026-08-09T03:01:56.319991"
+    },
+    {
+      "english": "You make learning, fun.",
+      "Arabic": "أنت تجعل التعلم، ممتعًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237325"
+    },
+    {
+      "english": "Your smile, brightens my day.",
+      "Arabic": "ابتسامتك، تضيء يومي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237335"
+    },
+    {
+      "english": "I love, your accent.",
+      "Arabic": "أحب، لهجتك.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237337"
+    },
+    {
+      "english": "You are, a quick learner.",
+      "Arabic": "أنت، متعلم سريع.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237339"
+    },
+    {
+      "english": "Talking with you, is easy.",
+      "Arabic": "الحديث معك، سهل.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237340"
+    },
+    {
+      "english": "Your Arabic, sounds lovely.",
+      "Arabic": "لغتك العربية، تبدو رائعة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237341"
+    },
+    {
+      "english": "You have, a charming voice.",
+      "Arabic": "لديك، صوت ساحر.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237342"
+    },
+    {
+      "english": "You make me, want to speak.",
+      "Arabic": "أنت تجعلني، أرغب في التحدث.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237345"
+    },
+    {
+      "english": "Every word, you say, is sweet.",
+      "Arabic": "كل كلمة، تقولها، حلوة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237347"
+    },
+    {
+      "english": "You are, my Arabic inspiration.",
+      "Arabic": "أنت، إلهامي العربي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237349"
+    },
+    {
+      "english": "I'm falling, for your Arabic.",
+      "Arabic": "أنا أقع، في حب لغتك العربية.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237350"
+    },
+    {
+      "english": "You make, my Arabic better.",
+      "Arabic": "أنت تجعل، لغتي العربية أفضل.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237351"
+    },
+    {
+      "english": "I could listen, all day.",
+      "Arabic": "يمكنني الاستماع، طوال اليوم.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237353"
+    },
+    {
+      "english": "Your eyes, sparkle, when you speak.",
+      "Arabic": "عيناك، تلمعان، عندما تتحدث.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237354"
+    },
+    {
+      "english": "You have, a way with words.",
+      "Arabic": "لديك، أسلوب في الكلام.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237355"
+    },
+    {
+      "english": "My heart skips, for your 'Assalamu Alaikum'.",
+      "Arabic": "قلبي يخفق، لـ 'السلام عليكم' الخاصة بك.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237356"
+    },
+    {
+      "english": "Your confidence, is attractive.",
+      "Arabic": "ثقتك، جذابة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237358"
+    },
+    {
+      "english": "You make, every lesson, special.",
+      "Arabic": "أنت تجعل، كل درس، مميزًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237359"
+    },
+    {
+      "english": "Your laugh, is music, in Arabic.",
+      "Arabic": "ضحكتك، موسيقى، بالعربية.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237361"
+    },
+    {
+      "english": "You're mastering, Arabic, fast.",
+      "Arabic": "أنت تتقن، العربية، بسرعة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237362"
+    },
+    {
+      "english": "You make, even grammar, cute.",
+      "Arabic": "أنت تجعل، حتى القواعد، لطيفة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237363"
+    },
+    {
+      "english": "Your efforts, are noticed, and loved.",
+      "Arabic": "جهودك، ملحوظة، ومحبوبة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237364"
+    },
+    {
+      "english": "You speak, with such passion.",
+      "Arabic": "تتحدث، بشغف كبير.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237365"
+    },
+    {
+      "english": "Your curiosity, is endearing.",
+      "Arabic": "فضولك، محبب.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237366"
+    },
+    {
+      "english": "Your dedication, shines through.",
+      "Arabic": "تفانيك، يلمع.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237367"
+    },
+    {
+      "english": "You are, an Arabic star.",
+      "Arabic": "أنت، نجم عربي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237368"
+    },
+    {
+      "english": "I enjoy, our conversations.",
+      "Arabic": "أستمتع، بمحادثاتنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237369"
+    },
+    {
+      "english": "You have, a sweet way of speaking.",
+      "Arabic": "لديك، طريقة لطيفة في الكلام.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237370"
+    },
+    {
+      "english": "Your passion, for Arabic, is contagious.",
+      "Arabic": "شغفك، بالعربية، معدي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237371"
+    },
+    {
+      "english": "You are, a true language lover.",
+      "Arabic": "أنت، محب حقيقي للغة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237373"
+    },
+    {
+      "english": "Your bravery, in speaking, is inspiring.",
+      "Arabic": "شجاعتك، في الكلام، ملهمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237374"
+    },
+    {
+      "english": "You add, so much, joy.",
+      "Arabic": "أنت تضيف، الكثير، من الفرح.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237375"
+    },
+    {
+      "english": "Your efforts, are charming.",
+      "Arabic": "جهودك، ساحرة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237376"
+    },
+    {
+      "english": "You make learning, fun.",
+      "Arabic": "أنت تجعل التعلم، ممتعًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237377"
+    },
+    {
+      "english": "Your smile, brightens my day.",
+      "Arabic": "ابتسامتك، تضيء يومي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237379"
+    },
+    {
+      "english": "I love, your accent.",
+      "Arabic": "أحب، لهجتك.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237380"
+    },
+    {
+      "english": "You are, a quick learner.",
+      "Arabic": "أنت، متعلم سريع.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237381"
+    },
+    {
+      "english": "Talking with you, is easy.",
+      "Arabic": "الحديث معك، سهل.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237383"
+    },
+    {
+      "english": "Your Arabic, sounds lovely.",
+      "Arabic": "لغتك العربية، تبدو رائعة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237384"
+    },
+    {
+      "english": "You have, a charming voice.",
+      "Arabic": "لديك، صوت ساحر.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237385"
+    },
+    {
+      "english": "You make me, want to speak.",
+      "Arabic": "أنت تجعلني، أرغب في التحدث.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237386"
+    },
+    {
+      "english": "Every word, you say, is sweet.",
+      "Arabic": "كل كلمة، تقولها، حلوة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237387"
+    },
+    {
+      "english": "You are, my Arabic inspiration.",
+      "Arabic": "أنت، إلهامي العربي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237388"
+    },
+    {
+      "english": "I'm falling, for your Arabic.",
+      "Arabic": "أنا أقع، في حب لغتك العربية.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237389"
+    },
+    {
+      "english": "You make, my Arabic better.",
+      "Arabic": "أنت تجعل، لغتي العربية أفضل.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237391"
+    },
+    {
+      "english": "I could listen, all day.",
+      "Arabic": "يمكنني الاستماع، طوال اليوم.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237392"
+    },
+    {
+      "english": "Your eyes, sparkle, when you speak.",
+      "Arabic": "عيناك، تلمعان، عندما تتحدث.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237393"
+    },
+    {
+      "english": "You have, a way with words.",
+      "Arabic": "لديك، أسلوب في الكلام.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237394"
+    },
+    {
+      "english": "My heart skips, for your 'Assalamu Alaikum'.",
+      "Arabic": "قلبي يخفق، لـ 'السلام عليكم' الخاصة بك.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237395"
+    },
+    {
+      "english": "Your confidence, is attractive.",
+      "Arabic": "ثقتك، جذابة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237396"
+    },
+    {
+      "english": "You make, every lesson, special.",
+      "Arabic": "أنت تجعل، كل درس، مميزًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237397"
+    },
+    {
+      "english": "Your laugh, is music, in Arabic.",
+      "Arabic": "ضحكتك، موسيقى، بالعربية.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237398"
+    },
+    {
+      "english": "You're mastering, Arabic, fast.",
+      "Arabic": "أنت تتقن، العربية، بسرعة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237399"
+    },
+    {
+      "english": "You make, even grammar, cute.",
+      "Arabic": "أنت تجعل، حتى القواعد، لطيفة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237401"
+    },
+    {
+      "english": "Your efforts, are noticed, and loved.",
+      "Arabic": "جهودك، ملحوظة، ومحبوبة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237402"
+    },
+    {
+      "english": "You speak, with such passion.",
+      "Arabic": "تتحدث، بشغف كبير.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237403"
+    },
+    {
+      "english": "Your curiosity, is endearing.",
+      "Arabic": "فضولك، محبب.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237404"
+    },
+    {
+      "english": "Your dedication, shines through.",
+      "Arabic": "تفانيك، يلمع.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237405"
+    },
+    {
+      "english": "You are, an Arabic star.",
+      "Arabic": "أنت، نجم عربي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237406"
+    },
+    {
+      "english": "I enjoy, our conversations.",
+      "Arabic": "أستمتع، بمحادثاتنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237407"
+    },
+    {
+      "english": "You have, a sweet way of speaking.",
+      "Arabic": "لديك، طريقة لطيفة في الكلام.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237408"
+    },
+    {
+      "english": "Your passion, for Arabic, is contagious.",
+      "Arabic": "شغفك، بالعربية، معدي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237409"
+    },
+    {
+      "english": "You are, a true language lover.",
+      "Arabic": "أنت، محب حقيقي للغة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237411"
+    },
+    {
+      "english": "Your bravery, in speaking, is inspiring.",
+      "Arabic": "شجاعتك، في الكلام، ملهمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237412"
+    },
+    {
+      "english": "You add, so much, joy.",
+      "Arabic": "أنت تضيف، الكثير، من الفرح.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237413"
+    },
+    {
+      "english": "Your efforts, are charming.",
+      "Arabic": "جهودك، ساحرة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237414"
+    },
+    {
+      "english": "You make learning, fun.",
+      "Arabic": "أنت تجعل التعلم، ممتعًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237416"
+    },
+    {
+      "english": "Your smile, brightens my day.",
+      "Arabic": "ابتسامتك، تضيء يومي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237417"
+    },
+    {
+      "english": "I love, your accent.",
+      "Arabic": "أحب، لهجتك.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237418"
+    },
+    {
+      "english": "You are, a quick learner.",
+      "Arabic": "أنت، متعلم سريع.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237419"
+    },
+    {
+      "english": "Talking with you, is easy.",
+      "Arabic": "الحديث معك، سهل.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237420"
+    },
+    {
+      "english": "Your Arabic, sounds lovely.",
+      "Arabic": "لغتك العربية، تبدو رائعة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237421"
+    },
+    {
+      "english": "You have, a charming voice.",
+      "Arabic": "لديك، صوت ساحر.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237422"
+    },
+    {
+      "english": "You make me, want to speak.",
+      "Arabic": "أنت تجعلني، أرغب في التحدث.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237424"
+    },
+    {
+      "english": "Every word, you say, is sweet.",
+      "Arabic": "كل كلمة، تقولها، حلوة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237425"
+    },
+    {
+      "english": "You are, my Arabic inspiration.",
+      "Arabic": "أنت، إلهامي العربي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237426"
+    },
+    {
+      "english": "I'm falling, for your Arabic.",
+      "Arabic": "أنا أقع، في حب لغتك العربية.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237427"
+    },
+    {
+      "english": "You make, my Arabic better.",
+      "Arabic": "أنت تجعل، لغتي العربية أفضل.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237428"
+    },
+    {
+      "english": "I could listen, all day.",
+      "Arabic": "يمكنني الاستماع، طوال اليوم.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237429"
+    },
+    {
+      "english": "Your eyes, sparkle, when you speak.",
+      "Arabic": "عيناك، تلمعان، عندما تتحدث.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237430"
+    },
+    {
+      "english": "You have, a way with words.",
+      "Arabic": "لديك، أسلوب في الكلام.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237431"
+    },
+    {
+      "english": "My heart skips, for your 'Assalamu Alaikum'.",
+      "Arabic": "قلبي يخفق، لـ 'السلام عليكم' الخاصة بك.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237432"
+    },
+    {
+      "english": "Your confidence, is attractive.",
+      "Arabic": "ثقتك، جذابة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237433"
+    },
+    {
+      "english": "You make, every lesson, special.",
+      "Arabic": "أنت تجعل، كل درس، مميزًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237434"
+    },
+    {
+      "english": "Your laugh, is music, in Arabic.",
+      "Arabic": "ضحكتك، موسيقى، بالعربية.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237436"
+    },
+    {
+      "english": "You're mastering, Arabic, fast.",
+      "Arabic": "أنت تتقن، العربية، بسرعة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237436"
+    },
+    {
+      "english": "You make, even grammar, cute.",
+      "Arabic": "أنت تجعل، حتى القواعد، لطيفة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237438"
+    },
+    {
+      "english": "Your efforts, are noticed, and loved.",
+      "Arabic": "جهودك، ملحوظة، ومحبوبة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237439"
+    },
+    {
+      "english": "You speak, with such passion.",
+      "Arabic": "تتحدث، بشغف كبير.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237440"
+    },
+    {
+      "english": "Your curiosity, is endearing.",
+      "Arabic": "فضولك، محبب.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237441"
+    },
+    {
+      "english": "Your dedication, shines through.",
+      "Arabic": "تفانيك، يلمع.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237442"
+    },
+    {
+      "english": "You are, an Arabic star.",
+      "Arabic": "أنت، نجم عربي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237443"
+    },
+    {
+      "english": "I enjoy, our conversations.",
+      "Arabic": "أستمتع، بمحادثاتنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237444"
+    },
+    {
+      "english": "You have, a sweet way of speaking.",
+      "Arabic": "لديك، طريقة لطيفة في الكلام.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237445"
+    },
+    {
+      "english": "Your passion, for Arabic, is contagious.",
+      "Arabic": "شغفك، بالعربية، معدي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237446"
+    },
+    {
+      "english": "You are, a true language lover.",
+      "Arabic": "أنت، محب حقيقي للغة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237447"
+    },
+    {
+      "english": "Your bravery, in speaking, is inspiring.",
+      "Arabic": "شجاعتك، في الكلام، ملهمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237448"
+    },
+    {
+      "english": "You add, so much, joy.",
+      "Arabic": "أنت تضيف، الكثير، من الفرح.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237449"
+    },
+    {
+      "english": "Your efforts, are charming.",
+      "Arabic": "جهودك، ساحرة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237450"
+    },
+    {
+      "english": "You make learning, fun.",
+      "Arabic": "أنت تجعل التعلم، ممتعًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237451"
+    },
+    {
+      "english": "Your smile, brightens my day.",
+      "Arabic": "ابتسامتك، تضيء يومي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237453"
+    },
+    {
+      "english": "I love, your accent.",
+      "Arabic": "أحب، لهجتك.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237454"
+    },
+    {
+      "english": "You are, a quick learner.",
+      "Arabic": "أنت، متعلم سريع.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237455"
+    },
+    {
+      "english": "Talking with you, is easy.",
+      "Arabic": "الحديث معك، سهل.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237456"
+    },
+    {
+      "english": "Your Arabic, sounds lovely.",
+      "Arabic": "لغتك العربية، تبدو رائعة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237457"
+    },
+    {
+      "english": "You have, a charming voice.",
+      "Arabic": "لديك، صوت ساحر.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237458"
+    },
+    {
+      "english": "You make me, want to speak.",
+      "Arabic": "أنت تجعلني، أرغب في التحدث.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237459"
+    },
+    {
+      "english": "Every word, you say, is sweet.",
+      "Arabic": "كل كلمة، تقولها، حلوة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237461"
+    },
+    {
+      "english": "You are, my Arabic inspiration.",
+      "Arabic": "أنت، إلهامي العربي.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237462"
+    },
+    {
+      "english": "I'm falling, for your Arabic.",
+      "Arabic": "أنا أقع، في حب لغتك العربية.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237463"
+    },
+    {
+      "english": "You make, my Arabic better.",
+      "Arabic": "أنت تجعل، لغتي العربية أفضل.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237464"
+    },
+    {
+      "english": "I could listen, all day.",
+      "Arabic": "يمكنني الاستماع، طوال اليوم.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237465"
+    },
+    {
+      "english": "Your eyes, sparkle, when you speak.",
+      "Arabic": "عيناك، تلمعان، عندما تتحدث.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237467"
+    },
+    {
+      "english": "You have, a way with words.",
+      "Arabic": "لديك، أسلوب في الكلام.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237468"
+    },
+    {
+      "english": "My heart skips, for your 'Assalamu Alaikum'.",
+      "Arabic": "قلبي يخفق، لـ 'السلام عليكم' الخاصة بك.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237469"
+    },
+    {
+      "english": "Your confidence, is attractive.",
+      "Arabic": "ثقتك، جذابة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237469"
+    },
+    {
+      "english": "You make, every lesson, special.",
+      "Arabic": "أنت تجعل، كل درس، مميزًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237470"
+    },
+    {
+      "english": "Your laugh, is music, in Arabic.",
+      "Arabic": "ضحكتك، موسيقى، بالعربية.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237472"
+    },
+    {
+      "english": "You're mastering, Arabic, fast.",
+      "Arabic": "أنت تتقن، العربية، بسرعة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237473"
+    },
+    {
+      "english": "You make, even grammar, cute.",
+      "Arabic": "أنت تجعل، حتى القواعد، لطيفة.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:11:21.237474"
     }
   ],
-  "last_updated": "2026-08-09T03:01:56.319993"
+  "last_updated": "2026-08-10T03:11:21.237476"
 }
