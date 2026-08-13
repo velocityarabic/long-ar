@@ -18719,7 +18719,727 @@
       "Arabic": "احتضن الهدوء، إنه هدية.",
       "category": "Inner Peace",
       "generated_at": "2026-08-12T03:23:03.051605"
+    },
+    {
+      "english": "Keep trying, don't quit, ever.",
+      "Arabic": "استمر في المحاولة، لا تستسلم، أبداً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370777"
+    },
+    {
+      "english": "One more try, you can do it.",
+      "Arabic": "محاولة أخرى، تستطيع فعلها.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370784"
+    },
+    {
+      "english": "Push forward, even when tired.",
+      "Arabic": "ادفع للأمام، حتى عندما تتعب.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370785"
+    },
+    {
+      "english": "Don't give up, see it through.",
+      "Arabic": "لا تستسلم، أكمل للنهاية.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370787"
+    },
+    {
+      "english": "Stay focused, on your goal.",
+      "Arabic": "ابقَ مركزاً، على هدفك.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370788"
+    },
+    {
+      "english": "Believe in yourself, keep going.",
+      "Arabic": "آمن بنفسك، واصل التقدم.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370789"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "Arabic": "أنت أقوى، مما تعتقد.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370790"
+    },
+    {
+      "english": "Small steps, lead to progress.",
+      "Arabic": "خطوات صغيرة، تؤدي للتقدم.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370792"
+    },
+    {
+      "english": "Learn from failure, rise again.",
+      "Arabic": "تعلم من الفشل، انهض مرة أخرى.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370794"
+    },
+    {
+      "english": "Never stop learning, it's key.",
+      "Arabic": "لا تتوقف عن التعلم، هو المفتاح.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370795"
+    },
+    {
+      "english": "Every effort, counts for something.",
+      "Arabic": "كل جهد، له قيمة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370796"
+    },
+    {
+      "english": "Keep pushing, the reward awaits.",
+      "Arabic": "واصل الدفع، المكافأة تنتظر.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370797"
+    },
+    {
+      "english": "Your persistence, pays off, eventually.",
+      "Arabic": "مثابرتك، تؤتي ثمارها، في النهاية.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370799"
+    },
+    {
+      "english": "Don't get discouraged, stay steady.",
+      "Arabic": "لا تيأس، ابقَ ثابتاً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370800"
+    },
+    {
+      "english": "Be determined, to succeed.",
+      "Arabic": "كن مصمماً، على النجاح.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370801"
+    },
+    {
+      "english": "The journey, is as important.",
+      "Arabic": "الرحلة، مهمة بنفس القدر.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370802"
+    },
+    {
+      "english": "Endurance, builds character, strongly.",
+      "Arabic": "التحمل، يبني الشخصية، بقوة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370803"
+    },
+    {
+      "english": "Keep your eyes, on the prize.",
+      "Arabic": "أبقِ عينيك، على الجائزة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370804"
+    },
+    {
+      "english": "Don't stop believing, it's crucial.",
+      "Arabic": "لا تتوقف عن الإيمان، إنه أمر حيوي.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370805"
+    },
+    {
+      "english": "Press on, with all your might.",
+      "Arabic": "واصل الضغط، بكل قوتك.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370806"
+    },
+    {
+      "english": "Face challenges, head on, bravely.",
+      "Arabic": "واجه التحديات، مباشرة، بشجاعة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370807"
+    },
+    {
+      "english": "Your effort, will be rewarded.",
+      "Arabic": "جهدك، سيُكافأ.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370808"
+    },
+    {
+      "english": "Stay the course, you're almost there.",
+      "Arabic": "ابقَ على المسار، أنت على وشك الوصول.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370809"
+    },
+    {
+      "english": "Persevere, through the difficulties.",
+      "Arabic": "ثابر، عبر الصعوبات.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370810"
+    },
+    {
+      "english": "Hold on, don't let go.",
+      "Arabic": "تمسك، لا تتخلَّ.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370811"
+    },
+    {
+      "english": "Keep going, your moment is coming.",
+      "Arabic": "واصل السير، لحظتك قادمة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370812"
+    },
+    {
+      "english": "Don't be afraid, to keep going.",
+      "Arabic": "لا تخف، من الاستمرار.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370813"
+    },
+    {
+      "english": "Push your limits, discover more.",
+      "Arabic": "ادفع حدودك، اكتشف المزيد.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370814"
+    },
+    {
+      "english": "Your resilience, is impressive, truly.",
+      "Arabic": "مرونتك، مثيرة للإعجاب، حقاً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370815"
+    },
+    {
+      "english": "Stick with it, you will win.",
+      "Arabic": "الزم به، ستفوز.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370816"
+    },
+    {
+      "english": "Embrace the struggle, it makes you grow.",
+      "Arabic": "عانق الصراع، يجعلك تنمو.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370817"
+    },
+    {
+      "english": "Keep your spirit, strong and bright.",
+      "Arabic": "حافظ على روحك، قوية ومشرقة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370818"
+    },
+    {
+      "english": "Never give in, to defeat.",
+      "Arabic": "لا تستسلم أبداً، للهزيمة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370819"
+    },
+    {
+      "english": "Triumph, through perseverance, always.",
+      "Arabic": "النصر، عبر المثابرة، دائماً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370820"
+    },
+    {
+      "english": "Just keep moving, one step at a time.",
+      "Arabic": "فقط استمر في التحرك، خطوة بخطوة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370821"
+    },
+    {
+      "english": "Your determination, will see you through.",
+      "Arabic": "عزيمتك، ستوصلك للنهاية.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370822"
+    },
+    {
+      "english": "Don't stop now, you're close.",
+      "Arabic": "لا تتوقف الآن، أنت قريب.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370823"
+    },
+    {
+      "english": "Keep your focus, sharp and clear.",
+      "Arabic": "حافظ على تركيزك، حاداً وواضحاً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370824"
+    },
+    {
+      "english": "Brave the storm, to find sunshine.",
+      "Arabic": "واجه العاصفة، لتجد الشمس.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370825"
+    },
+    {
+      "english": "Believe in the process, it works.",
+      "Arabic": "آمن بالعملية، إنها تعمل.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370826"
+    },
+    {
+      "english": "Keep trying, don't quit, ever.",
+      "Arabic": "استمر في المحاولة، لا تستسلم، أبداً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370827"
+    },
+    {
+      "english": "One more try, you can do it.",
+      "Arabic": "محاولة أخرى، تستطيع فعلها.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370828"
+    },
+    {
+      "english": "Push forward, even when tired.",
+      "Arabic": "ادفع للأمام، حتى عندما تتعب.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370829"
+    },
+    {
+      "english": "Don't give up, see it through.",
+      "Arabic": "لا تستسلم، أكمل للنهاية.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370830"
+    },
+    {
+      "english": "Stay focused, on your goal.",
+      "Arabic": "ابقَ مركزاً، على هدفك.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370831"
+    },
+    {
+      "english": "Believe in yourself, keep going.",
+      "Arabic": "آمن بنفسك، واصل التقدم.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370832"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "Arabic": "أنت أقوى، مما تعتقد.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370833"
+    },
+    {
+      "english": "Small steps, lead to progress.",
+      "Arabic": "خطوات صغيرة، تؤدي للتقدم.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370834"
+    },
+    {
+      "english": "Learn from failure, rise again.",
+      "Arabic": "تعلم من الفشل، انهض مرة أخرى.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370835"
+    },
+    {
+      "english": "Never stop learning, it's key.",
+      "Arabic": "لا تتوقف عن التعلم، هو المفتاح.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370836"
+    },
+    {
+      "english": "Every effort, counts for something.",
+      "Arabic": "كل جهد، له قيمة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370837"
+    },
+    {
+      "english": "Keep pushing, the reward awaits.",
+      "Arabic": "واصل الدفع، المكافأة تنتظر.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370838"
+    },
+    {
+      "english": "Your persistence, pays off, eventually.",
+      "Arabic": "مثابرتك، تؤتي ثمارها، في النهاية.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370839"
+    },
+    {
+      "english": "Don't get discouraged, stay steady.",
+      "Arabic": "لا تيأس، ابقَ ثابتاً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370840"
+    },
+    {
+      "english": "Be determined, to succeed.",
+      "Arabic": "كن مصمماً، على النجاح.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370841"
+    },
+    {
+      "english": "The journey, is as important.",
+      "Arabic": "الرحلة، مهمة بنفس القدر.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370842"
+    },
+    {
+      "english": "Endurance, builds character, strongly.",
+      "Arabic": "التحمل، يبني الشخصية، بقوة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370842"
+    },
+    {
+      "english": "Keep your eyes, on the prize.",
+      "Arabic": "أبقِ عينيك، على الجائزة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370843"
+    },
+    {
+      "english": "Don't stop believing, it's crucial.",
+      "Arabic": "لا تتوقف عن الإيمان، إنه أمر حيوي.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370844"
+    },
+    {
+      "english": "Press on, with all your might.",
+      "Arabic": "واصل الضغط، بكل قوتك.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370845"
+    },
+    {
+      "english": "Face challenges, head on, bravely.",
+      "Arabic": "واجه التحديات، مباشرة، بشجاعة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370847"
+    },
+    {
+      "english": "Your effort, will be rewarded.",
+      "Arabic": "جهدك، سيُكافأ.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370847"
+    },
+    {
+      "english": "Stay the course, you're almost there.",
+      "Arabic": "ابقَ على المسار، أنت على وشك الوصول.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370848"
+    },
+    {
+      "english": "Persevere, through the difficulties.",
+      "Arabic": "ثابر، عبر الصعوبات.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370849"
+    },
+    {
+      "english": "Hold on, don't let go.",
+      "Arabic": "تمسك، لا تتخلَّ.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370850"
+    },
+    {
+      "english": "Keep going, your moment is coming.",
+      "Arabic": "واصل السير، لحظتك قادمة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370851"
+    },
+    {
+      "english": "Don't be afraid, to keep going.",
+      "Arabic": "لا تخف، من الاستمرار.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370852"
+    },
+    {
+      "english": "Push your limits, discover more.",
+      "Arabic": "ادفع حدودك، اكتشف المزيد.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370853"
+    },
+    {
+      "english": "Your resilience, is impressive, truly.",
+      "Arabic": "مرونتك، مثيرة للإعجاب، حقاً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370854"
+    },
+    {
+      "english": "Stick with it, you will win.",
+      "Arabic": "الزم به، ستفوز.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370855"
+    },
+    {
+      "english": "Embrace the struggle, it makes you grow.",
+      "Arabic": "عانق الصراع، يجعلك تنمو.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370856"
+    },
+    {
+      "english": "Keep your spirit, strong and bright.",
+      "Arabic": "حافظ على روحك، قوية ومشرقة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370857"
+    },
+    {
+      "english": "Never give in, to defeat.",
+      "Arabic": "لا تستسلم أبداً، للهزيمة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370858"
+    },
+    {
+      "english": "Triumph, through perseverance, always.",
+      "Arabic": "النصر، عبر المثابرة، دائماً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370859"
+    },
+    {
+      "english": "Just keep moving, one step at a time.",
+      "Arabic": "فقط استمر في التحرك، خطوة بخطوة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370860"
+    },
+    {
+      "english": "Your determination, will see you through.",
+      "Arabic": "عزيمتك، ستوصلك للنهاية.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370861"
+    },
+    {
+      "english": "Don't stop now, you're close.",
+      "Arabic": "لا تتوقف الآن، أنت قريب.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370862"
+    },
+    {
+      "english": "Keep your focus, sharp and clear.",
+      "Arabic": "حافظ على تركيزك، حاداً وواضحاً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370863"
+    },
+    {
+      "english": "Brave the storm, to find sunshine.",
+      "Arabic": "واجه العاصفة، لتجد الشمس.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370864"
+    },
+    {
+      "english": "Believe in the process, it works.",
+      "Arabic": "آمن بالعملية، إنها تعمل.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370865"
+    },
+    {
+      "english": "Keep trying, don't quit, ever.",
+      "Arabic": "استمر في المحاولة، لا تستسلم، أبداً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370866"
+    },
+    {
+      "english": "One more try, you can do it.",
+      "Arabic": "محاولة أخرى، تستطيع فعلها.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370867"
+    },
+    {
+      "english": "Push forward, even when tired.",
+      "Arabic": "ادفع للأمام، حتى عندما تتعب.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370868"
+    },
+    {
+      "english": "Don't give up, see it through.",
+      "Arabic": "لا تستسلم، أكمل للنهاية.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370869"
+    },
+    {
+      "english": "Stay focused, on your goal.",
+      "Arabic": "ابقَ مركزاً، على هدفك.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370870"
+    },
+    {
+      "english": "Believe in yourself, keep going.",
+      "Arabic": "آمن بنفسك، واصل التقدم.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370871"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "Arabic": "أنت أقوى، مما تعتقد.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370872"
+    },
+    {
+      "english": "Small steps, lead to progress.",
+      "Arabic": "خطوات صغيرة، تؤدي للتقدم.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370873"
+    },
+    {
+      "english": "Learn from failure, rise again.",
+      "Arabic": "تعلم من الفشل، انهض مرة أخرى.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370874"
+    },
+    {
+      "english": "Never stop learning, it's key.",
+      "Arabic": "لا تتوقف عن التعلم، هو المفتاح.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370875"
+    },
+    {
+      "english": "Every effort, counts for something.",
+      "Arabic": "كل جهد، له قيمة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370876"
+    },
+    {
+      "english": "Keep pushing, the reward awaits.",
+      "Arabic": "واصل الدفع، المكافأة تنتظر.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370877"
+    },
+    {
+      "english": "Your persistence, pays off, eventually.",
+      "Arabic": "مثابرتك، تؤتي ثمارها، في النهاية.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370878"
+    },
+    {
+      "english": "Don't get discouraged, stay steady.",
+      "Arabic": "لا تيأس، ابقَ ثابتاً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370879"
+    },
+    {
+      "english": "Be determined, to succeed.",
+      "Arabic": "كن مصمماً، على النجاح.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370880"
+    },
+    {
+      "english": "The journey, is as important.",
+      "Arabic": "الرحلة، مهمة بنفس القدر.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370881"
+    },
+    {
+      "english": "Endurance, builds character, strongly.",
+      "Arabic": "التحمل، يبني الشخصية، بقوة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370882"
+    },
+    {
+      "english": "Keep your eyes, on the prize.",
+      "Arabic": "أبقِ عينيك، على الجائزة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370883"
+    },
+    {
+      "english": "Don't stop believing, it's crucial.",
+      "Arabic": "لا تتوقف عن الإيمان، إنه أمر حيوي.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370884"
+    },
+    {
+      "english": "Press on, with all your might.",
+      "Arabic": "واصل الضغط، بكل قوتك.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370885"
+    },
+    {
+      "english": "Face challenges, head on, bravely.",
+      "Arabic": "واجه التحديات، مباشرة، بشجاعة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370886"
+    },
+    {
+      "english": "Your effort, will be rewarded.",
+      "Arabic": "جهدك، سيُكافأ.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370887"
+    },
+    {
+      "english": "Stay the course, you're almost there.",
+      "Arabic": "ابقَ على المسار، أنت على وشك الوصول.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370888"
+    },
+    {
+      "english": "Persevere, through the difficulties.",
+      "Arabic": "ثابر، عبر الصعوبات.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370889"
+    },
+    {
+      "english": "Hold on, don't let go.",
+      "Arabic": "تمسك، لا تتخلَّ.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370890"
+    },
+    {
+      "english": "Keep going, your moment is coming.",
+      "Arabic": "واصل السير، لحظتك قادمة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370891"
+    },
+    {
+      "english": "Don't be afraid, to keep going.",
+      "Arabic": "لا تخف، من الاستمرار.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370892"
+    },
+    {
+      "english": "Push your limits, discover more.",
+      "Arabic": "ادفع حدودك، اكتشف المزيد.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370893"
+    },
+    {
+      "english": "Your resilience, is impressive, truly.",
+      "Arabic": "مرونتك، مثيرة للإعجاب، حقاً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370894"
+    },
+    {
+      "english": "Stick with it, you will win.",
+      "Arabic": "الزم به، ستفوز.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370895"
+    },
+    {
+      "english": "Embrace the struggle, it makes you grow.",
+      "Arabic": "عانق الصراع، يجعلك تنمو.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370896"
+    },
+    {
+      "english": "Keep your spirit, strong and bright.",
+      "Arabic": "حافظ على روحك، قوية ومشرقة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370897"
+    },
+    {
+      "english": "Never give in, to defeat.",
+      "Arabic": "لا تستسلم أبداً، للهزيمة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370898"
+    },
+    {
+      "english": "Triumph, through perseverance, always.",
+      "Arabic": "النصر، عبر المثابرة، دائماً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370899"
+    },
+    {
+      "english": "Just keep moving, one step at a time.",
+      "Arabic": "فقط استمر في التحرك، خطوة بخطوة.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370900"
+    },
+    {
+      "english": "Your determination, will see you through.",
+      "Arabic": "عزيمتك، ستوصلك للنهاية.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370904"
+    },
+    {
+      "english": "Don't stop now, you're close.",
+      "Arabic": "لا تتوقف الآن، أنت قريب.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370905"
+    },
+    {
+      "english": "Keep your focus, sharp and clear.",
+      "Arabic": "حافظ على تركيزك، حاداً وواضحاً.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370906"
+    },
+    {
+      "english": "Brave the storm, to find sunshine.",
+      "Arabic": "واجه العاصفة، لتجد الشمس.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370907"
+    },
+    {
+      "english": "Believe in the process, it works.",
+      "Arabic": "آمن بالعملية، إنها تعمل.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-13T03:26:50.370908"
     }
   ],
-  "last_updated": "2026-08-12T03:23:03.051607"
+  "last_updated": "2026-08-13T03:26:50.370910"
 }
