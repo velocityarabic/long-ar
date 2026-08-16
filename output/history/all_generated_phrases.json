@@ -20879,7 +20879,727 @@
       "Arabic": "يا له من لطف, هذا.",
       "category": "Gratitude",
       "generated_at": "2026-08-15T02:13:56.594672"
+    },
+    {
+      "english": "Kindness spreads, like sunshine.",
+      "Arabic": "اللطف ينتشر، كأشعة الشمس.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129156"
+    },
+    {
+      "english": "Good company, makes me happy.",
+      "Arabic": "الصحبة الجيدة، تسعدني.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129167"
+    },
+    {
+      "english": "Listen to your heart, find peace.",
+      "Arabic": "استمع لقلبك، تجد السلام.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129168"
+    },
+    {
+      "english": "Helping others, feels so good.",
+      "Arabic": "مساعدة الآخرين، شعور رائع.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129170"
+    },
+    {
+      "english": "A grateful heart, is a happy heart.",
+      "Arabic": "القلب الشاكر، قلب سعيد.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129171"
+    },
+    {
+      "english": "Enjoy the simple, beauty of life.",
+      "Arabic": "استمتع بالبساطة، وجمال الحياة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129172"
+    },
+    {
+      "english": "Making memories, with loved ones.",
+      "Arabic": "صنع الذكريات، مع الأحباب.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129173"
+    },
+    {
+      "english": "A warm hug, a happy feeling.",
+      "Arabic": "عناق دافئ، شعور بالسعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129176"
+    },
+    {
+      "english": "Laughter is the, best medicine.",
+      "Arabic": "الضحك هو، أفضل دواء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129177"
+    },
+    {
+      "english": "Gratitude opens, doors to joy.",
+      "Arabic": "الشكر يفتح، أبواب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129179"
+    },
+    {
+      "english": "Find your passion, live your dreams.",
+      "Arabic": "اوجد شغفك، وعش أحلامك.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129180"
+    },
+    {
+      "english": "A peaceful mind, brings happiness.",
+      "Arabic": "العقل الهادئ، يجلب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129181"
+    },
+    {
+      "english": "Share your blessings, with others.",
+      "Arabic": "شارك بركاتك، مع الآخرين.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129182"
+    },
+    {
+      "english": "Cherish the moments, that matter.",
+      "Arabic": "قدّر اللحظات، المهمة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129183"
+    },
+    {
+      "english": "Music soothes, the soul.",
+      "Arabic": "الموسيقى تهدئ، الروح.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129184"
+    },
+    {
+      "english": "Believe in yourself, you are enough.",
+      "Arabic": "صدق بنفسك، أنت كافٍ.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129186"
+    },
+    {
+      "english": "A simple life, is a happy life.",
+      "Arabic": "حياة بسيطة، حياة سعيدة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129187"
+    },
+    {
+      "english": "Spread positivity, feel the joy.",
+      "Arabic": "انشر الإيجابية، اشعر بالسعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129188"
+    },
+    {
+      "english": "Home is, where love is.",
+      "Arabic": "البيت هو، حيث الحب.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129189"
+    },
+    {
+      "english": "A warm drink, a cozy feeling.",
+      "Arabic": "مشروب دافئ، شعور بالدفء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129190"
+    },
+    {
+      "english": "Learn something new, every day.",
+      "Arabic": "تعلم شيئاً جديداً، كل يوم.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129191"
+    },
+    {
+      "english": "Nature's beauty, brings calm.",
+      "Arabic": "جمال الطبيعة، يجلب الهدوء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129192"
+    },
+    {
+      "english": "Forgiveness sets, the heart free.",
+      "Arabic": "المسامحة تحرر، القلب.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129193"
+    },
+    {
+      "english": "A good book, a great escape.",
+      "Arabic": "كتاب جيد، هروب رائع.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129194"
+    },
+    {
+      "english": "Family is, a treasure.",
+      "Arabic": "العائلة، كنز.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129195"
+    },
+    {
+      "english": "Positive thoughts, positive outcomes.",
+      "Arabic": "أفكار إيجابية، نتائج إيجابية.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129196"
+    },
+    {
+      "english": "Helping hands, warm hearts.",
+      "Arabic": "أيادٍ مساعدة، قلوب دافئة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129197"
+    },
+    {
+      "english": "A sincere compliment, makes a difference.",
+      "Arabic": "مجاملة صادقة، تحدث فرقاً.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129198"
+    },
+    {
+      "english": "Quiet moments, bring clarity.",
+      "Arabic": "لحظات الهدوء، تجلب الصفاء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129199"
+    },
+    {
+      "english": "Sharing is caring, and joyful.",
+      "Arabic": "المشاركة اهتمام، وسعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129200"
+    },
+    {
+      "english": "A good deed, brightens the world.",
+      "Arabic": "عمل صالح، ينير العالم.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129201"
+    },
+    {
+      "english": "Celebrate small wins, they matter.",
+      "Arabic": "احتفل بالانتصارات الصغيرة، إنها مهمة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129202"
+    },
+    {
+      "english": "True friends, bring true joy.",
+      "Arabic": "الأصدقاء الحقيقيون، يجلبون الفرح.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129203"
+    },
+    {
+      "english": "Kindness spreads, like sunshine.",
+      "Arabic": "اللطف ينتشر، كأشعة الشمس.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129204"
+    },
+    {
+      "english": "Good company, makes me happy.",
+      "Arabic": "الصحبة الجيدة، تسعدني.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129206"
+    },
+    {
+      "english": "Listen to your heart, find peace.",
+      "Arabic": "استمع لقلبك، تجد السلام.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129207"
+    },
+    {
+      "english": "Helping others, feels so good.",
+      "Arabic": "مساعدة الآخرين، شعور رائع.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129208"
+    },
+    {
+      "english": "A grateful heart, is a happy heart.",
+      "Arabic": "القلب الشاكر، قلب سعيد.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129209"
+    },
+    {
+      "english": "Enjoy the simple, beauty of life.",
+      "Arabic": "استمتع بالبساطة، وجمال الحياة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129210"
+    },
+    {
+      "english": "Making memories, with loved ones.",
+      "Arabic": "صنع الذكريات، مع الأحباب.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129211"
+    },
+    {
+      "english": "A warm hug, a happy feeling.",
+      "Arabic": "عناق دافئ، شعور بالسعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129212"
+    },
+    {
+      "english": "Laughter is the, best medicine.",
+      "Arabic": "الضحك هو، أفضل دواء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129213"
+    },
+    {
+      "english": "Gratitude opens, doors to joy.",
+      "Arabic": "الشكر يفتح، أبواب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129214"
+    },
+    {
+      "english": "Find your passion, live your dreams.",
+      "Arabic": "اوجد شغفك، وعش أحلامك.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129215"
+    },
+    {
+      "english": "A peaceful mind, brings happiness.",
+      "Arabic": "العقل الهادئ، يجلب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129216"
+    },
+    {
+      "english": "Share your blessings, with others.",
+      "Arabic": "شارك بركاتك، مع الآخرين.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129217"
+    },
+    {
+      "english": "Cherish the moments, that matter.",
+      "Arabic": "قدّر اللحظات، المهمة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129218"
+    },
+    {
+      "english": "Music soothes, the soul.",
+      "Arabic": "الموسيقى تهدئ، الروح.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129219"
+    },
+    {
+      "english": "Believe in yourself, you are enough.",
+      "Arabic": "صدق بنفسك، أنت كافٍ.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129220"
+    },
+    {
+      "english": "A simple life, is a happy life.",
+      "Arabic": "حياة بسيطة، حياة سعيدة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129222"
+    },
+    {
+      "english": "Spread positivity, feel the joy.",
+      "Arabic": "انشر الإيجابية، اشعر بالسعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129223"
+    },
+    {
+      "english": "Home is, where love is.",
+      "Arabic": "البيت هو، حيث الحب.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129224"
+    },
+    {
+      "english": "A warm drink, a cozy feeling.",
+      "Arabic": "مشروب دافئ، شعور بالدفء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129225"
+    },
+    {
+      "english": "Learn something new, every day.",
+      "Arabic": "تعلم شيئاً جديداً، كل يوم.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129226"
+    },
+    {
+      "english": "Nature's beauty, brings calm.",
+      "Arabic": "جمال الطبيعة، يجلب الهدوء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129227"
+    },
+    {
+      "english": "Forgiveness sets, the heart free.",
+      "Arabic": "المسامحة تحرر، القلب.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129228"
+    },
+    {
+      "english": "A good book, a great escape.",
+      "Arabic": "كتاب جيد، هروب رائع.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129229"
+    },
+    {
+      "english": "Family is, a treasure.",
+      "Arabic": "العائلة، كنز.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129230"
+    },
+    {
+      "english": "Positive thoughts, positive outcomes.",
+      "Arabic": "أفكار إيجابية، نتائج إيجابية.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129231"
+    },
+    {
+      "english": "Helping hands, warm hearts.",
+      "Arabic": "أيادٍ مساعدة، قلوب دافئة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129232"
+    },
+    {
+      "english": "A sincere compliment, makes a difference.",
+      "Arabic": "مجاملة صادقة، تحدث فرقاً.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129233"
+    },
+    {
+      "english": "Quiet moments, bring clarity.",
+      "Arabic": "لحظات الهدوء، تجلب الصفاء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129234"
+    },
+    {
+      "english": "Sharing is caring, and joyful.",
+      "Arabic": "المشاركة اهتمام، وسعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129235"
+    },
+    {
+      "english": "A good deed, brightens the world.",
+      "Arabic": "عمل صالح، ينير العالم.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129236"
+    },
+    {
+      "english": "Celebrate small wins, they matter.",
+      "Arabic": "احتفل بالانتصارات الصغيرة، إنها مهمة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129237"
+    },
+    {
+      "english": "True friends, bring true joy.",
+      "Arabic": "الأصدقاء الحقيقيون، يجلبون الفرح.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129238"
+    },
+    {
+      "english": "Kindness spreads, like sunshine.",
+      "Arabic": "اللطف ينتشر، كأشعة الشمس.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129239"
+    },
+    {
+      "english": "Good company, makes me happy.",
+      "Arabic": "الصحبة الجيدة، تسعدني.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129240"
+    },
+    {
+      "english": "Listen to your heart, find peace.",
+      "Arabic": "استمع لقلبك، تجد السلام.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129241"
+    },
+    {
+      "english": "Helping others, feels so good.",
+      "Arabic": "مساعدة الآخرين، شعور رائع.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129242"
+    },
+    {
+      "english": "A grateful heart, is a happy heart.",
+      "Arabic": "القلب الشاكر، قلب سعيد.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129243"
+    },
+    {
+      "english": "Enjoy the simple, beauty of life.",
+      "Arabic": "استمتع بالبساطة، وجمال الحياة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129244"
+    },
+    {
+      "english": "Making memories, with loved ones.",
+      "Arabic": "صنع الذكريات، مع الأحباب.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129245"
+    },
+    {
+      "english": "A warm hug, a happy feeling.",
+      "Arabic": "عناق دافئ، شعور بالسعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129246"
+    },
+    {
+      "english": "Laughter is the, best medicine.",
+      "Arabic": "الضحك هو، أفضل دواء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129247"
+    },
+    {
+      "english": "Gratitude opens, doors to joy.",
+      "Arabic": "الشكر يفتح، أبواب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129248"
+    },
+    {
+      "english": "Find your passion, live your dreams.",
+      "Arabic": "اوجد شغفك، وعش أحلامك.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129249"
+    },
+    {
+      "english": "A peaceful mind, brings happiness.",
+      "Arabic": "العقل الهادئ، يجلب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129250"
+    },
+    {
+      "english": "Share your blessings, with others.",
+      "Arabic": "شارك بركاتك، مع الآخرين.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129251"
+    },
+    {
+      "english": "Cherish the moments, that matter.",
+      "Arabic": "قدّر اللحظات، المهمة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129252"
+    },
+    {
+      "english": "Music soothes, the soul.",
+      "Arabic": "الموسيقى تهدئ، الروح.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129253"
+    },
+    {
+      "english": "Believe in yourself, you are enough.",
+      "Arabic": "صدق بنفسك، أنت كافٍ.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129254"
+    },
+    {
+      "english": "A simple life, is a happy life.",
+      "Arabic": "حياة بسيطة، حياة سعيدة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129255"
+    },
+    {
+      "english": "Spread positivity, feel the joy.",
+      "Arabic": "انشر الإيجابية، اشعر بالسعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129256"
+    },
+    {
+      "english": "Home is, where love is.",
+      "Arabic": "البيت هو، حيث الحب.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129257"
+    },
+    {
+      "english": "A warm drink, a cozy feeling.",
+      "Arabic": "مشروب دافئ، شعور بالدفء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129258"
+    },
+    {
+      "english": "Learn something new, every day.",
+      "Arabic": "تعلم شيئاً جديداً، كل يوم.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129259"
+    },
+    {
+      "english": "Nature's beauty, brings calm.",
+      "Arabic": "جمال الطبيعة، يجلب الهدوء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129260"
+    },
+    {
+      "english": "Forgiveness sets, the heart free.",
+      "Arabic": "المسامحة تحرر، القلب.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129261"
+    },
+    {
+      "english": "A good book, a great escape.",
+      "Arabic": "كتاب جيد، هروب رائع.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129262"
+    },
+    {
+      "english": "Family is, a treasure.",
+      "Arabic": "العائلة، كنز.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129263"
+    },
+    {
+      "english": "Positive thoughts, positive outcomes.",
+      "Arabic": "أفكار إيجابية، نتائج إيجابية.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129265"
+    },
+    {
+      "english": "Helping hands, warm hearts.",
+      "Arabic": "أيادٍ مساعدة، قلوب دافئة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129266"
+    },
+    {
+      "english": "A sincere compliment, makes a difference.",
+      "Arabic": "مجاملة صادقة، تحدث فرقاً.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129267"
+    },
+    {
+      "english": "Quiet moments, bring clarity.",
+      "Arabic": "لحظات الهدوء، تجلب الصفاء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129268"
+    },
+    {
+      "english": "Sharing is caring, and joyful.",
+      "Arabic": "المشاركة اهتمام، وسعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129269"
+    },
+    {
+      "english": "A good deed, brightens the world.",
+      "Arabic": "عمل صالح، ينير العالم.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129270"
+    },
+    {
+      "english": "Celebrate small wins, they matter.",
+      "Arabic": "احتفل بالانتصارات الصغيرة، إنها مهمة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129271"
+    },
+    {
+      "english": "True friends, bring true joy.",
+      "Arabic": "الأصدقاء الحقيقيون، يجلبون الفرح.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129272"
+    },
+    {
+      "english": "Kindness spreads, like sunshine.",
+      "Arabic": "اللطف ينتشر، كأشعة الشمس.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129272"
+    },
+    {
+      "english": "Good company, makes me happy.",
+      "Arabic": "الصحبة الجيدة، تسعدني.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129274"
+    },
+    {
+      "english": "Listen to your heart, find peace.",
+      "Arabic": "استمع لقلبك، تجد السلام.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129275"
+    },
+    {
+      "english": "Helping others, feels so good.",
+      "Arabic": "مساعدة الآخرين، شعور رائع.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129276"
+    },
+    {
+      "english": "A grateful heart, is a happy heart.",
+      "Arabic": "القلب الشاكر، قلب سعيد.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129277"
+    },
+    {
+      "english": "Enjoy the simple, beauty of life.",
+      "Arabic": "استمتع بالبساطة، وجمال الحياة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129278"
+    },
+    {
+      "english": "Making memories, with loved ones.",
+      "Arabic": "صنع الذكريات، مع الأحباب.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129279"
+    },
+    {
+      "english": "A warm hug, a happy feeling.",
+      "Arabic": "عناق دافئ، شعور بالسعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129280"
+    },
+    {
+      "english": "Laughter is the, best medicine.",
+      "Arabic": "الضحك هو، أفضل دواء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129281"
+    },
+    {
+      "english": "Gratitude opens, doors to joy.",
+      "Arabic": "الشكر يفتح، أبواب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129282"
+    },
+    {
+      "english": "Find your passion, live your dreams.",
+      "Arabic": "اوجد شغفك، وعش أحلامك.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129283"
+    },
+    {
+      "english": "A peaceful mind, brings happiness.",
+      "Arabic": "العقل الهادئ، يجلب السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129284"
+    },
+    {
+      "english": "Share your blessings, with others.",
+      "Arabic": "شارك بركاتك، مع الآخرين.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129285"
+    },
+    {
+      "english": "Cherish the moments, that matter.",
+      "Arabic": "قدّر اللحظات، المهمة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129286"
+    },
+    {
+      "english": "Music soothes, the soul.",
+      "Arabic": "الموسيقى تهدئ، الروح.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129288"
+    },
+    {
+      "english": "Believe in yourself, you are enough.",
+      "Arabic": "صدق بنفسك، أنت كافٍ.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129289"
+    },
+    {
+      "english": "A simple life, is a happy life.",
+      "Arabic": "حياة بسيطة، حياة سعيدة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129290"
+    },
+    {
+      "english": "Spread positivity, feel the joy.",
+      "Arabic": "انشر الإيجابية، اشعر بالسعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129291"
+    },
+    {
+      "english": "Home is, where love is.",
+      "Arabic": "البيت هو، حيث الحب.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129292"
+    },
+    {
+      "english": "A warm drink, a cozy feeling.",
+      "Arabic": "مشروب دافئ، شعور بالدفء.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129293"
+    },
+    {
+      "english": "Learn something new, every day.",
+      "Arabic": "تعلم شيئاً جديداً، كل يوم.",
+      "category": "Happiness",
+      "generated_at": "2026-08-16T02:21:28.129294"
     }
   ],
-  "last_updated": "2026-08-15T02:13:56.594674"
+  "last_updated": "2026-08-16T02:21:28.129296"
 }
