@@ -22319,7 +22319,727 @@
       "Arabic": "اعمل بجد، في صمت.",
       "category": "Perseverance",
       "generated_at": "2026-08-17T02:20:07.953882"
+    },
+    {
+      "english": "Dare greatly, live fully.",
+      "Arabic": "تجرأ كثيراً، عش بكامل حياتك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879333"
+    },
+    {
+      "english": "Face your fears, they shrink.",
+      "Arabic": "واجه مخاوفك، فهي تصغر.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879345"
+    },
+    {
+      "english": "Bold steps, big rewards.",
+      "Arabic": "خطوات جريئة، مكافآت كبيرة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879346"
+    },
+    {
+      "english": "Your brave heart, leads the way.",
+      "Arabic": "قلبك الشجاع، يقود الطريق.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879348"
+    },
+    {
+      "english": "Stand tall, even when shaken.",
+      "Arabic": "قف شامخاً، حتى عند الاهتزاز.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879349"
+    },
+    {
+      "english": "Inner strength, outer calm.",
+      "Arabic": "قوة داخلية، هدوء خارجي.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879350"
+    },
+    {
+      "english": "A brave soul, knows no limits.",
+      "Arabic": "روح شجاعة، لا تعرف حدوداً.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879352"
+    },
+    {
+      "english": "Push beyond, your comfort zone.",
+      "Arabic": "ادفع ما وراء، منطقة راحتك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879355"
+    },
+    {
+      "english": "Courage is not fear, gone.",
+      "Arabic": "الشجاعة ليست خوفاً، قد زال.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879357"
+    },
+    {
+      "english": "It's fear, felt and acted.",
+      "Arabic": "بل خوف، تم الشعور به والتصرف.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879359"
+    },
+    {
+      "english": "Be the first, to try again.",
+      "Arabic": "كن الأول، لتعاود المحاولة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879360"
+    },
+    {
+      "english": "Your spirit, is unyielding.",
+      "Arabic": "روحك، لا تلين أبداً.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879361"
+    },
+    {
+      "english": "The path less traveled, needs you.",
+      "Arabic": "الطريق الأقل ارتياداً، يحتاجك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879362"
+    },
+    {
+      "english": "Fear less, do more.",
+      "Arabic": "خف أقل، افعل أكثر.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879364"
+    },
+    {
+      "english": "A lion's heart, beats within.",
+      "Arabic": "قلب أسد، ينبض في داخلك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879365"
+    },
+    {
+      "english": "When in doubt, be brave.",
+      "Arabic": "عند الشك، كن شجاعاً.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879366"
+    },
+    {
+      "english": "Your voice matters, speak up.",
+      "Arabic": "صوتك مهم، تحدث بصوت عالٍ.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879367"
+    },
+    {
+      "english": "Embrace the unknown, with gusto.",
+      "Arabic": "اعتنق المجهول، بحماس.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879368"
+    },
+    {
+      "english": "The world needs, your courage.",
+      "Arabic": "العالم يحتاج، شجاعتك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879369"
+    },
+    {
+      "english": "Act bravely, the rest follows.",
+      "Arabic": "تصرف بجرأة، والبقية تتبع.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879370"
+    },
+    {
+      "english": "Don't just exist, live boldly.",
+      "Arabic": "لا تكتفِ بالوجود، عش بجرأة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879372"
+    },
+    {
+      "english": "A moment of bravery, changes all.",
+      "Arabic": "لحظة شجاعة، تغير كل شيء.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879373"
+    },
+    {
+      "english": "Rise above, the fear within.",
+      "Arabic": "تسامَ فوق، الخوف الداخلي.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879374"
+    },
+    {
+      "english": "The courage to begin, is half done.",
+      "Arabic": "شجاعة البدء، نصف العمل.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879375"
+    },
+    {
+      "english": "Your inner fire, burns bright.",
+      "Arabic": "نارك الداخلية، تحترق بوهج.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879376"
+    },
+    {
+      "english": "Be the storm, not the leaf.",
+      "Arabic": "كن العاصفة، لا ورقة الشجر.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879377"
+    },
+    {
+      "english": "Confront challenges, head on.",
+      "Arabic": "واجه التحديات، مباشرة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879378"
+    },
+    {
+      "english": "The brave heart, finds its way.",
+      "Arabic": "القلب الشجاع، يجد طريقه.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879379"
+    },
+    {
+      "english": "Doubt kills more, than failure.",
+      "Arabic": "الشك يقتل أكثر، من الفشل.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879380"
+    },
+    {
+      "english": "Dare to be, who you are.",
+      "Arabic": "تجرأ لتكون، من أنت.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879381"
+    },
+    {
+      "english": "A bold move, can change everything.",
+      "Arabic": "حركة جريئة، قد تغير كل شيء.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879382"
+    },
+    {
+      "english": "Your spirit's compass, points true.",
+      "Arabic": "بوصلة روحك، تشير بالاتجاه الصحيح.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879383"
+    },
+    {
+      "english": "Courage is a muscle, exercise it.",
+      "Arabic": "الشجاعة عضلة، تمرّنها.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879384"
+    },
+    {
+      "english": "The greatest risk, is to not try.",
+      "Arabic": "أعظم خطر، هو عدم المحاولة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879385"
+    },
+    {
+      "english": "Be a pioneer, in your own life.",
+      "Arabic": "كن رائداً، في حياتك الخاصة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879386"
+    },
+    {
+      "english": "Let your bravery, echo loud.",
+      "Arabic": "دع شجاعتك، تتردد بصوت عالٍ.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879387"
+    },
+    {
+      "english": "Stand for something, even alone.",
+      "Arabic": "قف من أجل شيء، حتى وحدك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879388"
+    },
+    {
+      "english": "The brave heart, sees opportunity.",
+      "Arabic": "القلب الشجاع، يرى الفرصة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879389"
+    },
+    {
+      "english": "Your will, is your command.",
+      "Arabic": "إرادتك، هي أمرك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879390"
+    },
+    {
+      "english": "Be brave, be bold, be you.",
+      "Arabic": "كن شجاعاً، كن جريئاً، كن أنت.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879391"
+    },
+    {
+      "english": "Dare greatly, live fully.",
+      "Arabic": "تجرأ كثيراً، عش بكامل حياتك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879392"
+    },
+    {
+      "english": "Face your fears, they shrink.",
+      "Arabic": "واجه مخاوفك، فهي تصغر.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879394"
+    },
+    {
+      "english": "Bold steps, big rewards.",
+      "Arabic": "خطوات جريئة، مكافآت كبيرة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879395"
+    },
+    {
+      "english": "Your brave heart, leads the way.",
+      "Arabic": "قلبك الشجاع، يقود الطريق.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879396"
+    },
+    {
+      "english": "Stand tall, even when shaken.",
+      "Arabic": "قف شامخاً، حتى عند الاهتزاز.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879397"
+    },
+    {
+      "english": "Inner strength, outer calm.",
+      "Arabic": "قوة داخلية، هدوء خارجي.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879398"
+    },
+    {
+      "english": "A brave soul, knows no limits.",
+      "Arabic": "روح شجاعة، لا تعرف حدوداً.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879399"
+    },
+    {
+      "english": "Push beyond, your comfort zone.",
+      "Arabic": "ادفع ما وراء، منطقة راحتك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879400"
+    },
+    {
+      "english": "Courage is not fear, gone.",
+      "Arabic": "الشجاعة ليست خوفاً، قد زال.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879402"
+    },
+    {
+      "english": "It's fear, felt and acted.",
+      "Arabic": "بل خوف، تم الشعور به والتصرف.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879403"
+    },
+    {
+      "english": "Be the first, to try again.",
+      "Arabic": "كن الأول، لتعاود المحاولة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879404"
+    },
+    {
+      "english": "Your spirit, is unyielding.",
+      "Arabic": "روحك، لا تلين أبداً.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879405"
+    },
+    {
+      "english": "The path less traveled, needs you.",
+      "Arabic": "الطريق الأقل ارتياداً، يحتاجك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879406"
+    },
+    {
+      "english": "Fear less, do more.",
+      "Arabic": "خف أقل، افعل أكثر.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879407"
+    },
+    {
+      "english": "A lion's heart, beats within.",
+      "Arabic": "قلب أسد، ينبض في داخلك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879408"
+    },
+    {
+      "english": "When in doubt, be brave.",
+      "Arabic": "عند الشك، كن شجاعاً.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879410"
+    },
+    {
+      "english": "Your voice matters, speak up.",
+      "Arabic": "صوتك مهم، تحدث بصوت عالٍ.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879411"
+    },
+    {
+      "english": "Embrace the unknown, with gusto.",
+      "Arabic": "اعتنق المجهول، بحماس.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879412"
+    },
+    {
+      "english": "The world needs, your courage.",
+      "Arabic": "العالم يحتاج، شجاعتك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879413"
+    },
+    {
+      "english": "Act bravely, the rest follows.",
+      "Arabic": "تصرف بجرأة، والبقية تتبع.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879414"
+    },
+    {
+      "english": "Don't just exist, live boldly.",
+      "Arabic": "لا تكتفِ بالوجود، عش بجرأة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879415"
+    },
+    {
+      "english": "A moment of bravery, changes all.",
+      "Arabic": "لحظة شجاعة، تغير كل شيء.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879416"
+    },
+    {
+      "english": "Rise above, the fear within.",
+      "Arabic": "تسامَ فوق، الخوف الداخلي.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879417"
+    },
+    {
+      "english": "The courage to begin, is half done.",
+      "Arabic": "شجاعة البدء، نصف العمل.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879418"
+    },
+    {
+      "english": "Your inner fire, burns bright.",
+      "Arabic": "نارك الداخلية، تحترق بوهج.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879419"
+    },
+    {
+      "english": "Be the storm, not the leaf.",
+      "Arabic": "كن العاصفة، لا ورقة الشجر.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879420"
+    },
+    {
+      "english": "Confront challenges, head on.",
+      "Arabic": "واجه التحديات، مباشرة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879421"
+    },
+    {
+      "english": "The brave heart, finds its way.",
+      "Arabic": "القلب الشجاع، يجد طريقه.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879423"
+    },
+    {
+      "english": "Doubt kills more, than failure.",
+      "Arabic": "الشك يقتل أكثر، من الفشل.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879424"
+    },
+    {
+      "english": "Dare to be, who you are.",
+      "Arabic": "تجرأ لتكون، من أنت.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879425"
+    },
+    {
+      "english": "A bold move, can change everything.",
+      "Arabic": "حركة جريئة، قد تغير كل شيء.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879426"
+    },
+    {
+      "english": "Your spirit's compass, points true.",
+      "Arabic": "بوصلة روحك، تشير بالاتجاه الصحيح.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879427"
+    },
+    {
+      "english": "Courage is a muscle, exercise it.",
+      "Arabic": "الشجاعة عضلة، تمرّنها.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879428"
+    },
+    {
+      "english": "The greatest risk, is to not try.",
+      "Arabic": "أعظم خطر، هو عدم المحاولة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879429"
+    },
+    {
+      "english": "Be a pioneer, in your own life.",
+      "Arabic": "كن رائداً، في حياتك الخاصة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879430"
+    },
+    {
+      "english": "Let your bravery, echo loud.",
+      "Arabic": "دع شجاعتك، تتردد بصوت عالٍ.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879431"
+    },
+    {
+      "english": "Stand for something, even alone.",
+      "Arabic": "قف من أجل شيء، حتى وحدك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879432"
+    },
+    {
+      "english": "The brave heart, sees opportunity.",
+      "Arabic": "القلب الشجاع، يرى الفرصة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879433"
+    },
+    {
+      "english": "Your will, is your command.",
+      "Arabic": "إرادتك، هي أمرك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879434"
+    },
+    {
+      "english": "Be brave, be bold, be you.",
+      "Arabic": "كن شجاعاً، كن جريئاً، كن أنت.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879435"
+    },
+    {
+      "english": "Dare greatly, live fully.",
+      "Arabic": "تجرأ كثيراً، عش بكامل حياتك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879436"
+    },
+    {
+      "english": "Face your fears, they shrink.",
+      "Arabic": "واجه مخاوفك، فهي تصغر.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879437"
+    },
+    {
+      "english": "Bold steps, big rewards.",
+      "Arabic": "خطوات جريئة، مكافآت كبيرة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879438"
+    },
+    {
+      "english": "Your brave heart, leads the way.",
+      "Arabic": "قلبك الشجاع، يقود الطريق.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879439"
+    },
+    {
+      "english": "Stand tall, even when shaken.",
+      "Arabic": "قف شامخاً، حتى عند الاهتزاز.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879440"
+    },
+    {
+      "english": "Inner strength, outer calm.",
+      "Arabic": "قوة داخلية، هدوء خارجي.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879441"
+    },
+    {
+      "english": "A brave soul, knows no limits.",
+      "Arabic": "روح شجاعة، لا تعرف حدوداً.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879443"
+    },
+    {
+      "english": "Push beyond, your comfort zone.",
+      "Arabic": "ادفع ما وراء، منطقة راحتك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879444"
+    },
+    {
+      "english": "Courage is not fear, gone.",
+      "Arabic": "الشجاعة ليست خوفاً، قد زال.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879445"
+    },
+    {
+      "english": "It's fear, felt and acted.",
+      "Arabic": "بل خوف، تم الشعور به والتصرف.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879446"
+    },
+    {
+      "english": "Be the first, to try again.",
+      "Arabic": "كن الأول، لتعاود المحاولة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879447"
+    },
+    {
+      "english": "Your spirit, is unyielding.",
+      "Arabic": "روحك، لا تلين أبداً.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879448"
+    },
+    {
+      "english": "The path less traveled, needs you.",
+      "Arabic": "الطريق الأقل ارتياداً، يحتاجك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879450"
+    },
+    {
+      "english": "Fear less, do more.",
+      "Arabic": "خف أقل، افعل أكثر.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879451"
+    },
+    {
+      "english": "A lion's heart, beats within.",
+      "Arabic": "قلب أسد، ينبض في داخلك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879452"
+    },
+    {
+      "english": "When in doubt, be brave.",
+      "Arabic": "عند الشك، كن شجاعاً.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879453"
+    },
+    {
+      "english": "Your voice matters, speak up.",
+      "Arabic": "صوتك مهم، تحدث بصوت عالٍ.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879454"
+    },
+    {
+      "english": "Embrace the unknown, with gusto.",
+      "Arabic": "اعتنق المجهول، بحماس.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879455"
+    },
+    {
+      "english": "The world needs, your courage.",
+      "Arabic": "العالم يحتاج، شجاعتك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879456"
+    },
+    {
+      "english": "Act bravely, the rest follows.",
+      "Arabic": "تصرف بجرأة، والبقية تتبع.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879457"
+    },
+    {
+      "english": "Don't just exist, live boldly.",
+      "Arabic": "لا تكتفِ بالوجود، عش بجرأة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879458"
+    },
+    {
+      "english": "A moment of bravery, changes all.",
+      "Arabic": "لحظة شجاعة، تغير كل شيء.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879459"
+    },
+    {
+      "english": "Rise above, the fear within.",
+      "Arabic": "تسامَ فوق، الخوف الداخلي.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879460"
+    },
+    {
+      "english": "The courage to begin, is half done.",
+      "Arabic": "شجاعة البدء، نصف العمل.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879461"
+    },
+    {
+      "english": "Your inner fire, burns bright.",
+      "Arabic": "نارك الداخلية، تحترق بوهج.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879462"
+    },
+    {
+      "english": "Be the storm, not the leaf.",
+      "Arabic": "كن العاصفة، لا ورقة الشجر.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879463"
+    },
+    {
+      "english": "Confront challenges, head on.",
+      "Arabic": "واجه التحديات، مباشرة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879464"
+    },
+    {
+      "english": "The brave heart, finds its way.",
+      "Arabic": "القلب الشجاع، يجد طريقه.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879465"
+    },
+    {
+      "english": "Doubt kills more, than failure.",
+      "Arabic": "الشك يقتل أكثر، من الفشل.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879466"
+    },
+    {
+      "english": "Dare to be, who you are.",
+      "Arabic": "تجرأ لتكون، من أنت.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879467"
+    },
+    {
+      "english": "A bold move, can change everything.",
+      "Arabic": "حركة جريئة، قد تغير كل شيء.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879468"
+    },
+    {
+      "english": "Your spirit's compass, points true.",
+      "Arabic": "بوصلة روحك، تشير بالاتجاه الصحيح.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879469"
+    },
+    {
+      "english": "Courage is a muscle, exercise it.",
+      "Arabic": "الشجاعة عضلة، تمرّنها.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879470"
+    },
+    {
+      "english": "The greatest risk, is to not try.",
+      "Arabic": "أعظم خطر، هو عدم المحاولة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879471"
+    },
+    {
+      "english": "Be a pioneer, in your own life.",
+      "Arabic": "كن رائداً، في حياتك الخاصة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879472"
+    },
+    {
+      "english": "Let your bravery, echo loud.",
+      "Arabic": "دع شجاعتك، تتردد بصوت عالٍ.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879473"
+    },
+    {
+      "english": "Stand for something, even alone.",
+      "Arabic": "قف من أجل شيء، حتى وحدك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879474"
+    },
+    {
+      "english": "The brave heart, sees opportunity.",
+      "Arabic": "القلب الشجاع، يرى الفرصة.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879475"
+    },
+    {
+      "english": "Your will, is your command.",
+      "Arabic": "إرادتك، هي أمرك.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879476"
+    },
+    {
+      "english": "Be brave, be bold, be you.",
+      "Arabic": "كن شجاعاً، كن جريئاً، كن أنت.",
+      "category": "Courage",
+      "generated_at": "2026-08-18T02:16:02.879477"
     }
   ],
-  "last_updated": "2026-08-17T02:20:07.953884"
+  "last_updated": "2026-08-18T02:16:02.879479"
 }
