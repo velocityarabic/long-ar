@@ -23039,7 +23039,727 @@
       "Arabic": "كن شجاعاً، كن جريئاً، كن أنت.",
       "category": "Courage",
       "generated_at": "2026-08-18T02:16:02.879477"
+    },
+    {
+      "english": "Let go of anger, find peace.",
+      "Arabic": "تخل عن الغضب، تجد السلام.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625351"
+    },
+    {
+      "english": "The past is gone, embrace today.",
+      "Arabic": "الماضي ولى، احتضن اليوم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625361"
+    },
+    {
+      "english": "Mend fences, build bridges.",
+      "Arabic": "أصلح العلاقات، ابن الجسور.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625363"
+    },
+    {
+      "english": "Start fresh, with a clean slate.",
+      "Arabic": "ابدأ من جديد، بصفحة بيضاء.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625364"
+    },
+    {
+      "english": "Kindness unlocks, many doors.",
+      "Arabic": "اللطف يفتح، أبواباً كثيرة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625365"
+    },
+    {
+      "english": "Every hurt can heal, with time.",
+      "Arabic": "كل جرح يلتئم، مع الوقت.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625367"
+    },
+    {
+      "english": "Release grudges, lighten your soul.",
+      "Arabic": "تخلص من الضغائن، خفف روحك.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625368"
+    },
+    {
+      "english": "A generous spirit, always wins.",
+      "Arabic": "الروح الكريمة، تفوز دائماً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625371"
+    },
+    {
+      "english": "Understand others, find compassion.",
+      "Arabic": "تفهم الآخرين، تجد الرحمة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625373"
+    },
+    {
+      "english": "Wisdom grows, with forgiveness.",
+      "Arabic": "الحكمة تنمو، مع المسامحة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625374"
+    },
+    {
+      "english": "Let misunderstandings fade away.",
+      "Arabic": "دع سوء الفهم يتلاشى.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625376"
+    },
+    {
+      "english": "Heal hearts, spread harmony.",
+      "Arabic": "اشفِ القلوب، انشر الوفاق.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625377"
+    },
+    {
+      "english": "Your peace, is a choice.",
+      "Arabic": "سلامك، هو اختيار.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625378"
+    },
+    {
+      "english": "True strength, lies in mercy.",
+      "Arabic": "القوة الحقيقية، في الرحمة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625379"
+    },
+    {
+      "english": "Give grace, receive it too.",
+      "Arabic": "امنح العفو، تنله أيضاً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625380"
+    },
+    {
+      "english": "Turn pain, into understanding.",
+      "Arabic": "حول الألم، إلى تفهم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625381"
+    },
+    {
+      "english": "Build trust, brick by brick.",
+      "Arabic": "ابنِ الثقة، حجراً حجراً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625382"
+    },
+    {
+      "english": "Let grudges go, fly high.",
+      "Arabic": "دع الضغائن ترحل، حلق عالياً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625383"
+    },
+    {
+      "english": "Compassion is a gift, share it.",
+      "Arabic": "الرحمة هدية، شاركها.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625384"
+    },
+    {
+      "english": "A calm heart, knows peace.",
+      "Arabic": "القلب الهادئ، يعرف السلام.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625385"
+    },
+    {
+      "english": "Embrace empathy, sow kindness.",
+      "Arabic": "اعتنق التعاطف، ازرع الود.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625386"
+    },
+    {
+      "english": "Forgiveness is freedom, truly.",
+      "Arabic": "المسامحة هي الحرية، حقاً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625387"
+    },
+    {
+      "english": "Don't hold on, to what hurts.",
+      "Arabic": "لا تتمسك، بما يؤلم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625388"
+    },
+    {
+      "english": "A gentle word, can soothe.",
+      "Arabic": "كلمة لطيفة، قد تهدئ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625389"
+    },
+    {
+      "english": "Let yesterday's storms, pass.",
+      "Arabic": "دع عواصف الأمس، تمر.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625390"
+    },
+    {
+      "english": "Cherish connection, over conflict.",
+      "Arabic": "اعتز بالصلة، فوق الخلاف.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625392"
+    },
+    {
+      "english": "See the good, in everyone.",
+      "Arabic": "انظر للخير، في كل شخص.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625393"
+    },
+    {
+      "english": "Unburden your heart, with grace.",
+      "Arabic": "فرّغ قلبك، بلطف.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625394"
+    },
+    {
+      "english": "Reconciliation, brings new hope.",
+      "Arabic": "المصالحة، تجلب أملاً جديداً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625395"
+    },
+    {
+      "english": "Extend kindness, it returns.",
+      "Arabic": "بادر باللطف، يعود إليك.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625396"
+    },
+    {
+      "english": "Let bridges bloom, not walls.",
+      "Arabic": "دع الجسور تزهر، لا الجدران.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625397"
+    },
+    {
+      "english": "Forgive yourself, first.",
+      "Arabic": "سامح نفسك، أولاً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625398"
+    },
+    {
+      "english": "A peaceful heart, is wealthy.",
+      "Arabic": "القلب المسالم، غني.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625399"
+    },
+    {
+      "english": "Mend what's broken, with love.",
+      "Arabic": "أصلح ما انكسر، بالحب.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625400"
+    },
+    {
+      "english": "Let it go, and be free.",
+      "Arabic": "دعه يرحل، وكن حراً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625401"
+    },
+    {
+      "english": "Understanding eases, all burdens.",
+      "Arabic": "التفهم يخفف، كل الأعباء.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625402"
+    },
+    {
+      "english": "Mercy opens, the way forward.",
+      "Arabic": "الرحمة تفتح، الطريق للأمام.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625403"
+    },
+    {
+      "english": "Choose peace, over bitterness.",
+      "Arabic": "اختر السلام، لا المرارة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625404"
+    },
+    {
+      "english": "Let go of anger, find peace.",
+      "Arabic": "تخل عن الغضب، تجد السلام.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625405"
+    },
+    {
+      "english": "The past is gone, embrace today.",
+      "Arabic": "الماضي ولى، احتضن اليوم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625407"
+    },
+    {
+      "english": "Mend fences, build bridges.",
+      "Arabic": "أصلح العلاقات، ابن الجسور.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625408"
+    },
+    {
+      "english": "Start fresh, with a clean slate.",
+      "Arabic": "ابدأ من جديد، بصفحة بيضاء.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625409"
+    },
+    {
+      "english": "Kindness unlocks, many doors.",
+      "Arabic": "اللطف يفتح، أبواباً كثيرة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625410"
+    },
+    {
+      "english": "Every hurt can heal, with time.",
+      "Arabic": "كل جرح يلتئم، مع الوقت.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625411"
+    },
+    {
+      "english": "Release grudges, lighten your soul.",
+      "Arabic": "تخلص من الضغائن، خفف روحك.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625412"
+    },
+    {
+      "english": "A generous spirit, always wins.",
+      "Arabic": "الروح الكريمة، تفوز دائماً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625413"
+    },
+    {
+      "english": "Understand others, find compassion.",
+      "Arabic": "تفهم الآخرين، تجد الرحمة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625414"
+    },
+    {
+      "english": "Wisdom grows, with forgiveness.",
+      "Arabic": "الحكمة تنمو، مع المسامحة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625415"
+    },
+    {
+      "english": "Let misunderstandings fade away.",
+      "Arabic": "دع سوء الفهم يتلاشى.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625417"
+    },
+    {
+      "english": "Heal hearts, spread harmony.",
+      "Arabic": "اشفِ القلوب، انشر الوفاق.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625418"
+    },
+    {
+      "english": "Your peace, is a choice.",
+      "Arabic": "سلامك، هو اختيار.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625419"
+    },
+    {
+      "english": "True strength, lies in mercy.",
+      "Arabic": "القوة الحقيقية، في الرحمة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625420"
+    },
+    {
+      "english": "Give grace, receive it too.",
+      "Arabic": "امنح العفو، تنله أيضاً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625421"
+    },
+    {
+      "english": "Turn pain, into understanding.",
+      "Arabic": "حول الألم، إلى تفهم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625422"
+    },
+    {
+      "english": "Build trust, brick by brick.",
+      "Arabic": "ابنِ الثقة، حجراً حجراً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625423"
+    },
+    {
+      "english": "Let grudges go, fly high.",
+      "Arabic": "دع الضغائن ترحل، حلق عالياً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625424"
+    },
+    {
+      "english": "Compassion is a gift, share it.",
+      "Arabic": "الرحمة هدية، شاركها.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625425"
+    },
+    {
+      "english": "A calm heart, knows peace.",
+      "Arabic": "القلب الهادئ، يعرف السلام.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625426"
+    },
+    {
+      "english": "Embrace empathy, sow kindness.",
+      "Arabic": "اعتنق التعاطف، ازرع الود.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625427"
+    },
+    {
+      "english": "Forgiveness is freedom, truly.",
+      "Arabic": "المسامحة هي الحرية، حقاً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625428"
+    },
+    {
+      "english": "Don't hold on, to what hurts.",
+      "Arabic": "لا تتمسك، بما يؤلم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625430"
+    },
+    {
+      "english": "A gentle word, can soothe.",
+      "Arabic": "كلمة لطيفة، قد تهدئ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625431"
+    },
+    {
+      "english": "Let yesterday's storms, pass.",
+      "Arabic": "دع عواصف الأمس، تمر.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625432"
+    },
+    {
+      "english": "Cherish connection, over conflict.",
+      "Arabic": "اعتز بالصلة، فوق الخلاف.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625433"
+    },
+    {
+      "english": "See the good, in everyone.",
+      "Arabic": "انظر للخير، في كل شخص.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625434"
+    },
+    {
+      "english": "Unburden your heart, with grace.",
+      "Arabic": "فرّغ قلبك، بلطف.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625435"
+    },
+    {
+      "english": "Reconciliation, brings new hope.",
+      "Arabic": "المصالحة، تجلب أملاً جديداً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625436"
+    },
+    {
+      "english": "Extend kindness, it returns.",
+      "Arabic": "بادر باللطف، يعود إليك.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625437"
+    },
+    {
+      "english": "Let bridges bloom, not walls.",
+      "Arabic": "دع الجسور تزهر، لا الجدران.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625438"
+    },
+    {
+      "english": "Forgive yourself, first.",
+      "Arabic": "سامح نفسك، أولاً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625439"
+    },
+    {
+      "english": "A peaceful heart, is wealthy.",
+      "Arabic": "القلب المسالم، غني.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625440"
+    },
+    {
+      "english": "Mend what's broken, with love.",
+      "Arabic": "أصلح ما انكسر، بالحب.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625441"
+    },
+    {
+      "english": "Let it go, and be free.",
+      "Arabic": "دعه يرحل، وكن حراً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625442"
+    },
+    {
+      "english": "Understanding eases, all burdens.",
+      "Arabic": "التفهم يخفف، كل الأعباء.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625443"
+    },
+    {
+      "english": "Mercy opens, the way forward.",
+      "Arabic": "الرحمة تفتح، الطريق للأمام.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625444"
+    },
+    {
+      "english": "Choose peace, over bitterness.",
+      "Arabic": "اختر السلام، لا المرارة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625445"
+    },
+    {
+      "english": "Let go of anger, find peace.",
+      "Arabic": "تخل عن الغضب، تجد السلام.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625446"
+    },
+    {
+      "english": "The past is gone, embrace today.",
+      "Arabic": "الماضي ولى، احتضن اليوم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625448"
+    },
+    {
+      "english": "Mend fences, build bridges.",
+      "Arabic": "أصلح العلاقات، ابن الجسور.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625449"
+    },
+    {
+      "english": "Start fresh, with a clean slate.",
+      "Arabic": "ابدأ من جديد، بصفحة بيضاء.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625450"
+    },
+    {
+      "english": "Kindness unlocks, many doors.",
+      "Arabic": "اللطف يفتح، أبواباً كثيرة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625451"
+    },
+    {
+      "english": "Every hurt can heal, with time.",
+      "Arabic": "كل جرح يلتئم، مع الوقت.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625452"
+    },
+    {
+      "english": "Release grudges, lighten your soul.",
+      "Arabic": "تخلص من الضغائن، خفف روحك.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625453"
+    },
+    {
+      "english": "A generous spirit, always wins.",
+      "Arabic": "الروح الكريمة، تفوز دائماً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625454"
+    },
+    {
+      "english": "Understand others, find compassion.",
+      "Arabic": "تفهم الآخرين، تجد الرحمة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625455"
+    },
+    {
+      "english": "Wisdom grows, with forgiveness.",
+      "Arabic": "الحكمة تنمو، مع المسامحة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625456"
+    },
+    {
+      "english": "Let misunderstandings fade away.",
+      "Arabic": "دع سوء الفهم يتلاشى.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625458"
+    },
+    {
+      "english": "Heal hearts, spread harmony.",
+      "Arabic": "اشفِ القلوب، انشر الوفاق.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625459"
+    },
+    {
+      "english": "Your peace, is a choice.",
+      "Arabic": "سلامك، هو اختيار.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625460"
+    },
+    {
+      "english": "True strength, lies in mercy.",
+      "Arabic": "القوة الحقيقية، في الرحمة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625461"
+    },
+    {
+      "english": "Give grace, receive it too.",
+      "Arabic": "امنح العفو، تنله أيضاً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625462"
+    },
+    {
+      "english": "Turn pain, into understanding.",
+      "Arabic": "حول الألم، إلى تفهم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625463"
+    },
+    {
+      "english": "Build trust, brick by brick.",
+      "Arabic": "ابنِ الثقة، حجراً حجراً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625464"
+    },
+    {
+      "english": "Let grudges go, fly high.",
+      "Arabic": "دع الضغائن ترحل، حلق عالياً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625465"
+    },
+    {
+      "english": "Compassion is a gift, share it.",
+      "Arabic": "الرحمة هدية، شاركها.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625466"
+    },
+    {
+      "english": "A calm heart, knows peace.",
+      "Arabic": "القلب الهادئ، يعرف السلام.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625467"
+    },
+    {
+      "english": "Embrace empathy, sow kindness.",
+      "Arabic": "اعتنق التعاطف، ازرع الود.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625469"
+    },
+    {
+      "english": "Forgiveness is freedom, truly.",
+      "Arabic": "المسامحة هي الحرية، حقاً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625470"
+    },
+    {
+      "english": "Don't hold on, to what hurts.",
+      "Arabic": "لا تتمسك، بما يؤلم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625471"
+    },
+    {
+      "english": "A gentle word, can soothe.",
+      "Arabic": "كلمة لطيفة، قد تهدئ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625472"
+    },
+    {
+      "english": "Let yesterday's storms, pass.",
+      "Arabic": "دع عواصف الأمس، تمر.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625473"
+    },
+    {
+      "english": "Cherish connection, over conflict.",
+      "Arabic": "اعتز بالصلة، فوق الخلاف.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625474"
+    },
+    {
+      "english": "See the good, in everyone.",
+      "Arabic": "انظر للخير، في كل شخص.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625475"
+    },
+    {
+      "english": "Unburden your heart, with grace.",
+      "Arabic": "فرّغ قلبك، بلطف.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625476"
+    },
+    {
+      "english": "Reconciliation, brings new hope.",
+      "Arabic": "المصالحة، تجلب أملاً جديداً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625477"
+    },
+    {
+      "english": "Extend kindness, it returns.",
+      "Arabic": "بادر باللطف، يعود إليك.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625478"
+    },
+    {
+      "english": "Let bridges bloom, not walls.",
+      "Arabic": "دع الجسور تزهر، لا الجدران.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625479"
+    },
+    {
+      "english": "Forgive yourself, first.",
+      "Arabic": "سامح نفسك، أولاً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625480"
+    },
+    {
+      "english": "A peaceful heart, is wealthy.",
+      "Arabic": "القلب المسالم، غني.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625481"
+    },
+    {
+      "english": "Mend what's broken, with love.",
+      "Arabic": "أصلح ما انكسر، بالحب.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625483"
+    },
+    {
+      "english": "Let it go, and be free.",
+      "Arabic": "دعه يرحل، وكن حراً.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625484"
+    },
+    {
+      "english": "Understanding eases, all burdens.",
+      "Arabic": "التفهم يخفف، كل الأعباء.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625485"
+    },
+    {
+      "english": "Mercy opens, the way forward.",
+      "Arabic": "الرحمة تفتح، الطريق للأمام.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625486"
+    },
+    {
+      "english": "Choose peace, over bitterness.",
+      "Arabic": "اختر السلام، لا المرارة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625487"
+    },
+    {
+      "english": "Let go of anger, find peace.",
+      "Arabic": "تخل عن الغضب، تجد السلام.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625488"
+    },
+    {
+      "english": "The past is gone, embrace today.",
+      "Arabic": "الماضي ولى، احتضن اليوم.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625489"
+    },
+    {
+      "english": "Mend fences, build bridges.",
+      "Arabic": "أصلح العلاقات، ابن الجسور.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625490"
+    },
+    {
+      "english": "Start fresh, with a clean slate.",
+      "Arabic": "ابدأ من جديد، بصفحة بيضاء.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625491"
+    },
+    {
+      "english": "Kindness unlocks, many doors.",
+      "Arabic": "اللطف يفتح، أبواباً كثيرة.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625492"
+    },
+    {
+      "english": "Every hurt can heal, with time.",
+      "Arabic": "كل جرح يلتئم، مع الوقت.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T02:44:31.625493"
     }
   ],
-  "last_updated": "2026-08-18T02:16:02.879479"
+  "last_updated": "2026-08-19T02:44:31.625495"
 }
