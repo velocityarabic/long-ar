@@ -26639,7 +26639,727 @@
       "Arabic": "جهدك، مهم.",
       "category": "Wisdom",
       "generated_at": "2026-08-23T02:24:01.657026"
+    },
+    {
+      "english": "Offer a hand, to a friend.",
+      "Arabic": "قدم يد المساعدة, لصديق.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772649"
+    },
+    {
+      "english": "Share a smile, today.",
+      "Arabic": "شارك ابتسامة, اليوم.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772664"
+    },
+    {
+      "english": "Give a compliment, freely.",
+      "Arabic": "قدم مجاملة, بحرية.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772666"
+    },
+    {
+      "english": "Be patient, with everyone.",
+      "Arabic": "كن صبوراً, مع الجميع.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772668"
+    },
+    {
+      "english": "Listen with, your heart.",
+      "Arabic": "استمع بقلبك, حقاً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772669"
+    },
+    {
+      "english": "Offer encouragement, often.",
+      "Arabic": "قدم التشجيع, كثيراً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772670"
+    },
+    {
+      "english": "Show empathy, always.",
+      "Arabic": "أظهر التعاطف, دائماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772671"
+    },
+    {
+      "english": "Practice gratitude, daily.",
+      "Arabic": "مارس الامتنان, يومياً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772676"
+    },
+    {
+      "english": "Offer comfort, when needed.",
+      "Arabic": "قدم الراحة, عند الحاجة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772677"
+    },
+    {
+      "english": "Be gentle, with words.",
+      "Arabic": "كن لطيفاً, بالكلمات.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772679"
+    },
+    {
+      "english": "Spread positivity, around.",
+      "Arabic": "انشر الإيجابية, حولك.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772680"
+    },
+    {
+      "english": "A kind gesture, goes far.",
+      "Arabic": "لفتة كريمة, تفعل الكثير.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772681"
+    },
+    {
+      "english": "Assume the best, in people.",
+      "Arabic": "افترض الخير, في الناس.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772683"
+    },
+    {
+      "english": "Help someone, anonymously.",
+      "Arabic": "ساعد شخصاً, سراً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772684"
+    },
+    {
+      "english": "Offer a listening ear, attentively.",
+      "Arabic": "قدم أذناً صاغية, بانتباه.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772685"
+    },
+    {
+      "english": "Forgive mistakes, quickly.",
+      "Arabic": "سامح الأخطاء, بسرعة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772686"
+    },
+    {
+      "english": "Offer solutions, not blame.",
+      "Arabic": "قدم حلولاً, لا لوماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772687"
+    },
+    {
+      "english": "Show appreciation, genuinely.",
+      "Arabic": "أظهر التقدير, بصدق.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772688"
+    },
+    {
+      "english": "Inspire hope, in hearts.",
+      "Arabic": "ألهم الأمل, في القلوب.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772689"
+    },
+    {
+      "english": "Offer peace, to troubled souls.",
+      "Arabic": "قدم السلام, للنفوس المضطربة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772691"
+    },
+    {
+      "english": "Be thoughtful, in actions.",
+      "Arabic": "كن مدروساً, في الأفعال.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772692"
+    },
+    {
+      "english": "Share warmth, on cold days.",
+      "Arabic": "شارك الدفء, في الأيام الباردة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772692"
+    },
+    {
+      "english": "Offer a word, of cheer.",
+      "Arabic": "قدم كلمة, ترحيب.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772693"
+    },
+    {
+      "english": "Be gracious, always.",
+      "Arabic": "كن كريماً, دائماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772694"
+    },
+    {
+      "english": "Let kindness, lead you.",
+      "Arabic": "دع اللطف, يقودك.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772695"
+    },
+    {
+      "english": "Offer support, without judgment.",
+      "Arabic": "قدم الدعم, بلا حكم.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772696"
+    },
+    {
+      "english": "Share a laugh, often.",
+      "Arabic": "شارك الضحك, كثيراً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772697"
+    },
+    {
+      "english": "Offer a gentle nudge, forward.",
+      "Arabic": "قدم دفعة لطيفة, للأمام.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772698"
+    },
+    {
+      "english": "Be compassionate, in spirit.",
+      "Arabic": "كن رحيماً, في الروح.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772699"
+    },
+    {
+      "english": "Offer perspective, with care.",
+      "Arabic": "قدم منظوراً, بعناية.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772700"
+    },
+    {
+      "english": "Offer respect, always.",
+      "Arabic": "قدم الاحترام, دائماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772701"
+    },
+    {
+      "english": "Be a gentle soul, today.",
+      "Arabic": "كن روحاً رقيقة, اليوم.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772702"
+    },
+    {
+      "english": "Extend kindness, like sunshine.",
+      "Arabic": "مد اللطف, كأشعة الشمس.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772703"
+    },
+    {
+      "english": "Offer a hand, to a friend.",
+      "Arabic": "قدم يد المساعدة, لصديق.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772704"
+    },
+    {
+      "english": "Share a smile, today.",
+      "Arabic": "شارك ابتسامة, اليوم.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772705"
+    },
+    {
+      "english": "Give a compliment, freely.",
+      "Arabic": "قدم مجاملة, بحرية.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772707"
+    },
+    {
+      "english": "Be patient, with everyone.",
+      "Arabic": "كن صبوراً, مع الجميع.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772708"
+    },
+    {
+      "english": "Listen with, your heart.",
+      "Arabic": "استمع بقلبك, حقاً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772709"
+    },
+    {
+      "english": "Offer encouragement, often.",
+      "Arabic": "قدم التشجيع, كثيراً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772710"
+    },
+    {
+      "english": "Show empathy, always.",
+      "Arabic": "أظهر التعاطف, دائماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772711"
+    },
+    {
+      "english": "Practice gratitude, daily.",
+      "Arabic": "مارس الامتنان, يومياً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772712"
+    },
+    {
+      "english": "Offer comfort, when needed.",
+      "Arabic": "قدم الراحة, عند الحاجة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772713"
+    },
+    {
+      "english": "Be gentle, with words.",
+      "Arabic": "كن لطيفاً, بالكلمات.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772715"
+    },
+    {
+      "english": "Spread positivity, around.",
+      "Arabic": "انشر الإيجابية, حولك.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772716"
+    },
+    {
+      "english": "A kind gesture, goes far.",
+      "Arabic": "لفتة كريمة, تفعل الكثير.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772717"
+    },
+    {
+      "english": "Assume the best, in people.",
+      "Arabic": "افترض الخير, في الناس.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772718"
+    },
+    {
+      "english": "Help someone, anonymously.",
+      "Arabic": "ساعد شخصاً, سراً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772719"
+    },
+    {
+      "english": "Offer a listening ear, attentively.",
+      "Arabic": "قدم أذناً صاغية, بانتباه.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772720"
+    },
+    {
+      "english": "Forgive mistakes, quickly.",
+      "Arabic": "سامح الأخطاء, بسرعة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772721"
+    },
+    {
+      "english": "Offer solutions, not blame.",
+      "Arabic": "قدم حلولاً, لا لوماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772722"
+    },
+    {
+      "english": "Show appreciation, genuinely.",
+      "Arabic": "أظهر التقدير, بصدق.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772723"
+    },
+    {
+      "english": "Inspire hope, in hearts.",
+      "Arabic": "ألهم الأمل, في القلوب.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772724"
+    },
+    {
+      "english": "Offer peace, to troubled souls.",
+      "Arabic": "قدم السلام, للنفوس المضطربة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772725"
+    },
+    {
+      "english": "Be thoughtful, in actions.",
+      "Arabic": "كن مدروساً, في الأفعال.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772726"
+    },
+    {
+      "english": "Share warmth, on cold days.",
+      "Arabic": "شارك الدفء, في الأيام الباردة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772727"
+    },
+    {
+      "english": "Offer a word, of cheer.",
+      "Arabic": "قدم كلمة, ترحيب.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772728"
+    },
+    {
+      "english": "Be gracious, always.",
+      "Arabic": "كن كريماً, دائماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772729"
+    },
+    {
+      "english": "Let kindness, lead you.",
+      "Arabic": "دع اللطف, يقودك.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772730"
+    },
+    {
+      "english": "Offer support, without judgment.",
+      "Arabic": "قدم الدعم, بلا حكم.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772731"
+    },
+    {
+      "english": "Share a laugh, often.",
+      "Arabic": "شارك الضحك, كثيراً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772732"
+    },
+    {
+      "english": "Offer a gentle nudge, forward.",
+      "Arabic": "قدم دفعة لطيفة, للأمام.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772733"
+    },
+    {
+      "english": "Be compassionate, in spirit.",
+      "Arabic": "كن رحيماً, في الروح.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772734"
+    },
+    {
+      "english": "Offer perspective, with care.",
+      "Arabic": "قدم منظوراً, بعناية.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772735"
+    },
+    {
+      "english": "Offer respect, always.",
+      "Arabic": "قدم الاحترام, دائماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772736"
+    },
+    {
+      "english": "Be a gentle soul, today.",
+      "Arabic": "كن روحاً رقيقة, اليوم.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772737"
+    },
+    {
+      "english": "Extend kindness, like sunshine.",
+      "Arabic": "مد اللطف, كأشعة الشمس.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772738"
+    },
+    {
+      "english": "Offer a hand, to a friend.",
+      "Arabic": "قدم يد المساعدة, لصديق.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772740"
+    },
+    {
+      "english": "Share a smile, today.",
+      "Arabic": "شارك ابتسامة, اليوم.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772741"
+    },
+    {
+      "english": "Give a compliment, freely.",
+      "Arabic": "قدم مجاملة, بحرية.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772742"
+    },
+    {
+      "english": "Be patient, with everyone.",
+      "Arabic": "كن صبوراً, مع الجميع.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772743"
+    },
+    {
+      "english": "Listen with, your heart.",
+      "Arabic": "استمع بقلبك, حقاً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772744"
+    },
+    {
+      "english": "Offer encouragement, often.",
+      "Arabic": "قدم التشجيع, كثيراً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772745"
+    },
+    {
+      "english": "Show empathy, always.",
+      "Arabic": "أظهر التعاطف, دائماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772746"
+    },
+    {
+      "english": "Practice gratitude, daily.",
+      "Arabic": "مارس الامتنان, يومياً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772747"
+    },
+    {
+      "english": "Offer comfort, when needed.",
+      "Arabic": "قدم الراحة, عند الحاجة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772748"
+    },
+    {
+      "english": "Be gentle, with words.",
+      "Arabic": "كن لطيفاً, بالكلمات.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772749"
+    },
+    {
+      "english": "Spread positivity, around.",
+      "Arabic": "انشر الإيجابية, حولك.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772750"
+    },
+    {
+      "english": "A kind gesture, goes far.",
+      "Arabic": "لفتة كريمة, تفعل الكثير.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772751"
+    },
+    {
+      "english": "Assume the best, in people.",
+      "Arabic": "افترض الخير, في الناس.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772752"
+    },
+    {
+      "english": "Help someone, anonymously.",
+      "Arabic": "ساعد شخصاً, سراً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772753"
+    },
+    {
+      "english": "Offer a listening ear, attentively.",
+      "Arabic": "قدم أذناً صاغية, بانتباه.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772754"
+    },
+    {
+      "english": "Forgive mistakes, quickly.",
+      "Arabic": "سامح الأخطاء, بسرعة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772755"
+    },
+    {
+      "english": "Offer solutions, not blame.",
+      "Arabic": "قدم حلولاً, لا لوماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772756"
+    },
+    {
+      "english": "Show appreciation, genuinely.",
+      "Arabic": "أظهر التقدير, بصدق.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772758"
+    },
+    {
+      "english": "Inspire hope, in hearts.",
+      "Arabic": "ألهم الأمل, في القلوب.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772759"
+    },
+    {
+      "english": "Offer peace, to troubled souls.",
+      "Arabic": "قدم السلام, للنفوس المضطربة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772760"
+    },
+    {
+      "english": "Be thoughtful, in actions.",
+      "Arabic": "كن مدروساً, في الأفعال.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772761"
+    },
+    {
+      "english": "Share warmth, on cold days.",
+      "Arabic": "شارك الدفء, في الأيام الباردة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772762"
+    },
+    {
+      "english": "Offer a word, of cheer.",
+      "Arabic": "قدم كلمة, ترحيب.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772763"
+    },
+    {
+      "english": "Be gracious, always.",
+      "Arabic": "كن كريماً, دائماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772764"
+    },
+    {
+      "english": "Let kindness, lead you.",
+      "Arabic": "دع اللطف, يقودك.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772765"
+    },
+    {
+      "english": "Offer support, without judgment.",
+      "Arabic": "قدم الدعم, بلا حكم.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772766"
+    },
+    {
+      "english": "Share a laugh, often.",
+      "Arabic": "شارك الضحك, كثيراً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772767"
+    },
+    {
+      "english": "Offer a gentle nudge, forward.",
+      "Arabic": "قدم دفعة لطيفة, للأمام.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772768"
+    },
+    {
+      "english": "Be compassionate, in spirit.",
+      "Arabic": "كن رحيماً, في الروح.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772769"
+    },
+    {
+      "english": "Offer perspective, with care.",
+      "Arabic": "قدم منظوراً, بعناية.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772770"
+    },
+    {
+      "english": "Offer respect, always.",
+      "Arabic": "قدم الاحترام, دائماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772771"
+    },
+    {
+      "english": "Be a gentle soul, today.",
+      "Arabic": "كن روحاً رقيقة, اليوم.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772772"
+    },
+    {
+      "english": "Extend kindness, like sunshine.",
+      "Arabic": "مد اللطف, كأشعة الشمس.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772772"
+    },
+    {
+      "english": "Offer a hand, to a friend.",
+      "Arabic": "قدم يد المساعدة, لصديق.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772773"
+    },
+    {
+      "english": "Share a smile, today.",
+      "Arabic": "شارك ابتسامة, اليوم.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772774"
+    },
+    {
+      "english": "Give a compliment, freely.",
+      "Arabic": "قدم مجاملة, بحرية.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772775"
+    },
+    {
+      "english": "Be patient, with everyone.",
+      "Arabic": "كن صبوراً, مع الجميع.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772776"
+    },
+    {
+      "english": "Listen with, your heart.",
+      "Arabic": "استمع بقلبك, حقاً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772777"
+    },
+    {
+      "english": "Offer encouragement, often.",
+      "Arabic": "قدم التشجيع, كثيراً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772778"
+    },
+    {
+      "english": "Show empathy, always.",
+      "Arabic": "أظهر التعاطف, دائماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772780"
+    },
+    {
+      "english": "Practice gratitude, daily.",
+      "Arabic": "مارس الامتنان, يومياً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772780"
+    },
+    {
+      "english": "Offer comfort, when needed.",
+      "Arabic": "قدم الراحة, عند الحاجة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772781"
+    },
+    {
+      "english": "Be gentle, with words.",
+      "Arabic": "كن لطيفاً, بالكلمات.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772783"
+    },
+    {
+      "english": "Spread positivity, around.",
+      "Arabic": "انشر الإيجابية, حولك.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772784"
+    },
+    {
+      "english": "A kind gesture, goes far.",
+      "Arabic": "لفتة كريمة, تفعل الكثير.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772785"
+    },
+    {
+      "english": "Assume the best, in people.",
+      "Arabic": "افترض الخير, في الناس.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772786"
+    },
+    {
+      "english": "Help someone, anonymously.",
+      "Arabic": "ساعد شخصاً, سراً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772788"
+    },
+    {
+      "english": "Offer a listening ear, attentively.",
+      "Arabic": "قدم أذناً صاغية, بانتباه.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772788"
+    },
+    {
+      "english": "Forgive mistakes, quickly.",
+      "Arabic": "سامح الأخطاء, بسرعة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772790"
+    },
+    {
+      "english": "Offer solutions, not blame.",
+      "Arabic": "قدم حلولاً, لا لوماً.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772791"
+    },
+    {
+      "english": "Show appreciation, genuinely.",
+      "Arabic": "أظهر التقدير, بصدق.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772792"
+    },
+    {
+      "english": "Inspire hope, in hearts.",
+      "Arabic": "ألهم الأمل, في القلوب.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772793"
+    },
+    {
+      "english": "Offer peace, to troubled souls.",
+      "Arabic": "قدم السلام, للنفوس المضطربة.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772794"
+    },
+    {
+      "english": "Be thoughtful, in actions.",
+      "Arabic": "كن مدروساً, في الأفعال.",
+      "category": "Kindness",
+      "generated_at": "2026-08-24T02:22:44.772795"
     }
   ],
-  "last_updated": "2026-08-23T02:24:01.657027"
+  "last_updated": "2026-08-24T02:22:44.772797"
 }
