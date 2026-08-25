@@ -27359,7 +27359,727 @@
       "Arabic": "كن مدروساً, في الأفعال.",
       "category": "Kindness",
       "generated_at": "2026-08-24T02:22:44.772795"
+    },
+    {
+      "english": "Your voice, matters.",
+      "Arabic": "صوتك، مهم.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287383"
+    },
+    {
+      "english": "Believe in, your strength.",
+      "Arabic": "آمن بقوتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287393"
+    },
+    {
+      "english": "Shine bright, like the sun.",
+      "Arabic": "تألق، كالشمس.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287395"
+    },
+    {
+      "english": "You can, do this.",
+      "Arabic": "يمكنك، فعل هذا.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287396"
+    },
+    {
+      "english": "Your ideas, are valuable.",
+      "Arabic": "أفكارك، قيمة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287397"
+    },
+    {
+      "english": "You are, capable.",
+      "Arabic": "أنت، قادر.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287399"
+    },
+    {
+      "english": "Let your, spirit soar.",
+      "Arabic": "دع روحك، تحلق.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287400"
+    },
+    {
+      "english": "Be bold, be brave.",
+      "Arabic": "كن جريئاً، كن شجاعاً.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287403"
+    },
+    {
+      "english": "Trust your, inner voice.",
+      "Arabic": "ثق بصوتك، الداخلي.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287405"
+    },
+    {
+      "english": "You are, enough.",
+      "Arabic": "أنت، كافٍ.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287406"
+    },
+    {
+      "english": "Your dreams, are valid.",
+      "Arabic": "أحلامك، مشروعة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287407"
+    },
+    {
+      "english": "Walk with, confidence.",
+      "Arabic": "امشِ بثقة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287408"
+    },
+    {
+      "english": "You are, worthy.",
+      "Arabic": "أنت، جدير.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287409"
+    },
+    {
+      "english": "Speak your, truth.",
+      "Arabic": "قل حقيقتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287410"
+    },
+    {
+      "english": "Believe, you can fly.",
+      "Arabic": "صدق، يمكنك الطيران.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287411"
+    },
+    {
+      "english": "Your spirit, shines.",
+      "Arabic": "روحك، تشرق.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287412"
+    },
+    {
+      "english": "You possess, great power.",
+      "Arabic": "تمتلك، قوة عظيمة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287414"
+    },
+    {
+      "english": "Be your, own hero.",
+      "Arabic": "كن بطلك، الخاص.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287415"
+    },
+    {
+      "english": "Embrace your, journey.",
+      "Arabic": "احتضن رحلتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287416"
+    },
+    {
+      "english": "You are, designed for greatness.",
+      "Arabic": "خلقت، للعظمة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287417"
+    },
+    {
+      "english": "Own your, power.",
+      "Arabic": "امتلك، قوتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287418"
+    },
+    {
+      "english": "Your light, guides others.",
+      "Arabic": "نورك، يهدي الآخرين.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287419"
+    },
+    {
+      "english": "Stand firm, be steady.",
+      "Arabic": "قف ثابتاً، كن راسخاً.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287420"
+    },
+    {
+      "english": "You are, a force.",
+      "Arabic": "أنت، قوة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287421"
+    },
+    {
+      "english": "Let your, heart lead.",
+      "Arabic": "دع قلبك، يقود.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287422"
+    },
+    {
+      "english": "You are, meant for more.",
+      "Arabic": "مقدر لك، المزيد.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287423"
+    },
+    {
+      "english": "Walk with, purpose.",
+      "Arabic": "امشِ بهدف.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287424"
+    },
+    {
+      "english": "Your belief, moves mountains.",
+      "Arabic": "إيمانك، يحرك الجبال.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287425"
+    },
+    {
+      "english": "You are, a star.",
+      "Arabic": "أنت، نجم.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287426"
+    },
+    {
+      "english": "Embrace your, courage.",
+      "Arabic": "احتضن شجاعتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287426"
+    },
+    {
+      "english": "You are, the creator.",
+      "Arabic": "أنت، الخالق.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287427"
+    },
+    {
+      "english": "Your voice, matters.",
+      "Arabic": "صوتك، مهم.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287429"
+    },
+    {
+      "english": "Believe in, your strength.",
+      "Arabic": "آمن بقوتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287430"
+    },
+    {
+      "english": "Shine bright, like the sun.",
+      "Arabic": "تألق، كالشمس.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287431"
+    },
+    {
+      "english": "You can, do this.",
+      "Arabic": "يمكنك، فعل هذا.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287432"
+    },
+    {
+      "english": "Your ideas, are valuable.",
+      "Arabic": "أفكارك، قيمة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287433"
+    },
+    {
+      "english": "You are, capable.",
+      "Arabic": "أنت، قادر.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287434"
+    },
+    {
+      "english": "Let your, spirit soar.",
+      "Arabic": "دع روحك، تحلق.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287435"
+    },
+    {
+      "english": "Be bold, be brave.",
+      "Arabic": "كن جريئاً، كن شجاعاً.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287436"
+    },
+    {
+      "english": "Trust your, inner voice.",
+      "Arabic": "ثق بصوتك، الداخلي.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287437"
+    },
+    {
+      "english": "You are, enough.",
+      "Arabic": "أنت، كافٍ.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287438"
+    },
+    {
+      "english": "Your dreams, are valid.",
+      "Arabic": "أحلامك، مشروعة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287439"
+    },
+    {
+      "english": "Walk with, confidence.",
+      "Arabic": "امشِ بثقة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287440"
+    },
+    {
+      "english": "You are, worthy.",
+      "Arabic": "أنت، جدير.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287441"
+    },
+    {
+      "english": "Speak your, truth.",
+      "Arabic": "قل حقيقتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287442"
+    },
+    {
+      "english": "Believe, you can fly.",
+      "Arabic": "صدق، يمكنك الطيران.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287443"
+    },
+    {
+      "english": "Your spirit, shines.",
+      "Arabic": "روحك، تشرق.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287444"
+    },
+    {
+      "english": "You possess, great power.",
+      "Arabic": "تمتلك، قوة عظيمة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287445"
+    },
+    {
+      "english": "Be your, own hero.",
+      "Arabic": "كن بطلك، الخاص.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287447"
+    },
+    {
+      "english": "Embrace your, journey.",
+      "Arabic": "احتضن رحلتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287448"
+    },
+    {
+      "english": "You are, designed for greatness.",
+      "Arabic": "خلقت، للعظمة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287448"
+    },
+    {
+      "english": "Own your, power.",
+      "Arabic": "امتلك، قوتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287450"
+    },
+    {
+      "english": "Your light, guides others.",
+      "Arabic": "نورك، يهدي الآخرين.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287450"
+    },
+    {
+      "english": "Stand firm, be steady.",
+      "Arabic": "قف ثابتاً، كن راسخاً.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287452"
+    },
+    {
+      "english": "You are, a force.",
+      "Arabic": "أنت، قوة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287453"
+    },
+    {
+      "english": "Let your, heart lead.",
+      "Arabic": "دع قلبك، يقود.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287454"
+    },
+    {
+      "english": "You are, meant for more.",
+      "Arabic": "مقدر لك، المزيد.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287454"
+    },
+    {
+      "english": "Walk with, purpose.",
+      "Arabic": "امشِ بهدف.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287455"
+    },
+    {
+      "english": "Your belief, moves mountains.",
+      "Arabic": "إيمانك، يحرك الجبال.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287457"
+    },
+    {
+      "english": "You are, a star.",
+      "Arabic": "أنت، نجم.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287458"
+    },
+    {
+      "english": "Embrace your, courage.",
+      "Arabic": "احتضن شجاعتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287459"
+    },
+    {
+      "english": "You are, the creator.",
+      "Arabic": "أنت، الخالق.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287460"
+    },
+    {
+      "english": "Your voice, matters.",
+      "Arabic": "صوتك، مهم.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287461"
+    },
+    {
+      "english": "Believe in, your strength.",
+      "Arabic": "آمن بقوتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287463"
+    },
+    {
+      "english": "Shine bright, like the sun.",
+      "Arabic": "تألق، كالشمس.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287464"
+    },
+    {
+      "english": "You can, do this.",
+      "Arabic": "يمكنك، فعل هذا.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287465"
+    },
+    {
+      "english": "Your ideas, are valuable.",
+      "Arabic": "أفكارك، قيمة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287466"
+    },
+    {
+      "english": "You are, capable.",
+      "Arabic": "أنت، قادر.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287467"
+    },
+    {
+      "english": "Let your, spirit soar.",
+      "Arabic": "دع روحك، تحلق.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287468"
+    },
+    {
+      "english": "Be bold, be brave.",
+      "Arabic": "كن جريئاً، كن شجاعاً.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287469"
+    },
+    {
+      "english": "Trust your, inner voice.",
+      "Arabic": "ثق بصوتك، الداخلي.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287470"
+    },
+    {
+      "english": "You are, enough.",
+      "Arabic": "أنت، كافٍ.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287471"
+    },
+    {
+      "english": "Your dreams, are valid.",
+      "Arabic": "أحلامك، مشروعة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287472"
+    },
+    {
+      "english": "Walk with, confidence.",
+      "Arabic": "امشِ بثقة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287473"
+    },
+    {
+      "english": "You are, worthy.",
+      "Arabic": "أنت، جدير.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287474"
+    },
+    {
+      "english": "Speak your, truth.",
+      "Arabic": "قل حقيقتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287475"
+    },
+    {
+      "english": "Believe, you can fly.",
+      "Arabic": "صدق، يمكنك الطيران.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287476"
+    },
+    {
+      "english": "Your spirit, shines.",
+      "Arabic": "روحك، تشرق.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287477"
+    },
+    {
+      "english": "You possess, great power.",
+      "Arabic": "تمتلك، قوة عظيمة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287478"
+    },
+    {
+      "english": "Be your, own hero.",
+      "Arabic": "كن بطلك، الخاص.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287479"
+    },
+    {
+      "english": "Embrace your, journey.",
+      "Arabic": "احتضن رحلتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287480"
+    },
+    {
+      "english": "You are, designed for greatness.",
+      "Arabic": "خلقت، للعظمة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287481"
+    },
+    {
+      "english": "Own your, power.",
+      "Arabic": "امتلك، قوتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287482"
+    },
+    {
+      "english": "Your light, guides others.",
+      "Arabic": "نورك، يهدي الآخرين.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287483"
+    },
+    {
+      "english": "Stand firm, be steady.",
+      "Arabic": "قف ثابتاً، كن راسخاً.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287484"
+    },
+    {
+      "english": "You are, a force.",
+      "Arabic": "أنت، قوة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287486"
+    },
+    {
+      "english": "Let your, heart lead.",
+      "Arabic": "دع قلبك، يقود.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287487"
+    },
+    {
+      "english": "You are, meant for more.",
+      "Arabic": "مقدر لك، المزيد.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287488"
+    },
+    {
+      "english": "Walk with, purpose.",
+      "Arabic": "امشِ بهدف.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287489"
+    },
+    {
+      "english": "Your belief, moves mountains.",
+      "Arabic": "إيمانك، يحرك الجبال.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287490"
+    },
+    {
+      "english": "You are, a star.",
+      "Arabic": "أنت، نجم.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287491"
+    },
+    {
+      "english": "Embrace your, courage.",
+      "Arabic": "احتضن شجاعتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287492"
+    },
+    {
+      "english": "You are, the creator.",
+      "Arabic": "أنت، الخالق.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287493"
+    },
+    {
+      "english": "Your voice, matters.",
+      "Arabic": "صوتك، مهم.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287494"
+    },
+    {
+      "english": "Believe in, your strength.",
+      "Arabic": "آمن بقوتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287495"
+    },
+    {
+      "english": "Shine bright, like the sun.",
+      "Arabic": "تألق، كالشمس.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287496"
+    },
+    {
+      "english": "You can, do this.",
+      "Arabic": "يمكنك، فعل هذا.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287497"
+    },
+    {
+      "english": "Your ideas, are valuable.",
+      "Arabic": "أفكارك، قيمة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287498"
+    },
+    {
+      "english": "You are, capable.",
+      "Arabic": "أنت، قادر.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287499"
+    },
+    {
+      "english": "Let your, spirit soar.",
+      "Arabic": "دع روحك، تحلق.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287500"
+    },
+    {
+      "english": "Be bold, be brave.",
+      "Arabic": "كن جريئاً، كن شجاعاً.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287501"
+    },
+    {
+      "english": "Trust your, inner voice.",
+      "Arabic": "ثق بصوتك، الداخلي.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287502"
+    },
+    {
+      "english": "You are, enough.",
+      "Arabic": "أنت، كافٍ.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287504"
+    },
+    {
+      "english": "Your dreams, are valid.",
+      "Arabic": "أحلامك، مشروعة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287505"
+    },
+    {
+      "english": "Walk with, confidence.",
+      "Arabic": "امشِ بثقة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287506"
+    },
+    {
+      "english": "You are, worthy.",
+      "Arabic": "أنت، جدير.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287507"
+    },
+    {
+      "english": "Speak your, truth.",
+      "Arabic": "قل حقيقتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287508"
+    },
+    {
+      "english": "Believe, you can fly.",
+      "Arabic": "صدق، يمكنك الطيران.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287509"
+    },
+    {
+      "english": "Your spirit, shines.",
+      "Arabic": "روحك، تشرق.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287510"
+    },
+    {
+      "english": "You possess, great power.",
+      "Arabic": "تمتلك، قوة عظيمة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287511"
+    },
+    {
+      "english": "Be your, own hero.",
+      "Arabic": "كن بطلك، الخاص.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287512"
+    },
+    {
+      "english": "Embrace your, journey.",
+      "Arabic": "احتضن رحلتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287513"
+    },
+    {
+      "english": "You are, designed for greatness.",
+      "Arabic": "خلقت، للعظمة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287514"
+    },
+    {
+      "english": "Own your, power.",
+      "Arabic": "امتلك، قوتك.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287515"
+    },
+    {
+      "english": "Your light, guides others.",
+      "Arabic": "نورك، يهدي الآخرين.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287516"
+    },
+    {
+      "english": "Stand firm, be steady.",
+      "Arabic": "قف ثابتاً، كن راسخاً.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287517"
+    },
+    {
+      "english": "You are, a force.",
+      "Arabic": "أنت، قوة.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287517"
+    },
+    {
+      "english": "Let your, heart lead.",
+      "Arabic": "دع قلبك، يقود.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287518"
+    },
+    {
+      "english": "You are, meant for more.",
+      "Arabic": "مقدر لك، المزيد.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287519"
+    },
+    {
+      "english": "Walk with, purpose.",
+      "Arabic": "امشِ بهدف.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:18:33.287520"
     }
   ],
-  "last_updated": "2026-08-24T02:22:44.772797"
+  "last_updated": "2026-08-25T02:18:33.287522"
 }
