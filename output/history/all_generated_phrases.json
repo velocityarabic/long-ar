@@ -32399,7 +32399,727 @@
       "Arabic": "أبقِ تلك، النار متقدة.",
       "category": "Perseverance",
       "generated_at": "2026-08-31T06:42:19.283347"
+    },
+    {
+      "english": "This taste, unforgettable.",
+      "Arabic": "هذا الطعم، لا يُنسى.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330501"
+    },
+    {
+      "english": "Your smile, brightens days.",
+      "Arabic": "ابتسامتك، تضيء الأيام.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330514"
+    },
+    {
+      "english": "This view, amazing.",
+      "Arabic": "هذا المنظر، مدهش.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330516"
+    },
+    {
+      "english": "Kindness, always wins.",
+      "Arabic": "اللطف، يفوز دائماً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330517"
+    },
+    {
+      "english": "Good company, precious.",
+      "Arabic": "الصحبة الصالحة، ثمينة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330518"
+    },
+    {
+      "english": "This food, delicious.",
+      "Arabic": "هذا الأكل، لذيذ.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330518"
+    },
+    {
+      "english": "Your help, much needed.",
+      "Arabic": "مساعدتك، مطلوبة جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330519"
+    },
+    {
+      "english": "This music, moves me.",
+      "Arabic": "هذه الموسيقى، تحركني.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330522"
+    },
+    {
+      "english": "Your words, inspiring.",
+      "Arabic": "كلماتك، ملهمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330523"
+    },
+    {
+      "english": "This moment, peaceful.",
+      "Arabic": "هذه اللحظة، هادئة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330524"
+    },
+    {
+      "english": "Your support, means everything.",
+      "Arabic": "دعمك، يعني كل شيء.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330525"
+    },
+    {
+      "english": "This art, beautiful.",
+      "Arabic": "هذا الفن، جميل.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330526"
+    },
+    {
+      "english": "Your advice, golden.",
+      "Arabic": "نصيحتك، ذهبية.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330527"
+    },
+    {
+      "english": "This city, vibrant.",
+      "Arabic": "هذه المدينة، نابضة بالحياة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330527"
+    },
+    {
+      "english": "This discovery, exciting.",
+      "Arabic": "هذا الاكتشاف، مثير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330528"
+    },
+    {
+      "english": "This adventure, thrilling.",
+      "Arabic": "هذه المغامرة، مثيرة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330528"
+    },
+    {
+      "english": "Your kindness, remembered.",
+      "Arabic": "لطفك، سيُتذكر.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330529"
+    },
+    {
+      "english": "This lesson, valuable.",
+      "Arabic": "هذا الدرس، قيم.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330530"
+    },
+    {
+      "english": "Your strength, inspiring.",
+      "Arabic": "قوتك، ملهمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330530"
+    },
+    {
+      "english": "Your spirit, shining.",
+      "Arabic": "روحك، مشرقة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330531"
+    },
+    {
+      "english": "This gesture, touching.",
+      "Arabic": "هذه اللفتة، مؤثرة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330531"
+    },
+    {
+      "english": "Your wisdom, guiding.",
+      "Arabic": "حكمتك، موجهة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330532"
+    },
+    {
+      "english": "This place, magical.",
+      "Arabic": "هذا المكان، ساحر.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330533"
+    },
+    {
+      "english": "Your passion, contagious.",
+      "Arabic": "شغفك، معدي.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330533"
+    },
+    {
+      "english": "Your efforts, recognized.",
+      "Arabic": "جهودك، مُعترف بها.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330534"
+    },
+    {
+      "english": "This creation, masterful.",
+      "Arabic": "هذا الإبداع، متقن.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330535"
+    },
+    {
+      "english": "Your courage, admirable.",
+      "Arabic": "شجاعتك، جديرة بالإعجاب.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330535"
+    },
+    {
+      "english": "This kindness, a treasure.",
+      "Arabic": "هذه اللطف، كنز.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330536"
+    },
+    {
+      "english": "Your insight, helpful.",
+      "Arabic": "بصيرتك، مفيدة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330536"
+    },
+    {
+      "english": "This experience, enriching.",
+      "Arabic": "هذه التجربة، مُثرية.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330537"
+    },
+    {
+      "english": "Your generosity, amazing.",
+      "Arabic": "كرمك، مدهش.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330537"
+    },
+    {
+      "english": "This gift, thoughtful.",
+      "Arabic": "هذه الهدية، مدروسة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330538"
+    },
+    {
+      "english": "Your vision, clear.",
+      "Arabic": "رؤيتك، واضحة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330539"
+    },
+    {
+      "english": "This moment, cherished.",
+      "Arabic": "هذه اللحظة، عزيزة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330539"
+    },
+    {
+      "english": "Your patience, appreciated.",
+      "Arabic": "صبرك، مُقدر.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330540"
+    },
+    {
+      "english": "This learning, vital.",
+      "Arabic": "هذا التعلم، حيوي.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330541"
+    },
+    {
+      "english": "This taste, unforgettable.",
+      "Arabic": "هذا الطعم، لا يُنسى.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330542"
+    },
+    {
+      "english": "Your smile, brightens days.",
+      "Arabic": "ابتسامتك، تضيء الأيام.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330542"
+    },
+    {
+      "english": "This view, amazing.",
+      "Arabic": "هذا المنظر، مدهش.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330543"
+    },
+    {
+      "english": "Kindness, always wins.",
+      "Arabic": "اللطف، يفوز دائماً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330545"
+    },
+    {
+      "english": "Good company, precious.",
+      "Arabic": "الصحبة الصالحة، ثمينة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330545"
+    },
+    {
+      "english": "This food, delicious.",
+      "Arabic": "هذا الأكل، لذيذ.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330546"
+    },
+    {
+      "english": "Your help, much needed.",
+      "Arabic": "مساعدتك، مطلوبة جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330547"
+    },
+    {
+      "english": "This music, moves me.",
+      "Arabic": "هذه الموسيقى، تحركني.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330548"
+    },
+    {
+      "english": "Your words, inspiring.",
+      "Arabic": "كلماتك، ملهمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330549"
+    },
+    {
+      "english": "This moment, peaceful.",
+      "Arabic": "هذه اللحظة، هادئة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330549"
+    },
+    {
+      "english": "Your support, means everything.",
+      "Arabic": "دعمك، يعني كل شيء.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330550"
+    },
+    {
+      "english": "This art, beautiful.",
+      "Arabic": "هذا الفن، جميل.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330550"
+    },
+    {
+      "english": "Your advice, golden.",
+      "Arabic": "نصيحتك، ذهبية.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330551"
+    },
+    {
+      "english": "This city, vibrant.",
+      "Arabic": "هذه المدينة، نابضة بالحياة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330552"
+    },
+    {
+      "english": "This discovery, exciting.",
+      "Arabic": "هذا الاكتشاف، مثير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330552"
+    },
+    {
+      "english": "This adventure, thrilling.",
+      "Arabic": "هذه المغامرة، مثيرة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330553"
+    },
+    {
+      "english": "Your kindness, remembered.",
+      "Arabic": "لطفك، سيُتذكر.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330554"
+    },
+    {
+      "english": "This lesson, valuable.",
+      "Arabic": "هذا الدرس، قيم.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330555"
+    },
+    {
+      "english": "Your strength, inspiring.",
+      "Arabic": "قوتك، ملهمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330555"
+    },
+    {
+      "english": "Your spirit, shining.",
+      "Arabic": "روحك، مشرقة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330556"
+    },
+    {
+      "english": "This gesture, touching.",
+      "Arabic": "هذه اللفتة، مؤثرة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330556"
+    },
+    {
+      "english": "Your wisdom, guiding.",
+      "Arabic": "حكمتك، موجهة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330557"
+    },
+    {
+      "english": "This place, magical.",
+      "Arabic": "هذا المكان، ساحر.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330558"
+    },
+    {
+      "english": "Your passion, contagious.",
+      "Arabic": "شغفك، معدي.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330558"
+    },
+    {
+      "english": "Your efforts, recognized.",
+      "Arabic": "جهودك، مُعترف بها.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330559"
+    },
+    {
+      "english": "This creation, masterful.",
+      "Arabic": "هذا الإبداع، متقن.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330559"
+    },
+    {
+      "english": "Your courage, admirable.",
+      "Arabic": "شجاعتك، جديرة بالإعجاب.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330560"
+    },
+    {
+      "english": "This kindness, a treasure.",
+      "Arabic": "هذه اللطف، كنز.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330561"
+    },
+    {
+      "english": "Your insight, helpful.",
+      "Arabic": "بصيرتك، مفيدة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330561"
+    },
+    {
+      "english": "This experience, enriching.",
+      "Arabic": "هذه التجربة، مُثرية.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330562"
+    },
+    {
+      "english": "Your generosity, amazing.",
+      "Arabic": "كرمك، مدهش.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330563"
+    },
+    {
+      "english": "This gift, thoughtful.",
+      "Arabic": "هذه الهدية، مدروسة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330563"
+    },
+    {
+      "english": "Your vision, clear.",
+      "Arabic": "رؤيتك، واضحة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330564"
+    },
+    {
+      "english": "This moment, cherished.",
+      "Arabic": "هذه اللحظة، عزيزة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330564"
+    },
+    {
+      "english": "Your patience, appreciated.",
+      "Arabic": "صبرك، مُقدر.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330565"
+    },
+    {
+      "english": "This learning, vital.",
+      "Arabic": "هذا التعلم، حيوي.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330566"
+    },
+    {
+      "english": "This taste, unforgettable.",
+      "Arabic": "هذا الطعم، لا يُنسى.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330567"
+    },
+    {
+      "english": "Your smile, brightens days.",
+      "Arabic": "ابتسامتك، تضيء الأيام.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330568"
+    },
+    {
+      "english": "This view, amazing.",
+      "Arabic": "هذا المنظر، مدهش.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330568"
+    },
+    {
+      "english": "Kindness, always wins.",
+      "Arabic": "اللطف، يفوز دائماً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330569"
+    },
+    {
+      "english": "Good company, precious.",
+      "Arabic": "الصحبة الصالحة، ثمينة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330570"
+    },
+    {
+      "english": "This food, delicious.",
+      "Arabic": "هذا الأكل، لذيذ.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330571"
+    },
+    {
+      "english": "Your help, much needed.",
+      "Arabic": "مساعدتك، مطلوبة جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330571"
+    },
+    {
+      "english": "This music, moves me.",
+      "Arabic": "هذه الموسيقى، تحركني.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330572"
+    },
+    {
+      "english": "Your words, inspiring.",
+      "Arabic": "كلماتك، ملهمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330573"
+    },
+    {
+      "english": "This moment, peaceful.",
+      "Arabic": "هذه اللحظة، هادئة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330573"
+    },
+    {
+      "english": "Your support, means everything.",
+      "Arabic": "دعمك، يعني كل شيء.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330574"
+    },
+    {
+      "english": "This art, beautiful.",
+      "Arabic": "هذا الفن، جميل.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330574"
+    },
+    {
+      "english": "Your advice, golden.",
+      "Arabic": "نصيحتك، ذهبية.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330575"
+    },
+    {
+      "english": "This city, vibrant.",
+      "Arabic": "هذه المدينة، نابضة بالحياة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330576"
+    },
+    {
+      "english": "This discovery, exciting.",
+      "Arabic": "هذا الاكتشاف، مثير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330577"
+    },
+    {
+      "english": "This adventure, thrilling.",
+      "Arabic": "هذه المغامرة، مثيرة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330577"
+    },
+    {
+      "english": "Your kindness, remembered.",
+      "Arabic": "لطفك، سيُتذكر.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330578"
+    },
+    {
+      "english": "This lesson, valuable.",
+      "Arabic": "هذا الدرس، قيم.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330578"
+    },
+    {
+      "english": "Your strength, inspiring.",
+      "Arabic": "قوتك، ملهمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330579"
+    },
+    {
+      "english": "Your spirit, shining.",
+      "Arabic": "روحك، مشرقة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330580"
+    },
+    {
+      "english": "This gesture, touching.",
+      "Arabic": "هذه اللفتة، مؤثرة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330580"
+    },
+    {
+      "english": "Your wisdom, guiding.",
+      "Arabic": "حكمتك، موجهة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330581"
+    },
+    {
+      "english": "This place, magical.",
+      "Arabic": "هذا المكان، ساحر.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330581"
+    },
+    {
+      "english": "Your passion, contagious.",
+      "Arabic": "شغفك، معدي.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330582"
+    },
+    {
+      "english": "Your efforts, recognized.",
+      "Arabic": "جهودك، مُعترف بها.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330583"
+    },
+    {
+      "english": "This creation, masterful.",
+      "Arabic": "هذا الإبداع، متقن.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330583"
+    },
+    {
+      "english": "Your courage, admirable.",
+      "Arabic": "شجاعتك، جديرة بالإعجاب.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330584"
+    },
+    {
+      "english": "This kindness, a treasure.",
+      "Arabic": "هذه اللطف، كنز.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330584"
+    },
+    {
+      "english": "Your insight, helpful.",
+      "Arabic": "بصيرتك، مفيدة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330585"
+    },
+    {
+      "english": "This experience, enriching.",
+      "Arabic": "هذه التجربة، مُثرية.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330585"
+    },
+    {
+      "english": "Your generosity, amazing.",
+      "Arabic": "كرمك، مدهش.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330586"
+    },
+    {
+      "english": "This gift, thoughtful.",
+      "Arabic": "هذه الهدية، مدروسة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330587"
+    },
+    {
+      "english": "Your vision, clear.",
+      "Arabic": "رؤيتك، واضحة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330587"
+    },
+    {
+      "english": "This moment, cherished.",
+      "Arabic": "هذه اللحظة، عزيزة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330588"
+    },
+    {
+      "english": "Your patience, appreciated.",
+      "Arabic": "صبرك، مُقدر.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330589"
+    },
+    {
+      "english": "This learning, vital.",
+      "Arabic": "هذا التعلم، حيوي.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330589"
+    },
+    {
+      "english": "This taste, unforgettable.",
+      "Arabic": "هذا الطعم، لا يُنسى.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330590"
+    },
+    {
+      "english": "Your smile, brightens days.",
+      "Arabic": "ابتسامتك، تضيء الأيام.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330591"
+    },
+    {
+      "english": "This view, amazing.",
+      "Arabic": "هذا المنظر، مدهش.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330591"
+    },
+    {
+      "english": "Kindness, always wins.",
+      "Arabic": "اللطف، يفوز دائماً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330592"
+    },
+    {
+      "english": "Good company, precious.",
+      "Arabic": "الصحبة الصالحة، ثمينة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330592"
+    },
+    {
+      "english": "This food, delicious.",
+      "Arabic": "هذا الأكل، لذيذ.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330593"
+    },
+    {
+      "english": "Your help, much needed.",
+      "Arabic": "مساعدتك، مطلوبة جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330594"
+    },
+    {
+      "english": "This music, moves me.",
+      "Arabic": "هذه الموسيقى، تحركني.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330595"
+    },
+    {
+      "english": "Your words, inspiring.",
+      "Arabic": "كلماتك، ملهمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330595"
+    },
+    {
+      "english": "This moment, peaceful.",
+      "Arabic": "هذه اللحظة، هادئة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330596"
+    },
+    {
+      "english": "Your support, means everything.",
+      "Arabic": "دعمك، يعني كل شيء.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330597"
+    },
+    {
+      "english": "This art, beautiful.",
+      "Arabic": "هذا الفن، جميل.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-01T06:03:15.330597"
     }
   ],
-  "last_updated": "2026-08-31T06:42:19.283348"
+  "last_updated": "2026-09-01T06:03:15.330599"
 }
