@@ -33839,7 +33839,727 @@
       "Arabic": "قلب مفتوح، يشفي.",
       "category": "Forgiveness",
       "generated_at": "2026-09-02T05:28:05.356066"
+    },
+    {
+      "english": "You are my sunshine.",
+      "Arabic": "أنت شمسي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673595"
+    },
+    {
+      "english": "I'm crazy about you.",
+      "Arabic": "أنا مجنون بك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673605"
+    },
+    {
+      "english": "My love for you grows.",
+      "Arabic": "حبي لك ينمو.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673606"
+    },
+    {
+      "english": "You complete me.",
+      "Arabic": "أنت تكملني.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673608"
+    },
+    {
+      "english": "I can't imagine life without you.",
+      "Arabic": "لا أستطيع تخيل الحياة بدونك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673609"
+    },
+    {
+      "english": "You're my everything.",
+      "Arabic": "أنت كل شيء لي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673610"
+    },
+    {
+      "english": "My heart is yours.",
+      "Arabic": "قلبي ملكك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673611"
+    },
+    {
+      "english": "You make me happy.",
+      "Arabic": "أنت تجعلني سعيداً.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673614"
+    },
+    {
+      "english": "I miss you dearly.",
+      "Arabic": "أشتاق إليك بشدة.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673616"
+    },
+    {
+      "english": "My soulmate, my love.",
+      "Arabic": "يا رفيقة روحي، يا حبيبتي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673617"
+    },
+    {
+      "english": "You're the one for me.",
+      "Arabic": "أنتِ الشخص المناسب لي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673619"
+    },
+    {
+      "english": "You are my dream come true.",
+      "Arabic": "أنت حلمي الذي تحقق.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673620"
+    },
+    {
+      "english": "I adore you completely.",
+      "Arabic": "أعشقك تماماً.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673621"
+    },
+    {
+      "english": "My love for you is endless.",
+      "Arabic": "حبي لك لا نهاية له.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673622"
+    },
+    {
+      "english": "You are my greatest treasure.",
+      "Arabic": "أنت كنزي الأثمن.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673624"
+    },
+    {
+      "english": "My world is better with you.",
+      "Arabic": "عالمي أفضل بوجودك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673625"
+    },
+    {
+      "english": "You are my true love.",
+      "Arabic": "أنت حبي الحقيقي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673626"
+    },
+    {
+      "english": "I want to be with you always.",
+      "Arabic": "أريد البقاء معك دائماً.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673627"
+    },
+    {
+      "english": "My heart feels at home with you.",
+      "Arabic": "قلبي يشعر بالأمان معك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673628"
+    },
+    {
+      "english": "You are my inspiration.",
+      "Arabic": "أنت إلهامي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673629"
+    },
+    {
+      "english": "My love is pure for you.",
+      "Arabic": "حبي لك نقي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673630"
+    },
+    {
+      "english": "You are the light of my life.",
+      "Arabic": "أنت نور حياتي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673631"
+    },
+    {
+      "english": "I think of you always.",
+      "Arabic": "أفكر فيك دائماً.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673632"
+    },
+    {
+      "english": "My heart sings for you.",
+      "Arabic": "قلبي يغني لك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673633"
+    },
+    {
+      "english": "You are my destiny.",
+      "Arabic": "أنت قدري.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673634"
+    },
+    {
+      "english": "My love for you is eternal.",
+      "Arabic": "حبي لك أبدي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673634"
+    },
+    {
+      "english": "You are my greatest joy.",
+      "Arabic": "أنت فرحتي الكبرى.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673635"
+    },
+    {
+      "english": "My heart belongs to you.",
+      "Arabic": "قلبي ينتمي إليك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673636"
+    },
+    {
+      "english": "You are my one and only.",
+      "Arabic": "أنتِ الوحيدة لي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673637"
+    },
+    {
+      "english": "My life is a blessing with you.",
+      "Arabic": "حياتي نعمة بوجودك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673638"
+    },
+    {
+      "english": "You are my true happiness.",
+      "Arabic": "أنت سعادتي الحقيقية.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673639"
+    },
+    {
+      "english": "My heart finds peace with you.",
+      "Arabic": "قلبي يجد السكينة معك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673640"
+    },
+    {
+      "english": "You are my constant thought.",
+      "Arabic": "أنت فكري الدائم.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673641"
+    },
+    {
+      "english": "My love for you is deep.",
+      "Arabic": "حبي لك عميق.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673642"
+    },
+    {
+      "english": "My heart beats faster for you.",
+      "Arabic": "قلبي يخفق أسرع لك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673644"
+    },
+    {
+      "english": "You are my precious one.",
+      "Arabic": "أنتِ غاليتي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673645"
+    },
+    {
+      "english": "My love for you is true.",
+      "Arabic": "حبي لك صادق.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673646"
+    },
+    {
+      "english": "You are my sunshine.",
+      "Arabic": "أنت شمسي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673647"
+    },
+    {
+      "english": "I'm crazy about you.",
+      "Arabic": "أنا مجنون بك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673648"
+    },
+    {
+      "english": "My love for you grows.",
+      "Arabic": "حبي لك ينمو.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673649"
+    },
+    {
+      "english": "You complete me.",
+      "Arabic": "أنت تكملني.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673650"
+    },
+    {
+      "english": "I can't imagine life without you.",
+      "Arabic": "لا أستطيع تخيل الحياة بدونك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673651"
+    },
+    {
+      "english": "You're my everything.",
+      "Arabic": "أنت كل شيء لي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673652"
+    },
+    {
+      "english": "My heart is yours.",
+      "Arabic": "قلبي ملكك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673653"
+    },
+    {
+      "english": "You make me happy.",
+      "Arabic": "أنت تجعلني سعيداً.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673655"
+    },
+    {
+      "english": "I miss you dearly.",
+      "Arabic": "أشتاق إليك بشدة.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673656"
+    },
+    {
+      "english": "My soulmate, my love.",
+      "Arabic": "يا رفيقة روحي، يا حبيبتي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673657"
+    },
+    {
+      "english": "You're the one for me.",
+      "Arabic": "أنتِ الشخص المناسب لي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673659"
+    },
+    {
+      "english": "You are my dream come true.",
+      "Arabic": "أنت حلمي الذي تحقق.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673660"
+    },
+    {
+      "english": "I adore you completely.",
+      "Arabic": "أعشقك تماماً.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673661"
+    },
+    {
+      "english": "My love for you is endless.",
+      "Arabic": "حبي لك لا نهاية له.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673662"
+    },
+    {
+      "english": "You are my greatest treasure.",
+      "Arabic": "أنت كنزي الأثمن.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673663"
+    },
+    {
+      "english": "My world is better with you.",
+      "Arabic": "عالمي أفضل بوجودك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673664"
+    },
+    {
+      "english": "You are my true love.",
+      "Arabic": "أنت حبي الحقيقي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673665"
+    },
+    {
+      "english": "I want to be with you always.",
+      "Arabic": "أريد البقاء معك دائماً.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673666"
+    },
+    {
+      "english": "My heart feels at home with you.",
+      "Arabic": "قلبي يشعر بالأمان معك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673667"
+    },
+    {
+      "english": "You are my inspiration.",
+      "Arabic": "أنت إلهامي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673668"
+    },
+    {
+      "english": "My love is pure for you.",
+      "Arabic": "حبي لك نقي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673669"
+    },
+    {
+      "english": "You are the light of my life.",
+      "Arabic": "أنت نور حياتي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673670"
+    },
+    {
+      "english": "I think of you always.",
+      "Arabic": "أفكر فيك دائماً.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673671"
+    },
+    {
+      "english": "My heart sings for you.",
+      "Arabic": "قلبي يغني لك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673672"
+    },
+    {
+      "english": "You are my destiny.",
+      "Arabic": "أنت قدري.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673673"
+    },
+    {
+      "english": "My love for you is eternal.",
+      "Arabic": "حبي لك أبدي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673674"
+    },
+    {
+      "english": "You are my greatest joy.",
+      "Arabic": "أنت فرحتي الكبرى.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673675"
+    },
+    {
+      "english": "My heart belongs to you.",
+      "Arabic": "قلبي ينتمي إليك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673676"
+    },
+    {
+      "english": "You are my one and only.",
+      "Arabic": "أنتِ الوحيدة لي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673677"
+    },
+    {
+      "english": "My life is a blessing with you.",
+      "Arabic": "حياتي نعمة بوجودك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673678"
+    },
+    {
+      "english": "You are my true happiness.",
+      "Arabic": "أنت سعادتي الحقيقية.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673679"
+    },
+    {
+      "english": "My heart finds peace with you.",
+      "Arabic": "قلبي يجد السكينة معك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673680"
+    },
+    {
+      "english": "You are my constant thought.",
+      "Arabic": "أنت فكري الدائم.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673681"
+    },
+    {
+      "english": "My love for you is deep.",
+      "Arabic": "حبي لك عميق.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673682"
+    },
+    {
+      "english": "My heart beats faster for you.",
+      "Arabic": "قلبي يخفق أسرع لك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673683"
+    },
+    {
+      "english": "You are my precious one.",
+      "Arabic": "أنتِ غاليتي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673684"
+    },
+    {
+      "english": "My love for you is true.",
+      "Arabic": "حبي لك صادق.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673685"
+    },
+    {
+      "english": "You are my sunshine.",
+      "Arabic": "أنت شمسي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673687"
+    },
+    {
+      "english": "I'm crazy about you.",
+      "Arabic": "أنا مجنون بك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673688"
+    },
+    {
+      "english": "My love for you grows.",
+      "Arabic": "حبي لك ينمو.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673689"
+    },
+    {
+      "english": "You complete me.",
+      "Arabic": "أنت تكملني.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673690"
+    },
+    {
+      "english": "I can't imagine life without you.",
+      "Arabic": "لا أستطيع تخيل الحياة بدونك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673691"
+    },
+    {
+      "english": "You're my everything.",
+      "Arabic": "أنت كل شيء لي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673692"
+    },
+    {
+      "english": "My heart is yours.",
+      "Arabic": "قلبي ملكك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673693"
+    },
+    {
+      "english": "You make me happy.",
+      "Arabic": "أنت تجعلني سعيداً.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673694"
+    },
+    {
+      "english": "I miss you dearly.",
+      "Arabic": "أشتاق إليك بشدة.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673695"
+    },
+    {
+      "english": "My soulmate, my love.",
+      "Arabic": "يا رفيقة روحي، يا حبيبتي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673696"
+    },
+    {
+      "english": "You're the one for me.",
+      "Arabic": "أنتِ الشخص المناسب لي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673697"
+    },
+    {
+      "english": "You are my dream come true.",
+      "Arabic": "أنت حلمي الذي تحقق.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673698"
+    },
+    {
+      "english": "I adore you completely.",
+      "Arabic": "أعشقك تماماً.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673699"
+    },
+    {
+      "english": "My love for you is endless.",
+      "Arabic": "حبي لك لا نهاية له.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673700"
+    },
+    {
+      "english": "You are my greatest treasure.",
+      "Arabic": "أنت كنزي الأثمن.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673701"
+    },
+    {
+      "english": "My world is better with you.",
+      "Arabic": "عالمي أفضل بوجودك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673702"
+    },
+    {
+      "english": "You are my true love.",
+      "Arabic": "أنت حبي الحقيقي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673703"
+    },
+    {
+      "english": "I want to be with you always.",
+      "Arabic": "أريد البقاء معك دائماً.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673705"
+    },
+    {
+      "english": "My heart feels at home with you.",
+      "Arabic": "قلبي يشعر بالأمان معك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673706"
+    },
+    {
+      "english": "You are my inspiration.",
+      "Arabic": "أنت إلهامي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673707"
+    },
+    {
+      "english": "My love is pure for you.",
+      "Arabic": "حبي لك نقي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673708"
+    },
+    {
+      "english": "You are the light of my life.",
+      "Arabic": "أنت نور حياتي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673709"
+    },
+    {
+      "english": "I think of you always.",
+      "Arabic": "أفكر فيك دائماً.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673710"
+    },
+    {
+      "english": "My heart sings for you.",
+      "Arabic": "قلبي يغني لك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673711"
+    },
+    {
+      "english": "You are my destiny.",
+      "Arabic": "أنت قدري.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673712"
+    },
+    {
+      "english": "My love for you is eternal.",
+      "Arabic": "حبي لك أبدي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673713"
+    },
+    {
+      "english": "You are my greatest joy.",
+      "Arabic": "أنت فرحتي الكبرى.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673714"
+    },
+    {
+      "english": "My heart belongs to you.",
+      "Arabic": "قلبي ينتمي إليك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673714"
+    },
+    {
+      "english": "You are my one and only.",
+      "Arabic": "أنتِ الوحيدة لي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673715"
+    },
+    {
+      "english": "My life is a blessing with you.",
+      "Arabic": "حياتي نعمة بوجودك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673716"
+    },
+    {
+      "english": "You are my true happiness.",
+      "Arabic": "أنت سعادتي الحقيقية.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673717"
+    },
+    {
+      "english": "My heart finds peace with you.",
+      "Arabic": "قلبي يجد السكينة معك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673718"
+    },
+    {
+      "english": "You are my constant thought.",
+      "Arabic": "أنت فكري الدائم.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673720"
+    },
+    {
+      "english": "My love for you is deep.",
+      "Arabic": "حبي لك عميق.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673721"
+    },
+    {
+      "english": "My heart beats faster for you.",
+      "Arabic": "قلبي يخفق أسرع لك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673721"
+    },
+    {
+      "english": "You are my precious one.",
+      "Arabic": "أنتِ غاليتي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673722"
+    },
+    {
+      "english": "My love for you is true.",
+      "Arabic": "حبي لك صادق.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673723"
+    },
+    {
+      "english": "You are my sunshine.",
+      "Arabic": "أنت شمسي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673724"
+    },
+    {
+      "english": "I'm crazy about you.",
+      "Arabic": "أنا مجنون بك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673725"
+    },
+    {
+      "english": "My love for you grows.",
+      "Arabic": "حبي لك ينمو.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673727"
+    },
+    {
+      "english": "You complete me.",
+      "Arabic": "أنت تكملني.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673728"
+    },
+    {
+      "english": "I can't imagine life without you.",
+      "Arabic": "لا أستطيع تخيل الحياة بدونك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673729"
+    },
+    {
+      "english": "You're my everything.",
+      "Arabic": "أنت كل شيء لي.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673730"
+    },
+    {
+      "english": "My heart is yours.",
+      "Arabic": "قلبي ملكك.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673731"
+    },
+    {
+      "english": "You make me happy.",
+      "Arabic": "أنت تجعلني سعيداً.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673732"
+    },
+    {
+      "english": "I miss you dearly.",
+      "Arabic": "أشتاق إليك بشدة.",
+      "category": "Love",
+      "generated_at": "2026-09-03T05:29:58.673733"
     }
   ],
-  "last_updated": "2026-09-02T05:28:05.356068"
+  "last_updated": "2026-09-03T05:29:58.673734"
 }
