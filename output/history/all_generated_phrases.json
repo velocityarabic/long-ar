@@ -37439,7 +37439,727 @@
       "Arabic": "سامح بحرية، اشعر بالراحة.",
       "category": "Mindfulness",
       "generated_at": "2026-09-07T05:42:45.952593"
+    },
+    {
+      "english": "Slowly, the fruit ripens.",
+      "Arabic": "ببطء، تنضج الثمرة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064452"
+    },
+    {
+      "english": "Don't rush the process.",
+      "Arabic": "لا تستعجل العملية.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064462"
+    },
+    {
+      "english": "Grow at your own pace.",
+      "Arabic": "تنمو بوتيرتك الخاصة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064464"
+    },
+    {
+      "english": "The seed, needs time.",
+      "Arabic": "البذرة، تحتاج وقتًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064466"
+    },
+    {
+      "english": "Trust the unfolding.",
+      "Arabic": "ثق بالتطور.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064467"
+    },
+    {
+      "english": "Eventually, it will happen.",
+      "Arabic": "في النهاية، سيحدث.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064468"
+    },
+    {
+      "english": "The river, finds its way.",
+      "Arabic": "النهر، يجد طريقه.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064470"
+    },
+    {
+      "english": "Calmness, brings clarity.",
+      "Arabic": "الهدوء، يجلب الوضوح.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064473"
+    },
+    {
+      "english": "Learn to wait, gracefully.",
+      "Arabic": "تعلم الانتظار، بأناقة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064474"
+    },
+    {
+      "english": "Patience, opens doors.",
+      "Arabic": "الصبر، يفتح الأبواب.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064476"
+    },
+    {
+      "english": "The storm, will pass.",
+      "Arabic": "العاصفة، ستمر.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064477"
+    },
+    {
+      "english": "Cultivate inner peace.",
+      "Arabic": "ازرع السلام الداخلي.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064478"
+    },
+    {
+      "english": "Wisdom, grows slowly.",
+      "Arabic": "الحكمة، تنمو ببطء.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064480"
+    },
+    {
+      "english": "Breathe, and let be.",
+      "Arabic": "تنفس، ودع الأمور تحدث.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064481"
+    },
+    {
+      "english": "The bloom, needs time.",
+      "Arabic": "الزهرة، تحتاج وقتًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064482"
+    },
+    {
+      "english": "Allow for space.",
+      "Arabic": "اسمح بوجود مساحة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064483"
+    },
+    {
+      "english": "What is meant, will arrive.",
+      "Arabic": "ما هو مقدر، سيصل.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064483"
+    },
+    {
+      "english": "Hold on, a little longer.",
+      "Arabic": "تمسك، لفترة أطول قليلًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064484"
+    },
+    {
+      "english": "The harvest, takes patience.",
+      "Arabic": "الحصاد، يتطلب صبرًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064485"
+    },
+    {
+      "english": "Let the tension, release.",
+      "Arabic": "دع التوتر، يرحل.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064486"
+    },
+    {
+      "english": "Quiet strength, endures.",
+      "Arabic": "القوة الهادئة، تصمد.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064487"
+    },
+    {
+      "english": "Trust the timing, of life.",
+      "Arabic": "ثق بتوقيت، الحياة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064488"
+    },
+    {
+      "english": "Patience, is a gentle art.",
+      "Arabic": "الصبر، فن لطيف.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064489"
+    },
+    {
+      "english": "Wait for understanding.",
+      "Arabic": "انتظر الفهم.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064490"
+    },
+    {
+      "english": "The journey, requires patience.",
+      "Arabic": "الرحلة، تتطلب صبرًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064491"
+    },
+    {
+      "english": "Allow for unfolding, naturally.",
+      "Arabic": "اسمح بالانكشاف، بشكل طبيعي.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064492"
+    },
+    {
+      "english": "Patience, builds resilience.",
+      "Arabic": "الصبر، يبني المرونة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064493"
+    },
+    {
+      "english": "Don't force it.",
+      "Arabic": "لا تجبر الأمر.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064494"
+    },
+    {
+      "english": "The solution, will appear.",
+      "Arabic": "الحل، سيظهر.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064495"
+    },
+    {
+      "english": "Rest, in the waiting.",
+      "Arabic": "ارتح، في الانتظار.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064496"
+    },
+    {
+      "english": "Slowly, the fruit ripens.",
+      "Arabic": "ببطء، تنضج الثمرة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064497"
+    },
+    {
+      "english": "Don't rush the process.",
+      "Arabic": "لا تستعجل العملية.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064499"
+    },
+    {
+      "english": "Grow at your own pace.",
+      "Arabic": "تنمو بوتيرتك الخاصة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064500"
+    },
+    {
+      "english": "The seed, needs time.",
+      "Arabic": "البذرة، تحتاج وقتًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064501"
+    },
+    {
+      "english": "Trust the unfolding.",
+      "Arabic": "ثق بالتطور.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064502"
+    },
+    {
+      "english": "Eventually, it will happen.",
+      "Arabic": "في النهاية، سيحدث.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064503"
+    },
+    {
+      "english": "The river, finds its way.",
+      "Arabic": "النهر، يجد طريقه.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064504"
+    },
+    {
+      "english": "Calmness, brings clarity.",
+      "Arabic": "الهدوء، يجلب الوضوح.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064506"
+    },
+    {
+      "english": "Learn to wait, gracefully.",
+      "Arabic": "تعلم الانتظار، بأناقة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064507"
+    },
+    {
+      "english": "Patience, opens doors.",
+      "Arabic": "الصبر، يفتح الأبواب.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064508"
+    },
+    {
+      "english": "The storm, will pass.",
+      "Arabic": "العاصفة، ستمر.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064509"
+    },
+    {
+      "english": "Cultivate inner peace.",
+      "Arabic": "ازرع السلام الداخلي.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064510"
+    },
+    {
+      "english": "Wisdom, grows slowly.",
+      "Arabic": "الحكمة، تنمو ببطء.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064511"
+    },
+    {
+      "english": "Breathe, and let be.",
+      "Arabic": "تنفس، ودع الأمور تحدث.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064512"
+    },
+    {
+      "english": "The bloom, needs time.",
+      "Arabic": "الزهرة، تحتاج وقتًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064513"
+    },
+    {
+      "english": "Allow for space.",
+      "Arabic": "اسمح بوجود مساحة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064514"
+    },
+    {
+      "english": "What is meant, will arrive.",
+      "Arabic": "ما هو مقدر، سيصل.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064516"
+    },
+    {
+      "english": "Hold on, a little longer.",
+      "Arabic": "تمسك، لفترة أطول قليلًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064517"
+    },
+    {
+      "english": "The harvest, takes patience.",
+      "Arabic": "الحصاد، يتطلب صبرًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064518"
+    },
+    {
+      "english": "Let the tension, release.",
+      "Arabic": "دع التوتر، يرحل.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064519"
+    },
+    {
+      "english": "Quiet strength, endures.",
+      "Arabic": "القوة الهادئة، تصمد.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064520"
+    },
+    {
+      "english": "Trust the timing, of life.",
+      "Arabic": "ثق بتوقيت، الحياة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064521"
+    },
+    {
+      "english": "Patience, is a gentle art.",
+      "Arabic": "الصبر، فن لطيف.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064522"
+    },
+    {
+      "english": "Wait for understanding.",
+      "Arabic": "انتظر الفهم.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064523"
+    },
+    {
+      "english": "The journey, requires patience.",
+      "Arabic": "الرحلة، تتطلب صبرًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064524"
+    },
+    {
+      "english": "Allow for unfolding, naturally.",
+      "Arabic": "اسمح بالانكشاف، بشكل طبيعي.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064525"
+    },
+    {
+      "english": "Patience, builds resilience.",
+      "Arabic": "الصبر، يبني المرونة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064526"
+    },
+    {
+      "english": "Don't force it.",
+      "Arabic": "لا تجبر الأمر.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064527"
+    },
+    {
+      "english": "The solution, will appear.",
+      "Arabic": "الحل، سيظهر.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064528"
+    },
+    {
+      "english": "Rest, in the waiting.",
+      "Arabic": "ارتح، في الانتظار.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064529"
+    },
+    {
+      "english": "Slowly, the fruit ripens.",
+      "Arabic": "ببطء، تنضج الثمرة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064531"
+    },
+    {
+      "english": "Don't rush the process.",
+      "Arabic": "لا تستعجل العملية.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064532"
+    },
+    {
+      "english": "Grow at your own pace.",
+      "Arabic": "تنمو بوتيرتك الخاصة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064533"
+    },
+    {
+      "english": "The seed, needs time.",
+      "Arabic": "البذرة، تحتاج وقتًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064534"
+    },
+    {
+      "english": "Trust the unfolding.",
+      "Arabic": "ثق بالتطور.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064535"
+    },
+    {
+      "english": "Eventually, it will happen.",
+      "Arabic": "في النهاية، سيحدث.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064536"
+    },
+    {
+      "english": "The river, finds its way.",
+      "Arabic": "النهر، يجد طريقه.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064538"
+    },
+    {
+      "english": "Calmness, brings clarity.",
+      "Arabic": "الهدوء، يجلب الوضوح.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064539"
+    },
+    {
+      "english": "Learn to wait, gracefully.",
+      "Arabic": "تعلم الانتظار، بأناقة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064540"
+    },
+    {
+      "english": "Patience, opens doors.",
+      "Arabic": "الصبر، يفتح الأبواب.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064541"
+    },
+    {
+      "english": "The storm, will pass.",
+      "Arabic": "العاصفة، ستمر.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064542"
+    },
+    {
+      "english": "Cultivate inner peace.",
+      "Arabic": "ازرع السلام الداخلي.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064543"
+    },
+    {
+      "english": "Wisdom, grows slowly.",
+      "Arabic": "الحكمة، تنمو ببطء.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064544"
+    },
+    {
+      "english": "Breathe, and let be.",
+      "Arabic": "تنفس، ودع الأمور تحدث.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064545"
+    },
+    {
+      "english": "The bloom, needs time.",
+      "Arabic": "الزهرة، تحتاج وقتًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064546"
+    },
+    {
+      "english": "Allow for space.",
+      "Arabic": "اسمح بوجود مساحة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064547"
+    },
+    {
+      "english": "What is meant, will arrive.",
+      "Arabic": "ما هو مقدر، سيصل.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064548"
+    },
+    {
+      "english": "Hold on, a little longer.",
+      "Arabic": "تمسك، لفترة أطول قليلًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064549"
+    },
+    {
+      "english": "The harvest, takes patience.",
+      "Arabic": "الحصاد، يتطلب صبرًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064551"
+    },
+    {
+      "english": "Let the tension, release.",
+      "Arabic": "دع التوتر، يرحل.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064552"
+    },
+    {
+      "english": "Quiet strength, endures.",
+      "Arabic": "القوة الهادئة، تصمد.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064553"
+    },
+    {
+      "english": "Trust the timing, of life.",
+      "Arabic": "ثق بتوقيت، الحياة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064554"
+    },
+    {
+      "english": "Patience, is a gentle art.",
+      "Arabic": "الصبر، فن لطيف.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064555"
+    },
+    {
+      "english": "Wait for understanding.",
+      "Arabic": "انتظر الفهم.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064556"
+    },
+    {
+      "english": "The journey, requires patience.",
+      "Arabic": "الرحلة، تتطلب صبرًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064557"
+    },
+    {
+      "english": "Allow for unfolding, naturally.",
+      "Arabic": "اسمح بالانكشاف، بشكل طبيعي.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064558"
+    },
+    {
+      "english": "Patience, builds resilience.",
+      "Arabic": "الصبر، يبني المرونة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064559"
+    },
+    {
+      "english": "Don't force it.",
+      "Arabic": "لا تجبر الأمر.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064560"
+    },
+    {
+      "english": "The solution, will appear.",
+      "Arabic": "الحل، سيظهر.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064561"
+    },
+    {
+      "english": "Rest, in the waiting.",
+      "Arabic": "ارتح، في الانتظار.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064562"
+    },
+    {
+      "english": "Slowly, the fruit ripens.",
+      "Arabic": "ببطء، تنضج الثمرة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064563"
+    },
+    {
+      "english": "Don't rush the process.",
+      "Arabic": "لا تستعجل العملية.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064565"
+    },
+    {
+      "english": "Grow at your own pace.",
+      "Arabic": "تنمو بوتيرتك الخاصة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064566"
+    },
+    {
+      "english": "The seed, needs time.",
+      "Arabic": "البذرة، تحتاج وقتًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064567"
+    },
+    {
+      "english": "Trust the unfolding.",
+      "Arabic": "ثق بالتطور.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064568"
+    },
+    {
+      "english": "Eventually, it will happen.",
+      "Arabic": "في النهاية، سيحدث.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064569"
+    },
+    {
+      "english": "The river, finds its way.",
+      "Arabic": "النهر، يجد طريقه.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064571"
+    },
+    {
+      "english": "Calmness, brings clarity.",
+      "Arabic": "الهدوء، يجلب الوضوح.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064572"
+    },
+    {
+      "english": "Learn to wait, gracefully.",
+      "Arabic": "تعلم الانتظار، بأناقة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064573"
+    },
+    {
+      "english": "Patience, opens doors.",
+      "Arabic": "الصبر، يفتح الأبواب.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064574"
+    },
+    {
+      "english": "The storm, will pass.",
+      "Arabic": "العاصفة، ستمر.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064575"
+    },
+    {
+      "english": "Cultivate inner peace.",
+      "Arabic": "ازرع السلام الداخلي.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064576"
+    },
+    {
+      "english": "Wisdom, grows slowly.",
+      "Arabic": "الحكمة، تنمو ببطء.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064577"
+    },
+    {
+      "english": "Breathe, and let be.",
+      "Arabic": "تنفس، ودع الأمور تحدث.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064578"
+    },
+    {
+      "english": "The bloom, needs time.",
+      "Arabic": "الزهرة، تحتاج وقتًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064580"
+    },
+    {
+      "english": "Allow for space.",
+      "Arabic": "اسمح بوجود مساحة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064581"
+    },
+    {
+      "english": "What is meant, will arrive.",
+      "Arabic": "ما هو مقدر، سيصل.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064582"
+    },
+    {
+      "english": "Hold on, a little longer.",
+      "Arabic": "تمسك، لفترة أطول قليلًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064583"
+    },
+    {
+      "english": "The harvest, takes patience.",
+      "Arabic": "الحصاد، يتطلب صبرًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064584"
+    },
+    {
+      "english": "Let the tension, release.",
+      "Arabic": "دع التوتر، يرحل.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064585"
+    },
+    {
+      "english": "Quiet strength, endures.",
+      "Arabic": "القوة الهادئة، تصمد.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064586"
+    },
+    {
+      "english": "Trust the timing, of life.",
+      "Arabic": "ثق بتوقيت، الحياة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064587"
+    },
+    {
+      "english": "Patience, is a gentle art.",
+      "Arabic": "الصبر، فن لطيف.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064588"
+    },
+    {
+      "english": "Wait for understanding.",
+      "Arabic": "انتظر الفهم.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064589"
+    },
+    {
+      "english": "The journey, requires patience.",
+      "Arabic": "الرحلة، تتطلب صبرًا.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064590"
+    },
+    {
+      "english": "Allow for unfolding, naturally.",
+      "Arabic": "اسمح بالانكشاف، بشكل طبيعي.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064591"
+    },
+    {
+      "english": "Patience, builds resilience.",
+      "Arabic": "الصبر، يبني المرونة.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064592"
+    },
+    {
+      "english": "Don't force it.",
+      "Arabic": "لا تجبر الأمر.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064593"
+    },
+    {
+      "english": "The solution, will appear.",
+      "Arabic": "الحل، سيظهر.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064594"
+    },
+    {
+      "english": "Rest, in the waiting.",
+      "Arabic": "ارتح، في الانتظار.",
+      "category": "Patience",
+      "generated_at": "2026-09-09T05:45:00.064595"
     }
   ],
-  "last_updated": "2026-09-07T05:42:45.952594"
+  "last_updated": "2026-09-09T05:45:00.064597"
 }
