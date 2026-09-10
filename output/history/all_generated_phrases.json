@@ -38159,7 +38159,727 @@
       "Arabic": "ارتح، في الانتظار.",
       "category": "Patience",
       "generated_at": "2026-09-09T05:45:00.064595"
+    },
+    {
+      "english": "Maybe, we'll meet again.",
+      "Arabic": "ربما، نلتقي مرة أخرى.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327292"
+    },
+    {
+      "english": "I see a future, with you.",
+      "Arabic": "أرى مستقبلاً، معك.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327304"
+    },
+    {
+      "english": "You're on my mind, often.",
+      "Arabic": "أنت في بالي، غالباً.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327306"
+    },
+    {
+      "english": "This feeling, could grow.",
+      "Arabic": "هذا الشعور، يمكن أن ينمو.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327307"
+    },
+    {
+      "english": "I'm curious, about your story.",
+      "Arabic": "أنا فضولي، بشأن قصتك.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327309"
+    },
+    {
+      "english": "You make me believe, in more.",
+      "Arabic": "أنت تجعلني أؤمن، بالمزيد.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327310"
+    },
+    {
+      "english": "Something special, is happening.",
+      "Arabic": "شيء مميز، يحدث.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327312"
+    },
+    {
+      "english": "I hope we connect, deeply.",
+      "Arabic": "آمل أن نتواصل، بعمق.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327315"
+    },
+    {
+      "english": "You inspire, my dreams.",
+      "Arabic": "أنت تلهم، أحلامي.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327317"
+    },
+    {
+      "english": "A little spark, can ignite.",
+      "Arabic": "شرارة صغيرة، يمكن أن تشتعل.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327318"
+    },
+    {
+      "english": "Perhaps, our paths cross, again.",
+      "Arabic": "ربما، تتقاطع دروبنا، مرة أخرى.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327320"
+    },
+    {
+      "english": "This could be, the start.",
+      "Arabic": "هذه قد تكون، البداية.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327321"
+    },
+    {
+      "english": "Let's see, what happens.",
+      "Arabic": "دعنا نرى، ماذا يحدث.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327322"
+    },
+    {
+      "english": "You give me, hope.",
+      "Arabic": "أنت تعطيني، الأمل.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327324"
+    },
+    {
+      "english": "I believe, in us.",
+      "Arabic": "أنا أؤمن، بنا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327325"
+    },
+    {
+      "english": "You make me feel, good.",
+      "Arabic": "أنت تجعلني أشعر، بالرضا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327326"
+    },
+    {
+      "english": "Wishing, for a connection.",
+      "Arabic": "أتمنى، لتواصل.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327327"
+    },
+    {
+      "english": "You bring, a new light.",
+      "Arabic": "أنت تجلب، نوراً جديداً.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327328"
+    },
+    {
+      "english": "Maybe, this is destiny.",
+      "Arabic": "ربما، هذا هو القدر.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327330"
+    },
+    {
+      "english": "I look forward, to more.",
+      "Arabic": "أتطلع، للمزيد.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327331"
+    },
+    {
+      "english": "You make, life brighter.",
+      "Arabic": "أنت تجعل، الحياة أبهى.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327332"
+    },
+    {
+      "english": "I have a good feeling.",
+      "Arabic": "لدي شعور جيد.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327333"
+    },
+    {
+      "english": "Could this be, something real?",
+      "Arabic": "هل يمكن أن يكون هذا، شيئاً حقيقياً؟",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327334"
+    },
+    {
+      "english": "You paint my world, with color.",
+      "Arabic": "أنت تلون عالمي، بالألوان.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327335"
+    },
+    {
+      "english": "I'm hopeful, for us.",
+      "Arabic": "أنا متفائل، بنا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327336"
+    },
+    {
+      "english": "Let's build, something beautiful.",
+      "Arabic": "دعنا نبني، شيئاً جميلاً.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327337"
+    },
+    {
+      "english": "You give me, a reason.",
+      "Arabic": "أنت تعطيني، سبباً.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327339"
+    },
+    {
+      "english": "I see potential, in this.",
+      "Arabic": "أرى إمكانيات، في هذا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327340"
+    },
+    {
+      "english": "You're a bright spot.",
+      "Arabic": "أنت نقطة مضيئة.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327341"
+    },
+    {
+      "english": "I feel a good vibe.",
+      "Arabic": "أشعر بإيجابية.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327342"
+    },
+    {
+      "english": "What if, this is it?",
+      "Arabic": "ماذا لو، كان هذا هو؟",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327343"
+    },
+    {
+      "english": "You inspire, future plans.",
+      "Arabic": "أنت تلهم، خطط المستقبل.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327344"
+    },
+    {
+      "english": "Let's explore, this feeling.",
+      "Arabic": "دعنا نستكشف، هذا الشعور.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327345"
+    },
+    {
+      "english": "You give me, something to look forward to.",
+      "Arabic": "أنت تعطيني، شيئاً أتطلع إليه.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327346"
+    },
+    {
+      "english": "This could be, our beginning.",
+      "Arabic": "هذه قد تكون، بدايتنا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327347"
+    },
+    {
+      "english": "I hope this continues.",
+      "Arabic": "آمل أن يستمر هذا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327348"
+    },
+    {
+      "english": "Maybe, we'll meet again.",
+      "Arabic": "ربما، نلتقي مرة أخرى.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327350"
+    },
+    {
+      "english": "I see a future, with you.",
+      "Arabic": "أرى مستقبلاً، معك.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327351"
+    },
+    {
+      "english": "You're on my mind, often.",
+      "Arabic": "أنت في بالي، غالباً.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327352"
+    },
+    {
+      "english": "This feeling, could grow.",
+      "Arabic": "هذا الشعور، يمكن أن ينمو.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327353"
+    },
+    {
+      "english": "I'm curious, about your story.",
+      "Arabic": "أنا فضولي، بشأن قصتك.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327354"
+    },
+    {
+      "english": "You make me believe, in more.",
+      "Arabic": "أنت تجعلني أؤمن، بالمزيد.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327355"
+    },
+    {
+      "english": "Something special, is happening.",
+      "Arabic": "شيء مميز، يحدث.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327357"
+    },
+    {
+      "english": "I hope we connect, deeply.",
+      "Arabic": "آمل أن نتواصل، بعمق.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327358"
+    },
+    {
+      "english": "You inspire, my dreams.",
+      "Arabic": "أنت تلهم، أحلامي.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327359"
+    },
+    {
+      "english": "A little spark, can ignite.",
+      "Arabic": "شرارة صغيرة، يمكن أن تشتعل.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327360"
+    },
+    {
+      "english": "Perhaps, our paths cross, again.",
+      "Arabic": "ربما، تتقاطع دروبنا، مرة أخرى.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327361"
+    },
+    {
+      "english": "This could be, the start.",
+      "Arabic": "هذه قد تكون، البداية.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327362"
+    },
+    {
+      "english": "Let's see, what happens.",
+      "Arabic": "دعنا نرى، ماذا يحدث.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327363"
+    },
+    {
+      "english": "You give me, hope.",
+      "Arabic": "أنت تعطيني، الأمل.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327364"
+    },
+    {
+      "english": "I believe, in us.",
+      "Arabic": "أنا أؤمن، بنا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327365"
+    },
+    {
+      "english": "You make me feel, good.",
+      "Arabic": "أنت تجعلني أشعر، بالرضا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327366"
+    },
+    {
+      "english": "Wishing, for a connection.",
+      "Arabic": "أتمنى، لتواصل.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327367"
+    },
+    {
+      "english": "You bring, a new light.",
+      "Arabic": "أنت تجلب، نوراً جديداً.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327368"
+    },
+    {
+      "english": "Maybe, this is destiny.",
+      "Arabic": "ربما، هذا هو القدر.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327369"
+    },
+    {
+      "english": "I look forward, to more.",
+      "Arabic": "أتطلع، للمزيد.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327371"
+    },
+    {
+      "english": "You make, life brighter.",
+      "Arabic": "أنت تجعل، الحياة أبهى.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327372"
+    },
+    {
+      "english": "I have a good feeling.",
+      "Arabic": "لدي شعور جيد.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327373"
+    },
+    {
+      "english": "Could this be, something real?",
+      "Arabic": "هل يمكن أن يكون هذا، شيئاً حقيقياً؟",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327374"
+    },
+    {
+      "english": "You paint my world, with color.",
+      "Arabic": "أنت تلون عالمي، بالألوان.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327375"
+    },
+    {
+      "english": "I'm hopeful, for us.",
+      "Arabic": "أنا متفائل، بنا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327376"
+    },
+    {
+      "english": "Let's build, something beautiful.",
+      "Arabic": "دعنا نبني، شيئاً جميلاً.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327377"
+    },
+    {
+      "english": "You give me, a reason.",
+      "Arabic": "أنت تعطيني، سبباً.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327378"
+    },
+    {
+      "english": "I see potential, in this.",
+      "Arabic": "أرى إمكانيات، في هذا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327379"
+    },
+    {
+      "english": "You're a bright spot.",
+      "Arabic": "أنت نقطة مضيئة.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327380"
+    },
+    {
+      "english": "I feel a good vibe.",
+      "Arabic": "أشعر بإيجابية.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327381"
+    },
+    {
+      "english": "What if, this is it?",
+      "Arabic": "ماذا لو، كان هذا هو؟",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327383"
+    },
+    {
+      "english": "You inspire, future plans.",
+      "Arabic": "أنت تلهم، خطط المستقبل.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327383"
+    },
+    {
+      "english": "Let's explore, this feeling.",
+      "Arabic": "دعنا نستكشف، هذا الشعور.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327384"
+    },
+    {
+      "english": "You give me, something to look forward to.",
+      "Arabic": "أنت تعطيني، شيئاً أتطلع إليه.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327385"
+    },
+    {
+      "english": "This could be, our beginning.",
+      "Arabic": "هذه قد تكون، بدايتنا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327386"
+    },
+    {
+      "english": "I hope this continues.",
+      "Arabic": "آمل أن يستمر هذا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327387"
+    },
+    {
+      "english": "Maybe, we'll meet again.",
+      "Arabic": "ربما، نلتقي مرة أخرى.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327389"
+    },
+    {
+      "english": "I see a future, with you.",
+      "Arabic": "أرى مستقبلاً، معك.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327390"
+    },
+    {
+      "english": "You're on my mind, often.",
+      "Arabic": "أنت في بالي، غالباً.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327391"
+    },
+    {
+      "english": "This feeling, could grow.",
+      "Arabic": "هذا الشعور، يمكن أن ينمو.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327392"
+    },
+    {
+      "english": "I'm curious, about your story.",
+      "Arabic": "أنا فضولي، بشأن قصتك.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327393"
+    },
+    {
+      "english": "You make me believe, in more.",
+      "Arabic": "أنت تجعلني أؤمن، بالمزيد.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327394"
+    },
+    {
+      "english": "Something special, is happening.",
+      "Arabic": "شيء مميز، يحدث.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327395"
+    },
+    {
+      "english": "I hope we connect, deeply.",
+      "Arabic": "آمل أن نتواصل، بعمق.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327396"
+    },
+    {
+      "english": "You inspire, my dreams.",
+      "Arabic": "أنت تلهم، أحلامي.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327397"
+    },
+    {
+      "english": "A little spark, can ignite.",
+      "Arabic": "شرارة صغيرة، يمكن أن تشتعل.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327398"
+    },
+    {
+      "english": "Perhaps, our paths cross, again.",
+      "Arabic": "ربما، تتقاطع دروبنا، مرة أخرى.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327399"
+    },
+    {
+      "english": "This could be, the start.",
+      "Arabic": "هذه قد تكون، البداية.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327400"
+    },
+    {
+      "english": "Let's see, what happens.",
+      "Arabic": "دعنا نرى، ماذا يحدث.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327401"
+    },
+    {
+      "english": "You give me, hope.",
+      "Arabic": "أنت تعطيني، الأمل.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327402"
+    },
+    {
+      "english": "I believe, in us.",
+      "Arabic": "أنا أؤمن، بنا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327404"
+    },
+    {
+      "english": "You make me feel, good.",
+      "Arabic": "أنت تجعلني أشعر، بالرضا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327405"
+    },
+    {
+      "english": "Wishing, for a connection.",
+      "Arabic": "أتمنى، لتواصل.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327406"
+    },
+    {
+      "english": "You bring, a new light.",
+      "Arabic": "أنت تجلب، نوراً جديداً.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327407"
+    },
+    {
+      "english": "Maybe, this is destiny.",
+      "Arabic": "ربما، هذا هو القدر.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327408"
+    },
+    {
+      "english": "I look forward, to more.",
+      "Arabic": "أتطلع، للمزيد.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327409"
+    },
+    {
+      "english": "You make, life brighter.",
+      "Arabic": "أنت تجعل، الحياة أبهى.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327410"
+    },
+    {
+      "english": "I have a good feeling.",
+      "Arabic": "لدي شعور جيد.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327411"
+    },
+    {
+      "english": "Could this be, something real?",
+      "Arabic": "هل يمكن أن يكون هذا، شيئاً حقيقياً؟",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327412"
+    },
+    {
+      "english": "You paint my world, with color.",
+      "Arabic": "أنت تلون عالمي، بالألوان.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327414"
+    },
+    {
+      "english": "I'm hopeful, for us.",
+      "Arabic": "أنا متفائل، بنا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327415"
+    },
+    {
+      "english": "Let's build, something beautiful.",
+      "Arabic": "دعنا نبني، شيئاً جميلاً.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327416"
+    },
+    {
+      "english": "You give me, a reason.",
+      "Arabic": "أنت تعطيني، سبباً.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327417"
+    },
+    {
+      "english": "I see potential, in this.",
+      "Arabic": "أرى إمكانيات، في هذا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327418"
+    },
+    {
+      "english": "You're a bright spot.",
+      "Arabic": "أنت نقطة مضيئة.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327419"
+    },
+    {
+      "english": "I feel a good vibe.",
+      "Arabic": "أشعر بإيجابية.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327420"
+    },
+    {
+      "english": "What if, this is it?",
+      "Arabic": "ماذا لو، كان هذا هو؟",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327422"
+    },
+    {
+      "english": "You inspire, future plans.",
+      "Arabic": "أنت تلهم، خطط المستقبل.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327423"
+    },
+    {
+      "english": "Let's explore, this feeling.",
+      "Arabic": "دعنا نستكشف، هذا الشعور.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327424"
+    },
+    {
+      "english": "You give me, something to look forward to.",
+      "Arabic": "أنت تعطيني، شيئاً أتطلع إليه.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327425"
+    },
+    {
+      "english": "This could be, our beginning.",
+      "Arabic": "هذه قد تكون، بدايتنا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327426"
+    },
+    {
+      "english": "I hope this continues.",
+      "Arabic": "آمل أن يستمر هذا.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327427"
+    },
+    {
+      "english": "Maybe, we'll meet again.",
+      "Arabic": "ربما، نلتقي مرة أخرى.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327428"
+    },
+    {
+      "english": "I see a future, with you.",
+      "Arabic": "أرى مستقبلاً، معك.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327429"
+    },
+    {
+      "english": "You're on my mind, often.",
+      "Arabic": "أنت في بالي، غالباً.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327430"
+    },
+    {
+      "english": "This feeling, could grow.",
+      "Arabic": "هذا الشعور، يمكن أن ينمو.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327431"
+    },
+    {
+      "english": "I'm curious, about your story.",
+      "Arabic": "أنا فضولي، بشأن قصتك.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327432"
+    },
+    {
+      "english": "You make me believe, in more.",
+      "Arabic": "أنت تجعلني أؤمن، بالمزيد.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327434"
+    },
+    {
+      "english": "Something special, is happening.",
+      "Arabic": "شيء مميز، يحدث.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327435"
+    },
+    {
+      "english": "I hope we connect, deeply.",
+      "Arabic": "آمل أن نتواصل، بعمق.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327436"
+    },
+    {
+      "english": "You inspire, my dreams.",
+      "Arabic": "أنت تلهم، أحلامي.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327437"
+    },
+    {
+      "english": "A little spark, can ignite.",
+      "Arabic": "شرارة صغيرة، يمكن أن تشتعل.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327438"
+    },
+    {
+      "english": "Perhaps, our paths cross, again.",
+      "Arabic": "ربما، تتقاطع دروبنا، مرة أخرى.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327439"
+    },
+    {
+      "english": "This could be, the start.",
+      "Arabic": "هذه قد تكون، البداية.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T05:38:33.327441"
     }
   ],
-  "last_updated": "2026-09-09T05:45:00.064597"
+  "last_updated": "2026-09-10T05:38:33.327443"
 }
