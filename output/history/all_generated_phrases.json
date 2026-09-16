@@ -42479,7 +42479,727 @@
       "Arabic": "اسمع بانتباه، افهم أفضل.",
       "category": "Purpose",
       "generated_at": "2026-09-15T05:52:04.413792"
+    },
+    {
+      "english": "This one word, shukran, means thank you.",
+      "Arabic": "هذه الكلمة، شكراً، تعني شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103256"
+    },
+    {
+      "english": "Saying 'alf shukr', it's like a thousand thanks.",
+      "Arabic": "قول ألف شكر، كأنك تقول ألف شكر.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103268"
+    },
+    {
+      "english": "To express gratitude, use 'tamam'.",
+      "Arabic": "للتعبير عن الامتنان، قل تمام.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103269"
+    },
+    {
+      "english": "We say 'ma'shaa'Allah', for something good.",
+      "Arabic": "نقول ما شاء الله، لشيء جميل.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103270"
+    },
+    {
+      "english": "Feeling thankful? Try 'alhamdulillah'.",
+      "Arabic": "تشعر بالامتنان؟ قل الحمد لله.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103270"
+    },
+    {
+      "english": "For a pleasant surprise, 'subhanallah'.",
+      "Arabic": "للمفاجأة السارة، سبحان الله.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103271"
+    },
+    {
+      "english": "This phrase, 'yadak fil may', is a blessing.",
+      "Arabic": "هذه الجملة، يدك في الماي، نعمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103272"
+    },
+    {
+      "english": "A small gift? Acknowledge with 'barakallahu feek'.",
+      "Arabic": "هدية بسيطة؟ قل بارك الله فيك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103274"
+    },
+    {
+      "english": "To thank someone back, say 'wa feek'.",
+      "Arabic": "لشكر شخص بالمقابل، قل وفيك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103275"
+    },
+    {
+      "english": "When you appreciate effort, say 'ma qasart'.",
+      "Arabic": "عند تقدير الجهد، قل ما قصرت.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103276"
+    },
+    {
+      "english": "For a kind deed, you can say 'allah yikramak'.",
+      "Arabic": "لعمل لطيف، قل الله يكرمك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103277"
+    },
+    {
+      "english": "After receiving help, use 'allah yikhallik'.",
+      "Arabic": "بعد المساعدة، قل الله يخليك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103278"
+    },
+    {
+      "english": "Expressing thanks, 'jazakallahu khayran'.",
+      "Arabic": "للتعبير عن الشكر، جزاك الله خيراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103279"
+    },
+    {
+      "english": "A nice gesture, appreciate it with 'yaslamu'.",
+      "Arabic": "لفتة لطيفة، قدرها بـ يسلموا.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103280"
+    },
+    {
+      "english": "To acknowledge help, say 'allah yusahhil'.",
+      "Arabic": "لتقدير المساعدة، قل الله يسهل.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103281"
+    },
+    {
+      "english": "Feeling good? It's a sign of 'ni'mah'.",
+      "Arabic": "تشعر بالرضا؟ هذه علامة نعمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103281"
+    },
+    {
+      "english": "This food is delicious, say 'tayyeb jiddan'.",
+      "Arabic": "هذا الطعام لذيذ، قل طيب جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103282"
+    },
+    {
+      "english": "For a great effort, 'mishkour' is fitting.",
+      "Arabic": "لجهد رائع، مشكور مناسب.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103283"
+    },
+    {
+      "english": "A comfortable home, is a true 'raaha'.",
+      "Arabic": "بيت مريح، هو راحة حقيقية.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103284"
+    },
+    {
+      "english": "For good health, we thank 'Allah'.",
+      "Arabic": "للصحة الجيدة، نشكر الله.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103284"
+    },
+    {
+      "english": "When things are easy, say 'mou'asharah'.",
+      "Arabic": "عندما تكون الأمور سهلة، قل مؤاشرة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103285"
+    },
+    {
+      "english": "A helpful person, deserves 'shukran jazeelan'.",
+      "Arabic": "شخص متعاون، يستحق شكراً جزيلاً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103286"
+    },
+    {
+      "english": "This success, is a gift of 'tawfeeq'.",
+      "Arabic": "هذا النجاح، هدية توفيق.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103287"
+    },
+    {
+      "english": "A peaceful day, is a blessing of 'salaam'.",
+      "Arabic": "يوم هادئ، هو نعمة سلام.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103287"
+    },
+    {
+      "english": "Your presence matters, feel appreciated.",
+      "Arabic": "وجودك مهم، اشعر بالتقدير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103288"
+    },
+    {
+      "english": "For a thoughtful gesture, 'khalasni' is good.",
+      "Arabic": "للفتة مدروسة، خلاصلني جيد.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103289"
+    },
+    {
+      "english": "When life is good, say 'haayaati'.",
+      "Arabic": "عندما تكون الحياة جيدة، قل حياتي.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103289"
+    },
+    {
+      "english": "To show appreciation, say 'taqdeer'.",
+      "Arabic": "لإظهار التقدير، قل تقدير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103290"
+    },
+    {
+      "english": "A simple smile, means a lot.",
+      "Arabic": "ابتسامة بسيطة، تعني الكثير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103290"
+    },
+    {
+      "english": "This comfort, is pure 'raaha'.",
+      "Arabic": "هذا الارتياح، هو راحة خالصة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103291"
+    },
+    {
+      "english": "For unexpected joy, 'farha' is perfect.",
+      "Arabic": "للفرح المفاجئ، فرحة مثالية.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103291"
+    },
+    {
+      "english": "When things go well, say 'mabrook'.",
+      "Arabic": "عندما تسير الأمور جيداً، قل مبروك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103292"
+    },
+    {
+      "english": "Your help is valuable, 'qiimuh'.",
+      "Arabic": "مساعدتك قيمة، قيمتها.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103293"
+    },
+    {
+      "english": "To be content, is a great 'ridha'.",
+      "Arabic": "الرضا، هو رضا كبير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103293"
+    },
+    {
+      "english": "This moment of peace, is 'sakinah'.",
+      "Arabic": "لحظة الهدوء هذه، هي سكينة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103294"
+    },
+    {
+      "english": "For a good outcome, 'khayr' is the word.",
+      "Arabic": "للنتيجة الجيدة، خير هي الكلمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103295"
+    },
+    {
+      "english": "To acknowledge kindness, say 'ihsaan'.",
+      "Arabic": "لتقدير اللطف، قل إحسان.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103295"
+    },
+    {
+      "english": "This feeling of calm, 'hudu'.",
+      "Arabic": "هذا الشعور بالهدوء، هدوء.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103296"
+    },
+    {
+      "english": "For life's blessings, 'ni'am' is key.",
+      "Arabic": "لنعم الحياة، نعمة هي المفتاح.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103296"
+    },
+    {
+      "english": "Saying 'yusur', means things are easy.",
+      "Arabic": "قول يسر، يعني الأمور سهلة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103297"
+    },
+    {
+      "english": "This one word, shukran, means thank you.",
+      "Arabic": "هذه الكلمة، شكراً، تعني شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103298"
+    },
+    {
+      "english": "Saying 'alf shukr', it's like a thousand thanks.",
+      "Arabic": "قول ألف شكر، كأنك تقول ألف شكر.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103298"
+    },
+    {
+      "english": "To express gratitude, use 'tamam'.",
+      "Arabic": "للتعبير عن الامتنان، قل تمام.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103299"
+    },
+    {
+      "english": "We say 'ma'shaa'Allah', for something good.",
+      "Arabic": "نقول ما شاء الله، لشيء جميل.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103300"
+    },
+    {
+      "english": "Feeling thankful? Try 'alhamdulillah'.",
+      "Arabic": "تشعر بالامتنان؟ قل الحمد لله.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103300"
+    },
+    {
+      "english": "For a pleasant surprise, 'subhanallah'.",
+      "Arabic": "للمفاجأة السارة، سبحان الله.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103301"
+    },
+    {
+      "english": "This phrase, 'yadak fil may', is a blessing.",
+      "Arabic": "هذه الجملة، يدك في الماي، نعمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103302"
+    },
+    {
+      "english": "A small gift? Acknowledge with 'barakallahu feek'.",
+      "Arabic": "هدية بسيطة؟ قل بارك الله فيك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103302"
+    },
+    {
+      "english": "To thank someone back, say 'wa feek'.",
+      "Arabic": "لشكر شخص بالمقابل، قل وفيك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103303"
+    },
+    {
+      "english": "When you appreciate effort, say 'ma qasart'.",
+      "Arabic": "عند تقدير الجهد، قل ما قصرت.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103304"
+    },
+    {
+      "english": "For a kind deed, you can say 'allah yikramak'.",
+      "Arabic": "لعمل لطيف، قل الله يكرمك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103305"
+    },
+    {
+      "english": "After receiving help, use 'allah yikhallik'.",
+      "Arabic": "بعد المساعدة، قل الله يخليك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103305"
+    },
+    {
+      "english": "Expressing thanks, 'jazakallahu khayran'.",
+      "Arabic": "للتعبير عن الشكر، جزاك الله خيراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103306"
+    },
+    {
+      "english": "A nice gesture, appreciate it with 'yaslamu'.",
+      "Arabic": "لفتة لطيفة، قدرها بـ يسلموا.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103307"
+    },
+    {
+      "english": "To acknowledge help, say 'allah yusahhil'.",
+      "Arabic": "لتقدير المساعدة، قل الله يسهل.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103307"
+    },
+    {
+      "english": "Feeling good? It's a sign of 'ni'mah'.",
+      "Arabic": "تشعر بالرضا؟ هذه علامة نعمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103308"
+    },
+    {
+      "english": "This food is delicious, say 'tayyeb jiddan'.",
+      "Arabic": "هذا الطعام لذيذ، قل طيب جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103309"
+    },
+    {
+      "english": "For a great effort, 'mishkour' is fitting.",
+      "Arabic": "لجهد رائع، مشكور مناسب.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103309"
+    },
+    {
+      "english": "A comfortable home, is a true 'raaha'.",
+      "Arabic": "بيت مريح، هو راحة حقيقية.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103310"
+    },
+    {
+      "english": "For good health, we thank 'Allah'.",
+      "Arabic": "للصحة الجيدة، نشكر الله.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103311"
+    },
+    {
+      "english": "When things are easy, say 'mou'asharah'.",
+      "Arabic": "عندما تكون الأمور سهلة، قل مؤاشرة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103311"
+    },
+    {
+      "english": "A helpful person, deserves 'shukran jazeelan'.",
+      "Arabic": "شخص متعاون، يستحق شكراً جزيلاً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103312"
+    },
+    {
+      "english": "This success, is a gift of 'tawfeeq'.",
+      "Arabic": "هذا النجاح، هدية توفيق.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103313"
+    },
+    {
+      "english": "A peaceful day, is a blessing of 'salaam'.",
+      "Arabic": "يوم هادئ، هو نعمة سلام.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103313"
+    },
+    {
+      "english": "Your presence matters, feel appreciated.",
+      "Arabic": "وجودك مهم، اشعر بالتقدير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103314"
+    },
+    {
+      "english": "For a thoughtful gesture, 'khalasni' is good.",
+      "Arabic": "للفتة مدروسة، خلاصلني جيد.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103315"
+    },
+    {
+      "english": "When life is good, say 'haayaati'.",
+      "Arabic": "عندما تكون الحياة جيدة، قل حياتي.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103315"
+    },
+    {
+      "english": "To show appreciation, say 'taqdeer'.",
+      "Arabic": "لإظهار التقدير، قل تقدير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103316"
+    },
+    {
+      "english": "A simple smile, means a lot.",
+      "Arabic": "ابتسامة بسيطة، تعني الكثير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103316"
+    },
+    {
+      "english": "This comfort, is pure 'raaha'.",
+      "Arabic": "هذا الارتياح، هو راحة خالصة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103317"
+    },
+    {
+      "english": "For unexpected joy, 'farha' is perfect.",
+      "Arabic": "للفرح المفاجئ، فرحة مثالية.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103318"
+    },
+    {
+      "english": "When things go well, say 'mabrook'.",
+      "Arabic": "عندما تسير الأمور جيداً، قل مبروك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103318"
+    },
+    {
+      "english": "Your help is valuable, 'qiimuh'.",
+      "Arabic": "مساعدتك قيمة، قيمتها.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103319"
+    },
+    {
+      "english": "To be content, is a great 'ridha'.",
+      "Arabic": "الرضا، هو رضا كبير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103319"
+    },
+    {
+      "english": "This moment of peace, is 'sakinah'.",
+      "Arabic": "لحظة الهدوء هذه، هي سكينة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103320"
+    },
+    {
+      "english": "For a good outcome, 'khayr' is the word.",
+      "Arabic": "للنتيجة الجيدة، خير هي الكلمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103321"
+    },
+    {
+      "english": "To acknowledge kindness, say 'ihsaan'.",
+      "Arabic": "لتقدير اللطف، قل إحسان.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103321"
+    },
+    {
+      "english": "This feeling of calm, 'hudu'.",
+      "Arabic": "هذا الشعور بالهدوء، هدوء.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103322"
+    },
+    {
+      "english": "For life's blessings, 'ni'am' is key.",
+      "Arabic": "لنعم الحياة، نعمة هي المفتاح.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103322"
+    },
+    {
+      "english": "Saying 'yusur', means things are easy.",
+      "Arabic": "قول يسر، يعني الأمور سهلة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103323"
+    },
+    {
+      "english": "This one word, shukran, means thank you.",
+      "Arabic": "هذه الكلمة، شكراً، تعني شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103324"
+    },
+    {
+      "english": "Saying 'alf shukr', it's like a thousand thanks.",
+      "Arabic": "قول ألف شكر، كأنك تقول ألف شكر.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103325"
+    },
+    {
+      "english": "To express gratitude, use 'tamam'.",
+      "Arabic": "للتعبير عن الامتنان، قل تمام.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103325"
+    },
+    {
+      "english": "We say 'ma'shaa'Allah', for something good.",
+      "Arabic": "نقول ما شاء الله، لشيء جميل.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103326"
+    },
+    {
+      "english": "Feeling thankful? Try 'alhamdulillah'.",
+      "Arabic": "تشعر بالامتنان؟ قل الحمد لله.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103326"
+    },
+    {
+      "english": "For a pleasant surprise, 'subhanallah'.",
+      "Arabic": "للمفاجأة السارة، سبحان الله.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103327"
+    },
+    {
+      "english": "This phrase, 'yadak fil may', is a blessing.",
+      "Arabic": "هذه الجملة، يدك في الماي، نعمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103327"
+    },
+    {
+      "english": "A small gift? Acknowledge with 'barakallahu feek'.",
+      "Arabic": "هدية بسيطة؟ قل بارك الله فيك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103328"
+    },
+    {
+      "english": "To thank someone back, say 'wa feek'.",
+      "Arabic": "لشكر شخص بالمقابل، قل وفيك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103329"
+    },
+    {
+      "english": "When you appreciate effort, say 'ma qasart'.",
+      "Arabic": "عند تقدير الجهد، قل ما قصرت.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103329"
+    },
+    {
+      "english": "For a kind deed, you can say 'allah yikramak'.",
+      "Arabic": "لعمل لطيف، قل الله يكرمك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103330"
+    },
+    {
+      "english": "After receiving help, use 'allah yikhallik'.",
+      "Arabic": "بعد المساعدة، قل الله يخليك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103331"
+    },
+    {
+      "english": "Expressing thanks, 'jazakallahu khayran'.",
+      "Arabic": "للتعبير عن الشكر، جزاك الله خيراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103331"
+    },
+    {
+      "english": "A nice gesture, appreciate it with 'yaslamu'.",
+      "Arabic": "لفتة لطيفة، قدرها بـ يسلموا.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103332"
+    },
+    {
+      "english": "To acknowledge help, say 'allah yusahhil'.",
+      "Arabic": "لتقدير المساعدة، قل الله يسهل.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103333"
+    },
+    {
+      "english": "Feeling good? It's a sign of 'ni'mah'.",
+      "Arabic": "تشعر بالرضا؟ هذه علامة نعمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103333"
+    },
+    {
+      "english": "This food is delicious, say 'tayyeb jiddan'.",
+      "Arabic": "هذا الطعام لذيذ، قل طيب جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103334"
+    },
+    {
+      "english": "For a great effort, 'mishkour' is fitting.",
+      "Arabic": "لجهد رائع، مشكور مناسب.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103334"
+    },
+    {
+      "english": "A comfortable home, is a true 'raaha'.",
+      "Arabic": "بيت مريح، هو راحة حقيقية.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103335"
+    },
+    {
+      "english": "For good health, we thank 'Allah'.",
+      "Arabic": "للصحة الجيدة، نشكر الله.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103335"
+    },
+    {
+      "english": "When things are easy, say 'mou'asharah'.",
+      "Arabic": "عندما تكون الأمور سهلة، قل مؤاشرة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103336"
+    },
+    {
+      "english": "A helpful person, deserves 'shukran jazeelan'.",
+      "Arabic": "شخص متعاون، يستحق شكراً جزيلاً.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103336"
+    },
+    {
+      "english": "This success, is a gift of 'tawfeeq'.",
+      "Arabic": "هذا النجاح، هدية توفيق.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103337"
+    },
+    {
+      "english": "A peaceful day, is a blessing of 'salaam'.",
+      "Arabic": "يوم هادئ، هو نعمة سلام.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103338"
+    },
+    {
+      "english": "Your presence matters, feel appreciated.",
+      "Arabic": "وجودك مهم، اشعر بالتقدير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103338"
+    },
+    {
+      "english": "For a thoughtful gesture, 'khalasni' is good.",
+      "Arabic": "للفتة مدروسة، خلاصلني جيد.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103339"
+    },
+    {
+      "english": "When life is good, say 'haayaati'.",
+      "Arabic": "عندما تكون الحياة جيدة، قل حياتي.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103339"
+    },
+    {
+      "english": "To show appreciation, say 'taqdeer'.",
+      "Arabic": "لإظهار التقدير، قل تقدير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103340"
+    },
+    {
+      "english": "A simple smile, means a lot.",
+      "Arabic": "ابتسامة بسيطة، تعني الكثير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103341"
+    },
+    {
+      "english": "This comfort, is pure 'raaha'.",
+      "Arabic": "هذا الارتياح، هو راحة خالصة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103341"
+    },
+    {
+      "english": "For unexpected joy, 'farha' is perfect.",
+      "Arabic": "للفرح المفاجئ، فرحة مثالية.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103342"
+    },
+    {
+      "english": "When things go well, say 'mabrook'.",
+      "Arabic": "عندما تسير الأمور جيداً، قل مبروك.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103342"
+    },
+    {
+      "english": "Your help is valuable, 'qiimuh'.",
+      "Arabic": "مساعدتك قيمة، قيمتها.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103343"
+    },
+    {
+      "english": "To be content, is a great 'ridha'.",
+      "Arabic": "الرضا، هو رضا كبير.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103343"
+    },
+    {
+      "english": "This moment of peace, is 'sakinah'.",
+      "Arabic": "لحظة الهدوء هذه، هي سكينة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103344"
+    },
+    {
+      "english": "For a good outcome, 'khayr' is the word.",
+      "Arabic": "للنتيجة الجيدة، خير هي الكلمة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103344"
+    },
+    {
+      "english": "To acknowledge kindness, say 'ihsaan'.",
+      "Arabic": "لتقدير اللطف، قل إحسان.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103345"
+    },
+    {
+      "english": "This feeling of calm, 'hudu'.",
+      "Arabic": "هذا الشعور بالهدوء، هدوء.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103346"
+    },
+    {
+      "english": "For life's blessings, 'ni'am' is key.",
+      "Arabic": "لنعم الحياة، نعمة هي المفتاح.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103346"
+    },
+    {
+      "english": "Saying 'yusur', means things are easy.",
+      "Arabic": "قول يسر، يعني الأمور سهلة.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-16T05:40:38.103347"
     }
   ],
-  "last_updated": "2026-09-15T05:52:04.413794"
+  "last_updated": "2026-09-16T05:40:38.103348"
 }
