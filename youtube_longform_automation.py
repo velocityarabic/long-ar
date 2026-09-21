@@ -78,7 +78,7 @@ CATEGORIES_ARABIC = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 ARABIC_VOICE = "ar-SA-ZariyahNeural"
 
 # Phrase history file (NEVER delete this!)
