@@ -47519,7 +47519,727 @@
       "Arabic": "قلد، المتحدثين الأصليين.",
       "category": "Wisdom",
       "generated_at": "2026-09-22T05:52:54.649603"
+    },
+    {
+      "english": "Kindness, costs nothing, but is priceless.",
+      "Arabic": "اللطف، لا يكلف شيئًا، لكنه لا يقدر بثمن.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125718"
+    },
+    {
+      "english": "A good friend, is a treasure.",
+      "Arabic": "الصديق الجيد، كنز.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125731"
+    },
+    {
+      "english": "Home, is where the heart is.",
+      "Arabic": "الوطن، حيث القلب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125733"
+    },
+    {
+      "english": "A wise person, learns from all.",
+      "Arabic": "العاقل، يتعلم من الجميع.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125734"
+    },
+    {
+      "english": "Water, is life's essential element.",
+      "Arabic": "الماء، هو أساس الحياة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125736"
+    },
+    {
+      "english": "Generosity, opens many doors.",
+      "Arabic": "الكرم، يفتح أبوابًا كثيرة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125737"
+    },
+    {
+      "english": "Listen, more than you speak.",
+      "Arabic": "استمع، أكثر مما تتكلم.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125738"
+    },
+    {
+      "english": "Gratitude, makes us richer.",
+      "Arabic": "الامتنان، يجعلنا أغنى.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125742"
+    },
+    {
+      "english": "A calm mind, sees clearly.",
+      "Arabic": "العقل الهادئ، يرى بوضوح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125744"
+    },
+    {
+      "english": "Love, is a universal language.",
+      "Arabic": "الحب، لغة عالمية.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125745"
+    },
+    {
+      "english": "Action, speaks louder than words.",
+      "Arabic": "الفعل، أبلغ من الكلام.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125747"
+    },
+    {
+      "english": "Knowledge, is power indeed.",
+      "Arabic": "العلم، قوة حقًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125748"
+    },
+    {
+      "english": "Peace, starts with you.",
+      "Arabic": "السلام، يبدأ بك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125749"
+    },
+    {
+      "english": "Truth, always prevails.",
+      "Arabic": "الحق، دائمًا ينتصر.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125751"
+    },
+    {
+      "english": "A simple life, can be rich.",
+      "Arabic": "الحياة البسيطة، يمكن أن تكون غنية.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125752"
+    },
+    {
+      "english": "Hope, is the last thing lost.",
+      "Arabic": "الأمل، آخر ما يُفقد.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125753"
+    },
+    {
+      "english": "Respect, is earned, not given.",
+      "Arabic": "الاحترام، يُكتسب، لا يُعطى.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125754"
+    },
+    {
+      "english": "Nature, heals the soul.",
+      "Arabic": "الطبيعة، تشفي الروح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125755"
+    },
+    {
+      "english": "A humble heart, receives blessings.",
+      "Arabic": "القلب المتواضع، ينال البركات.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125757"
+    },
+    {
+      "english": "Silence, can be very loud.",
+      "Arabic": "الصمت، يمكن أن يكون صاخبًا جدًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125758"
+    },
+    {
+      "english": "Work hard, and achieve.",
+      "Arabic": "اعمل بجد، وحقق.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125759"
+    },
+    {
+      "english": "Charity, purifies wealth.",
+      "Arabic": "الصدقة، تطهر المال.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125760"
+    },
+    {
+      "english": "A journey, of a thousand miles, begins.",
+      "Arabic": "رحلة، ألف ميل، تبدأ.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125762"
+    },
+    {
+      "english": "Unity, is our strength.",
+      "Arabic": "الوحدة، قوتنا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125763"
+    },
+    {
+      "english": "A good listener, is rare.",
+      "Arabic": "المستمع الجيد، نادر.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125764"
+    },
+    {
+      "english": "Teach others, and you learn.",
+      "Arabic": "علّم الآخرين، تتعلم.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125765"
+    },
+    {
+      "english": "Embrace diversity, it enriches.",
+      "Arabic": "احتضن التنوع، فهو يثري.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125766"
+    },
+    {
+      "english": "A smile, is a great start.",
+      "Arabic": "الابتسامة، بداية رائعة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125768"
+    },
+    {
+      "english": "Dreams, fuel the spirit.",
+      "Arabic": "الأحلام، تغذي الروح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125769"
+    },
+    {
+      "english": "A helping hand, is a blessing.",
+      "Arabic": "يد العون، نعمة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125770"
+    },
+    {
+      "english": "Keep learning, stay curious.",
+      "Arabic": "واصل التعلم، ابق فضوليًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125771"
+    },
+    {
+      "english": "Be patient, with the process.",
+      "Arabic": "كن صبورًا، مع العملية.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125772"
+    },
+    {
+      "english": "Kindness, costs nothing, but is priceless.",
+      "Arabic": "اللطف، لا يكلف شيئًا، لكنه لا يقدر بثمن.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125773"
+    },
+    {
+      "english": "A good friend, is a treasure.",
+      "Arabic": "الصديق الجيد، كنز.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125774"
+    },
+    {
+      "english": "Home, is where the heart is.",
+      "Arabic": "الوطن، حيث القلب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125776"
+    },
+    {
+      "english": "A wise person, learns from all.",
+      "Arabic": "العاقل، يتعلم من الجميع.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125777"
+    },
+    {
+      "english": "Water, is life's essential element.",
+      "Arabic": "الماء، هو أساس الحياة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125778"
+    },
+    {
+      "english": "Generosity, opens many doors.",
+      "Arabic": "الكرم، يفتح أبوابًا كثيرة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125779"
+    },
+    {
+      "english": "Listen, more than you speak.",
+      "Arabic": "استمع، أكثر مما تتكلم.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125781"
+    },
+    {
+      "english": "Gratitude, makes us richer.",
+      "Arabic": "الامتنان، يجعلنا أغنى.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125782"
+    },
+    {
+      "english": "A calm mind, sees clearly.",
+      "Arabic": "العقل الهادئ، يرى بوضوح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125783"
+    },
+    {
+      "english": "Love, is a universal language.",
+      "Arabic": "الحب، لغة عالمية.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125784"
+    },
+    {
+      "english": "Action, speaks louder than words.",
+      "Arabic": "الفعل، أبلغ من الكلام.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125786"
+    },
+    {
+      "english": "Knowledge, is power indeed.",
+      "Arabic": "العلم، قوة حقًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125787"
+    },
+    {
+      "english": "Peace, starts with you.",
+      "Arabic": "السلام، يبدأ بك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125788"
+    },
+    {
+      "english": "Truth, always prevails.",
+      "Arabic": "الحق، دائمًا ينتصر.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125789"
+    },
+    {
+      "english": "A simple life, can be rich.",
+      "Arabic": "الحياة البسيطة، يمكن أن تكون غنية.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125790"
+    },
+    {
+      "english": "Hope, is the last thing lost.",
+      "Arabic": "الأمل، آخر ما يُفقد.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125791"
+    },
+    {
+      "english": "Respect, is earned, not given.",
+      "Arabic": "الاحترام، يُكتسب، لا يُعطى.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125792"
+    },
+    {
+      "english": "Nature, heals the soul.",
+      "Arabic": "الطبيعة، تشفي الروح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125793"
+    },
+    {
+      "english": "A humble heart, receives blessings.",
+      "Arabic": "القلب المتواضع، ينال البركات.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125795"
+    },
+    {
+      "english": "Silence, can be very loud.",
+      "Arabic": "الصمت، يمكن أن يكون صاخبًا جدًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125796"
+    },
+    {
+      "english": "Work hard, and achieve.",
+      "Arabic": "اعمل بجد، وحقق.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125797"
+    },
+    {
+      "english": "Charity, purifies wealth.",
+      "Arabic": "الصدقة، تطهر المال.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125798"
+    },
+    {
+      "english": "A journey, of a thousand miles, begins.",
+      "Arabic": "رحلة، ألف ميل، تبدأ.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125799"
+    },
+    {
+      "english": "Unity, is our strength.",
+      "Arabic": "الوحدة، قوتنا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125800"
+    },
+    {
+      "english": "A good listener, is rare.",
+      "Arabic": "المستمع الجيد، نادر.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125801"
+    },
+    {
+      "english": "Teach others, and you learn.",
+      "Arabic": "علّم الآخرين، تتعلم.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125802"
+    },
+    {
+      "english": "Embrace diversity, it enriches.",
+      "Arabic": "احتضن التنوع، فهو يثري.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125804"
+    },
+    {
+      "english": "A smile, is a great start.",
+      "Arabic": "الابتسامة، بداية رائعة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125805"
+    },
+    {
+      "english": "Dreams, fuel the spirit.",
+      "Arabic": "الأحلام، تغذي الروح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125806"
+    },
+    {
+      "english": "A helping hand, is a blessing.",
+      "Arabic": "يد العون، نعمة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125807"
+    },
+    {
+      "english": "Keep learning, stay curious.",
+      "Arabic": "واصل التعلم، ابق فضوليًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125808"
+    },
+    {
+      "english": "Be patient, with the process.",
+      "Arabic": "كن صبورًا، مع العملية.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125809"
+    },
+    {
+      "english": "Kindness, costs nothing, but is priceless.",
+      "Arabic": "اللطف، لا يكلف شيئًا، لكنه لا يقدر بثمن.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125811"
+    },
+    {
+      "english": "A good friend, is a treasure.",
+      "Arabic": "الصديق الجيد، كنز.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125812"
+    },
+    {
+      "english": "Home, is where the heart is.",
+      "Arabic": "الوطن، حيث القلب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125813"
+    },
+    {
+      "english": "A wise person, learns from all.",
+      "Arabic": "العاقل، يتعلم من الجميع.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125814"
+    },
+    {
+      "english": "Water, is life's essential element.",
+      "Arabic": "الماء، هو أساس الحياة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125816"
+    },
+    {
+      "english": "Generosity, opens many doors.",
+      "Arabic": "الكرم، يفتح أبوابًا كثيرة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125817"
+    },
+    {
+      "english": "Listen, more than you speak.",
+      "Arabic": "استمع، أكثر مما تتكلم.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125818"
+    },
+    {
+      "english": "Gratitude, makes us richer.",
+      "Arabic": "الامتنان، يجعلنا أغنى.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125819"
+    },
+    {
+      "english": "A calm mind, sees clearly.",
+      "Arabic": "العقل الهادئ، يرى بوضوح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125820"
+    },
+    {
+      "english": "Love, is a universal language.",
+      "Arabic": "الحب، لغة عالمية.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125822"
+    },
+    {
+      "english": "Action, speaks louder than words.",
+      "Arabic": "الفعل، أبلغ من الكلام.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125823"
+    },
+    {
+      "english": "Knowledge, is power indeed.",
+      "Arabic": "العلم، قوة حقًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125824"
+    },
+    {
+      "english": "Peace, starts with you.",
+      "Arabic": "السلام، يبدأ بك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125825"
+    },
+    {
+      "english": "Truth, always prevails.",
+      "Arabic": "الحق، دائمًا ينتصر.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125826"
+    },
+    {
+      "english": "A simple life, can be rich.",
+      "Arabic": "الحياة البسيطة، يمكن أن تكون غنية.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125827"
+    },
+    {
+      "english": "Hope, is the last thing lost.",
+      "Arabic": "الأمل، آخر ما يُفقد.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125829"
+    },
+    {
+      "english": "Respect, is earned, not given.",
+      "Arabic": "الاحترام، يُكتسب، لا يُعطى.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125830"
+    },
+    {
+      "english": "Nature, heals the soul.",
+      "Arabic": "الطبيعة، تشفي الروح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125831"
+    },
+    {
+      "english": "A humble heart, receives blessings.",
+      "Arabic": "القلب المتواضع، ينال البركات.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125832"
+    },
+    {
+      "english": "Silence, can be very loud.",
+      "Arabic": "الصمت، يمكن أن يكون صاخبًا جدًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125833"
+    },
+    {
+      "english": "Work hard, and achieve.",
+      "Arabic": "اعمل بجد، وحقق.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125835"
+    },
+    {
+      "english": "Charity, purifies wealth.",
+      "Arabic": "الصدقة، تطهر المال.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125836"
+    },
+    {
+      "english": "A journey, of a thousand miles, begins.",
+      "Arabic": "رحلة، ألف ميل، تبدأ.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125837"
+    },
+    {
+      "english": "Unity, is our strength.",
+      "Arabic": "الوحدة، قوتنا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125838"
+    },
+    {
+      "english": "A good listener, is rare.",
+      "Arabic": "المستمع الجيد، نادر.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125840"
+    },
+    {
+      "english": "Teach others, and you learn.",
+      "Arabic": "علّم الآخرين، تتعلم.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125841"
+    },
+    {
+      "english": "Embrace diversity, it enriches.",
+      "Arabic": "احتضن التنوع، فهو يثري.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125842"
+    },
+    {
+      "english": "A smile, is a great start.",
+      "Arabic": "الابتسامة، بداية رائعة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125843"
+    },
+    {
+      "english": "Dreams, fuel the spirit.",
+      "Arabic": "الأحلام، تغذي الروح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125844"
+    },
+    {
+      "english": "A helping hand, is a blessing.",
+      "Arabic": "يد العون، نعمة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125845"
+    },
+    {
+      "english": "Keep learning, stay curious.",
+      "Arabic": "واصل التعلم، ابق فضوليًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125847"
+    },
+    {
+      "english": "Be patient, with the process.",
+      "Arabic": "كن صبورًا، مع العملية.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125848"
+    },
+    {
+      "english": "Kindness, costs nothing, but is priceless.",
+      "Arabic": "اللطف، لا يكلف شيئًا، لكنه لا يقدر بثمن.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125849"
+    },
+    {
+      "english": "A good friend, is a treasure.",
+      "Arabic": "الصديق الجيد، كنز.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125850"
+    },
+    {
+      "english": "Home, is where the heart is.",
+      "Arabic": "الوطن، حيث القلب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125852"
+    },
+    {
+      "english": "A wise person, learns from all.",
+      "Arabic": "العاقل، يتعلم من الجميع.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125853"
+    },
+    {
+      "english": "Water, is life's essential element.",
+      "Arabic": "الماء، هو أساس الحياة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125854"
+    },
+    {
+      "english": "Generosity, opens many doors.",
+      "Arabic": "الكرم، يفتح أبوابًا كثيرة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125855"
+    },
+    {
+      "english": "Listen, more than you speak.",
+      "Arabic": "استمع، أكثر مما تتكلم.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125856"
+    },
+    {
+      "english": "Gratitude, makes us richer.",
+      "Arabic": "الامتنان، يجعلنا أغنى.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125858"
+    },
+    {
+      "english": "A calm mind, sees clearly.",
+      "Arabic": "العقل الهادئ، يرى بوضوح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125859"
+    },
+    {
+      "english": "Love, is a universal language.",
+      "Arabic": "الحب، لغة عالمية.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125860"
+    },
+    {
+      "english": "Action, speaks louder than words.",
+      "Arabic": "الفعل، أبلغ من الكلام.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125861"
+    },
+    {
+      "english": "Knowledge, is power indeed.",
+      "Arabic": "العلم، قوة حقًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125862"
+    },
+    {
+      "english": "Peace, starts with you.",
+      "Arabic": "السلام، يبدأ بك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125863"
+    },
+    {
+      "english": "Truth, always prevails.",
+      "Arabic": "الحق، دائمًا ينتصر.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125864"
+    },
+    {
+      "english": "A simple life, can be rich.",
+      "Arabic": "الحياة البسيطة، يمكن أن تكون غنية.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125866"
+    },
+    {
+      "english": "Hope, is the last thing lost.",
+      "Arabic": "الأمل، آخر ما يُفقد.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125867"
+    },
+    {
+      "english": "Respect, is earned, not given.",
+      "Arabic": "الاحترام، يُكتسب، لا يُعطى.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125868"
+    },
+    {
+      "english": "Nature, heals the soul.",
+      "Arabic": "الطبيعة، تشفي الروح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125869"
+    },
+    {
+      "english": "A humble heart, receives blessings.",
+      "Arabic": "القلب المتواضع، ينال البركات.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125870"
+    },
+    {
+      "english": "Silence, can be very loud.",
+      "Arabic": "الصمت، يمكن أن يكون صاخبًا جدًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125871"
+    },
+    {
+      "english": "Work hard, and achieve.",
+      "Arabic": "اعمل بجد، وحقق.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125872"
+    },
+    {
+      "english": "Charity, purifies wealth.",
+      "Arabic": "الصدقة، تطهر المال.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125874"
+    },
+    {
+      "english": "A journey, of a thousand miles, begins.",
+      "Arabic": "رحلة، ألف ميل، تبدأ.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125875"
+    },
+    {
+      "english": "Unity, is our strength.",
+      "Arabic": "الوحدة، قوتنا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-23T05:31:00.125876"
     }
   ],
-  "last_updated": "2026-09-22T05:52:54.649605"
+  "last_updated": "2026-09-23T05:31:00.125878"
 }
