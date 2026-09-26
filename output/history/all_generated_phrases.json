@@ -49679,7 +49679,727 @@
       "Arabic": "المسامحة, هدية للنفس.",
       "category": "Forgiveness",
       "generated_at": "2026-09-25T05:53:09.106158"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "Arabic": "قل الحق، بلطف.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585866"
+    },
+    {
+      "english": "Patience, yields rewards.",
+      "Arabic": "الصبر، يجلب الثواب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585880"
+    },
+    {
+      "english": "Honesty, is always best.",
+      "Arabic": "الصدق، دائمًا أفضل.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585882"
+    },
+    {
+      "english": "Humility, earns respect.",
+      "Arabic": "التواضع، يكسب الاحترام.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585884"
+    },
+    {
+      "english": "Courage, faces challenges.",
+      "Arabic": "الشجاعة، تواجه الصعاب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585885"
+    },
+    {
+      "english": "Wisdom, needs practice.",
+      "Arabic": "الحكمة، تحتاج تدريبًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585886"
+    },
+    {
+      "english": "Simplicity, is beautiful.",
+      "Arabic": "البساطة، جميلة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585887"
+    },
+    {
+      "english": "Understanding, builds bridges.",
+      "Arabic": "التفاهم، يبني جسورًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585892"
+    },
+    {
+      "english": "Doubt, hinders progress.",
+      "Arabic": "الشك، يعيق التقدم.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585894"
+    },
+    {
+      "english": "Focus, on one thing.",
+      "Arabic": "ركز، على شيء واحد.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585895"
+    },
+    {
+      "english": "Empathy, connects souls.",
+      "Arabic": "التعاطف، يربط الأرواح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585897"
+    },
+    {
+      "english": "Perseverance, wins battles.",
+      "Arabic": "المثابرة، تفوز بالمعارك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585898"
+    },
+    {
+      "english": "Accept, what you can't change.",
+      "Arabic": "تقبل، ما لا تستطيع تغييره.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585899"
+    },
+    {
+      "english": "Hope, fuels the spirit.",
+      "Arabic": "الأمل، يغذي الروح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585900"
+    },
+    {
+      "english": "Action, overcomes fear.",
+      "Arabic": "العمل، يتغلب على الخوف.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585901"
+    },
+    {
+      "english": "Learn to forgive, yourself.",
+      "Arabic": "تعلم أن تسامح، نفسك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585902"
+    },
+    {
+      "english": "Respect, all beings.",
+      "Arabic": "احترم، كل الكائنات.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585904"
+    },
+    {
+      "english": "Adapt, to new situations.",
+      "Arabic": "تكيف، مع الأوضاع الجديدة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585905"
+    },
+    {
+      "english": "Be humble, in victory.",
+      "Arabic": "كن متواضعًا، عند النصر.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585906"
+    },
+    {
+      "english": "Forgiveness, heals all.",
+      "Arabic": "المغفرة، تشفي كل شيء.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585907"
+    },
+    {
+      "english": "Share your joy.",
+      "Arabic": "شارك فرحك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585908"
+    },
+    {
+      "english": "Believe, in good things.",
+      "Arabic": "آمن، بالأشياء الجيدة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585909"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "Arabic": "قل الحق، بلطف.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585911"
+    },
+    {
+      "english": "Patience, yields rewards.",
+      "Arabic": "الصبر، يجلب الثواب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585912"
+    },
+    {
+      "english": "Honesty, is always best.",
+      "Arabic": "الصدق، دائمًا أفضل.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585914"
+    },
+    {
+      "english": "Humility, earns respect.",
+      "Arabic": "التواضع، يكسب الاحترام.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585915"
+    },
+    {
+      "english": "Courage, faces challenges.",
+      "Arabic": "الشجاعة، تواجه الصعاب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585916"
+    },
+    {
+      "english": "Wisdom, needs practice.",
+      "Arabic": "الحكمة، تحتاج تدريبًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585917"
+    },
+    {
+      "english": "Simplicity, is beautiful.",
+      "Arabic": "البساطة، جميلة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585918"
+    },
+    {
+      "english": "Understanding, builds bridges.",
+      "Arabic": "التفاهم، يبني جسورًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585919"
+    },
+    {
+      "english": "Doubt, hinders progress.",
+      "Arabic": "الشك، يعيق التقدم.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585920"
+    },
+    {
+      "english": "Focus, on one thing.",
+      "Arabic": "ركز، على شيء واحد.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585921"
+    },
+    {
+      "english": "Empathy, connects souls.",
+      "Arabic": "التعاطف، يربط الأرواح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585923"
+    },
+    {
+      "english": "Perseverance, wins battles.",
+      "Arabic": "المثابرة، تفوز بالمعارك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585924"
+    },
+    {
+      "english": "Accept, what you can't change.",
+      "Arabic": "تقبل، ما لا تستطيع تغييره.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585925"
+    },
+    {
+      "english": "Hope, fuels the spirit.",
+      "Arabic": "الأمل، يغذي الروح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585926"
+    },
+    {
+      "english": "Action, overcomes fear.",
+      "Arabic": "العمل، يتغلب على الخوف.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585927"
+    },
+    {
+      "english": "Learn to forgive, yourself.",
+      "Arabic": "تعلم أن تسامح، نفسك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585928"
+    },
+    {
+      "english": "Respect, all beings.",
+      "Arabic": "احترم، كل الكائنات.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585929"
+    },
+    {
+      "english": "Adapt, to new situations.",
+      "Arabic": "تكيف، مع الأوضاع الجديدة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585930"
+    },
+    {
+      "english": "Be humble, in victory.",
+      "Arabic": "كن متواضعًا، عند النصر.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585931"
+    },
+    {
+      "english": "Forgiveness, heals all.",
+      "Arabic": "المغفرة، تشفي كل شيء.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585932"
+    },
+    {
+      "english": "Share your joy.",
+      "Arabic": "شارك فرحك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585933"
+    },
+    {
+      "english": "Believe, in good things.",
+      "Arabic": "آمن، بالأشياء الجيدة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585934"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "Arabic": "قل الحق، بلطف.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585936"
+    },
+    {
+      "english": "Patience, yields rewards.",
+      "Arabic": "الصبر، يجلب الثواب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585937"
+    },
+    {
+      "english": "Honesty, is always best.",
+      "Arabic": "الصدق، دائمًا أفضل.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585938"
+    },
+    {
+      "english": "Humility, earns respect.",
+      "Arabic": "التواضع، يكسب الاحترام.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585939"
+    },
+    {
+      "english": "Courage, faces challenges.",
+      "Arabic": "الشجاعة، تواجه الصعاب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585941"
+    },
+    {
+      "english": "Wisdom, needs practice.",
+      "Arabic": "الحكمة، تحتاج تدريبًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585942"
+    },
+    {
+      "english": "Simplicity, is beautiful.",
+      "Arabic": "البساطة، جميلة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585943"
+    },
+    {
+      "english": "Understanding, builds bridges.",
+      "Arabic": "التفاهم، يبني جسورًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585944"
+    },
+    {
+      "english": "Doubt, hinders progress.",
+      "Arabic": "الشك، يعيق التقدم.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585945"
+    },
+    {
+      "english": "Focus, on one thing.",
+      "Arabic": "ركز، على شيء واحد.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585946"
+    },
+    {
+      "english": "Empathy, connects souls.",
+      "Arabic": "التعاطف، يربط الأرواح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585947"
+    },
+    {
+      "english": "Perseverance, wins battles.",
+      "Arabic": "المثابرة، تفوز بالمعارك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585948"
+    },
+    {
+      "english": "Accept, what you can't change.",
+      "Arabic": "تقبل، ما لا تستطيع تغييره.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585949"
+    },
+    {
+      "english": "Hope, fuels the spirit.",
+      "Arabic": "الأمل، يغذي الروح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585950"
+    },
+    {
+      "english": "Action, overcomes fear.",
+      "Arabic": "العمل، يتغلب على الخوف.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585951"
+    },
+    {
+      "english": "Learn to forgive, yourself.",
+      "Arabic": "تعلم أن تسامح، نفسك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585953"
+    },
+    {
+      "english": "Respect, all beings.",
+      "Arabic": "احترم، كل الكائنات.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585954"
+    },
+    {
+      "english": "Adapt, to new situations.",
+      "Arabic": "تكيف، مع الأوضاع الجديدة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585955"
+    },
+    {
+      "english": "Be humble, in victory.",
+      "Arabic": "كن متواضعًا، عند النصر.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585956"
+    },
+    {
+      "english": "Forgiveness, heals all.",
+      "Arabic": "المغفرة، تشفي كل شيء.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585957"
+    },
+    {
+      "english": "Share your joy.",
+      "Arabic": "شارك فرحك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585958"
+    },
+    {
+      "english": "Believe, in good things.",
+      "Arabic": "آمن، بالأشياء الجيدة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585959"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "Arabic": "قل الحق، بلطف.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585960"
+    },
+    {
+      "english": "Patience, yields rewards.",
+      "Arabic": "الصبر، يجلب الثواب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585961"
+    },
+    {
+      "english": "Honesty, is always best.",
+      "Arabic": "الصدق، دائمًا أفضل.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585963"
+    },
+    {
+      "english": "Humility, earns respect.",
+      "Arabic": "التواضع، يكسب الاحترام.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585964"
+    },
+    {
+      "english": "Courage, faces challenges.",
+      "Arabic": "الشجاعة، تواجه الصعاب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585965"
+    },
+    {
+      "english": "Wisdom, needs practice.",
+      "Arabic": "الحكمة، تحتاج تدريبًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585966"
+    },
+    {
+      "english": "Simplicity, is beautiful.",
+      "Arabic": "البساطة، جميلة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585967"
+    },
+    {
+      "english": "Understanding, builds bridges.",
+      "Arabic": "التفاهم، يبني جسورًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585968"
+    },
+    {
+      "english": "Doubt, hinders progress.",
+      "Arabic": "الشك، يعيق التقدم.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585969"
+    },
+    {
+      "english": "Focus, on one thing.",
+      "Arabic": "ركز، على شيء واحد.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585971"
+    },
+    {
+      "english": "Empathy, connects souls.",
+      "Arabic": "التعاطف، يربط الأرواح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585972"
+    },
+    {
+      "english": "Perseverance, wins battles.",
+      "Arabic": "المثابرة، تفوز بالمعارك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585973"
+    },
+    {
+      "english": "Accept, what you can't change.",
+      "Arabic": "تقبل، ما لا تستطيع تغييره.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585974"
+    },
+    {
+      "english": "Hope, fuels the spirit.",
+      "Arabic": "الأمل، يغذي الروح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585975"
+    },
+    {
+      "english": "Action, overcomes fear.",
+      "Arabic": "العمل، يتغلب على الخوف.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585976"
+    },
+    {
+      "english": "Learn to forgive, yourself.",
+      "Arabic": "تعلم أن تسامح، نفسك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585977"
+    },
+    {
+      "english": "Respect, all beings.",
+      "Arabic": "احترم، كل الكائنات.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585978"
+    },
+    {
+      "english": "Adapt, to new situations.",
+      "Arabic": "تكيف، مع الأوضاع الجديدة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585979"
+    },
+    {
+      "english": "Be humble, in victory.",
+      "Arabic": "كن متواضعًا، عند النصر.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585980"
+    },
+    {
+      "english": "Forgiveness, heals all.",
+      "Arabic": "المغفرة، تشفي كل شيء.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585981"
+    },
+    {
+      "english": "Share your joy.",
+      "Arabic": "شارك فرحك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585983"
+    },
+    {
+      "english": "Believe, in good things.",
+      "Arabic": "آمن، بالأشياء الجيدة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585984"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "Arabic": "قل الحق، بلطف.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585985"
+    },
+    {
+      "english": "Patience, yields rewards.",
+      "Arabic": "الصبر، يجلب الثواب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585986"
+    },
+    {
+      "english": "Honesty, is always best.",
+      "Arabic": "الصدق، دائمًا أفضل.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585987"
+    },
+    {
+      "english": "Humility, earns respect.",
+      "Arabic": "التواضع، يكسب الاحترام.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585988"
+    },
+    {
+      "english": "Courage, faces challenges.",
+      "Arabic": "الشجاعة، تواجه الصعاب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585990"
+    },
+    {
+      "english": "Wisdom, needs practice.",
+      "Arabic": "الحكمة، تحتاج تدريبًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585991"
+    },
+    {
+      "english": "Simplicity, is beautiful.",
+      "Arabic": "البساطة، جميلة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585992"
+    },
+    {
+      "english": "Understanding, builds bridges.",
+      "Arabic": "التفاهم، يبني جسورًا.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585993"
+    },
+    {
+      "english": "Doubt, hinders progress.",
+      "Arabic": "الشك، يعيق التقدم.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585994"
+    },
+    {
+      "english": "Focus, on one thing.",
+      "Arabic": "ركز، على شيء واحد.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585995"
+    },
+    {
+      "english": "Empathy, connects souls.",
+      "Arabic": "التعاطف، يربط الأرواح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585996"
+    },
+    {
+      "english": "Perseverance, wins battles.",
+      "Arabic": "المثابرة، تفوز بالمعارك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585997"
+    },
+    {
+      "english": "Accept, what you can't change.",
+      "Arabic": "تقبل، ما لا تستطيع تغييره.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585998"
+    },
+    {
+      "english": "Hope, fuels the spirit.",
+      "Arabic": "الأمل، يغذي الروح.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.585999"
+    },
+    {
+      "english": "Action, overcomes fear.",
+      "Arabic": "العمل، يتغلب على الخوف.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586000"
+    },
+    {
+      "english": "Learn to forgive, yourself.",
+      "Arabic": "تعلم أن تسامح، نفسك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586001"
+    },
+    {
+      "english": "Respect, all beings.",
+      "Arabic": "احترم، كل الكائنات.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586002"
+    },
+    {
+      "english": "Adapt, to new situations.",
+      "Arabic": "تكيف، مع الأوضاع الجديدة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586003"
+    },
+    {
+      "english": "Be humble, in victory.",
+      "Arabic": "كن متواضعًا، عند النصر.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586004"
+    },
+    {
+      "english": "Forgiveness, heals all.",
+      "Arabic": "المغفرة، تشفي كل شيء.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586005"
+    },
+    {
+      "english": "Share your joy.",
+      "Arabic": "شارك فرحك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586007"
+    },
+    {
+      "english": "Believe, in good things.",
+      "Arabic": "آمن، بالأشياء الجيدة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586008"
+    },
+    {
+      "english": "Speak truth, with kindness.",
+      "Arabic": "قل الحق، بلطف.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586009"
+    },
+    {
+      "english": "Learn from mistakes, grow stronger.",
+      "Arabic": "تعلم من الأخطاء، كن أقوى.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586010"
+    },
+    {
+      "english": "Patience, unlocks doors.",
+      "Arabic": "الصبر، يفتح الأبواب.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586011"
+    },
+    {
+      "english": "Small steps, make big journeys.",
+      "Arabic": "خطوات صغيرة، رحلات كبيرة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586012"
+    },
+    {
+      "english": "Be grateful, for little things.",
+      "Arabic": "اشكر، على الأشياء الصغيرة.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586013"
+    },
+    {
+      "english": "Work hard, dream bigger.",
+      "Arabic": "اعمل بجد، احلم بكبر.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586014"
+    },
+    {
+      "english": "Share your blessings, grow them.",
+      "Arabic": "شارك نعمك، نماها.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586016"
+    },
+    {
+      "english": "Know yourself, find your way.",
+      "Arabic": "اعرف نفسك، تجد طريقك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586017"
+    },
+    {
+      "english": "Seek knowledge, it lights you.",
+      "Arabic": "اطلب العلم، ينيرك.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586018"
+    },
+    {
+      "english": "Strong roots, steady growth.",
+      "Arabic": "جذور قوية، نمو ثابت.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-26T05:53:03.586019"
     }
   ],
-  "last_updated": "2026-09-25T05:53:09.106160"
+  "last_updated": "2026-09-26T05:53:03.586022"
 }
