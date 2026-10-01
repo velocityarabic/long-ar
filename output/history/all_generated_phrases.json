@@ -52559,7 +52559,727 @@
       "Arabic": "استمع للموسيقى، إنها ترفع الروح.",
       "category": "Happiness",
       "generated_at": "2026-09-29T06:36:25.732852"
+    },
+    {
+      "english": "You make my world, brighter.",
+      "Arabic": "تجعل عالمي، أكثر إشراقًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785555"
+    },
+    {
+      "english": "I'm thankful for, our connection.",
+      "Arabic": "ممتن لـ، تواصلنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785567"
+    },
+    {
+      "english": "Your kindness, is a treasure.",
+      "Arabic": "لطفك، كنز ثمين.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785569"
+    },
+    {
+      "english": "Grateful for, your sweet spirit.",
+      "Arabic": "شاكر لـ، روحك الجميلة.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785571"
+    },
+    {
+      "english": "My heart thanks you, always.",
+      "Arabic": "قلبي يشكرك، دائمًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785572"
+    },
+    {
+      "english": "So glad, you're in my life.",
+      "Arabic": "سعيد جدًا، لوجودك في حياتي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785573"
+    },
+    {
+      "english": "This moment with you, is everything.",
+      "Arabic": "هذه اللحظة معك، تعني كل شيء.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785575"
+    },
+    {
+      "english": "Appreciating, your lovely smile.",
+      "Arabic": "أقدر، ابتسامتك الرائعة.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785579"
+    },
+    {
+      "english": "You bring, so much joy.",
+      "Arabic": "تجلب، الكثير من الفرح.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785580"
+    },
+    {
+      "english": "Feeling lucky, to know you.",
+      "Arabic": "أشعر بالحظ، لمعرفتك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785582"
+    },
+    {
+      "english": "Thank you for, being you.",
+      "Arabic": "شكرًا لكونك أنت.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785583"
+    },
+    {
+      "english": "Your warmth, I adore.",
+      "Arabic": "دفئك، أعشقه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785584"
+    },
+    {
+      "english": "You make things, so special.",
+      "Arabic": "تجعل الأشياء، مميزة جدًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785586"
+    },
+    {
+      "english": "My heart smiles, because of you.",
+      "Arabic": "قلبي يبتسم، بسببك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785587"
+    },
+    {
+      "english": "So happy, you're here.",
+      "Arabic": "سعيد جدًا، بوجودك هنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785588"
+    },
+    {
+      "english": "A sweet thought, of you.",
+      "Arabic": "فكرة حلوة، عنك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785589"
+    },
+    {
+      "english": "Grateful for, this perfect time.",
+      "Arabic": "شاكر لـ، هذا الوقت المثالي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785590"
+    },
+    {
+      "english": "Your spirit, lifts mine.",
+      "Arabic": "روحك، ترفع روحي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785591"
+    },
+    {
+      "english": "I cherish, our moments.",
+      "Arabic": "أعتز، بلحظاتنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785593"
+    },
+    {
+      "english": "Thankful for, your sweet company.",
+      "Arabic": "ممتن لـ، رفقتك الطيبة.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785594"
+    },
+    {
+      "english": "You brighten, my entire world.",
+      "Arabic": "تضيء، عالمي بأكمله.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785595"
+    },
+    {
+      "english": "What a joy, to be with you.",
+      "Arabic": "يا له من فرح، أن أكون معك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785596"
+    },
+    {
+      "english": "Feeling blessed, by your smile.",
+      "Arabic": "أشعر بالبركة، بابتسامتك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785597"
+    },
+    {
+      "english": "So grateful, for this feeling.",
+      "Arabic": "ممتن جدًا، لهذا الشعور.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785598"
+    },
+    {
+      "english": "You make life, more beautiful.",
+      "Arabic": "تجعل الحياة، أجمل.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785599"
+    },
+    {
+      "english": "So glad, you're mine.",
+      "Arabic": "سعيد جدًا، لأنك لي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785600"
+    },
+    {
+      "english": "Feeling good, around you.",
+      "Arabic": "أشعر بالراحة، حولك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785601"
+    },
+    {
+      "english": "You are appreciated, so much.",
+      "Arabic": "أنت مقدر، كثيرًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785602"
+    },
+    {
+      "english": "My gratitude, is endless.",
+      "Arabic": "امْتِناني، لا ينتهي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785603"
+    },
+    {
+      "english": "You make my world, brighter.",
+      "Arabic": "تجعل عالمي، أكثر إشراقًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785605"
+    },
+    {
+      "english": "I'm thankful for, our connection.",
+      "Arabic": "ممتن لـ، تواصلنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785606"
+    },
+    {
+      "english": "Your kindness, is a treasure.",
+      "Arabic": "لطفك، كنز ثمين.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785607"
+    },
+    {
+      "english": "Grateful for, your sweet spirit.",
+      "Arabic": "شاكر لـ، روحك الجميلة.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785609"
+    },
+    {
+      "english": "My heart thanks you, always.",
+      "Arabic": "قلبي يشكرك، دائمًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785610"
+    },
+    {
+      "english": "So glad, you're in my life.",
+      "Arabic": "سعيد جدًا، لوجودك في حياتي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785611"
+    },
+    {
+      "english": "This moment with you, is everything.",
+      "Arabic": "هذه اللحظة معك، تعني كل شيء.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785613"
+    },
+    {
+      "english": "Appreciating, your lovely smile.",
+      "Arabic": "أقدر، ابتسامتك الرائعة.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785614"
+    },
+    {
+      "english": "You bring, so much joy.",
+      "Arabic": "تجلب، الكثير من الفرح.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785615"
+    },
+    {
+      "english": "Feeling lucky, to know you.",
+      "Arabic": "أشعر بالحظ، لمعرفتك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785616"
+    },
+    {
+      "english": "Thank you for, being you.",
+      "Arabic": "شكرًا لكونك أنت.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785618"
+    },
+    {
+      "english": "Your warmth, I adore.",
+      "Arabic": "دفئك، أعشقه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785619"
+    },
+    {
+      "english": "You make things, so special.",
+      "Arabic": "تجعل الأشياء، مميزة جدًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785620"
+    },
+    {
+      "english": "My heart smiles, because of you.",
+      "Arabic": "قلبي يبتسم، بسببك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785621"
+    },
+    {
+      "english": "So happy, you're here.",
+      "Arabic": "سعيد جدًا، بوجودك هنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785623"
+    },
+    {
+      "english": "A sweet thought, of you.",
+      "Arabic": "فكرة حلوة، عنك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785624"
+    },
+    {
+      "english": "Grateful for, this perfect time.",
+      "Arabic": "شاكر لـ، هذا الوقت المثالي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785625"
+    },
+    {
+      "english": "Your spirit, lifts mine.",
+      "Arabic": "روحك، ترفع روحي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785626"
+    },
+    {
+      "english": "I cherish, our moments.",
+      "Arabic": "أعتز، بلحظاتنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785627"
+    },
+    {
+      "english": "Thankful for, your sweet company.",
+      "Arabic": "ممتن لـ، رفقتك الطيبة.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785628"
+    },
+    {
+      "english": "You brighten, my entire world.",
+      "Arabic": "تضيء، عالمي بأكمله.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785630"
+    },
+    {
+      "english": "What a joy, to be with you.",
+      "Arabic": "يا له من فرح، أن أكون معك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785631"
+    },
+    {
+      "english": "Feeling blessed, by your smile.",
+      "Arabic": "أشعر بالبركة، بابتسامتك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785632"
+    },
+    {
+      "english": "So grateful, for this feeling.",
+      "Arabic": "ممتن جدًا، لهذا الشعور.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785633"
+    },
+    {
+      "english": "You make life, more beautiful.",
+      "Arabic": "تجعل الحياة، أجمل.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785634"
+    },
+    {
+      "english": "So glad, you're mine.",
+      "Arabic": "سعيد جدًا، لأنك لي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785635"
+    },
+    {
+      "english": "Feeling good, around you.",
+      "Arabic": "أشعر بالراحة، حولك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785636"
+    },
+    {
+      "english": "You are appreciated, so much.",
+      "Arabic": "أنت مقدر، كثيرًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785637"
+    },
+    {
+      "english": "My gratitude, is endless.",
+      "Arabic": "امْتِناني، لا ينتهي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785639"
+    },
+    {
+      "english": "You make my world, brighter.",
+      "Arabic": "تجعل عالمي، أكثر إشراقًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785640"
+    },
+    {
+      "english": "I'm thankful for, our connection.",
+      "Arabic": "ممتن لـ، تواصلنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785642"
+    },
+    {
+      "english": "Your kindness, is a treasure.",
+      "Arabic": "لطفك، كنز ثمين.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785643"
+    },
+    {
+      "english": "Grateful for, your sweet spirit.",
+      "Arabic": "شاكر لـ، روحك الجميلة.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785644"
+    },
+    {
+      "english": "My heart thanks you, always.",
+      "Arabic": "قلبي يشكرك، دائمًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785645"
+    },
+    {
+      "english": "So glad, you're in my life.",
+      "Arabic": "سعيد جدًا، لوجودك في حياتي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785647"
+    },
+    {
+      "english": "This moment with you, is everything.",
+      "Arabic": "هذه اللحظة معك، تعني كل شيء.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785648"
+    },
+    {
+      "english": "Appreciating, your lovely smile.",
+      "Arabic": "أقدر، ابتسامتك الرائعة.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785649"
+    },
+    {
+      "english": "You bring, so much joy.",
+      "Arabic": "تجلب، الكثير من الفرح.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785650"
+    },
+    {
+      "english": "Feeling lucky, to know you.",
+      "Arabic": "أشعر بالحظ، لمعرفتك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785652"
+    },
+    {
+      "english": "Thank you for, being you.",
+      "Arabic": "شكرًا لكونك أنت.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785653"
+    },
+    {
+      "english": "Your warmth, I adore.",
+      "Arabic": "دفئك، أعشقه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785654"
+    },
+    {
+      "english": "You make things, so special.",
+      "Arabic": "تجعل الأشياء، مميزة جدًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785655"
+    },
+    {
+      "english": "My heart smiles, because of you.",
+      "Arabic": "قلبي يبتسم، بسببك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785656"
+    },
+    {
+      "english": "So happy, you're here.",
+      "Arabic": "سعيد جدًا، بوجودك هنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785657"
+    },
+    {
+      "english": "A sweet thought, of you.",
+      "Arabic": "فكرة حلوة، عنك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785658"
+    },
+    {
+      "english": "Grateful for, this perfect time.",
+      "Arabic": "شاكر لـ، هذا الوقت المثالي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785660"
+    },
+    {
+      "english": "Your spirit, lifts mine.",
+      "Arabic": "روحك، ترفع روحي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785661"
+    },
+    {
+      "english": "I cherish, our moments.",
+      "Arabic": "أعتز، بلحظاتنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785662"
+    },
+    {
+      "english": "Thankful for, your sweet company.",
+      "Arabic": "ممتن لـ، رفقتك الطيبة.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785663"
+    },
+    {
+      "english": "You brighten, my entire world.",
+      "Arabic": "تضيء، عالمي بأكمله.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785664"
+    },
+    {
+      "english": "What a joy, to be with you.",
+      "Arabic": "يا له من فرح، أن أكون معك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785665"
+    },
+    {
+      "english": "Feeling blessed, by your smile.",
+      "Arabic": "أشعر بالبركة، بابتسامتك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785667"
+    },
+    {
+      "english": "So grateful, for this feeling.",
+      "Arabic": "ممتن جدًا، لهذا الشعور.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785668"
+    },
+    {
+      "english": "You make life, more beautiful.",
+      "Arabic": "تجعل الحياة، أجمل.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785669"
+    },
+    {
+      "english": "So glad, you're mine.",
+      "Arabic": "سعيد جدًا، لأنك لي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785670"
+    },
+    {
+      "english": "Feeling good, around you.",
+      "Arabic": "أشعر بالراحة، حولك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785671"
+    },
+    {
+      "english": "You are appreciated, so much.",
+      "Arabic": "أنت مقدر، كثيرًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785673"
+    },
+    {
+      "english": "My gratitude, is endless.",
+      "Arabic": "امْتِناني، لا ينتهي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785674"
+    },
+    {
+      "english": "You make my world, brighter.",
+      "Arabic": "تجعل عالمي، أكثر إشراقًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785675"
+    },
+    {
+      "english": "I'm thankful for, our connection.",
+      "Arabic": "ممتن لـ، تواصلنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785676"
+    },
+    {
+      "english": "Your kindness, is a treasure.",
+      "Arabic": "لطفك، كنز ثمين.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785677"
+    },
+    {
+      "english": "Grateful for, your sweet spirit.",
+      "Arabic": "شاكر لـ، روحك الجميلة.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785679"
+    },
+    {
+      "english": "My heart thanks you, always.",
+      "Arabic": "قلبي يشكرك، دائمًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785680"
+    },
+    {
+      "english": "So glad, you're in my life.",
+      "Arabic": "سعيد جدًا، لوجودك في حياتي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785681"
+    },
+    {
+      "english": "This moment with you, is everything.",
+      "Arabic": "هذه اللحظة معك، تعني كل شيء.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785682"
+    },
+    {
+      "english": "Appreciating, your lovely smile.",
+      "Arabic": "أقدر، ابتسامتك الرائعة.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785683"
+    },
+    {
+      "english": "You bring, so much joy.",
+      "Arabic": "تجلب، الكثير من الفرح.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785685"
+    },
+    {
+      "english": "Feeling lucky, to know you.",
+      "Arabic": "أشعر بالحظ، لمعرفتك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785686"
+    },
+    {
+      "english": "Thank you for, being you.",
+      "Arabic": "شكرًا لكونك أنت.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785687"
+    },
+    {
+      "english": "Your warmth, I adore.",
+      "Arabic": "دفئك، أعشقه.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785688"
+    },
+    {
+      "english": "You make things, so special.",
+      "Arabic": "تجعل الأشياء، مميزة جدًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785689"
+    },
+    {
+      "english": "My heart smiles, because of you.",
+      "Arabic": "قلبي يبتسم، بسببك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785691"
+    },
+    {
+      "english": "So happy, you're here.",
+      "Arabic": "سعيد جدًا، بوجودك هنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785692"
+    },
+    {
+      "english": "A sweet thought, of you.",
+      "Arabic": "فكرة حلوة، عنك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785693"
+    },
+    {
+      "english": "Grateful for, this perfect time.",
+      "Arabic": "شاكر لـ، هذا الوقت المثالي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785694"
+    },
+    {
+      "english": "Your spirit, lifts mine.",
+      "Arabic": "روحك، ترفع روحي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785695"
+    },
+    {
+      "english": "I cherish, our moments.",
+      "Arabic": "أعتز، بلحظاتنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785696"
+    },
+    {
+      "english": "Thankful for, your sweet company.",
+      "Arabic": "ممتن لـ، رفقتك الطيبة.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785697"
+    },
+    {
+      "english": "You brighten, my entire world.",
+      "Arabic": "تضيء، عالمي بأكمله.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785698"
+    },
+    {
+      "english": "What a joy, to be with you.",
+      "Arabic": "يا له من فرح، أن أكون معك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785699"
+    },
+    {
+      "english": "Feeling blessed, by your smile.",
+      "Arabic": "أشعر بالبركة، بابتسامتك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785700"
+    },
+    {
+      "english": "So grateful, for this feeling.",
+      "Arabic": "ممتن جدًا، لهذا الشعور.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785702"
+    },
+    {
+      "english": "You make life, more beautiful.",
+      "Arabic": "تجعل الحياة، أجمل.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785703"
+    },
+    {
+      "english": "So glad, you're mine.",
+      "Arabic": "سعيد جدًا، لأنك لي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785704"
+    },
+    {
+      "english": "Feeling good, around you.",
+      "Arabic": "أشعر بالراحة، حولك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785705"
+    },
+    {
+      "english": "You are appreciated, so much.",
+      "Arabic": "أنت مقدر، كثيرًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785707"
+    },
+    {
+      "english": "My gratitude, is endless.",
+      "Arabic": "امْتِناني، لا ينتهي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785708"
+    },
+    {
+      "english": "You make my world, brighter.",
+      "Arabic": "تجعل عالمي، أكثر إشراقًا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785709"
+    },
+    {
+      "english": "I'm thankful for, our connection.",
+      "Arabic": "ممتن لـ، تواصلنا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785710"
+    },
+    {
+      "english": "Your kindness, is a treasure.",
+      "Arabic": "لطفك، كنز ثمين.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785711"
+    },
+    {
+      "english": "Grateful for, your sweet spirit.",
+      "Arabic": "شاكر لـ، روحك الجميلة.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-01T06:52:19.785712"
     }
   ],
-  "last_updated": "2026-09-29T06:36:25.732855"
+  "last_updated": "2026-10-01T06:52:19.785715"
 }
