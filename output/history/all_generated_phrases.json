@@ -53279,7 +53279,727 @@
       "Arabic": "شاكر لـ، روحك الجميلة.",
       "category": "Gratitude",
       "generated_at": "2026-10-01T06:52:19.785712"
+    },
+    {
+      "english": "Every sunset, promises a new dawn.",
+      "Arabic": "كل غروب، يعد بفجر جديد.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921547"
+    },
+    {
+      "english": "Your strength, is a hidden power.",
+      "Arabic": "قوتك، هي قوة خفية.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921556"
+    },
+    {
+      "english": "A little effort, yields great results.",
+      "Arabic": "جهد قليل، يحقق نتائج عظيمة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921558"
+    },
+    {
+      "english": "This challenge, is a chance to grow.",
+      "Arabic": "هذا التحدي، فرصة للنمو.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921560"
+    },
+    {
+      "english": "Believe in yourself, you can achieve.",
+      "Arabic": "آمن بنفسك، يمكنك التحقيق.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921561"
+    },
+    {
+      "english": "Tomorrow's success, starts today.",
+      "Arabic": "نجاح الغد، يبدأ اليوم.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921562"
+    },
+    {
+      "english": "Your spirit, is a guiding light.",
+      "Arabic": "روحك، هي نور هادٍ.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921564"
+    },
+    {
+      "english": "Even in darkness, light can emerge.",
+      "Arabic": "حتى في الظلام، يخرج النور.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921567"
+    },
+    {
+      "english": "Your courage, inspires many.",
+      "Arabic": "شجاعتك، تلهم الكثير.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921569"
+    },
+    {
+      "english": "Each step forward, matters greatly.",
+      "Arabic": "كل خطوة للأمام، لها أهمية كبيرة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921570"
+    },
+    {
+      "english": "This is not the end, it's a pause.",
+      "Arabic": "هذه ليست النهاية، إنها وقفة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921572"
+    },
+    {
+      "english": "A smile, can brighten a day.",
+      "Arabic": "ابتسامة، تضيء يومًا.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921573"
+    },
+    {
+      "english": "Hope is the engine, of progress.",
+      "Arabic": "الأمل هو محرك، التقدم.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921574"
+    },
+    {
+      "english": "You have the power, to create change.",
+      "Arabic": "لديك القدرة، على إحداث التغيير.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921575"
+    },
+    {
+      "english": "Don't give up, your time will come.",
+      "Arabic": "لا تستسلم، سيأتي وقتك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921577"
+    },
+    {
+      "english": "A new chapter, is waiting.",
+      "Arabic": "فصل جديد، ينتظر.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921578"
+    },
+    {
+      "english": "Small wins, build momentum.",
+      "Arabic": "انتصارات صغيرة، تبني الزخم.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921579"
+    },
+    {
+      "english": "The future, holds beautiful possibilities.",
+      "Arabic": "المستقبل، يحمل احتمالات جميلة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921580"
+    },
+    {
+      "english": "A positive thought, can change your day.",
+      "Arabic": "فكرة إيجابية، تغير يومك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921582"
+    },
+    {
+      "english": "This darkness, will surely pass.",
+      "Arabic": "هذا الظلام، سيمر بالتأكيد.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921583"
+    },
+    {
+      "english": "A new beginning, awaits you.",
+      "Arabic": "بداية جديدة، تنتظرك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921584"
+    },
+    {
+      "english": "Keep going, you are close.",
+      "Arabic": "استمر، أنت قريب.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921585"
+    },
+    {
+      "english": "Your passion, fuels your journey.",
+      "Arabic": "شغفك، يغذي رحلتك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921586"
+    },
+    {
+      "english": "This storm, will eventually calm.",
+      "Arabic": "هذه العاصفة، ستهدأ في النهاية.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921587"
+    },
+    {
+      "english": "A single step, can lead to victory.",
+      "Arabic": "خطوة واحدة، تقود للنصر.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921588"
+    },
+    {
+      "english": "Brighter days, are on the horizon.",
+      "Arabic": "أيام ألمع، في الأفق.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921589"
+    },
+    {
+      "english": "This is a test, of your will.",
+      "Arabic": "هذا اختبار، لإرادتك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921590"
+    },
+    {
+      "english": "A seed of hope, can bloom anywhere.",
+      "Arabic": "بذرة أمل، تزهر في أي مكان.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921591"
+    },
+    {
+      "english": "Every sunset, promises a new dawn.",
+      "Arabic": "كل غروب، يعد بفجر جديد.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921593"
+    },
+    {
+      "english": "Your strength, is a hidden power.",
+      "Arabic": "قوتك، هي قوة خفية.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921594"
+    },
+    {
+      "english": "A little effort, yields great results.",
+      "Arabic": "جهد قليل، يحقق نتائج عظيمة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921595"
+    },
+    {
+      "english": "This challenge, is a chance to grow.",
+      "Arabic": "هذا التحدي، فرصة للنمو.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921597"
+    },
+    {
+      "english": "Believe in yourself, you can achieve.",
+      "Arabic": "آمن بنفسك، يمكنك التحقيق.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921598"
+    },
+    {
+      "english": "Tomorrow's success, starts today.",
+      "Arabic": "نجاح الغد، يبدأ اليوم.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921599"
+    },
+    {
+      "english": "Your spirit, is a guiding light.",
+      "Arabic": "روحك، هي نور هادٍ.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921600"
+    },
+    {
+      "english": "Even in darkness, light can emerge.",
+      "Arabic": "حتى في الظلام، يخرج النور.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921601"
+    },
+    {
+      "english": "Your courage, inspires many.",
+      "Arabic": "شجاعتك، تلهم الكثير.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921602"
+    },
+    {
+      "english": "Each step forward, matters greatly.",
+      "Arabic": "كل خطوة للأمام، لها أهمية كبيرة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921603"
+    },
+    {
+      "english": "This is not the end, it's a pause.",
+      "Arabic": "هذه ليست النهاية، إنها وقفة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921605"
+    },
+    {
+      "english": "A smile, can brighten a day.",
+      "Arabic": "ابتسامة، تضيء يومًا.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921606"
+    },
+    {
+      "english": "Hope is the engine, of progress.",
+      "Arabic": "الأمل هو محرك، التقدم.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921607"
+    },
+    {
+      "english": "You have the power, to create change.",
+      "Arabic": "لديك القدرة، على إحداث التغيير.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921608"
+    },
+    {
+      "english": "Don't give up, your time will come.",
+      "Arabic": "لا تستسلم، سيأتي وقتك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921609"
+    },
+    {
+      "english": "A new chapter, is waiting.",
+      "Arabic": "فصل جديد، ينتظر.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921610"
+    },
+    {
+      "english": "Small wins, build momentum.",
+      "Arabic": "انتصارات صغيرة، تبني الزخم.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921611"
+    },
+    {
+      "english": "The future, holds beautiful possibilities.",
+      "Arabic": "المستقبل، يحمل احتمالات جميلة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921612"
+    },
+    {
+      "english": "A positive thought, can change your day.",
+      "Arabic": "فكرة إيجابية، تغير يومك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921613"
+    },
+    {
+      "english": "This darkness, will surely pass.",
+      "Arabic": "هذا الظلام، سيمر بالتأكيد.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921614"
+    },
+    {
+      "english": "A new beginning, awaits you.",
+      "Arabic": "بداية جديدة، تنتظرك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921615"
+    },
+    {
+      "english": "Keep going, you are close.",
+      "Arabic": "استمر، أنت قريب.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921617"
+    },
+    {
+      "english": "Your passion, fuels your journey.",
+      "Arabic": "شغفك، يغذي رحلتك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921618"
+    },
+    {
+      "english": "This storm, will eventually calm.",
+      "Arabic": "هذه العاصفة، ستهدأ في النهاية.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921619"
+    },
+    {
+      "english": "A single step, can lead to victory.",
+      "Arabic": "خطوة واحدة، تقود للنصر.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921620"
+    },
+    {
+      "english": "Brighter days, are on the horizon.",
+      "Arabic": "أيام ألمع، في الأفق.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921621"
+    },
+    {
+      "english": "This is a test, of your will.",
+      "Arabic": "هذا اختبار، لإرادتك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921622"
+    },
+    {
+      "english": "A seed of hope, can bloom anywhere.",
+      "Arabic": "بذرة أمل، تزهر في أي مكان.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921623"
+    },
+    {
+      "english": "Every sunset, promises a new dawn.",
+      "Arabic": "كل غروب، يعد بفجر جديد.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921625"
+    },
+    {
+      "english": "Your strength, is a hidden power.",
+      "Arabic": "قوتك، هي قوة خفية.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921626"
+    },
+    {
+      "english": "A little effort, yields great results.",
+      "Arabic": "جهد قليل، يحقق نتائج عظيمة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921627"
+    },
+    {
+      "english": "This challenge, is a chance to grow.",
+      "Arabic": "هذا التحدي، فرصة للنمو.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921628"
+    },
+    {
+      "english": "Believe in yourself, you can achieve.",
+      "Arabic": "آمن بنفسك، يمكنك التحقيق.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921630"
+    },
+    {
+      "english": "Tomorrow's success, starts today.",
+      "Arabic": "نجاح الغد، يبدأ اليوم.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921631"
+    },
+    {
+      "english": "Your spirit, is a guiding light.",
+      "Arabic": "روحك، هي نور هادٍ.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921632"
+    },
+    {
+      "english": "Even in darkness, light can emerge.",
+      "Arabic": "حتى في الظلام، يخرج النور.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921633"
+    },
+    {
+      "english": "Your courage, inspires many.",
+      "Arabic": "شجاعتك، تلهم الكثير.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921634"
+    },
+    {
+      "english": "Each step forward, matters greatly.",
+      "Arabic": "كل خطوة للأمام، لها أهمية كبيرة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921636"
+    },
+    {
+      "english": "This is not the end, it's a pause.",
+      "Arabic": "هذه ليست النهاية، إنها وقفة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921637"
+    },
+    {
+      "english": "A smile, can brighten a day.",
+      "Arabic": "ابتسامة، تضيء يومًا.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921638"
+    },
+    {
+      "english": "Hope is the engine, of progress.",
+      "Arabic": "الأمل هو محرك، التقدم.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921639"
+    },
+    {
+      "english": "You have the power, to create change.",
+      "Arabic": "لديك القدرة، على إحداث التغيير.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921640"
+    },
+    {
+      "english": "Don't give up, your time will come.",
+      "Arabic": "لا تستسلم، سيأتي وقتك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921641"
+    },
+    {
+      "english": "A new chapter, is waiting.",
+      "Arabic": "فصل جديد، ينتظر.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921643"
+    },
+    {
+      "english": "Small wins, build momentum.",
+      "Arabic": "انتصارات صغيرة، تبني الزخم.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921644"
+    },
+    {
+      "english": "The future, holds beautiful possibilities.",
+      "Arabic": "المستقبل، يحمل احتمالات جميلة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921645"
+    },
+    {
+      "english": "A positive thought, can change your day.",
+      "Arabic": "فكرة إيجابية، تغير يومك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921646"
+    },
+    {
+      "english": "This darkness, will surely pass.",
+      "Arabic": "هذا الظلام، سيمر بالتأكيد.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921647"
+    },
+    {
+      "english": "A new beginning, awaits you.",
+      "Arabic": "بداية جديدة، تنتظرك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921648"
+    },
+    {
+      "english": "Keep going, you are close.",
+      "Arabic": "استمر، أنت قريب.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921649"
+    },
+    {
+      "english": "Your passion, fuels your journey.",
+      "Arabic": "شغفك، يغذي رحلتك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921651"
+    },
+    {
+      "english": "This storm, will eventually calm.",
+      "Arabic": "هذه العاصفة، ستهدأ في النهاية.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921652"
+    },
+    {
+      "english": "A single step, can lead to victory.",
+      "Arabic": "خطوة واحدة، تقود للنصر.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921653"
+    },
+    {
+      "english": "Brighter days, are on the horizon.",
+      "Arabic": "أيام ألمع، في الأفق.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921654"
+    },
+    {
+      "english": "This is a test, of your will.",
+      "Arabic": "هذا اختبار، لإرادتك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921655"
+    },
+    {
+      "english": "A seed of hope, can bloom anywhere.",
+      "Arabic": "بذرة أمل، تزهر في أي مكان.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921656"
+    },
+    {
+      "english": "Every sunset, promises a new dawn.",
+      "Arabic": "كل غروب، يعد بفجر جديد.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921658"
+    },
+    {
+      "english": "Your strength, is a hidden power.",
+      "Arabic": "قوتك، هي قوة خفية.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921659"
+    },
+    {
+      "english": "A little effort, yields great results.",
+      "Arabic": "جهد قليل، يحقق نتائج عظيمة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921660"
+    },
+    {
+      "english": "This challenge, is a chance to grow.",
+      "Arabic": "هذا التحدي، فرصة للنمو.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921661"
+    },
+    {
+      "english": "Believe in yourself, you can achieve.",
+      "Arabic": "آمن بنفسك، يمكنك التحقيق.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921662"
+    },
+    {
+      "english": "Tomorrow's success, starts today.",
+      "Arabic": "نجاح الغد، يبدأ اليوم.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921663"
+    },
+    {
+      "english": "Your spirit, is a guiding light.",
+      "Arabic": "روحك، هي نور هادٍ.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921664"
+    },
+    {
+      "english": "Even in darkness, light can emerge.",
+      "Arabic": "حتى في الظلام، يخرج النور.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921665"
+    },
+    {
+      "english": "Your courage, inspires many.",
+      "Arabic": "شجاعتك، تلهم الكثير.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921667"
+    },
+    {
+      "english": "Each step forward, matters greatly.",
+      "Arabic": "كل خطوة للأمام، لها أهمية كبيرة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921668"
+    },
+    {
+      "english": "This is not the end, it's a pause.",
+      "Arabic": "هذه ليست النهاية، إنها وقفة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921669"
+    },
+    {
+      "english": "A smile, can brighten a day.",
+      "Arabic": "ابتسامة، تضيء يومًا.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921670"
+    },
+    {
+      "english": "Hope is the engine, of progress.",
+      "Arabic": "الأمل هو محرك، التقدم.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921671"
+    },
+    {
+      "english": "You have the power, to create change.",
+      "Arabic": "لديك القدرة، على إحداث التغيير.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921672"
+    },
+    {
+      "english": "Don't give up, your time will come.",
+      "Arabic": "لا تستسلم، سيأتي وقتك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921673"
+    },
+    {
+      "english": "A new chapter, is waiting.",
+      "Arabic": "فصل جديد، ينتظر.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921674"
+    },
+    {
+      "english": "Small wins, build momentum.",
+      "Arabic": "انتصارات صغيرة، تبني الزخم.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921675"
+    },
+    {
+      "english": "The future, holds beautiful possibilities.",
+      "Arabic": "المستقبل، يحمل احتمالات جميلة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921676"
+    },
+    {
+      "english": "A positive thought, can change your day.",
+      "Arabic": "فكرة إيجابية، تغير يومك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921678"
+    },
+    {
+      "english": "This darkness, will surely pass.",
+      "Arabic": "هذا الظلام، سيمر بالتأكيد.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921679"
+    },
+    {
+      "english": "A new beginning, awaits you.",
+      "Arabic": "بداية جديدة، تنتظرك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921680"
+    },
+    {
+      "english": "Keep going, you are close.",
+      "Arabic": "استمر، أنت قريب.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921681"
+    },
+    {
+      "english": "Your passion, fuels your journey.",
+      "Arabic": "شغفك، يغذي رحلتك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921682"
+    },
+    {
+      "english": "This storm, will eventually calm.",
+      "Arabic": "هذه العاصفة، ستهدأ في النهاية.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921683"
+    },
+    {
+      "english": "A single step, can lead to victory.",
+      "Arabic": "خطوة واحدة، تقود للنصر.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921684"
+    },
+    {
+      "english": "Brighter days, are on the horizon.",
+      "Arabic": "أيام ألمع، في الأفق.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921686"
+    },
+    {
+      "english": "This is a test, of your will.",
+      "Arabic": "هذا اختبار، لإرادتك.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921687"
+    },
+    {
+      "english": "A seed of hope, can bloom anywhere.",
+      "Arabic": "بذرة أمل، تزهر في أي مكان.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921688"
+    },
+    {
+      "english": "Every sunset, promises a new dawn.",
+      "Arabic": "كل غروب، يعد بفجر جديد.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921689"
+    },
+    {
+      "english": "Your strength, is a hidden power.",
+      "Arabic": "قوتك، هي قوة خفية.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921690"
+    },
+    {
+      "english": "A little effort, yields great results.",
+      "Arabic": "جهد قليل، يحقق نتائج عظيمة.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921691"
+    },
+    {
+      "english": "This challenge, is a chance to grow.",
+      "Arabic": "هذا التحدي، فرصة للنمو.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921692"
+    },
+    {
+      "english": "Believe in yourself, you can achieve.",
+      "Arabic": "آمن بنفسك، يمكنك التحقيق.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921693"
+    },
+    {
+      "english": "Tomorrow's success, starts today.",
+      "Arabic": "نجاح الغد، يبدأ اليوم.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921695"
+    },
+    {
+      "english": "Your spirit, is a guiding light.",
+      "Arabic": "روحك، هي نور هادٍ.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921696"
+    },
+    {
+      "english": "Even in darkness, light can emerge.",
+      "Arabic": "حتى في الظلام، يخرج النور.",
+      "category": "Hope",
+      "generated_at": "2026-10-02T06:43:47.921697"
     }
   ],
-  "last_updated": "2026-10-01T06:52:19.785715"
+  "last_updated": "2026-10-02T06:43:47.921699"
 }
