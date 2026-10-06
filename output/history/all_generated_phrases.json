@@ -56159,7 +56159,727 @@
       "Arabic": "عقلك الهادئ, هو أثمن ما لديك.",
       "category": "Inner Peace",
       "generated_at": "2026-10-05T06:35:27.633237"
+    },
+    {
+      "english": "Believe in your dreams, big or small.",
+      "Arabic": "آمن بأحلامك، كبيرة كانت أم صغيرة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289402"
+    },
+    {
+      "english": "Tomorrow is, a fresh beginning.",
+      "Arabic": "الغد بداية، جديدة تماماً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289409"
+    },
+    {
+      "english": "Keep pushing forward, never stop.",
+      "Arabic": "استمر في التقدم، لا تتوقف أبداً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289410"
+    },
+    {
+      "english": "Good things, take time to grow.",
+      "Arabic": "الأشياء الجيدة، تحتاج وقتاً لتنمو.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289411"
+    },
+    {
+      "english": "Your strength, is in your spirit.",
+      "Arabic": "قوتك، تكمن في روحك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289412"
+    },
+    {
+      "english": "Hope is the light, in darkness.",
+      "Arabic": "الأمل هو النور، في الظلام.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289413"
+    },
+    {
+      "english": "Let your heart, stay open.",
+      "Arabic": "اجعل قلبك، يبقى مفتوحاً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289413"
+    },
+    {
+      "english": "The future is, bright for you.",
+      "Arabic": "المستقبل مشرق، لك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289415"
+    },
+    {
+      "english": "Hold onto hope, tightly.",
+      "Arabic": "تمسك بالأمل، بقوة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289417"
+    },
+    {
+      "english": "Keep your faith, strong.",
+      "Arabic": "حافظ على إيمانك، قوياً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289418"
+    },
+    {
+      "english": "Every challenge, makes you stronger.",
+      "Arabic": "كل تحدٍ، يجعلك أقوى.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289418"
+    },
+    {
+      "english": "Look for the good, always.",
+      "Arabic": "ابحث عن الخير، دائماً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289419"
+    },
+    {
+      "english": "Your spirit, can fly high.",
+      "Arabic": "روحك، يمكنها الطيران عالياً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289420"
+    },
+    {
+      "english": "Hope is a gentle breeze.",
+      "Arabic": "الأمل نسمة، لطيفة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289420"
+    },
+    {
+      "english": "Believe in the magic, of the moment.",
+      "Arabic": "آمن بسحر، اللحظة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289421"
+    },
+    {
+      "english": "You are growing, every single day.",
+      "Arabic": "أنت تنمو، كل يوم.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289422"
+    },
+    {
+      "english": "Let kindness, lead your way.",
+      "Arabic": "دع اللطف، يقود طريقك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289422"
+    },
+    {
+      "english": "The dawn always, follows the night.",
+      "Arabic": "الفجر دائماً، يتبع الليل.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289423"
+    },
+    {
+      "english": "Keep a smile, on your face.",
+      "Arabic": "حافظ على ابتسامة، على وجهك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289423"
+    },
+    {
+      "english": "Your journey, is unfolding beautifully.",
+      "Arabic": "رحلتك، تتكشف بجمال.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289424"
+    },
+    {
+      "english": "Seek joy, in the simple things.",
+      "Arabic": "ابحث عن الفرح، في الأشياء البسيطة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289424"
+    },
+    {
+      "english": "Brighter days, are coming.",
+      "Arabic": "أيام مشرقة، قادمة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289425"
+    },
+    {
+      "english": "Embrace the possibilities, ahead.",
+      "Arabic": "احتضن الاحتمالات، أمامك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289425"
+    },
+    {
+      "english": "Your courage, shines brightly.",
+      "Arabic": "شجاعتك، تشرق ببراعة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289426"
+    },
+    {
+      "english": "Let hope bloom, in your heart.",
+      "Arabic": "دع الأمل يزهر، في قلبك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289426"
+    },
+    {
+      "english": "The light within, will guide you.",
+      "Arabic": "النور بداخلك، سيرشدك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289427"
+    },
+    {
+      "english": "Be patient, with your progress.",
+      "Arabic": "كن صبوراً، مع تقدمك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289427"
+    },
+    {
+      "english": "Find wonder, in the everyday.",
+      "Arabic": "ابحث عن العجب، في كل يوم.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289428"
+    },
+    {
+      "english": "A positive mind, creates reality.",
+      "Arabic": "العقل الإيجابي، يخلق الواقع.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289428"
+    },
+    {
+      "english": "Let gratitude, fill your days.",
+      "Arabic": "دع الامتنان، يملأ أيامك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289429"
+    },
+    {
+      "english": "Keep the faith, alive.",
+      "Arabic": "حافظ على الإيمان، حياً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289430"
+    },
+    {
+      "english": "Hope is a powerful anchor.",
+      "Arabic": "الأمل مرساة، قوية.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289430"
+    },
+    {
+      "english": "Believe in your dreams, big or small.",
+      "Arabic": "آمن بأحلامك، كبيرة كانت أم صغيرة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289431"
+    },
+    {
+      "english": "Tomorrow is, a fresh beginning.",
+      "Arabic": "الغد بداية، جديدة تماماً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289431"
+    },
+    {
+      "english": "Keep pushing forward, never stop.",
+      "Arabic": "استمر في التقدم، لا تتوقف أبداً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289432"
+    },
+    {
+      "english": "Good things, take time to grow.",
+      "Arabic": "الأشياء الجيدة، تحتاج وقتاً لتنمو.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289433"
+    },
+    {
+      "english": "Your strength, is in your spirit.",
+      "Arabic": "قوتك، تكمن في روحك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289433"
+    },
+    {
+      "english": "Hope is the light, in darkness.",
+      "Arabic": "الأمل هو النور، في الظلام.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289434"
+    },
+    {
+      "english": "Let your heart, stay open.",
+      "Arabic": "اجعل قلبك، يبقى مفتوحاً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289435"
+    },
+    {
+      "english": "The future is, bright for you.",
+      "Arabic": "المستقبل مشرق، لك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289435"
+    },
+    {
+      "english": "Hold onto hope, tightly.",
+      "Arabic": "تمسك بالأمل، بقوة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289436"
+    },
+    {
+      "english": "Keep your faith, strong.",
+      "Arabic": "حافظ على إيمانك، قوياً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289436"
+    },
+    {
+      "english": "Every challenge, makes you stronger.",
+      "Arabic": "كل تحدٍ، يجعلك أقوى.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289437"
+    },
+    {
+      "english": "Look for the good, always.",
+      "Arabic": "ابحث عن الخير، دائماً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289437"
+    },
+    {
+      "english": "Your spirit, can fly high.",
+      "Arabic": "روحك، يمكنها الطيران عالياً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289438"
+    },
+    {
+      "english": "Hope is a gentle breeze.",
+      "Arabic": "الأمل نسمة، لطيفة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289439"
+    },
+    {
+      "english": "Believe in the magic, of the moment.",
+      "Arabic": "آمن بسحر، اللحظة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289439"
+    },
+    {
+      "english": "You are growing, every single day.",
+      "Arabic": "أنت تنمو، كل يوم.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289440"
+    },
+    {
+      "english": "Let kindness, lead your way.",
+      "Arabic": "دع اللطف، يقود طريقك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289440"
+    },
+    {
+      "english": "The dawn always, follows the night.",
+      "Arabic": "الفجر دائماً، يتبع الليل.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289441"
+    },
+    {
+      "english": "Keep a smile, on your face.",
+      "Arabic": "حافظ على ابتسامة، على وجهك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289442"
+    },
+    {
+      "english": "Your journey, is unfolding beautifully.",
+      "Arabic": "رحلتك، تتكشف بجمال.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289442"
+    },
+    {
+      "english": "Seek joy, in the simple things.",
+      "Arabic": "ابحث عن الفرح، في الأشياء البسيطة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289443"
+    },
+    {
+      "english": "Brighter days, are coming.",
+      "Arabic": "أيام مشرقة، قادمة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289443"
+    },
+    {
+      "english": "Embrace the possibilities, ahead.",
+      "Arabic": "احتضن الاحتمالات، أمامك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289444"
+    },
+    {
+      "english": "Your courage, shines brightly.",
+      "Arabic": "شجاعتك، تشرق ببراعة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289444"
+    },
+    {
+      "english": "Let hope bloom, in your heart.",
+      "Arabic": "دع الأمل يزهر، في قلبك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289445"
+    },
+    {
+      "english": "The light within, will guide you.",
+      "Arabic": "النور بداخلك، سيرشدك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289445"
+    },
+    {
+      "english": "Be patient, with your progress.",
+      "Arabic": "كن صبوراً، مع تقدمك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289446"
+    },
+    {
+      "english": "Find wonder, in the everyday.",
+      "Arabic": "ابحث عن العجب، في كل يوم.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289446"
+    },
+    {
+      "english": "A positive mind, creates reality.",
+      "Arabic": "العقل الإيجابي، يخلق الواقع.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289447"
+    },
+    {
+      "english": "Let gratitude, fill your days.",
+      "Arabic": "دع الامتنان، يملأ أيامك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289448"
+    },
+    {
+      "english": "Keep the faith, alive.",
+      "Arabic": "حافظ على الإيمان، حياً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289448"
+    },
+    {
+      "english": "Hope is a powerful anchor.",
+      "Arabic": "الأمل مرساة، قوية.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289449"
+    },
+    {
+      "english": "Believe in your dreams, big or small.",
+      "Arabic": "آمن بأحلامك، كبيرة كانت أم صغيرة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289449"
+    },
+    {
+      "english": "Tomorrow is, a fresh beginning.",
+      "Arabic": "الغد بداية، جديدة تماماً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289450"
+    },
+    {
+      "english": "Keep pushing forward, never stop.",
+      "Arabic": "استمر في التقدم، لا تتوقف أبداً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289451"
+    },
+    {
+      "english": "Good things, take time to grow.",
+      "Arabic": "الأشياء الجيدة، تحتاج وقتاً لتنمو.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289451"
+    },
+    {
+      "english": "Your strength, is in your spirit.",
+      "Arabic": "قوتك، تكمن في روحك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289452"
+    },
+    {
+      "english": "Hope is the light, in darkness.",
+      "Arabic": "الأمل هو النور، في الظلام.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289452"
+    },
+    {
+      "english": "Let your heart, stay open.",
+      "Arabic": "اجعل قلبك، يبقى مفتوحاً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289453"
+    },
+    {
+      "english": "The future is, bright for you.",
+      "Arabic": "المستقبل مشرق، لك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289453"
+    },
+    {
+      "english": "Hold onto hope, tightly.",
+      "Arabic": "تمسك بالأمل، بقوة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289454"
+    },
+    {
+      "english": "Keep your faith, strong.",
+      "Arabic": "حافظ على إيمانك، قوياً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289454"
+    },
+    {
+      "english": "Every challenge, makes you stronger.",
+      "Arabic": "كل تحدٍ، يجعلك أقوى.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289455"
+    },
+    {
+      "english": "Look for the good, always.",
+      "Arabic": "ابحث عن الخير، دائماً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289455"
+    },
+    {
+      "english": "Your spirit, can fly high.",
+      "Arabic": "روحك، يمكنها الطيران عالياً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289456"
+    },
+    {
+      "english": "Hope is a gentle breeze.",
+      "Arabic": "الأمل نسمة، لطيفة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289456"
+    },
+    {
+      "english": "Believe in the magic, of the moment.",
+      "Arabic": "آمن بسحر، اللحظة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289456"
+    },
+    {
+      "english": "You are growing, every single day.",
+      "Arabic": "أنت تنمو، كل يوم.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289457"
+    },
+    {
+      "english": "Let kindness, lead your way.",
+      "Arabic": "دع اللطف، يقود طريقك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289457"
+    },
+    {
+      "english": "The dawn always, follows the night.",
+      "Arabic": "الفجر دائماً، يتبع الليل.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289458"
+    },
+    {
+      "english": "Keep a smile, on your face.",
+      "Arabic": "حافظ على ابتسامة، على وجهك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289458"
+    },
+    {
+      "english": "Your journey, is unfolding beautifully.",
+      "Arabic": "رحلتك، تتكشف بجمال.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289459"
+    },
+    {
+      "english": "Seek joy, in the simple things.",
+      "Arabic": "ابحث عن الفرح، في الأشياء البسيطة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289459"
+    },
+    {
+      "english": "Brighter days, are coming.",
+      "Arabic": "أيام مشرقة، قادمة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289460"
+    },
+    {
+      "english": "Embrace the possibilities, ahead.",
+      "Arabic": "احتضن الاحتمالات، أمامك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289460"
+    },
+    {
+      "english": "Your courage, shines brightly.",
+      "Arabic": "شجاعتك، تشرق ببراعة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289461"
+    },
+    {
+      "english": "Let hope bloom, in your heart.",
+      "Arabic": "دع الأمل يزهر، في قلبك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289461"
+    },
+    {
+      "english": "The light within, will guide you.",
+      "Arabic": "النور بداخلك، سيرشدك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289462"
+    },
+    {
+      "english": "Be patient, with your progress.",
+      "Arabic": "كن صبوراً، مع تقدمك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289463"
+    },
+    {
+      "english": "Find wonder, in the everyday.",
+      "Arabic": "ابحث عن العجب، في كل يوم.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289463"
+    },
+    {
+      "english": "A positive mind, creates reality.",
+      "Arabic": "العقل الإيجابي، يخلق الواقع.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289464"
+    },
+    {
+      "english": "Let gratitude, fill your days.",
+      "Arabic": "دع الامتنان، يملأ أيامك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289464"
+    },
+    {
+      "english": "Keep the faith, alive.",
+      "Arabic": "حافظ على الإيمان، حياً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289465"
+    },
+    {
+      "english": "Hope is a powerful anchor.",
+      "Arabic": "الأمل مرساة، قوية.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289465"
+    },
+    {
+      "english": "Believe in your dreams, big or small.",
+      "Arabic": "آمن بأحلامك، كبيرة كانت أم صغيرة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289466"
+    },
+    {
+      "english": "Tomorrow is, a fresh beginning.",
+      "Arabic": "الغد بداية، جديدة تماماً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289466"
+    },
+    {
+      "english": "Keep pushing forward, never stop.",
+      "Arabic": "استمر في التقدم، لا تتوقف أبداً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289467"
+    },
+    {
+      "english": "Good things, take time to grow.",
+      "Arabic": "الأشياء الجيدة، تحتاج وقتاً لتنمو.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289467"
+    },
+    {
+      "english": "Your strength, is in your spirit.",
+      "Arabic": "قوتك، تكمن في روحك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289468"
+    },
+    {
+      "english": "Hope is the light, in darkness.",
+      "Arabic": "الأمل هو النور، في الظلام.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289468"
+    },
+    {
+      "english": "Let your heart, stay open.",
+      "Arabic": "اجعل قلبك، يبقى مفتوحاً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289469"
+    },
+    {
+      "english": "The future is, bright for you.",
+      "Arabic": "المستقبل مشرق، لك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289469"
+    },
+    {
+      "english": "Hold onto hope, tightly.",
+      "Arabic": "تمسك بالأمل، بقوة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289470"
+    },
+    {
+      "english": "Keep your faith, strong.",
+      "Arabic": "حافظ على إيمانك، قوياً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289470"
+    },
+    {
+      "english": "Every challenge, makes you stronger.",
+      "Arabic": "كل تحدٍ، يجعلك أقوى.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289471"
+    },
+    {
+      "english": "Look for the good, always.",
+      "Arabic": "ابحث عن الخير، دائماً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289471"
+    },
+    {
+      "english": "Your spirit, can fly high.",
+      "Arabic": "روحك، يمكنها الطيران عالياً.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289472"
+    },
+    {
+      "english": "Hope is a gentle breeze.",
+      "Arabic": "الأمل نسمة، لطيفة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289472"
+    },
+    {
+      "english": "Believe in the magic, of the moment.",
+      "Arabic": "آمن بسحر، اللحظة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289473"
+    },
+    {
+      "english": "You are growing, every single day.",
+      "Arabic": "أنت تنمو، كل يوم.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289473"
+    },
+    {
+      "english": "Let kindness, lead your way.",
+      "Arabic": "دع اللطف، يقود طريقك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289474"
+    },
+    {
+      "english": "The dawn always, follows the night.",
+      "Arabic": "الفجر دائماً، يتبع الليل.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289474"
+    },
+    {
+      "english": "Keep a smile, on your face.",
+      "Arabic": "حافظ على ابتسامة، على وجهك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289475"
+    },
+    {
+      "english": "Your journey, is unfolding beautifully.",
+      "Arabic": "رحلتك، تتكشف بجمال.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289475"
+    },
+    {
+      "english": "Seek joy, in the simple things.",
+      "Arabic": "ابحث عن الفرح، في الأشياء البسيطة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289476"
+    },
+    {
+      "english": "Brighter days, are coming.",
+      "Arabic": "أيام مشرقة، قادمة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289476"
+    },
+    {
+      "english": "Embrace the possibilities, ahead.",
+      "Arabic": "احتضن الاحتمالات، أمامك.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289477"
+    },
+    {
+      "english": "Your courage, shines brightly.",
+      "Arabic": "شجاعتك، تشرق ببراعة.",
+      "category": "Hope",
+      "generated_at": "2026-10-06T07:13:22.289477"
     }
   ],
-  "last_updated": "2026-10-05T06:35:27.633238"
+  "last_updated": "2026-10-06T07:13:22.289478"
 }
