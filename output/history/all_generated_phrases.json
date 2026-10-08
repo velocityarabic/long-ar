@@ -57599,7 +57599,727 @@
       "Arabic": "فكّر بكبر، ابدأ الآن.",
       "category": "Creativity",
       "generated_at": "2026-10-07T06:53:17.085275"
+    },
+    {
+      "english": "Slow down, breathe deep.",
+      "Arabic": "تمهل, خذ نفساً عميقاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364890"
+    },
+    {
+      "english": "Just be, here now.",
+      "Arabic": "فقط كن, هنا الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364900"
+    },
+    {
+      "english": "Feel your, feet grounded.",
+      "Arabic": "اشعر بقدميك, على الأرض.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364902"
+    },
+    {
+      "english": "Notice small, joys.",
+      "Arabic": "لاحظ الأفراح, الصغيرة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364904"
+    },
+    {
+      "english": "Let go, of worries.",
+      "Arabic": "دع القلق, يذهب.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364905"
+    },
+    {
+      "english": "Accept what, is.",
+      "Arabic": "تقبل ما, هو كائن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364906"
+    },
+    {
+      "english": "Your thoughts, pass by.",
+      "Arabic": "أفكارك, تمر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364907"
+    },
+    {
+      "english": "Observe, without judgment.",
+      "Arabic": "راقب, بدون حكم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364910"
+    },
+    {
+      "english": "Find peace, within.",
+      "Arabic": "ابحث عن السلام, بالداخل.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364912"
+    },
+    {
+      "english": "Release tension, gently.",
+      "Arabic": "حرر التوتر, برفق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364913"
+    },
+    {
+      "english": "Connect with, nature.",
+      "Arabic": "تواصل مع, الطبيعة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364915"
+    },
+    {
+      "english": "Present moment, awareness.",
+      "Arabic": "لحظة الحاضر, وعي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364916"
+    },
+    {
+      "english": "Let thoughts, drift away.",
+      "Arabic": "دع الأفكار, تبتعد.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364917"
+    },
+    {
+      "english": "Ground yourself, deeply.",
+      "Arabic": "ثبت نفسك, بعمق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364918"
+    },
+    {
+      "english": "Feel the, air moving.",
+      "Arabic": "اشعر بالهواء, يتحرك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364920"
+    },
+    {
+      "english": "Gratitude, for today.",
+      "Arabic": "امتنان, لهذا اليوم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364921"
+    },
+    {
+      "english": "Soften your, gaze.",
+      "Arabic": "لين نظرك, قليلاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364922"
+    },
+    {
+      "english": "Find stillness, inside.",
+      "Arabic": "جد السكون, بالداخل.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364923"
+    },
+    {
+      "english": "Let sounds, wash over.",
+      "Arabic": "دع الأصوات, تغمرك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364924"
+    },
+    {
+      "english": "Mindful, eating now.",
+      "Arabic": "أكل بوعي, الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364925"
+    },
+    {
+      "english": "Feel the, water flow.",
+      "Arabic": "اشعر بالماء, يتدفق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364926"
+    },
+    {
+      "english": "Simple, presence, matters.",
+      "Arabic": "الوجود البسيط, مهم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364927"
+    },
+    {
+      "english": "Release what, doesn't serve.",
+      "Arabic": "اترك ما, لا يفيدك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364928"
+    },
+    {
+      "english": "Savor this, quiet.",
+      "Arabic": "استمتع بهذا, الهدوء.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364929"
+    },
+    {
+      "english": "Just observe, the clouds.",
+      "Arabic": "فقط راقب, الغيوم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364930"
+    },
+    {
+      "english": "Open your, senses.",
+      "Arabic": "افتح حواسك, الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364931"
+    },
+    {
+      "english": "Be present, completely.",
+      "Arabic": "كن حاضراً, تماماً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364932"
+    },
+    {
+      "english": "Gentle, self-compassion.",
+      "Arabic": "رحمة ذاتية, لطيفة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364933"
+    },
+    {
+      "english": "Notice the, silence.",
+      "Arabic": "لاحظ الصمت, الجميل.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364934"
+    },
+    {
+      "english": "Embrace the, present.",
+      "Arabic": "احتضن, الحاضر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364935"
+    },
+    {
+      "english": "Let peace, arise.",
+      "Arabic": "دع السلام, يظهر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364936"
+    },
+    {
+      "english": "This breath, is real.",
+      "Arabic": "هذا النفس, حقيقي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364937"
+    },
+    {
+      "english": "Slow down, breathe deep.",
+      "Arabic": "تمهل, خذ نفساً عميقاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364938"
+    },
+    {
+      "english": "Just be, here now.",
+      "Arabic": "فقط كن, هنا الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364940"
+    },
+    {
+      "english": "Feel your, feet grounded.",
+      "Arabic": "اشعر بقدميك, على الأرض.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364941"
+    },
+    {
+      "english": "Notice small, joys.",
+      "Arabic": "لاحظ الأفراح, الصغيرة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364942"
+    },
+    {
+      "english": "Let go, of worries.",
+      "Arabic": "دع القلق, يذهب.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364943"
+    },
+    {
+      "english": "Accept what, is.",
+      "Arabic": "تقبل ما, هو كائن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364944"
+    },
+    {
+      "english": "Your thoughts, pass by.",
+      "Arabic": "أفكارك, تمر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364946"
+    },
+    {
+      "english": "Observe, without judgment.",
+      "Arabic": "راقب, بدون حكم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364947"
+    },
+    {
+      "english": "Find peace, within.",
+      "Arabic": "ابحث عن السلام, بالداخل.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364948"
+    },
+    {
+      "english": "Release tension, gently.",
+      "Arabic": "حرر التوتر, برفق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364949"
+    },
+    {
+      "english": "Connect with, nature.",
+      "Arabic": "تواصل مع, الطبيعة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364950"
+    },
+    {
+      "english": "Present moment, awareness.",
+      "Arabic": "لحظة الحاضر, وعي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364951"
+    },
+    {
+      "english": "Let thoughts, drift away.",
+      "Arabic": "دع الأفكار, تبتعد.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364952"
+    },
+    {
+      "english": "Ground yourself, deeply.",
+      "Arabic": "ثبت نفسك, بعمق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364954"
+    },
+    {
+      "english": "Feel the, air moving.",
+      "Arabic": "اشعر بالهواء, يتحرك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364955"
+    },
+    {
+      "english": "Gratitude, for today.",
+      "Arabic": "امتنان, لهذا اليوم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364956"
+    },
+    {
+      "english": "Soften your, gaze.",
+      "Arabic": "لين نظرك, قليلاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364957"
+    },
+    {
+      "english": "Find stillness, inside.",
+      "Arabic": "جد السكون, بالداخل.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364958"
+    },
+    {
+      "english": "Let sounds, wash over.",
+      "Arabic": "دع الأصوات, تغمرك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364959"
+    },
+    {
+      "english": "Mindful, eating now.",
+      "Arabic": "أكل بوعي, الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364960"
+    },
+    {
+      "english": "Feel the, water flow.",
+      "Arabic": "اشعر بالماء, يتدفق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364961"
+    },
+    {
+      "english": "Simple, presence, matters.",
+      "Arabic": "الوجود البسيط, مهم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364963"
+    },
+    {
+      "english": "Release what, doesn't serve.",
+      "Arabic": "اترك ما, لا يفيدك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364964"
+    },
+    {
+      "english": "Savor this, quiet.",
+      "Arabic": "استمتع بهذا, الهدوء.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364965"
+    },
+    {
+      "english": "Just observe, the clouds.",
+      "Arabic": "فقط راقب, الغيوم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364966"
+    },
+    {
+      "english": "Open your, senses.",
+      "Arabic": "افتح حواسك, الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364967"
+    },
+    {
+      "english": "Be present, completely.",
+      "Arabic": "كن حاضراً, تماماً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364968"
+    },
+    {
+      "english": "Gentle, self-compassion.",
+      "Arabic": "رحمة ذاتية, لطيفة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364969"
+    },
+    {
+      "english": "Notice the, silence.",
+      "Arabic": "لاحظ الصمت, الجميل.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364970"
+    },
+    {
+      "english": "Embrace the, present.",
+      "Arabic": "احتضن, الحاضر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364971"
+    },
+    {
+      "english": "Let peace, arise.",
+      "Arabic": "دع السلام, يظهر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364972"
+    },
+    {
+      "english": "This breath, is real.",
+      "Arabic": "هذا النفس, حقيقي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364973"
+    },
+    {
+      "english": "Slow down, breathe deep.",
+      "Arabic": "تمهل, خذ نفساً عميقاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364988"
+    },
+    {
+      "english": "Just be, here now.",
+      "Arabic": "فقط كن, هنا الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364989"
+    },
+    {
+      "english": "Feel your, feet grounded.",
+      "Arabic": "اشعر بقدميك, على الأرض.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364991"
+    },
+    {
+      "english": "Notice small, joys.",
+      "Arabic": "لاحظ الأفراح, الصغيرة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364992"
+    },
+    {
+      "english": "Let go, of worries.",
+      "Arabic": "دع القلق, يذهب.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364993"
+    },
+    {
+      "english": "Accept what, is.",
+      "Arabic": "تقبل ما, هو كائن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364994"
+    },
+    {
+      "english": "Your thoughts, pass by.",
+      "Arabic": "أفكارك, تمر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364995"
+    },
+    {
+      "english": "Observe, without judgment.",
+      "Arabic": "راقب, بدون حكم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364996"
+    },
+    {
+      "english": "Find peace, within.",
+      "Arabic": "ابحث عن السلام, بالداخل.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364997"
+    },
+    {
+      "english": "Release tension, gently.",
+      "Arabic": "حرر التوتر, برفق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364998"
+    },
+    {
+      "english": "Connect with, nature.",
+      "Arabic": "تواصل مع, الطبيعة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.364999"
+    },
+    {
+      "english": "Present moment, awareness.",
+      "Arabic": "لحظة الحاضر, وعي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365000"
+    },
+    {
+      "english": "Let thoughts, drift away.",
+      "Arabic": "دع الأفكار, تبتعد.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365001"
+    },
+    {
+      "english": "Ground yourself, deeply.",
+      "Arabic": "ثبت نفسك, بعمق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365002"
+    },
+    {
+      "english": "Feel the, air moving.",
+      "Arabic": "اشعر بالهواء, يتحرك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365003"
+    },
+    {
+      "english": "Gratitude, for today.",
+      "Arabic": "امتنان, لهذا اليوم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365004"
+    },
+    {
+      "english": "Soften your, gaze.",
+      "Arabic": "لين نظرك, قليلاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365006"
+    },
+    {
+      "english": "Find stillness, inside.",
+      "Arabic": "جد السكون, بالداخل.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365007"
+    },
+    {
+      "english": "Let sounds, wash over.",
+      "Arabic": "دع الأصوات, تغمرك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365008"
+    },
+    {
+      "english": "Mindful, eating now.",
+      "Arabic": "أكل بوعي, الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365009"
+    },
+    {
+      "english": "Feel the, water flow.",
+      "Arabic": "اشعر بالماء, يتدفق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365010"
+    },
+    {
+      "english": "Simple, presence, matters.",
+      "Arabic": "الوجود البسيط, مهم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365011"
+    },
+    {
+      "english": "Release what, doesn't serve.",
+      "Arabic": "اترك ما, لا يفيدك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365012"
+    },
+    {
+      "english": "Savor this, quiet.",
+      "Arabic": "استمتع بهذا, الهدوء.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365013"
+    },
+    {
+      "english": "Just observe, the clouds.",
+      "Arabic": "فقط راقب, الغيوم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365014"
+    },
+    {
+      "english": "Open your, senses.",
+      "Arabic": "افتح حواسك, الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365015"
+    },
+    {
+      "english": "Be present, completely.",
+      "Arabic": "كن حاضراً, تماماً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365016"
+    },
+    {
+      "english": "Gentle, self-compassion.",
+      "Arabic": "رحمة ذاتية, لطيفة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365017"
+    },
+    {
+      "english": "Notice the, silence.",
+      "Arabic": "لاحظ الصمت, الجميل.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365019"
+    },
+    {
+      "english": "Embrace the, present.",
+      "Arabic": "احتضن, الحاضر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365020"
+    },
+    {
+      "english": "Let peace, arise.",
+      "Arabic": "دع السلام, يظهر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365021"
+    },
+    {
+      "english": "This breath, is real.",
+      "Arabic": "هذا النفس, حقيقي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365022"
+    },
+    {
+      "english": "Slow down, breathe deep.",
+      "Arabic": "تمهل, خذ نفساً عميقاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365023"
+    },
+    {
+      "english": "Just be, here now.",
+      "Arabic": "فقط كن, هنا الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365024"
+    },
+    {
+      "english": "Feel your, feet grounded.",
+      "Arabic": "اشعر بقدميك, على الأرض.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365025"
+    },
+    {
+      "english": "Notice small, joys.",
+      "Arabic": "لاحظ الأفراح, الصغيرة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365026"
+    },
+    {
+      "english": "Let go, of worries.",
+      "Arabic": "دع القلق, يذهب.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365027"
+    },
+    {
+      "english": "Accept what, is.",
+      "Arabic": "تقبل ما, هو كائن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365028"
+    },
+    {
+      "english": "Your thoughts, pass by.",
+      "Arabic": "أفكارك, تمر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365029"
+    },
+    {
+      "english": "Observe, without judgment.",
+      "Arabic": "راقب, بدون حكم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365030"
+    },
+    {
+      "english": "Find peace, within.",
+      "Arabic": "ابحث عن السلام, بالداخل.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365031"
+    },
+    {
+      "english": "Release tension, gently.",
+      "Arabic": "حرر التوتر, برفق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365032"
+    },
+    {
+      "english": "Connect with, nature.",
+      "Arabic": "تواصل مع, الطبيعة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365034"
+    },
+    {
+      "english": "Present moment, awareness.",
+      "Arabic": "لحظة الحاضر, وعي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365035"
+    },
+    {
+      "english": "Let thoughts, drift away.",
+      "Arabic": "دع الأفكار, تبتعد.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365036"
+    },
+    {
+      "english": "Ground yourself, deeply.",
+      "Arabic": "ثبت نفسك, بعمق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365037"
+    },
+    {
+      "english": "Feel the, air moving.",
+      "Arabic": "اشعر بالهواء, يتحرك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365038"
+    },
+    {
+      "english": "Gratitude, for today.",
+      "Arabic": "امتنان, لهذا اليوم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365039"
+    },
+    {
+      "english": "Soften your, gaze.",
+      "Arabic": "لين نظرك, قليلاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365040"
+    },
+    {
+      "english": "Find stillness, inside.",
+      "Arabic": "جد السكون, بالداخل.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365041"
+    },
+    {
+      "english": "Let sounds, wash over.",
+      "Arabic": "دع الأصوات, تغمرك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365042"
+    },
+    {
+      "english": "Mindful, eating now.",
+      "Arabic": "أكل بوعي, الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365043"
+    },
+    {
+      "english": "Feel the, water flow.",
+      "Arabic": "اشعر بالماء, يتدفق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365044"
+    },
+    {
+      "english": "Simple, presence, matters.",
+      "Arabic": "الوجود البسيط, مهم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365045"
+    },
+    {
+      "english": "Release what, doesn't serve.",
+      "Arabic": "اترك ما, لا يفيدك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365046"
+    },
+    {
+      "english": "Savor this, quiet.",
+      "Arabic": "استمتع بهذا, الهدوء.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T07:01:30.365047"
     }
   ],
-  "last_updated": "2026-10-07T06:53:17.085277"
+  "last_updated": "2026-10-08T07:01:30.365049"
 }
