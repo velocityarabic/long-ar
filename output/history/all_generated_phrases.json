@@ -58319,7 +58319,727 @@
       "Arabic": "استمتع بهذا, الهدوء.",
       "category": "Mindfulness",
       "generated_at": "2026-10-08T07:01:30.365047"
+    },
+    {
+      "english": "Strong roots, bloom anywhere.",
+      "Arabic": "جذور قوية، تزهر في أي مكان.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216411"
+    },
+    {
+      "english": "Face challenges, with grace.",
+      "Arabic": "واجه التحديات، ببراعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216423"
+    },
+    {
+      "english": "You are, capable, of much.",
+      "Arabic": "أنت قادر، على الكثير.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216425"
+    },
+    {
+      "english": "Inner peace, fuels strength.",
+      "Arabic": "السلام الداخلي، يقوي القوة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216426"
+    },
+    {
+      "english": "Boldness, opens doors.",
+      "Arabic": "الجرأة، تفتح الأبواب.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216428"
+    },
+    {
+      "english": "Triumph, awaits your effort.",
+      "Arabic": "النصر، ينتظر جهدك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216430"
+    },
+    {
+      "english": "Overcome, with determination.",
+      "Arabic": "تغلب، بالعزيمة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216431"
+    },
+    {
+      "english": "Let your, light radiate.",
+      "Arabic": "دع نورك، يشع.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216436"
+    },
+    {
+      "english": "Build on, your victories.",
+      "Arabic": "ابنِ على، انتصاراتك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216437"
+    },
+    {
+      "english": "With grit, achieve anything.",
+      "Arabic": "بالعزيمة، حقق كل شيء.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216439"
+    },
+    {
+      "english": "Fearless, you conquer.",
+      "Arabic": "بلا خوف، تنتصر.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216440"
+    },
+    {
+      "english": "Inner fire, burns brightly.",
+      "Arabic": "نار داخلية، تشتعل بقوة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216441"
+    },
+    {
+      "english": "Your strength, is abundant.",
+      "Arabic": "قوتك، وفيرة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216442"
+    },
+    {
+      "english": "Break through, limitations.",
+      "Arabic": "اكسر، القيود.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216444"
+    },
+    {
+      "english": "You are, a force of nature.",
+      "Arabic": "أنت، قوة من الطبيعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216445"
+    },
+    {
+      "english": "Your spirit, soars high.",
+      "Arabic": "روحك، تحلق عالياً.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216446"
+    },
+    {
+      "english": "Embrace growth, with courage.",
+      "Arabic": "احتضن النمو، بالشجاعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216447"
+    },
+    {
+      "english": "Inner power, guides you.",
+      "Arabic": "القوة الداخلية، تهديك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216448"
+    },
+    {
+      "english": "Stand firm, in belief.",
+      "Arabic": "قف ثابتاً، في إيمانك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216449"
+    },
+    {
+      "english": "Conquer, with a strong heart.",
+      "Arabic": "انتصر، بقلب قوي.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216450"
+    },
+    {
+      "english": "You are, inherently strong.",
+      "Arabic": "أنت، قوي بطبيعتك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216451"
+    },
+    {
+      "english": "Strong roots, bloom anywhere.",
+      "Arabic": "جذور قوية، تزهر في أي مكان.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216453"
+    },
+    {
+      "english": "Face challenges, with grace.",
+      "Arabic": "واجه التحديات، ببراعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216454"
+    },
+    {
+      "english": "You are, capable, of much.",
+      "Arabic": "أنت قادر، على الكثير.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216455"
+    },
+    {
+      "english": "Inner peace, fuels strength.",
+      "Arabic": "السلام الداخلي، يقوي القوة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216457"
+    },
+    {
+      "english": "Boldness, opens doors.",
+      "Arabic": "الجرأة، تفتح الأبواب.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216458"
+    },
+    {
+      "english": "Triumph, awaits your effort.",
+      "Arabic": "النصر، ينتظر جهدك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216459"
+    },
+    {
+      "english": "Overcome, with determination.",
+      "Arabic": "تغلب، بالعزيمة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216460"
+    },
+    {
+      "english": "Let your, light radiate.",
+      "Arabic": "دع نورك، يشع.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216462"
+    },
+    {
+      "english": "Build on, your victories.",
+      "Arabic": "ابنِ على، انتصاراتك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216463"
+    },
+    {
+      "english": "With grit, achieve anything.",
+      "Arabic": "بالعزيمة، حقق كل شيء.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216464"
+    },
+    {
+      "english": "Fearless, you conquer.",
+      "Arabic": "بلا خوف، تنتصر.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216465"
+    },
+    {
+      "english": "Inner fire, burns brightly.",
+      "Arabic": "نار داخلية، تشتعل بقوة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216466"
+    },
+    {
+      "english": "Your strength, is abundant.",
+      "Arabic": "قوتك، وفيرة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216467"
+    },
+    {
+      "english": "Break through, limitations.",
+      "Arabic": "اكسر، القيود.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216469"
+    },
+    {
+      "english": "You are, a force of nature.",
+      "Arabic": "أنت، قوة من الطبيعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216470"
+    },
+    {
+      "english": "Your spirit, soars high.",
+      "Arabic": "روحك، تحلق عالياً.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216471"
+    },
+    {
+      "english": "Embrace growth, with courage.",
+      "Arabic": "احتضن النمو، بالشجاعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216472"
+    },
+    {
+      "english": "Inner power, guides you.",
+      "Arabic": "القوة الداخلية، تهديك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216473"
+    },
+    {
+      "english": "Stand firm, in belief.",
+      "Arabic": "قف ثابتاً، في إيمانك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216474"
+    },
+    {
+      "english": "Conquer, with a strong heart.",
+      "Arabic": "انتصر، بقلب قوي.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216475"
+    },
+    {
+      "english": "You are, inherently strong.",
+      "Arabic": "أنت، قوي بطبيعتك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216476"
+    },
+    {
+      "english": "Strong roots, bloom anywhere.",
+      "Arabic": "جذور قوية، تزهر في أي مكان.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216478"
+    },
+    {
+      "english": "Face challenges, with grace.",
+      "Arabic": "واجه التحديات، ببراعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216479"
+    },
+    {
+      "english": "You are, capable, of much.",
+      "Arabic": "أنت قادر، على الكثير.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216480"
+    },
+    {
+      "english": "Inner peace, fuels strength.",
+      "Arabic": "السلام الداخلي، يقوي القوة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216482"
+    },
+    {
+      "english": "Boldness, opens doors.",
+      "Arabic": "الجرأة، تفتح الأبواب.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216483"
+    },
+    {
+      "english": "Triumph, awaits your effort.",
+      "Arabic": "النصر، ينتظر جهدك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216484"
+    },
+    {
+      "english": "Overcome, with determination.",
+      "Arabic": "تغلب، بالعزيمة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216486"
+    },
+    {
+      "english": "Let your, light radiate.",
+      "Arabic": "دع نورك، يشع.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216487"
+    },
+    {
+      "english": "Build on, your victories.",
+      "Arabic": "ابنِ على، انتصاراتك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216488"
+    },
+    {
+      "english": "With grit, achieve anything.",
+      "Arabic": "بالعزيمة، حقق كل شيء.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216489"
+    },
+    {
+      "english": "Fearless, you conquer.",
+      "Arabic": "بلا خوف، تنتصر.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216490"
+    },
+    {
+      "english": "Inner fire, burns brightly.",
+      "Arabic": "نار داخلية، تشتعل بقوة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216491"
+    },
+    {
+      "english": "Your strength, is abundant.",
+      "Arabic": "قوتك، وفيرة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216493"
+    },
+    {
+      "english": "Break through, limitations.",
+      "Arabic": "اكسر، القيود.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216494"
+    },
+    {
+      "english": "You are, a force of nature.",
+      "Arabic": "أنت، قوة من الطبيعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216495"
+    },
+    {
+      "english": "Your spirit, soars high.",
+      "Arabic": "روحك، تحلق عالياً.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216496"
+    },
+    {
+      "english": "Embrace growth, with courage.",
+      "Arabic": "احتضن النمو، بالشجاعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216497"
+    },
+    {
+      "english": "Inner power, guides you.",
+      "Arabic": "القوة الداخلية، تهديك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216498"
+    },
+    {
+      "english": "Stand firm, in belief.",
+      "Arabic": "قف ثابتاً، في إيمانك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216500"
+    },
+    {
+      "english": "Conquer, with a strong heart.",
+      "Arabic": "انتصر، بقلب قوي.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216501"
+    },
+    {
+      "english": "You are, inherently strong.",
+      "Arabic": "أنت، قوي بطبيعتك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216502"
+    },
+    {
+      "english": "Strong roots, bloom anywhere.",
+      "Arabic": "جذور قوية، تزهر في أي مكان.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216503"
+    },
+    {
+      "english": "Face challenges, with grace.",
+      "Arabic": "واجه التحديات، ببراعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216504"
+    },
+    {
+      "english": "You are, capable, of much.",
+      "Arabic": "أنت قادر، على الكثير.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216506"
+    },
+    {
+      "english": "Inner peace, fuels strength.",
+      "Arabic": "السلام الداخلي، يقوي القوة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216507"
+    },
+    {
+      "english": "Boldness, opens doors.",
+      "Arabic": "الجرأة، تفتح الأبواب.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216509"
+    },
+    {
+      "english": "Triumph, awaits your effort.",
+      "Arabic": "النصر، ينتظر جهدك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216510"
+    },
+    {
+      "english": "Overcome, with determination.",
+      "Arabic": "تغلب، بالعزيمة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216511"
+    },
+    {
+      "english": "Let your, light radiate.",
+      "Arabic": "دع نورك، يشع.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216512"
+    },
+    {
+      "english": "Build on, your victories.",
+      "Arabic": "ابنِ على، انتصاراتك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216513"
+    },
+    {
+      "english": "With grit, achieve anything.",
+      "Arabic": "بالعزيمة، حقق كل شيء.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216514"
+    },
+    {
+      "english": "Fearless, you conquer.",
+      "Arabic": "بلا خوف، تنتصر.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216516"
+    },
+    {
+      "english": "Inner fire, burns brightly.",
+      "Arabic": "نار داخلية، تشتعل بقوة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216517"
+    },
+    {
+      "english": "Your strength, is abundant.",
+      "Arabic": "قوتك، وفيرة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216518"
+    },
+    {
+      "english": "Break through, limitations.",
+      "Arabic": "اكسر، القيود.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216519"
+    },
+    {
+      "english": "You are, a force of nature.",
+      "Arabic": "أنت، قوة من الطبيعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216520"
+    },
+    {
+      "english": "Your spirit, soars high.",
+      "Arabic": "روحك، تحلق عالياً.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216521"
+    },
+    {
+      "english": "Embrace growth, with courage.",
+      "Arabic": "احتضن النمو، بالشجاعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216523"
+    },
+    {
+      "english": "Inner power, guides you.",
+      "Arabic": "القوة الداخلية، تهديك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216524"
+    },
+    {
+      "english": "Stand firm, in belief.",
+      "Arabic": "قف ثابتاً، في إيمانك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216525"
+    },
+    {
+      "english": "Conquer, with a strong heart.",
+      "Arabic": "انتصر، بقلب قوي.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216526"
+    },
+    {
+      "english": "You are, inherently strong.",
+      "Arabic": "أنت، قوي بطبيعتك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216527"
+    },
+    {
+      "english": "Strong roots, bloom anywhere.",
+      "Arabic": "جذور قوية، تزهر في أي مكان.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216528"
+    },
+    {
+      "english": "Face challenges, with grace.",
+      "Arabic": "واجه التحديات، ببراعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216530"
+    },
+    {
+      "english": "You are, capable, of much.",
+      "Arabic": "أنت قادر، على الكثير.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216531"
+    },
+    {
+      "english": "Inner peace, fuels strength.",
+      "Arabic": "السلام الداخلي، يقوي القوة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216532"
+    },
+    {
+      "english": "Boldness, opens doors.",
+      "Arabic": "الجرأة، تفتح الأبواب.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216533"
+    },
+    {
+      "english": "Triumph, awaits your effort.",
+      "Arabic": "النصر، ينتظر جهدك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216534"
+    },
+    {
+      "english": "Overcome, with determination.",
+      "Arabic": "تغلب، بالعزيمة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216536"
+    },
+    {
+      "english": "Let your, light radiate.",
+      "Arabic": "دع نورك، يشع.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216537"
+    },
+    {
+      "english": "Build on, your victories.",
+      "Arabic": "ابنِ على، انتصاراتك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216538"
+    },
+    {
+      "english": "With grit, achieve anything.",
+      "Arabic": "بالعزيمة، حقق كل شيء.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216540"
+    },
+    {
+      "english": "Fearless, you conquer.",
+      "Arabic": "بلا خوف، تنتصر.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216541"
+    },
+    {
+      "english": "Inner fire, burns brightly.",
+      "Arabic": "نار داخلية، تشتعل بقوة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216542"
+    },
+    {
+      "english": "Your strength, is abundant.",
+      "Arabic": "قوتك، وفيرة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216543"
+    },
+    {
+      "english": "Break through, limitations.",
+      "Arabic": "اكسر، القيود.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216544"
+    },
+    {
+      "english": "You are, a force of nature.",
+      "Arabic": "أنت، قوة من الطبيعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216546"
+    },
+    {
+      "english": "Your spirit, soars high.",
+      "Arabic": "روحك، تحلق عالياً.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216547"
+    },
+    {
+      "english": "Embrace growth, with courage.",
+      "Arabic": "احتضن النمو، بالشجاعة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216548"
+    },
+    {
+      "english": "Inner power, guides you.",
+      "Arabic": "القوة الداخلية، تهديك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216549"
+    },
+    {
+      "english": "Stand firm, in belief.",
+      "Arabic": "قف ثابتاً، في إيمانك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216550"
+    },
+    {
+      "english": "Conquer, with a strong heart.",
+      "Arabic": "انتصر، بقلب قوي.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216551"
+    },
+    {
+      "english": "You are, inherently strong.",
+      "Arabic": "أنت، قوي بطبيعتك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216552"
+    },
+    {
+      "english": "Your resilience, shines bright.",
+      "Arabic": "صمودك، يلمع بقوة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216554"
+    },
+    {
+      "english": "Triumph awaits, your effort.",
+      "Arabic": "النصر ينتظر، جهدك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216555"
+    },
+    {
+      "english": "Conquer your, limitations.",
+      "Arabic": "تغلب على، حدودك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216557"
+    },
+    {
+      "english": "Build yourself, up daily.",
+      "Arabic": "ابنِ نفسك، يوميًا.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216558"
+    },
+    {
+      "english": "Overcome doubts, with action.",
+      "Arabic": "تغلب على الشكوك، بالفعل.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216559"
+    },
+    {
+      "english": "Inner peace, fuels your fight.",
+      "Arabic": "السلام الداخلي، يغذي صراعك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216560"
+    },
+    {
+      "english": "Never give, up your dreams.",
+      "Arabic": "لا تستسلم، أبدًا عن أحلامك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216561"
+    },
+    {
+      "english": "Rise above, all obstacles.",
+      "Arabic": "تغلب على، كل العقبات.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216562"
+    },
+    {
+      "english": "Your willpower, is immense.",
+      "Arabic": "قوة إرادتك، عظيمة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216564"
+    },
+    {
+      "english": "Embrace the, struggle, grow.",
+      "Arabic": "احتضن الصراع، لتنمو.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216565"
+    },
+    {
+      "english": "You have, the power to change.",
+      "Arabic": "لديك، القوة للتغيير.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216566"
+    },
+    {
+      "english": "Stand firm, in your truth.",
+      "Arabic": "قف بثبات، في حقيقتك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216567"
+    },
+    {
+      "english": "Tackle problems, with smarts.",
+      "Arabic": "عالج المشاكل، بذكاء.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216568"
+    },
+    {
+      "english": "Your resilience, shines bright.",
+      "Arabic": "صمودك، يلمع بقوة.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216570"
+    },
+    {
+      "english": "Triumph awaits, your effort.",
+      "Arabic": "النصر ينتظر، جهدك.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T07:09:58.216571"
     }
   ],
-  "last_updated": "2026-10-08T07:01:30.365049"
+  "last_updated": "2026-10-09T07:09:58.216573"
 }
