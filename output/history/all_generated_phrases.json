@@ -59039,7 +59039,727 @@
       "Arabic": "النصر ينتظر، جهدك.",
       "category": "Strength",
       "generated_at": "2026-10-09T07:09:58.216571"
+    },
+    {
+      "english": "I'm so grateful, for you.",
+      "Arabic": "أنا ممتن, جداً لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438645"
+    },
+    {
+      "english": "Your help, means a lot.",
+      "Arabic": "مساعدتك, تعني الكثير.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438655"
+    },
+    {
+      "english": "I appreciate, your kindness.",
+      "Arabic": "أقدر, لطفك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438657"
+    },
+    {
+      "english": "You're a lifesaver, really.",
+      "Arabic": "أنت منقذ, حقاً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438658"
+    },
+    {
+      "english": "This is, wonderful, thank you.",
+      "Arabic": "هذا, رائع, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438660"
+    },
+    {
+      "english": "Blessings, on you.",
+      "Arabic": "بركات, عليك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438661"
+    },
+    {
+      "english": "You made my, day.",
+      "Arabic": "لقد جعلت, يومي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438662"
+    },
+    {
+      "english": "I'm truly, thankful.",
+      "Arabic": "أنا حقاً, ممتن.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438666"
+    },
+    {
+      "english": "Grateful, for your support.",
+      "Arabic": "ممتن, لدعمك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438667"
+    },
+    {
+      "english": "Such a, great deed.",
+      "Arabic": "عمل, عظيم جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438669"
+    },
+    {
+      "english": "Thank you, very much.",
+      "Arabic": "شكراً, جزيلاً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438670"
+    },
+    {
+      "english": "I owe, you one.",
+      "Arabic": "أنا مدين, لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438671"
+    },
+    {
+      "english": "This is, perfect, thank you.",
+      "Arabic": "هذا, مثالي, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438672"
+    },
+    {
+      "english": "Thanks for, the thought.",
+      "Arabic": "شكراً, على الاهتمام.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438675"
+    },
+    {
+      "english": "You're amazing, thank you.",
+      "Arabic": "أنت مدهش, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438677"
+    },
+    {
+      "english": "I couldn't, do it without you.",
+      "Arabic": "لم أستطع, فعلها بدونك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438678"
+    },
+    {
+      "english": "So thankful, for this.",
+      "Arabic": "ممتن جداً, لهذا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438679"
+    },
+    {
+      "english": "A true, blessing.",
+      "Arabic": "نعمة, حقيقية.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438681"
+    },
+    {
+      "english": "This is, so thoughtful.",
+      "Arabic": "هذا, مدروس جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438683"
+    },
+    {
+      "english": "I'm indebted, to you.",
+      "Arabic": "أنا مدين, لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438684"
+    },
+    {
+      "english": "What a, generous act.",
+      "Arabic": "يا له, من عمل كريم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438686"
+    },
+    {
+      "english": "Thank you, my friend.",
+      "Arabic": "شكراً, يا صديقي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438687"
+    },
+    {
+      "english": "This means, the world.",
+      "Arabic": "هذا يعني, العالم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438688"
+    },
+    {
+      "english": "I'm so, appreciative.",
+      "Arabic": "أنا, مقدر جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438690"
+    },
+    {
+      "english": "You're the best, thank you.",
+      "Arabic": "أنت الأفضل, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438691"
+    },
+    {
+      "english": "A moment, of thanks.",
+      "Arabic": "لحظة, شكر.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438692"
+    },
+    {
+      "english": "Feeling very, grateful.",
+      "Arabic": "أشعر بالامتنان, الشديد.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438693"
+    },
+    {
+      "english": "Many thanks, to you.",
+      "Arabic": "شكر, كثير لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438694"
+    },
+    {
+      "english": "This is, a true gift.",
+      "Arabic": "هذه, هدية حقيقية.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438695"
+    },
+    {
+      "english": "I appreciate, your effort.",
+      "Arabic": "أقدر, جهدك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438696"
+    },
+    {
+      "english": "You've been, so helpful.",
+      "Arabic": "لقد كنت, مفيداً جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438697"
+    },
+    {
+      "english": "Thanks for, being there.",
+      "Arabic": "شكراً, لوجودك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438698"
+    },
+    {
+      "english": "My thanks, are endless.",
+      "Arabic": "شكري, لا ينتهي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438699"
+    },
+    {
+      "english": "This is, beyond kind.",
+      "Arabic": "هذا, ألطف من, اللازم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438700"
+    },
+    {
+      "english": "I'm so grateful, for you.",
+      "Arabic": "أنا ممتن, جداً لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438702"
+    },
+    {
+      "english": "Your help, means a lot.",
+      "Arabic": "مساعدتك, تعني الكثير.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438703"
+    },
+    {
+      "english": "I appreciate, your kindness.",
+      "Arabic": "أقدر, لطفك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438704"
+    },
+    {
+      "english": "You're a lifesaver, really.",
+      "Arabic": "أنت منقذ, حقاً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438705"
+    },
+    {
+      "english": "This is, wonderful, thank you.",
+      "Arabic": "هذا, رائع, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438706"
+    },
+    {
+      "english": "Blessings, on you.",
+      "Arabic": "بركات, عليك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438707"
+    },
+    {
+      "english": "You made my, day.",
+      "Arabic": "لقد جعلت, يومي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438708"
+    },
+    {
+      "english": "I'm truly, thankful.",
+      "Arabic": "أنا حقاً, ممتن.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438709"
+    },
+    {
+      "english": "Grateful, for your support.",
+      "Arabic": "ممتن, لدعمك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438711"
+    },
+    {
+      "english": "Such a, great deed.",
+      "Arabic": "عمل, عظيم جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438712"
+    },
+    {
+      "english": "Thank you, very much.",
+      "Arabic": "شكراً, جزيلاً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438713"
+    },
+    {
+      "english": "I owe, you one.",
+      "Arabic": "أنا مدين, لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438714"
+    },
+    {
+      "english": "This is, perfect, thank you.",
+      "Arabic": "هذا, مثالي, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438715"
+    },
+    {
+      "english": "Thanks for, the thought.",
+      "Arabic": "شكراً, على الاهتمام.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438716"
+    },
+    {
+      "english": "You're amazing, thank you.",
+      "Arabic": "أنت مدهش, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438717"
+    },
+    {
+      "english": "I couldn't, do it without you.",
+      "Arabic": "لم أستطع, فعلها بدونك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438718"
+    },
+    {
+      "english": "So thankful, for this.",
+      "Arabic": "ممتن جداً, لهذا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438719"
+    },
+    {
+      "english": "A true, blessing.",
+      "Arabic": "نعمة, حقيقية.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438721"
+    },
+    {
+      "english": "This is, so thoughtful.",
+      "Arabic": "هذا, مدروس جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438722"
+    },
+    {
+      "english": "I'm indebted, to you.",
+      "Arabic": "أنا مدين, لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438724"
+    },
+    {
+      "english": "What a, generous act.",
+      "Arabic": "يا له, من عمل كريم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438725"
+    },
+    {
+      "english": "Thank you, my friend.",
+      "Arabic": "شكراً, يا صديقي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438726"
+    },
+    {
+      "english": "This means, the world.",
+      "Arabic": "هذا يعني, العالم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438727"
+    },
+    {
+      "english": "I'm so, appreciative.",
+      "Arabic": "أنا, مقدر جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438728"
+    },
+    {
+      "english": "You're the best, thank you.",
+      "Arabic": "أنت الأفضل, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438729"
+    },
+    {
+      "english": "A moment, of thanks.",
+      "Arabic": "لحظة, شكر.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438730"
+    },
+    {
+      "english": "Feeling very, grateful.",
+      "Arabic": "أشعر بالامتنان, الشديد.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438731"
+    },
+    {
+      "english": "Many thanks, to you.",
+      "Arabic": "شكر, كثير لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438732"
+    },
+    {
+      "english": "This is, a true gift.",
+      "Arabic": "هذه, هدية حقيقية.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438733"
+    },
+    {
+      "english": "I appreciate, your effort.",
+      "Arabic": "أقدر, جهدك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438734"
+    },
+    {
+      "english": "You've been, so helpful.",
+      "Arabic": "لقد كنت, مفيداً جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438736"
+    },
+    {
+      "english": "Thanks for, being there.",
+      "Arabic": "شكراً, لوجودك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438737"
+    },
+    {
+      "english": "My thanks, are endless.",
+      "Arabic": "شكري, لا ينتهي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438738"
+    },
+    {
+      "english": "This is, beyond kind.",
+      "Arabic": "هذا, ألطف من, اللازم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438739"
+    },
+    {
+      "english": "I'm so grateful, for you.",
+      "Arabic": "أنا ممتن, جداً لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438740"
+    },
+    {
+      "english": "Your help, means a lot.",
+      "Arabic": "مساعدتك, تعني الكثير.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438741"
+    },
+    {
+      "english": "I appreciate, your kindness.",
+      "Arabic": "أقدر, لطفك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438742"
+    },
+    {
+      "english": "You're a lifesaver, really.",
+      "Arabic": "أنت منقذ, حقاً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438743"
+    },
+    {
+      "english": "This is, wonderful, thank you.",
+      "Arabic": "هذا, رائع, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438745"
+    },
+    {
+      "english": "Blessings, on you.",
+      "Arabic": "بركات, عليك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438746"
+    },
+    {
+      "english": "You made my, day.",
+      "Arabic": "لقد جعلت, يومي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438747"
+    },
+    {
+      "english": "I'm truly, thankful.",
+      "Arabic": "أنا حقاً, ممتن.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438748"
+    },
+    {
+      "english": "Grateful, for your support.",
+      "Arabic": "ممتن, لدعمك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438749"
+    },
+    {
+      "english": "Such a, great deed.",
+      "Arabic": "عمل, عظيم جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438750"
+    },
+    {
+      "english": "Thank you, very much.",
+      "Arabic": "شكراً, جزيلاً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438751"
+    },
+    {
+      "english": "I owe, you one.",
+      "Arabic": "أنا مدين, لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438752"
+    },
+    {
+      "english": "This is, perfect, thank you.",
+      "Arabic": "هذا, مثالي, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438753"
+    },
+    {
+      "english": "Thanks for, the thought.",
+      "Arabic": "شكراً, على الاهتمام.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438754"
+    },
+    {
+      "english": "You're amazing, thank you.",
+      "Arabic": "أنت مدهش, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438755"
+    },
+    {
+      "english": "I couldn't, do it without you.",
+      "Arabic": "لم أستطع, فعلها بدونك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438757"
+    },
+    {
+      "english": "So thankful, for this.",
+      "Arabic": "ممتن جداً, لهذا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438758"
+    },
+    {
+      "english": "A true, blessing.",
+      "Arabic": "نعمة, حقيقية.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438759"
+    },
+    {
+      "english": "This is, so thoughtful.",
+      "Arabic": "هذا, مدروس جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438760"
+    },
+    {
+      "english": "I'm indebted, to you.",
+      "Arabic": "أنا مدين, لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438761"
+    },
+    {
+      "english": "What a, generous act.",
+      "Arabic": "يا له, من عمل كريم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438762"
+    },
+    {
+      "english": "Thank you, my friend.",
+      "Arabic": "شكراً, يا صديقي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438763"
+    },
+    {
+      "english": "This means, the world.",
+      "Arabic": "هذا يعني, العالم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438764"
+    },
+    {
+      "english": "I'm so, appreciative.",
+      "Arabic": "أنا, مقدر جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438765"
+    },
+    {
+      "english": "You're the best, thank you.",
+      "Arabic": "أنت الأفضل, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438766"
+    },
+    {
+      "english": "A moment, of thanks.",
+      "Arabic": "لحظة, شكر.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438767"
+    },
+    {
+      "english": "Feeling very, grateful.",
+      "Arabic": "أشعر بالامتنان, الشديد.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438768"
+    },
+    {
+      "english": "Many thanks, to you.",
+      "Arabic": "شكر, كثير لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438769"
+    },
+    {
+      "english": "This is, a true gift.",
+      "Arabic": "هذه, هدية حقيقية.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438770"
+    },
+    {
+      "english": "I appreciate, your effort.",
+      "Arabic": "أقدر, جهدك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438771"
+    },
+    {
+      "english": "You've been, so helpful.",
+      "Arabic": "لقد كنت, مفيداً جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438772"
+    },
+    {
+      "english": "Thanks for, being there.",
+      "Arabic": "شكراً, لوجودك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438773"
+    },
+    {
+      "english": "My thanks, are endless.",
+      "Arabic": "شكري, لا ينتهي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438774"
+    },
+    {
+      "english": "This is, beyond kind.",
+      "Arabic": "هذا, ألطف من, اللازم.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438775"
+    },
+    {
+      "english": "I'm so grateful, for you.",
+      "Arabic": "أنا ممتن, جداً لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438776"
+    },
+    {
+      "english": "Your help, means a lot.",
+      "Arabic": "مساعدتك, تعني الكثير.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438777"
+    },
+    {
+      "english": "I appreciate, your kindness.",
+      "Arabic": "أقدر, لطفك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438778"
+    },
+    {
+      "english": "You're a lifesaver, really.",
+      "Arabic": "أنت منقذ, حقاً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438779"
+    },
+    {
+      "english": "This is, wonderful, thank you.",
+      "Arabic": "هذا, رائع, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438781"
+    },
+    {
+      "english": "Blessings, on you.",
+      "Arabic": "بركات, عليك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438782"
+    },
+    {
+      "english": "You made my, day.",
+      "Arabic": "لقد جعلت, يومي.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438783"
+    },
+    {
+      "english": "I'm truly, thankful.",
+      "Arabic": "أنا حقاً, ممتن.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438784"
+    },
+    {
+      "english": "Grateful, for your support.",
+      "Arabic": "ممتن, لدعمك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438785"
+    },
+    {
+      "english": "Such a, great deed.",
+      "Arabic": "عمل, عظيم جداً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438786"
+    },
+    {
+      "english": "Thank you, very much.",
+      "Arabic": "شكراً, جزيلاً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438787"
+    },
+    {
+      "english": "I owe, you one.",
+      "Arabic": "أنا مدين, لك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438788"
+    },
+    {
+      "english": "This is, perfect, thank you.",
+      "Arabic": "هذا, مثالي, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438789"
+    },
+    {
+      "english": "Thanks for, the thought.",
+      "Arabic": "شكراً, على الاهتمام.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438790"
+    },
+    {
+      "english": "You're amazing, thank you.",
+      "Arabic": "أنت مدهش, شكراً.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438791"
+    },
+    {
+      "english": "I couldn't, do it without you.",
+      "Arabic": "لم أستطع, فعلها بدونك.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438792"
+    },
+    {
+      "english": "So thankful, for this.",
+      "Arabic": "ممتن جداً, لهذا.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438793"
+    },
+    {
+      "english": "A true, blessing.",
+      "Arabic": "نعمة, حقيقية.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-10T06:43:13.438794"
     }
   ],
-  "last_updated": "2026-10-09T07:09:58.216573"
+  "last_updated": "2026-10-10T06:43:13.438796"
 }
