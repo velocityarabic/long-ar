@@ -40,13 +40,7 @@ TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases wit
 TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names (for American/European learners)
-CATEGORIES_ENGLISH = [
-    "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
-    "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
-    "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
-    "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
-]
+CATEGORIES_ENGLISH = list(CATEGORIES_ARABIC.keys())
 
 # Arabic translations for display
 CATEGORIES_ARABIC = {
@@ -75,6 +69,33 @@ CATEGORIES_ARABIC = {
     "Growth": "نمو",
     "Purpose": "هدف",
     "Mindfulness": "وعي ذهني",
+
+    # 26-50: Practical Conversational & Real-World Life Scenarios
+    "Travel & Airport": "السفر والمطار",
+    "Ordering Food & Dining": "طلب الطعام وتناول الطعام",
+    "Shopping & Prices": "التسوق والأسعار",
+    "Asking for Directions": "طلب الاتجاهات",
+    "Hotel & Accommodation": "الفنادق والإقامة",
+    "Daily Routine": "الروتين اليومي",
+    "Meeting People & Greetings": "مقابلة الناس والتحيات",
+    "Emergency & Health": "الطوارئ والصحة",
+    "Public Transportation": "المواصلات العامة",
+    "Work & Office": "العمل والمكتب",
+    "Weather & Small Talk": "الطقس والأحاديث العابرة",
+    "Coffee Shop & Bakery": "المقهى والمخبز",
+    "Family & Home": "العائلة والمنزل",
+    "Hobbies & Free Time": "الهوايات ووقت الفراغ",
+    "Dating & Romance": "المواعدة والرومانسية",
+    "Phone Calls & Messages": "المكالمات الهاتفية والرسائل",
+    "Banking & Money": "البنوك والمال",
+    "Doctor & Pharmacy": "الطبيب والصيدلية",
+    "Sports & Fitness": "الرياضة واللياقة البدنية",
+    "Celebrations & Parties": "الاحتفالات والحفلات",
+    "Feelings & Emotions": "المشاعر والأحاسيس",
+    "Agreeing & Disagreeing": "الموافقة والاختلاف",
+    "Making Plans": "وضع الخطط",
+    "Common Native Slang": "العامية المحلية الشائعة",
+    "Cultural Traditions": "التقاليد الثقافية",
 }
 
 # Edge TTS voices
@@ -247,6 +268,37 @@ SUBTHEMES = [
     ("Reflections & Emotional Honesty", "Focus on expressing personal feelings, sincere reflections, patience, and deeper thoughts"),
     ("Practical Life Situations & Tips", "Focus on daily habits, real-world social scenarios, practical problem-solving, and actionable advice")
 ]
+
+
+def get_next_category(categories_dict: dict) -> str:
+    """Select the least recently used category to guarantee a smooth, non-repeating cycle"""
+    recent_file = HISTORY_DIR / "recent_categories.json"
+    recent = []
+    if recent_file.exists():
+        try:
+            with open(recent_file, "r", encoding="utf-8") as f:
+                recent = json.load(f)
+        except Exception:
+            recent = []
+
+    all_cats = list(categories_dict.keys())
+    cooldown = max(1, len(all_cats) - 10)
+    available = [c for c in all_cats if c not in recent[-cooldown:]]
+    if not available:
+        available = all_cats
+
+    chosen = random.choice(available)
+    recent.append(chosen)
+    if len(recent) > 100:
+        recent = recent[-100:]
+
+    try:
+        with open(recent_file, "w", encoding="utf-8") as f:
+            json.dump(recent, f, indent=2, ensure_ascii=False)
+    except Exception:
+        pass
+
+    return chosen
 
 
 def generate_phrases_for_longform(category_english: str, num_phrases: int = TARGET_PHRASES) -> list:
@@ -1191,7 +1243,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     """Generate complete long-form YouTube video with thumbnail and metadata"""
 
     if not category_english:
-        category_english = random.choice(CATEGORIES_ENGLISH)
+        category_english = get_next_category(CATEGORIES_ARABIC)
 
     # Use provided phrases count or default
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
