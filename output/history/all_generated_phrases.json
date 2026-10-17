@@ -63359,7 +63359,727 @@
       "Arabic": "الحصاد يأتي، بعد الانتظار.",
       "category": "Patience",
       "generated_at": "2026-10-15T05:36:19.806733"
+    },
+    {
+      "english": "Hello there, good to see you.",
+      "arabic": "أهلاً بك، سعيد برؤيتك.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907566"
+    },
+    {
+      "english": "How are you doing today?",
+      "arabic": "كيف حالك اليوم؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907582"
+    },
+    {
+      "english": "I am very well, thank you.",
+      "arabic": "أنا بخير جداً، شكراً لك.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907585"
+    },
+    {
+      "english": "And you, how is your day?",
+      "arabic": "وأنت، كيف يومك؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907587"
+    },
+    {
+      "english": "It's a pleasure to meet you.",
+      "arabic": "تشرفت بلقائك.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907588"
+    },
+    {
+      "english": "Welcome, make yourself comfortable.",
+      "arabic": "أهلاً وسهلاً، تفضل بالجلوس.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907590"
+    },
+    {
+      "english": "Nice to meet you too.",
+      "arabic": "تشرفت بمعرفتك أيضاً.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907592"
+    },
+    {
+      "english": "What brings you here today?",
+      "arabic": "ما الذي أتى بك إلى هنا اليوم؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907597"
+    },
+    {
+      "english": "Just passing by, hello!",
+      "arabic": "مجرد مرور، مرحباً!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907599"
+    },
+    {
+      "english": "Good morning, hope you slept well.",
+      "arabic": "صباح الخير، أتمنى أنك نمت جيداً.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907601"
+    },
+    {
+      "english": "Good afternoon, how's it going?",
+      "arabic": "مساء الخير، كيف تسير الأمور؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907603"
+    },
+    {
+      "english": "Good evening, lovely weather, isn't it?",
+      "arabic": "مساء النور، جو جميل، أليس كذلك؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907605"
+    },
+    {
+      "english": "Goodbye for now, see you soon.",
+      "arabic": "إلى اللقاء الآن، أراك قريباً.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907607"
+    },
+    {
+      "english": "Take care, have a good day.",
+      "arabic": "اعتن بنفسك، أتمنى لك يوماً سعيداً.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907608"
+    },
+    {
+      "english": "It was nice talking to you.",
+      "arabic": "كان من اللطيف التحدث معك.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907610"
+    },
+    {
+      "english": "Sorry, I didn't catch your name.",
+      "arabic": "عفواً، لم أسمع اسمك.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907612"
+    },
+    {
+      "english": "My name is [Name], nice to meet you.",
+      "arabic": "اسمي [الاسم]، تشرفت بلقائك.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907614"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "arabic": "هل يمكنك تكرار ذلك، من فضلك؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907615"
+    },
+    {
+      "english": "I don't understand, sorry.",
+      "arabic": "أنا لا أفهم، آسف.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907618"
+    },
+    {
+      "english": "Do you speak English?",
+      "arabic": "هل تتحدث الإنجليزية؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907620"
+    },
+    {
+      "english": "A little bit, yes.",
+      "arabic": "القليل، نعم.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907621"
+    },
+    {
+      "english": "Where are you from?",
+      "arabic": "من أين أنت؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907624"
+    },
+    {
+      "english": "I am from [Country].",
+      "arabic": "أنا من [البلد].",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907625"
+    },
+    {
+      "english": "This is my friend, [Friend's Name].",
+      "arabic": "هذا صديقي، [اسم الصديق].",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907628"
+    },
+    {
+      "english": "Please to meet your friend too.",
+      "arabic": "سررت بلقاء صديقك أيضاً.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907629"
+    },
+    {
+      "english": "How long have you been here?",
+      "arabic": "منذ متى وأنت هنا؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907631"
+    },
+    {
+      "english": "Just arrived, actually.",
+      "arabic": "وصلت للتو، في الواقع.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907632"
+    },
+    {
+      "english": "What do you do for a living?",
+      "arabic": "ماذا تعمل؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907634"
+    },
+    {
+      "english": "I work as a [Profession].",
+      "arabic": "أعمل كـ [مهنة].",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907637"
+    },
+    {
+      "english": "Nice to make your acquaintance.",
+      "arabic": "سعيد بالتعرف عليك.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907638"
+    },
+    {
+      "english": "What's your name, if you don't mind?",
+      "arabic": "ما اسم حضرتك، لو سمحت؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907640"
+    },
+    {
+      "english": "Could you tell me your name, please?",
+      "arabic": "ممكن تعرفني باسمك؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907642"
+    },
+    {
+      "english": "How can I help you today?",
+      "arabic": "كيف أقدر أساعدك اليوم؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907644"
+    },
+    {
+      "english": "Is this your first time visiting?",
+      "arabic": "هل هذه زيارتك الأولى هنا؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907646"
+    },
+    {
+      "english": "What do you think of this place?",
+      "arabic": "ما رأيك في هذا المكان؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907647"
+    },
+    {
+      "english": "Are you enjoying your stay?",
+      "arabic": "هل تستمتع بإقامتك؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907649"
+    },
+    {
+      "english": "What brings you to this event?",
+      "arabic": "ما الذي أتى بك إلى هذا الحدث؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907651"
+    },
+    {
+      "english": "Have you tried the local food yet?",
+      "arabic": "هل جربت الطعام المحلي بعد؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907653"
+    },
+    {
+      "english": "Do you need any recommendations?",
+      "arabic": "هل تحتاج أي توصيات؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907655"
+    },
+    {
+      "english": "What are your plans for the weekend?",
+      "arabic": "ما هي خططك لعطلة نهاية الأسبوع؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907657"
+    },
+    {
+      "english": "Is there anything interesting happening nearby?",
+      "arabic": "هل هناك أي شيء مثير يحدث بالجوار؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907659"
+    },
+    {
+      "english": "Can I offer you something to drink?",
+      "arabic": "هل أقدم لك شيئاً لتشربه؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907660"
+    },
+    {
+      "english": "Where did you learn Arabic?",
+      "arabic": "من أين تعلمت اللغة العربية؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907661"
+    },
+    {
+      "english": "What do you like most about Arabic?",
+      "arabic": "ما أكثر شيء تحبه في العربية؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907664"
+    },
+    {
+      "english": "Are you learning any other languages?",
+      "arabic": "هل تتعلم أي لغات أخرى؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907666"
+    },
+    {
+      "english": "Is there a good place to eat around here?",
+      "arabic": "هل يوجد مكان جيد للأكل هنا؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907668"
+    },
+    {
+      "english": "What's your favorite thing about this city?",
+      "arabic": "ما هو الشيء المفضل لديك في هذه المدينة؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907669"
+    },
+    {
+      "english": "Can you recommend a good book?",
+      "arabic": "هل يمكنك أن توصي بكتاب جيد؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907671"
+    },
+    {
+      "english": "What are you passionate about?",
+      "arabic": "ما هو شغفك؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907672"
+    },
+    {
+      "english": "How was your journey getting here?",
+      "arabic": "كيف كانت رحلتك للوصول إلى هنا؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907674"
+    },
+    {
+      "english": "Are you traveling alone or with someone?",
+      "arabic": "هل تسافر وحدك أم مع شخص ما؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907677"
+    },
+    {
+      "english": "What's the best way to get around?",
+      "arabic": "ما هي أفضل طريقة للتنقل؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907678"
+    },
+    {
+      "english": "Is there anything I should know about this area?",
+      "arabic": "هل هناك شيء يجب أن أعرفه عن هذه المنطقة؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907680"
+    },
+    {
+      "english": "What's your favorite type of music?",
+      "arabic": "ما هو نوع الموسيقى المفضل لديك؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907681"
+    },
+    {
+      "english": "Do you have any hobbies?",
+      "arabic": "هل لديك أي هوايات؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907684"
+    },
+    {
+      "english": "What's been the highlight of your trip?",
+      "arabic": "ما هو أبرز ما في رحلتك؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907686"
+    },
+    {
+      "english": "Could you give me some directions?",
+      "arabic": "هل يمكنك إعطائي بعض الاتجاهات؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907687"
+    },
+    {
+      "english": "What are you hoping to achieve here?",
+      "arabic": "ما الذي تأمل في تحقيقه هنا؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907688"
+    },
+    {
+      "english": "It's great to connect with you.",
+      "arabic": "يسعدني التواصل معك.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907690"
+    },
+    {
+      "english": "Keep trying, you're doing great!",
+      "arabic": "استمر في المحاولة، أنت تبلي بلاءً حسناً!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907692"
+    },
+    {
+      "english": "Don't be afraid to speak, practice makes perfect.",
+      "arabic": "لا تخف من التحدث، الممارسة تصنع الكمال.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907694"
+    },
+    {
+      "english": "Every conversation is a new learning opportunity.",
+      "arabic": "كل محادثة هي فرصة تعلم جديدة.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907696"
+    },
+    {
+      "english": "Believe in yourself, you can do this!",
+      "arabic": "آمن بنفسك، يمكنك فعل ذلك!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907698"
+    },
+    {
+      "english": "Your progress is amazing, keep it up!",
+      "arabic": "تقدمك مدهش، استمر!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907699"
+    },
+    {
+      "english": "Embrace the challenge, it makes you stronger.",
+      "arabic": "احتضن التحدي، فهو يجعلك أقوى.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907701"
+    },
+    {
+      "english": "Learning is a journey, enjoy every step.",
+      "arabic": "التعلم رحلة، استمتع بكل خطوة.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907703"
+    },
+    {
+      "english": "You're building bridges with every word.",
+      "arabic": "أنت تبني جسوراً بكل كلمة.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907705"
+    },
+    {
+      "english": "Your effort is commendable, truly.",
+      "arabic": "جهدك جدير بالثناء، حقاً.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907706"
+    },
+    {
+      "english": "A positive attitude opens many doors.",
+      "arabic": "الموقف الإيجابي يفتح الكثير من الأبواب.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907708"
+    },
+    {
+      "english": "Don't give up, success is near.",
+      "arabic": "لا تستسلم، النجاح قريب.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907710"
+    },
+    {
+      "english": "Your courage to try is inspiring.",
+      "arabic": "شجاعتك في المحاولة ملهمة.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907712"
+    },
+    {
+      "english": "Celebrate small victories along the way.",
+      "arabic": "احتفل بالانتصارات الصغيرة على طول الطريق.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907713"
+    },
+    {
+      "english": "Your willingness to connect is wonderful.",
+      "arabic": "استعدادك للتواصل رائع.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907715"
+    },
+    {
+      "english": "Keep that curious spirit alive.",
+      "arabic": "حافظ على تلك الروح الفضولية حية.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907716"
+    },
+    {
+      "english": "You're making real connections, that's key.",
+      "arabic": "أنت تصنع اتصالات حقيقية، هذا هو المفتاح.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907718"
+    },
+    {
+      "english": "Your openness is a gift to others.",
+      "arabic": "انفتاحك هدية للآخرين.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907720"
+    },
+    {
+      "english": "Let go of fear, embrace the experience.",
+      "arabic": "تخل عن الخوف، احتضن التجربة.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907722"
+    },
+    {
+      "english": "You have a great energy for meeting people.",
+      "arabic": "لديك طاقة رائعة لمقابلة الناس.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907723"
+    },
+    {
+      "english": "Every interaction helps you grow.",
+      "arabic": "كل تفاعل يساعدك على النمو.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907725"
+    },
+    {
+      "english": "Your willingness to learn is admirable.",
+      "arabic": "رغبتك في التعلم جديرة بالثناء.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907727"
+    },
+    {
+      "english": "Keep that spark of curiosity going.",
+      "arabic": "حافظ على تلك الشرارة من الفضول.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907728"
+    },
+    {
+      "english": "You're building confidence with each chat.",
+      "arabic": "أنت تبني الثقة مع كل محادثة.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907732"
+    },
+    {
+      "english": "Your enthusiasm is contagious!",
+      "arabic": "حماسك معدي!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907735"
+    },
+    {
+      "english": "The joy of connection is worth it.",
+      "arabic": "متعة التواصل تستحق العناء.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907736"
+    },
+    {
+      "english": "Keep pushing your boundaries, you'll surprise yourself.",
+      "arabic": "واصل دفع حدودك، ستفاجئ نفسك.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907738"
+    },
+    {
+      "english": "You have a natural talent for this.",
+      "arabic": "لديك موهبة طبيعية في هذا.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907740"
+    },
+    {
+      "english": "Tell me, what truly makes you happy?",
+      "arabic": "أخبرني، ما الذي يجعلك سعيدًا حقًا؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907742"
+    },
+    {
+      "english": "What are your quiet hopes for the future?",
+      "arabic": "ما هي آمالك الهادئة للمستقبل؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907743"
+    },
+    {
+      "english": "What wisdom have you gained lately?",
+      "arabic": "ما الحكمة التي اكتسبتها مؤخرًا؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907745"
+    },
+    {
+      "english": "Share a moment of genuine reflection.",
+      "arabic": "شارك لحظة تأمل صادقة.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907746"
+    },
+    {
+      "english": "What's one thing you cherish deeply?",
+      "arabic": "ما هو الشيء الذي تعتز به بشدة؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907748"
+    },
+    {
+      "english": "How do you find peace in daily life?",
+      "arabic": "كيف تجد السلام في حياتك اليومية؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907750"
+    },
+    {
+      "english": "What lesson took you the longest to learn?",
+      "arabic": "ما هو الدرس الذي استغرق معك أطول وقت لتعلمه؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907751"
+    },
+    {
+      "english": "When did you last feel truly understood?",
+      "arabic": "متى شعرت بأنك مفهوم حقًا آخر مرة؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907753"
+    },
+    {
+      "english": "What brings a sincere smile to your face?",
+      "arabic": "ما الذي يرسم ابتسامة صادقة على وجهك؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907756"
+    },
+    {
+      "english": "Can you be patient with this process?",
+      "arabic": "هل يمكنك التحلي بالصبر مع هذه العملية؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907757"
+    },
+    {
+      "english": "What simple joy are you grateful for?",
+      "arabic": "ما هي الفرحة البسيطة التي تشعر بالامتنان لها؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907760"
+    },
+    {
+      "english": "What belief guides your actions now?",
+      "arabic": "ما هو الاعتقاد الذي يوجه أفعالك الآن؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907762"
+    },
+    {
+      "english": "What makes a connection feel real?",
+      "arabic": "ما الذي يجعل الاتصال يبدو حقيقيًا؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907763"
+    },
+    {
+      "english": "How do you nurture your inner peace?",
+      "arabic": "كيف تغذي سلامك الداخلي؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907765"
+    },
+    {
+      "english": "What's a thought that often stays with you?",
+      "arabic": "ما هي الفكرة التي غالبًا ما تبقى معك؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907767"
+    },
+    {
+      "english": "What does genuine kindness mean to you?",
+      "arabic": "ماذا يعني لك اللطف الحقيقي؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907770"
+    },
+    {
+      "english": "Tell me, what moves your spirit?",
+      "arabic": "أخبرني، ما الذي يحرك روحك؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907771"
+    },
+    {
+      "english": "What quiet strength do you possess?",
+      "arabic": "ما هي القوة الهادئة التي تمتلكها؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907773"
+    },
+    {
+      "english": "What perspective has changed you most?",
+      "arabic": "ما هو المنظور الذي غيرك أكثر؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907774"
+    },
+    {
+      "english": "How do you practice self-compassion?",
+      "arabic": "كيف تمارس التعاطف مع الذات؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907776"
+    },
+    {
+      "english": "What's a simple truth you've found?",
+      "arabic": "ما هي حقيقة بسيطة وجدتها؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907777"
+    },
+    {
+      "english": "What makes you feel hopeful today?",
+      "arabic": "ما الذي يجعلك تشعر بالأمل اليوم؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907779"
+    },
+    {
+      "english": "What aspect of yourself do you admire?",
+      "arabic": "ما هو الجانب في نفسك الذي تعجب به؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907780"
+    },
+    {
+      "english": "What helps you stay grounded?",
+      "arabic": "ما الذي يساعدك على البقاء متزنًا؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907782"
+    },
+    {
+      "english": "Can you find beauty in imperfection?",
+      "arabic": "هل يمكنك أن تجد الجمال في عدم الكمال؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907783"
+    },
+    {
+      "english": "What silent understanding do you seek?",
+      "arabic": "ما هو الفهم الصامت الذي تبحث عنه؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907785"
+    },
+    {
+      "english": "What vulnerability feels important to share?",
+      "arabic": "ما هو الضعف الذي تشعر بأهمية مشاركته؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907786"
+    },
+    {
+      "english": "What quiet moment meant a lot?",
+      "arabic": "ما هي اللحظة الهادئة التي عنت الكثير؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907788"
+    },
+    {
+      "english": "What growth have you experienced recently?",
+      "arabic": "ما هو النمو الذي شهدته مؤخرًا؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907791"
+    },
+    {
+      "english": "What deeply resonates with your soul?",
+      "arabic": "ما الذي يتردد صداه بعمق في روحك؟",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907792"
+    },
+    {
+      "english": "Just smile, and they'll understand.",
+      "arabic": "ابتسم فقط، وسيفهمون.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907794"
+    },
+    {
+      "english": "Start small, ask about the weather.",
+      "arabic": "ابدأ بقليل، اسأل عن الجو.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907796"
+    },
+    {
+      "english": "Practice a simple 'hello' first.",
+      "arabic": "تدرب على 'مرحباً' بسيطة أولاً.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907798"
+    },
+    {
+      "english": "Don't worry, just try to listen.",
+      "arabic": "لا تقلق، فقط حاول الاستماع.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-17T05:21:12.907800"
     }
   ],
-  "last_updated": "2026-10-15T05:36:19.806736"
+  "last_updated": "2026-10-17T05:21:12.907801"
 }
