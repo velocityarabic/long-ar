@@ -65519,7 +65519,727 @@
       "arabic": "كيف نمت، يا حبيبي/حبيبتي؟",
       "category": "Love",
       "generated_at": "2026-10-19T05:46:32.037948"
+    },
+    {
+      "english": "Push forward, don't stop now.",
+      "arabic": "تقدم للأمام، لا تتوقف الآن.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463514"
+    },
+    {
+      "english": "Each day, a new chance to learn.",
+      "arabic": "كل يوم، فرصة جديدة للتعلم.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463532"
+    },
+    {
+      "english": "Let's try, what's the worst that can happen?",
+      "arabic": "دعنا نجرب، ما أسوأ ما يمكن أن يحدث؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463534"
+    },
+    {
+      "english": "Focus, and the words will come.",
+      "arabic": "ركز، وستأتي الكلمات.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463536"
+    },
+    {
+      "english": "This effort, will pay off soon.",
+      "arabic": "هذا الجهد، سيؤتي ثماره قريباً.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463538"
+    },
+    {
+      "english": "Don't give up, you are so close.",
+      "arabic": "لا تستسلم، أنت قريب جداً.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463541"
+    },
+    {
+      "english": "What did you learn today?",
+      "arabic": "ماذا تعلمت اليوم؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463542"
+    },
+    {
+      "english": "Let's speak, even if imperfectly.",
+      "arabic": "لنتحدث، حتى لو لم يكن مثالياً.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463547"
+    },
+    {
+      "english": "Keep practicing, that's the key.",
+      "arabic": "استمر في الممارسة، هذا هو المفتاح.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463550"
+    },
+    {
+      "english": "Embrace the challenge, you'll grow.",
+      "arabic": "تقبل التحدي، ستنمو.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463552"
+    },
+    {
+      "english": "Tiny steps, lead to big leaps.",
+      "arabic": "خطوات صغيرة، تؤدي إلى قفزات كبيرة.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463554"
+    },
+    {
+      "english": "Say it again, try to remember.",
+      "arabic": "قلها مرة أخرى، حاول أن تتذكر.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463556"
+    },
+    {
+      "english": "What's new today, in Arabic?",
+      "arabic": "ما الجديد اليوم، بالعربية؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463558"
+    },
+    {
+      "english": "Every word, a new connection.",
+      "arabic": "كل كلمة، اتصال جديد.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463559"
+    },
+    {
+      "english": "Don't aim for perfection, aim for progress.",
+      "arabic": "لا تهدف للكمال، بل للتقدم.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463561"
+    },
+    {
+      "english": "You've got this, don't doubt it.",
+      "arabic": "يمكنك فعلها، لا تشك في ذلك.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463563"
+    },
+    {
+      "english": "Listen closely, absorb everything.",
+      "arabic": "استمع جيداً، استوعب كل شيء.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463565"
+    },
+    {
+      "english": "Your brain is learning, let it work.",
+      "arabic": "عقلك يتعلم، دعه يعمل.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463566"
+    },
+    {
+      "english": "This is how you get fluent.",
+      "arabic": "هكذا تصبح طليقاً.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463568"
+    },
+    {
+      "english": "Keep that positive energy going.",
+      "arabic": "حافظ على هذه الطاقة الإيجابية.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463569"
+    },
+    {
+      "english": "Try saying this phrase out loud.",
+      "arabic": "حاول قول هذه العبارة بصوت عالٍ.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463572"
+    },
+    {
+      "english": "You are making real headway.",
+      "arabic": "أنت تحقق تقدماً حقيقياً.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463574"
+    },
+    {
+      "english": "What's one new word today?",
+      "arabic": "ما هي كلمة جديدة واحدة اليوم؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463575"
+    },
+    {
+      "english": "Let's make it happen, together.",
+      "arabic": "دعنا نجعل هذا يحدث، معاً.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463577"
+    },
+    {
+      "english": "Your journey is just beginning.",
+      "arabic": "رحلتك بدأت للتو.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463578"
+    },
+    {
+      "english": "Keep reaching for those goals.",
+      "arabic": "استمر في السعي نحو تلك الأهداف.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463580"
+    },
+    {
+      "english": "What's stopping you, from trying?",
+      "arabic": "ماذا يمنعك، من المحاولة؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463582"
+    },
+    {
+      "english": "What do you find difficult, about speaking?",
+      "arabic": "ما الذي تجده صعباً، في التحدث؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463584"
+    },
+    {
+      "english": "Can you explain that, in simpler Arabic?",
+      "arabic": "هل يمكنك شرح ذلك، بعربية أبسط؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463590"
+    },
+    {
+      "english": "What's your favorite Arabic word, and why?",
+      "arabic": "ما كلمتك العربية المفضلة، ولماذا؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463592"
+    },
+    {
+      "english": "Where do you get, your Arabic inspiration?",
+      "arabic": "من أين تحصل، على إلهامك العربي؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463594"
+    },
+    {
+      "english": "What's the most useful phrase, you've learned?",
+      "arabic": "ما هي العبارة الأكثر فائدة، التي تعلمتها؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463596"
+    },
+    {
+      "english": "How do you stay, motivated for Arabic?",
+      "arabic": "كيف تبقى، متحمساً للعربية؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463599"
+    },
+    {
+      "english": "Is there a trick, for remembering vocabulary?",
+      "arabic": "هل هناك حيلة، لتذكر المفردات؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463601"
+    },
+    {
+      "english": "What advice, do you have for beginners?",
+      "arabic": "ما النصيحة، التي لديك للمبتدئين؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463602"
+    },
+    {
+      "english": "Do you think, immersion helps the most?",
+      "arabic": "هل تعتقد، أن الانغماس يساعد أكثر؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463604"
+    },
+    {
+      "english": "What are you struggling with, right now?",
+      "arabic": "ما الذي تواجه صعوبة فيه، الآن؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463605"
+    },
+    {
+      "english": "Can we practice, a specific grammar point?",
+      "arabic": "هل يمكننا التدرب، على نقطة نحوية معينة؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463607"
+    },
+    {
+      "english": "What makes learning Arabic, fun for you?",
+      "arabic": "ما الذي يجعل تعلم العربية، ممتعاً لك؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463609"
+    },
+    {
+      "english": "How do you handle, mistakes when speaking?",
+      "arabic": "كيف تتعامل، مع الأخطاء عند التحدث؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463612"
+    },
+    {
+      "english": "What's your goal, with Arabic fluency?",
+      "arabic": "ما هو هدفك، مع الطلاقة العربية؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463614"
+    },
+    {
+      "english": "Can you suggest, a good Arabic resource?",
+      "arabic": "هل يمكنك اقتراح، مصدر عربي جيد؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463616"
+    },
+    {
+      "english": "What cultural aspect, interests you most?",
+      "arabic": "ما الجانب الثقافي، الذي يثير اهتمامك؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463617"
+    },
+    {
+      "english": "Do you ever feel stuck, in your learning?",
+      "arabic": "هل تشعر أحياناً بأنك عالق، في تعلمك؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463619"
+    },
+    {
+      "english": "What helps you, stay focused on learning?",
+      "arabic": "ما الذي يساعدك، على التركيز في التعلم؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463621"
+    },
+    {
+      "english": "How do you motivate, yourself to speak more?",
+      "arabic": "كيف تحفز، نفسك على التحدث أكثر؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463622"
+    },
+    {
+      "english": "What's one thing, you'd ask an Arabic speaker?",
+      "arabic": "ما هو الشيء الوحيد، الذي ستسأله لمتحدث عربي؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463625"
+    },
+    {
+      "english": "Can you give me, a confidence boost?",
+      "arabic": "هل يمكنك أن تعطيني، دفعة ثقة؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463627"
+    },
+    {
+      "english": "What's the secret, to sounding natural?",
+      "arabic": "ما هو السر، لتبدو طبيعياً؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463628"
+    },
+    {
+      "english": "Do you think mistakes, are part of learning?",
+      "arabic": "هل تعتقد أن الأخطاء، جزء من التعلم؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463630"
+    },
+    {
+      "english": "What inspires you, to keep going forward?",
+      "arabic": "ما الذي يلهمك، للاستمرار إلى الأمام؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463631"
+    },
+    {
+      "english": "How do you practice, listening comprehension?",
+      "arabic": "كيف تتدرب، على فهم الاستماع؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463633"
+    },
+    {
+      "english": "What's the biggest challenge, you face?",
+      "arabic": "ما هو التحدي الأكبر، الذي تواجهه؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463636"
+    },
+    {
+      "english": "Can you recommend, a good podcast for learning?",
+      "arabic": "هل يمكنك أن توصي، ببودكاست جيد للتعلم؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463637"
+    },
+    {
+      "english": "What do you do, when you forget words?",
+      "arabic": "ماذا تفعل، عندما تنسى الكلمات؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463639"
+    },
+    {
+      "english": "Believe in your progress, slowly but surely.",
+      "arabic": "آمن بتقدمك، ببطء ولكن بثبات.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463641"
+    },
+    {
+      "english": "Your effort today, builds a stronger tomorrow.",
+      "arabic": "جهدك اليوم، يبني غداً أقوى.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463642"
+    },
+    {
+      "english": "Embrace the challenge, you are growing stronger.",
+      "arabic": "احتضن التحدي، أنت تزداد قوة.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463644"
+    },
+    {
+      "english": "Every small step, counts towards your goal.",
+      "arabic": "كل خطوة صغيرة، تُحسب نحو هدفك.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463646"
+    },
+    {
+      "english": "You're capable of amazing things, keep pushing.",
+      "arabic": "أنت قادر على أشياء مدهشة، استمر في الدفع.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463648"
+    },
+    {
+      "english": "See mistakes, as lessons learned.",
+      "arabic": "انظر للأخطاء، كدروس مستفادة.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463650"
+    },
+    {
+      "english": "Don't compare your chapter one, to their chapter twenty.",
+      "arabic": "لا تقارن فصلك الأول، بفصلهم العشرين.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463652"
+    },
+    {
+      "english": "Celebrate small victories, they matter.",
+      "arabic": "احتفل بالانتصارات الصغيرة، إنها مهمة.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463654"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "arabic": "ركز على التقدم، وليس الكمال.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463655"
+    },
+    {
+      "english": "Keep that curiosity alive, it fuels learning.",
+      "arabic": "حافظ على فضولك حياً، فهو يغذي التعلم.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463657"
+    },
+    {
+      "english": "Your persistence, will pay off.",
+      "arabic": "مثابرتك، ستؤتي ثمارها.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463659"
+    },
+    {
+      "english": "You are building a valuable skill, be proud.",
+      "arabic": "أنت تبني مهارة قيمة، كن فخوراً.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463661"
+    },
+    {
+      "english": "The journey is tough, but rewarding.",
+      "arabic": "الرحلة صعبة، لكنها مجزية.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463662"
+    },
+    {
+      "english": "Visualize your success, it helps.",
+      "arabic": "تخيل نجاحك، إنه يساعد.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463664"
+    },
+    {
+      "english": "Embrace the awkward moments, they pass.",
+      "arabic": "تقبل اللحظات المحرجة، إنها تمر.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463666"
+    },
+    {
+      "english": "This learning curve, is normal.",
+      "arabic": "منحنى التعلم هذا، طبيعي.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463668"
+    },
+    {
+      "english": "Trust the process, fluency takes time.",
+      "arabic": "ثق بالعملية، الطلاقة تستغرق وقتاً.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463670"
+    },
+    {
+      "english": "Your brain is adapting, be patient.",
+      "arabic": "عقلك يتكيف، كن صبوراً.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463671"
+    },
+    {
+      "english": "A little practice, every day counts.",
+      "arabic": "قليل من الممارسة، كل يوم مهم.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463673"
+    },
+    {
+      "english": "You are mastering a beautiful language.",
+      "arabic": "أنت تتقن لغة جميلة.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463676"
+    },
+    {
+      "english": "Your effort, is not in vain.",
+      "arabic": "جهدك، ليس سدى.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463678"
+    },
+    {
+      "english": "Keep that fire burning, for Arabic.",
+      "arabic": "أبقِ هذا الشغف مشتعلاً، للعربية.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463680"
+    },
+    {
+      "english": "You are creating connections, through language.",
+      "arabic": "أنت تبني جسوراً، عبر اللغة.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463682"
+    },
+    {
+      "english": "Embrace the struggle, it leads to growth.",
+      "arabic": "تقبل الصعاب، فهي تؤدي للنمو.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463684"
+    },
+    {
+      "english": "Your commitment, is truly admirable.",
+      "arabic": "التزامك، جدير بالثناء حقاً.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463686"
+    },
+    {
+      "english": "Be honest about how you feel, today.",
+      "arabic": "كن صريحًا بشأن شعورك، اليوم.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463688"
+    },
+    {
+      "english": "Some days are harder, that's okay.",
+      "arabic": "بعض الأيام أصعب، لا بأس بذلك.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463689"
+    },
+    {
+      "english": "Reflect on your journey, with kindness.",
+      "arabic": "تأمل رحلتك، بلطف.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463691"
+    },
+    {
+      "english": "What emotions arise, when learning?",
+      "arabic": "ما المشاعر التي تنشأ، عند التعلم؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463693"
+    },
+    {
+      "english": "Your feelings are valid, throughout this.",
+      "arabic": "مشاعرك صحيحة، طوال هذه الرحلة.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463697"
+    },
+    {
+      "english": "Patience with yourself, is key.",
+      "arabic": "الصبر على نفسك، هو المفتاح.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463699"
+    },
+    {
+      "english": "Let your sincerity guide you.",
+      "arabic": "دع صدقك يرشدك.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463701"
+    },
+    {
+      "english": "Acknowledge your effort, genuinely.",
+      "arabic": "اعترف بجهدك، بصدق.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463703"
+    },
+    {
+      "english": "Feelings come and go, keep learning.",
+      "arabic": "المشاعر تأتي وتذهب، استمر بالتعلم.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463704"
+    },
+    {
+      "english": "What truths are you discovering?",
+      "arabic": "ما هي الحقائق التي تكتشفها؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463706"
+    },
+    {
+      "english": "Embrace vulnerability, in practice.",
+      "arabic": "احتضن الضعف، في الممارسة.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463708"
+    },
+    {
+      "english": "This requires deep reflection.",
+      "arabic": "هذا يتطلب تفكيرًا عميقًا.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463710"
+    },
+    {
+      "english": "Allow yourself, to feel the process.",
+      "arabic": "اسمح لنفسك، بالشعور بالعملية.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463711"
+    },
+    {
+      "english": "Honesty fuels true motivation.",
+      "arabic": "الصدق يغذي الدافع الحقيقي.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463713"
+    },
+    {
+      "english": "What are you grateful for, today?",
+      "arabic": "مم تشعر بالامتنان، اليوم؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463715"
+    },
+    {
+      "english": "Your honesty is your strength.",
+      "arabic": "صدقك هو قوتك.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463717"
+    },
+    {
+      "english": "Deep breaths, clear your mind.",
+      "arabic": "أنفاس عميقة، تصف ذهنك.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463719"
+    },
+    {
+      "english": "This learning is personal, for you.",
+      "arabic": "هذا التعلم شخصي، لك.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463721"
+    },
+    {
+      "english": "What inner shifts are happening?",
+      "arabic": "ما هي التحولات الداخلية التي تحدث؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463722"
+    },
+    {
+      "english": "Let patience be your companion.",
+      "arabic": "لتكن الصبر رفيقك.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463724"
+    },
+    {
+      "english": "Feel the emotional depth, of language.",
+      "arabic": "اشعر بالعمق العاطفي، للغة.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463726"
+    },
+    {
+      "english": "Your honest effort matters greatly.",
+      "arabic": "جهدك الصادق مهم للغاية.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463727"
+    },
+    {
+      "english": "Are you being kind to yourself?",
+      "arabic": "هل أنت لطيف مع نفسك؟",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463729"
+    },
+    {
+      "english": "This process transforms you slowly.",
+      "arabic": "هذه العملية تحولك ببطء.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463730"
+    },
+    {
+      "english": "Reflect on your courage, daily.",
+      "arabic": "تأمل شجاعتك، يوميًا.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463732"
+    },
+    {
+      "english": "Emotional honesty builds resilience.",
+      "arabic": "الصدق العاطفي يبني المرونة.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463734"
+    },
+    {
+      "english": "Trust your own intuition, always.",
+      "arabic": "ثق بحدسك الخاص، دائمًا.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463735"
+    },
+    {
+      "english": "Find peace, in the learning.",
+      "arabic": "ابحث عن السلام، في التعلم.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463737"
+    },
+    {
+      "english": "Your daily habit, is your best friend.",
+      "arabic": "عادتك اليومية، صديقتك المفضلة.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463739"
+    },
+    {
+      "english": "Speak Arabic, even just a little.",
+      "arabic": "تكلم العربية، ولو قليلاً.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463741"
+    },
+    {
+      "english": "Ask for help, it's okay.",
+      "arabic": "اطلب المساعدة، لا بأس.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463744"
+    },
+    {
+      "english": "Listen to Arabic music, relax.",
+      "arabic": "اسمع موسيقى عربية، استرخِ.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463746"
+    },
+    {
+      "english": "Watch Arabic movies, have fun.",
+      "arabic": "شاهد أفلاماً عربية، استمتع.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463748"
+    },
+    {
+      "english": "Order food, in Arabic.",
+      "arabic": "اطلب طعاماً، بالعربية.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463749"
+    },
+    {
+      "english": "Read a sign, anywhere.",
+      "arabic": "اقرأ لافتة، في أي مكان.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463751"
+    },
+    {
+      "english": "Say 'hello', to a stranger.",
+      "arabic": "قل 'مرحباً'، لغريب.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463755"
+    },
+    {
+      "english": "Try to navigate, alone.",
+      "arabic": "حاول أن تتنقل، وحدك.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463757"
+    },
+    {
+      "english": "Fix your problem, with words.",
+      "arabic": "حل مشكلتك، بالكلمات.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463759"
+    },
+    {
+      "english": "Use a translation app, wisely.",
+      "arabic": "استخدم تطبيق ترجمة، بحكمة.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463760"
+    },
+    {
+      "english": "Practice makes, speaking easier.",
+      "arabic": "الممارسة تجعل، التحدث أسهل.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T05:42:24.463762"
     }
   ],
-  "last_updated": "2026-10-19T05:46:32.037950"
+  "last_updated": "2026-10-20T05:42:24.463764"
 }
