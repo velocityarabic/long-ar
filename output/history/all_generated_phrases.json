@@ -66239,7 +66239,727 @@
       "arabic": "الممارسة تجعل، التحدث أسهل.",
       "category": "Motivation",
       "generated_at": "2026-10-20T05:42:24.463762"
+    },
+    {
+      "english": "Can I get cash back, please?",
+      "arabic": "ممكن أستلم نقود إضافية، لو سمحت؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845369"
+    },
+    {
+      "english": "How much is the fee, exactly?",
+      "arabic": "كم الرسوم، بالضبط؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845384"
+    },
+    {
+      "english": "Is there an ATM nearby?",
+      "arabic": "هل يوجد صراف آلي قريب؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845387"
+    },
+    {
+      "english": "I need to withdraw money, now.",
+      "arabic": "أحتاج أسحب نقود، الآن.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845389"
+    },
+    {
+      "english": "What's your account balance, today?",
+      "arabic": "ما هو رصيد حسابك، اليوم؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845391"
+    },
+    {
+      "english": "I'd like to open an account.",
+      "arabic": "أود فتح حساب جديد.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845394"
+    },
+    {
+      "english": "Do you accept credit cards?",
+      "arabic": "هل تقبلون بطاقات ائتمان؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845396"
+    },
+    {
+      "english": "Where is the nearest bank?",
+      "arabic": "أين أقرب بنك؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845400"
+    },
+    {
+      "english": "I want to deposit this check.",
+      "arabic": "أريد إيداع هذا الشيك.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845402"
+    },
+    {
+      "english": "How can I transfer funds?",
+      "arabic": "كيف يمكنني تحويل الأموال؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845404"
+    },
+    {
+      "english": "My card was declined, why?",
+      "arabic": "بطاقتي لم تُقبل، لماذا؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845406"
+    },
+    {
+      "english": "I lost my wallet, unfortunately.",
+      "arabic": "لقد فقدت محفظتي، للأسف.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845408"
+    },
+    {
+      "english": "Can I get a receipt, please?",
+      "arabic": "ممكن إيصال، من فضلك؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845409"
+    },
+    {
+      "english": "This transaction is suspicious.",
+      "arabic": "هذه المعاملة مشبوهة.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845411"
+    },
+    {
+      "english": "I need to exchange currency.",
+      "arabic": "أحتاج صرف عملة.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845413"
+    },
+    {
+      "english": "What's the current exchange rate?",
+      "arabic": "ما هو سعر الصرف الحالي؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845415"
+    },
+    {
+      "english": "Is this a safe place to bank?",
+      "arabic": "هل هذا مكان آمن للتعاملات البنكية؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845416"
+    },
+    {
+      "english": "I'm checking my balance, online.",
+      "arabic": "أنا أتحقق من رصيدي، عبر الإنترنت.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845418"
+    },
+    {
+      "english": "Can you help me with this?",
+      "arabic": "هل يمكنك مساعدتي في هذا؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845420"
+    },
+    {
+      "english": "I forgot my PIN number.",
+      "arabic": "لقد نسيت رقم التعريف الشخصي.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845421"
+    },
+    {
+      "english": "This is a very large sum.",
+      "arabic": "هذا مبلغ كبير جداً.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845423"
+    },
+    {
+      "english": "Do you have any loans available?",
+      "arabic": "هل لديكم أي قروض متاحة؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845424"
+    },
+    {
+      "english": "I need to report a lost card.",
+      "arabic": "أحتاج الإبلاغ عن بطاقة مفقودة.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845426"
+    },
+    {
+      "english": "Is this a fixed deposit?",
+      "arabic": "هل هذا وديعة ثابتة؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845429"
+    },
+    {
+      "english": "I'm looking for a good investment.",
+      "arabic": "أبحث عن استثمار جيد.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845431"
+    },
+    {
+      "english": "Can I speak to a manager?",
+      "arabic": "ممكن التحدث إلى مدير؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845432"
+    },
+    {
+      "english": "This amount is incorrect.",
+      "arabic": "هذا المبلغ غير صحيح.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845434"
+    },
+    {
+      "english": "How much interest do you offer?",
+      "arabic": "كم الفائدة التي تقدمونها؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845435"
+    },
+    {
+      "english": "I need to pay this bill.",
+      "arabic": "أحتاج دفع هذه الفاتورة.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845438"
+    },
+    {
+      "english": "Let's save money, together.",
+      "arabic": "لنُوفر المال، معاً.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845440"
+    },
+    {
+      "english": "Excuse me, can you explain this charge?",
+      "arabic": "لو سمحت، ممكن تشرح لي هالمبلغ؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845442"
+    },
+    {
+      "english": "What's the best way to save money?",
+      "arabic": "إيش أفضل طريقة عشان أحفظ فلوس؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845444"
+    },
+    {
+      "english": "Could you recommend a good investment?",
+      "arabic": "تنصحني باستثمار كويس؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845446"
+    },
+    {
+      "english": "Is it possible to get a statement?",
+      "arabic": "ممكن أخذ كشف حساب؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845449"
+    },
+    {
+      "english": "How do I apply for a loan?",
+      "arabic": "كيف أقدم على قرض؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845451"
+    },
+    {
+      "english": "Can I pay this bill with my card?",
+      "arabic": "أقدر أدفع هالفاتورة بالبطاقة؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845453"
+    },
+    {
+      "english": "What's the daily withdrawal limit?",
+      "arabic": "كم حد السحب اليومي؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845454"
+    },
+    {
+      "english": "Do you have any special offers?",
+      "arabic": "عندكم عروض خاصة؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845456"
+    },
+    {
+      "english": "I need to update my contact details.",
+      "arabic": "محتاج أحدث بياناتي.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845458"
+    },
+    {
+      "english": "Can I get some advice on budgeting?",
+      "arabic": "ممكن نصيحة بخصوص الميزانية؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845460"
+    },
+    {
+      "english": "What are the opening hours, please?",
+      "arabic": "كم وقت الدوام، لو سمحت؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845462"
+    },
+    {
+      "english": "Is there a minimum balance required?",
+      "arabic": "فيه حد أدنى للرصيد؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845463"
+    },
+    {
+      "english": "Can you help me find a form?",
+      "arabic": "ممكن تساعدني ألاقي نموذج؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845465"
+    },
+    {
+      "english": "I'm interested in a savings account.",
+      "arabic": "أنا مهتم بحساب توفير.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845467"
+    },
+    {
+      "english": "What are the options for international transfers?",
+      "arabic": "ايش خيارات التحويل الدولي؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845469"
+    },
+    {
+      "english": "Could you check my recent transactions?",
+      "arabic": "تتأكد لي من آخر عملياتي؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845471"
+    },
+    {
+      "english": "Is online banking secure?",
+      "arabic": "هل الخدمات المصرفية أونلاين آمنة؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845472"
+    },
+    {
+      "english": "What happens if I forget my password?",
+      "arabic": "ايش يصير لو نسيت كلمة السر؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845474"
+    },
+    {
+      "english": "Can I dispute a charge?",
+      "arabic": "أقدر أعترض على مبلغ؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845476"
+    },
+    {
+      "english": "Do you offer student discounts?",
+      "arabic": "فيه خصومات للطلاب؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845477"
+    },
+    {
+      "english": "I need to close this account.",
+      "arabic": "أبغى أقفل هالحساب.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845479"
+    },
+    {
+      "english": "What's the minimum deposit amount?",
+      "arabic": "كم أقل مبلغ للإيداع؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845480"
+    },
+    {
+      "english": "Can I get information about mortgages?",
+      "arabic": "ممكن معلومات عن الرهن العقاري؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845482"
+    },
+    {
+      "english": "How long does a transfer take?",
+      "arabic": "كم ياخذ التحويل وقت؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845484"
+    },
+    {
+      "english": "I'd like to inquire about a credit limit.",
+      "arabic": "أبغى استفسر عن حد الائتمان.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845485"
+    },
+    {
+      "english": "Are there any fees for international calls?",
+      "arabic": "فيه رسوم للمكالمات الدولية؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845488"
+    },
+    {
+      "english": "Can you explain the difference, please?",
+      "arabic": "ممكن تشرح الفرق؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845490"
+    },
+    {
+      "english": "I need to speak with someone about my finances.",
+      "arabic": "أحتاج أتكلم مع أحد عن وضعي المالي.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845492"
+    },
+    {
+      "english": "What are the benefits of this account?",
+      "arabic": "ايش مميزات هالحساب؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845494"
+    },
+    {
+      "english": "Can we discuss a payment plan?",
+      "arabic": "ممكن نناقش خطة دفع؟",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845496"
+    },
+    {
+      "english": "Money talks, louder than words.",
+      "arabic": "المال يتكلم، أعلى من الكلام.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845498"
+    },
+    {
+      "english": "Every penny counts, save it up.",
+      "arabic": "كل قرش له قيمة، وفّره.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845500"
+    },
+    {
+      "english": "He's rolling in money, really rich.",
+      "arabic": "فلوسه طافحة، غني جداً.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845502"
+    },
+    {
+      "english": "Don't count your chickens, before they hatch.",
+      "arabic": "لا تعدّ دجاجك، قبل أن يفقس.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845504"
+    },
+    {
+      "english": "It costs an arm and a leg.",
+      "arabic": "يكلف الكثير، مثل ذراع ورجل.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845505"
+    },
+    {
+      "english": "He's always short of cash.",
+      "arabic": "دائماً محتاج فلوس، جيوبه فاضية.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845507"
+    },
+    {
+      "english": "Let's put our money together, for this.",
+      "arabic": "لنضع مالنا معاً، لهذا الأمر.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845509"
+    },
+    {
+      "english": "He's making a killing, with this deal.",
+      "arabic": "يكسب ذهب، من هذه الصفقة.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845511"
+    },
+    {
+      "english": "It's a small price to pay.",
+      "arabic": "ثمن بسيط لدفعه.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845513"
+    },
+    {
+      "english": "He spends money like water.",
+      "arabic": "ينفق المال كأنه ماء.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845516"
+    },
+    {
+      "english": "This is a good deal, don't miss it.",
+      "arabic": "هذه صفقة مربحة، لا تفوّتها.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845517"
+    },
+    {
+      "english": "He's always asking for money.",
+      "arabic": "دائماً يطلب المال، مدّايين.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845519"
+    },
+    {
+      "english": "Let's pool our resources, for the trip.",
+      "arabic": "لنوحّد مواردنا، للرحلة.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845521"
+    },
+    {
+      "english": "This is a rip-off, very expensive.",
+      "arabic": "هذا استغلال، غالي جداً.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845523"
+    },
+    {
+      "english": "He's living beyond his means.",
+      "arabic": "يعيش فوق مستواه المادي.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845525"
+    },
+    {
+      "english": "A penny saved, is a penny earned.",
+      "arabic": "قرش توفيره، قرش تكسبه.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845526"
+    },
+    {
+      "english": "We need to cut back on spending.",
+      "arabic": "علينا تقليل الإنفاق.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845528"
+    },
+    {
+      "english": "He's always looking for a handout.",
+      "arabic": "دائماً ينتظر المساعدة المالية.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845529"
+    },
+    {
+      "english": "This is a bargain, a real steal.",
+      "arabic": "هذا سعر ممتاز، فرصة حقيقية.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845531"
+    },
+    {
+      "english": "He's got money to burn.",
+      "arabic": "عنده فلوس كثيرة، يحرقها.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845532"
+    },
+    {
+      "english": "Let's chip in, for the gift.",
+      "arabic": "لنتبرع قليلاً، للهدية.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845534"
+    },
+    {
+      "english": "This is highway robbery.",
+      "arabic": "هذا سرقة علنية.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845536"
+    },
+    {
+      "english": "He's loaded, very wealthy.",
+      "arabic": "هو ثري جداً، ميسور الحال.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845538"
+    },
+    {
+      "english": "We need to tighten our belts.",
+      "arabic": "علينا شد الأحزمة.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845539"
+    },
+    {
+      "english": "It's worth every penny.",
+      "arabic": "يستحق كل قرش.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845541"
+    },
+    {
+      "english": "He's tight-fisted, stingy.",
+      "arabic": "بخيل، يده مقفولة.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845543"
+    },
+    {
+      "english": "Let's get our finances sorted.",
+      "arabic": "لننظم أمورنا المالية.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845544"
+    },
+    {
+      "english": "This is a good investment, long term.",
+      "arabic": "هذا استثمار جيد، على المدى الطويل.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845547"
+    },
+    {
+      "english": "He's always broke.",
+      "arabic": "دائماً مفلس، ما عنده فلوس.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845549"
+    },
+    {
+      "english": "Money doesn't grow on trees.",
+      "arabic": "المال لا ينبت على الأشجار.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845551"
+    },
+    {
+      "english": "Patience, my friend, with finances.",
+      "arabic": "الصبر يا صديقي، مع الأموال.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845554"
+    },
+    {
+      "english": "I feel a bit uncertain, about this investment.",
+      "arabic": "أشعر بقليل من عدم اليقين، تجاه هذا الاستثمار.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845556"
+    },
+    {
+      "english": "It takes time, to build wealth.",
+      "arabic": "يستغرق الأمر وقتاً، لبناء الثروة.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845558"
+    },
+    {
+      "english": "Sometimes, less is more, financially.",
+      "arabic": "أحياناً، القليل أفضل، مالياً.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845560"
+    },
+    {
+      "english": "I hope for a stable future, financially.",
+      "arabic": "أتمنى مستقبلاً مستقراً، من الناحية المالية.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845561"
+    },
+    {
+      "english": "This decision weighs on my mind.",
+      "arabic": "هذا القرار يشغل بالي.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845563"
+    },
+    {
+      "english": "I'm reflecting, on my spending habits.",
+      "arabic": "أنا أفكر، في عادات إنفاقي.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845565"
+    },
+    {
+      "english": "It's a relief, to have savings.",
+      "arabic": "إنه لشعور بالراحة، وجود مدخرات.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845567"
+    },
+    {
+      "english": "My heart feels lighter, with less debt.",
+      "arabic": "قلبي أخف، مع ديون أقل.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845570"
+    },
+    {
+      "english": "I'm learning, to be more mindful, with money.",
+      "arabic": "أتعلم، أن أكون أكثر وعياً، بالمال.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845572"
+    },
+    {
+      "english": "This feeling of security, is priceless.",
+      "arabic": "هذا الشعور بالأمان، لا يقدر بثمن.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845585"
+    },
+    {
+      "english": "Financial freedom, is the ultimate goal.",
+      "arabic": "الحرية المالية، هي الهدف الأسمى.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845592"
+    },
+    {
+      "english": "I feel a deep sense, of gratitude.",
+      "arabic": "أشعر بإحساس عميق، بالامتنان.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845594"
+    },
+    {
+      "english": "Let go of worries, embrace the calm.",
+      "arabic": "تخل عن المخاوف، واحتضن الهدوء.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845596"
+    },
+    {
+      "english": "My perspective has changed, a lot.",
+      "arabic": "منظوري قد تغير، كثيراً.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845598"
+    },
+    {
+      "english": "It's okay, to not have all the answers.",
+      "arabic": "لا بأس، ألا تمتلك كل الإجابات.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845599"
+    },
+    {
+      "english": "This journey requires, honesty with myself.",
+      "arabic": "هذه الرحلة تتطلب، صدقاً مع نفسي.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845601"
+    },
+    {
+      "english": "I'm finding peace, in simplicity.",
+      "arabic": "أجد السلام، في البساطة.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845603"
+    },
+    {
+      "english": "My heart is at ease, about my future.",
+      "arabic": "قلبي مرتاح، بشأن مستقبلي.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845605"
+    },
+    {
+      "english": "This is a lesson, I won't forget.",
+      "arabic": "هذا درس، لن أنساه.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845607"
+    },
+    {
+      "english": "I feel a strong hope, for better days.",
+      "arabic": "أشعر بأمل قوي، لأيام أفضل.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845608"
+    },
+    {
+      "english": "My mind is clearer, now.",
+      "arabic": "عقلي أصبح أوضح، الآن.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845610"
+    },
+    {
+      "english": "I'm practicing contentment, every day.",
+      "arabic": "أنا أمارس الرضا، كل يوم.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845612"
+    },
+    {
+      "english": "This reflection brings, inner calm.",
+      "arabic": "هذا التأمل يجلب، هدوءاً داخلياً.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845613"
+    },
+    {
+      "english": "I believe in my ability, to manage money.",
+      "arabic": "أؤمن بقدرتي، على إدارة المال.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845615"
+    },
+    {
+      "english": "It's a slow climb, but steady.",
+      "arabic": "إنه صعود بطيء، ولكنه ثابت.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845616"
+    },
+    {
+      "english": "My heart feels settled, with this plan.",
+      "arabic": "قلبي مطمئن، بهذا المخطط.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845618"
+    },
+    {
+      "english": "I choose to be optimistic, financially.",
+      "arabic": "أختار أن أكون متفائلاً، من الناحية المالية.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845620"
+    },
+    {
+      "english": "Check your balance, first thing.",
+      "arabic": "راجع رصيدك، أول شيء.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845622"
+    },
+    {
+      "english": "Save a little, every month.",
+      "arabic": "ادخر قليلاً، كل شهر.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-21T05:45:46.845625"
     }
   ],
-  "last_updated": "2026-10-20T05:42:24.463764"
+  "last_updated": "2026-10-21T05:45:46.845627"
 }
