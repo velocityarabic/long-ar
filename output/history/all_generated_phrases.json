@@ -67679,7 +67679,727 @@
       "arabic": "تعلم مهارة جديدة، تحدى نفسك.",
       "category": "Inner Peace",
       "generated_at": "2026-10-22T05:47:29.267564"
+    },
+    {
+      "english": "Yes! We made it!",
+      "arabic": "نعم! لقد نجحنا!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209606"
+    },
+    {
+      "english": "Fantastic, keep the momentum!",
+      "arabic": "رائع، حافظ على الزخم!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209623"
+    },
+    {
+      "english": "You've got this, believe in yourself!",
+      "arabic": "أنت قادر على ذلك، ثق بنفسك!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209628"
+    },
+    {
+      "english": "That's the spirit, keep pushing!",
+      "arabic": "هذه هي الروح، استمر في الدفع!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209631"
+    },
+    {
+      "english": "Excellent work, so proud of you!",
+      "arabic": "عمل ممتاز، فخور جداً بك!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209638"
+    },
+    {
+      "english": "Little by little, we get there.",
+      "arabic": "شيئاً فشيئاً، نصل إلى هناك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209641"
+    },
+    {
+      "english": "You nailed it, congratulations!",
+      "arabic": "لقد أتقنتها، تهانينا!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209644"
+    },
+    {
+      "english": "This is a big win, celebrate!",
+      "arabic": "هذا انتصار كبير، احتفل!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209650"
+    },
+    {
+      "english": "Keep that energy high!",
+      "arabic": "حافظ على هذه الطاقة العالية!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209654"
+    },
+    {
+      "english": "Well done, truly impressive!",
+      "arabic": "أحسنت، مثير للإعجاب حقاً!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209657"
+    },
+    {
+      "english": "You're on the right track!",
+      "arabic": "أنت على المسار الصحيح!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209660"
+    },
+    {
+      "english": "Every step counts, keep moving!",
+      "arabic": "كل خطوة مهمة، استمر في التحرك!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209663"
+    },
+    {
+      "english": "This is fantastic news!",
+      "arabic": "هذه أخبار رائعة!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209666"
+    },
+    {
+      "english": "You exceeded expectations!",
+      "arabic": "لقد تجاوزت التوقعات!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209669"
+    },
+    {
+      "english": "Superb effort, keep shining!",
+      "arabic": "جهد رائع، استمر في التألق!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209672"
+    },
+    {
+      "english": "Yes, that's the breakthrough!",
+      "arabic": "نعم، هذا هو الاختراق!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209677"
+    },
+    {
+      "english": "You're making great strides!",
+      "arabic": "أنت تحقق تقدماً كبيراً!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209680"
+    },
+    {
+      "english": "Brilliant job, keep it going!",
+      "arabic": "عمل لامع، استمر في ذلك!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209683"
+    },
+    {
+      "english": "This is how winners do it!",
+      "arabic": "هكذا يفعل الفائزون!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209685"
+    },
+    {
+      "english": "You're crushing it, amazing!",
+      "arabic": "أنت تحقق نجاحاً باهراً، مدهش!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209689"
+    },
+    {
+      "english": "Goals achieved, awesome!",
+      "arabic": "الأهداف تحققت، رائع!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209693"
+    },
+    {
+      "english": "You're unstoppable, fantastic!",
+      "arabic": "أنت لا يمكن إيقافك، رائع!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209696"
+    },
+    {
+      "english": "That's a major success!",
+      "arabic": "هذا نجاح كبير!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209699"
+    },
+    {
+      "english": "Keep aiming high, you will!",
+      "arabic": "استمر في التصويب العالي، ستفعلها!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209702"
+    },
+    {
+      "english": "Victory is yours, well deserved!",
+      "arabic": "النصر لك، مستحق بجدارة!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209705"
+    },
+    {
+      "english": "You've truly succeeded, bravo!",
+      "arabic": "لقد نجحت حقاً، أحسنت!",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209708"
+    },
+    {
+      "english": "What is your next goal?",
+      "arabic": "ما هو هدفك القادم؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209711"
+    },
+    {
+      "english": "How can I help you succeed?",
+      "arabic": "كيف يمكنني مساعدتك على النجاح؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209714"
+    },
+    {
+      "english": "Did you reach your target?",
+      "arabic": "هل وصلت إلى هدفك؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209717"
+    },
+    {
+      "english": "What motivated you today?",
+      "arabic": "ما الذي حمسك اليوم؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209722"
+    },
+    {
+      "english": "Can we discuss our plan?",
+      "arabic": "هل يمكننا مناقشة خطتنا؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209724"
+    },
+    {
+      "english": "Are you ready for more?",
+      "arabic": "هل أنت مستعد للمزيد؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209727"
+    },
+    {
+      "english": "How did you overcome that?",
+      "arabic": "كيف تغلبت على ذلك؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209730"
+    },
+    {
+      "english": "What is your dream project?",
+      "arabic": "ما هو مشروع أحلامك؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209733"
+    },
+    {
+      "english": "Can you share your strategy?",
+      "arabic": "هل يمكنك مشاركة استراتيجيتك؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209736"
+    },
+    {
+      "english": "Is this process working?",
+      "arabic": "هل هذه العملية تنجح؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209739"
+    },
+    {
+      "english": "What are your aspirations?",
+      "arabic": "ما هي طموحاتك؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209741"
+    },
+    {
+      "english": "Did you achieve your aim?",
+      "arabic": "هل حققت غايتك؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209744"
+    },
+    {
+      "english": "What's your secret to success?",
+      "arabic": "ما هو سر نجاحك؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209747"
+    },
+    {
+      "english": "Can we collaborate on this?",
+      "arabic": "هل يمكننا التعاون في هذا؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209750"
+    },
+    {
+      "english": "What is the next step?",
+      "arabic": "ما هي الخطوة التالية؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209753"
+    },
+    {
+      "english": "Are you feeling confident?",
+      "arabic": "هل تشعر بالثقة؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209755"
+    },
+    {
+      "english": "What inspired this decision?",
+      "arabic": "ما الذي ألهم هذا القرار؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209758"
+    },
+    {
+      "english": "How was your progress?",
+      "arabic": "كيف كان تقدمك؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209760"
+    },
+    {
+      "english": "What are your long-term plans?",
+      "arabic": "ما هي خططك طويلة الأمد؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209763"
+    },
+    {
+      "english": "Did we meet the deadline?",
+      "arabic": "هل التزمنا بالموعد النهائي؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209765"
+    },
+    {
+      "english": "What makes you proud?",
+      "arabic": "ما الذي يجعلك فخوراً؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209768"
+    },
+    {
+      "english": "Can you explain your thinking?",
+      "arabic": "هل يمكنك شرح تفكيرك؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209771"
+    },
+    {
+      "english": "What outcome did you expect?",
+      "arabic": "ما هي النتيجة التي توقعتها؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209773"
+    },
+    {
+      "english": "How did you prepare for this?",
+      "arabic": "كيف استعددت لهذا؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209776"
+    },
+    {
+      "english": "What is success to you?",
+      "arabic": "ما هو النجاح بالنسبة لك؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209778"
+    },
+    {
+      "english": "Are we on schedule?",
+      "arabic": "هل نحن على الجدول الزمني؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209783"
+    },
+    {
+      "english": "Your effort is impressive.",
+      "arabic": "جهدك ملفت للنظر.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209786"
+    },
+    {
+      "english": "Stay focused, stay strong.",
+      "arabic": "ابقَ مركزًا، ابقَ قويًا.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209788"
+    },
+    {
+      "english": "This path leads to greatness.",
+      "arabic": "هذا الطريق يؤدي للعظمة.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209793"
+    },
+    {
+      "english": "You have incredible potential.",
+      "arabic": "لديك إمكانيات مذهلة.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209796"
+    },
+    {
+      "english": "Positive thoughts bring results.",
+      "arabic": "الأفكار الإيجابية تجلب النتائج.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209799"
+    },
+    {
+      "english": "Success favors the persistent.",
+      "arabic": "النجاح يحالف المثابرين.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209801"
+    },
+    {
+      "english": "Your progress is noticeable.",
+      "arabic": "تقدمك ملحوظ.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209804"
+    },
+    {
+      "english": "Let your ambition guide you.",
+      "arabic": "دع طموحك يقودك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209807"
+    },
+    {
+      "english": "You're building something great.",
+      "arabic": "أنت تبني شيئًا عظيمًا.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209810"
+    },
+    {
+      "english": "The future looks bright.",
+      "arabic": "المستقبل يبدو مشرقًا.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209813"
+    },
+    {
+      "english": "Your mindset is key.",
+      "arabic": "عقليتك هي المفتاح.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209815"
+    },
+    {
+      "english": "Your dedication is commendable.",
+      "arabic": "تفانيك جدير بالثناء.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209819"
+    },
+    {
+      "english": "Visualize your success.",
+      "arabic": "تصوّر نجاحك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209823"
+    },
+    {
+      "english": "You possess inner strength.",
+      "arabic": "أنت تمتلك قوة داخلية.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209826"
+    },
+    {
+      "english": "Don't fear the unknown.",
+      "arabic": "لا تخف المجهول.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209829"
+    },
+    {
+      "english": "Keep your goals in sight.",
+      "arabic": "اجعل أهدافك نصب عينيك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209833"
+    },
+    {
+      "english": "Embrace growth, embrace change.",
+      "arabic": "احتضن النمو، احتضن التغيير.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209837"
+    },
+    {
+      "english": "You are creating opportunities.",
+      "arabic": "أنت تخلق الفرص.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209841"
+    },
+    {
+      "english": "Maintain your winning spirit.",
+      "arabic": "حافظ على روحك المنتصرة.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209843"
+    },
+    {
+      "english": "It's all in your hands, kid.",
+      "arabic": "كل شيء بيدك يا ولد.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209847"
+    },
+    {
+      "english": "Don't be afraid to get your hands dirty.",
+      "arabic": "لا تخف من اتساخ يديك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209851"
+    },
+    {
+      "english": "Today's effort, tomorrow's feast.",
+      "arabic": "تعب اليوم, وليمة الغد.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209854"
+    },
+    {
+      "english": "The door opens with persistence.",
+      "arabic": "الباب يُفتح بالإصرار.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209857"
+    },
+    {
+      "english": "Take one step at a time.",
+      "arabic": "خذ خطوة بخطوة.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209860"
+    },
+    {
+      "english": "Plant seeds, see the harvest.",
+      "arabic": "ازرع بذورًا, ترى الحصاد.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209863"
+    },
+    {
+      "english": "Where there's a will, there's a way.",
+      "arabic": "إنّما الشّديد من يتعلّم.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209868"
+    },
+    {
+      "english": "Patience is the key, my friend.",
+      "arabic": "الصبر مفتاح الفرج يا صاح.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209871"
+    },
+    {
+      "english": "The early bird gets the worm.",
+      "arabic": "الباكر يصيد.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209874"
+    },
+    {
+      "english": "Don't count your chickens before hatching.",
+      "arabic": "لا تبيع السمك في البحر.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209877"
+    },
+    {
+      "english": "Let the outcome surprise you.",
+      "arabic": "دع النتيجة تفاجئك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209880"
+    },
+    {
+      "english": "Every cloud has a silver lining.",
+      "arabic": "بعد العسر يسر.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209885"
+    },
+    {
+      "english": "You reap what you sow.",
+      "arabic": "كما تزرع, تحصد.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209890"
+    },
+    {
+      "english": "It's never too late to start.",
+      "arabic": "ليس متأخرًا أبدًا للبدء.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209893"
+    },
+    {
+      "english": "A stitch in time saves nine.",
+      "arabic": "الوقاية خير من العلاج.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209895"
+    },
+    {
+      "english": "The future belongs to those who believe.",
+      "arabic": "المستقبل لمن يؤمن.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209898"
+    },
+    {
+      "english": "Chase the vision, not the competition.",
+      "arabic": "اطارد الرؤيا, لا المنافسة.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209901"
+    },
+    {
+      "english": "Don't put all your eggs in one basket.",
+      "arabic": "لا تضع كل بيضك في سلة.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209904"
+    },
+    {
+      "english": "It's better late than never.",
+      "arabic": "خيرٌ من لا شيء.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209907"
+    },
+    {
+      "english": "Success is a journey, not a destination.",
+      "arabic": "النجاح رحلة, لا وجهة.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209910"
+    },
+    {
+      "english": "Focus on the process, not just results.",
+      "arabic": "ركّز على العملية, لا النتيجة.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209913"
+    },
+    {
+      "english": "Hard work always pays off.",
+      "arabic": "العمل الجاد يثمر دائمًا.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209916"
+    },
+    {
+      "english": "Believe you can, and you're halfway there.",
+      "arabic": "صدّق أنك تقدر, وهذا نصف الطريق.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209919"
+    },
+    {
+      "english": "The only way to do great work is love it.",
+      "arabic": "حبّ ما تعمل, لتعمل العظيم.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209922"
+    },
+    {
+      "english": "Feel your feelings, learn from them.",
+      "arabic": "اشعر بمشاعرك، تعلم منها.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209925"
+    },
+    {
+      "english": "This moment, is all you have.",
+      "arabic": "هذه اللحظة، هي كل ما لديك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209928"
+    },
+    {
+      "english": "What truly matters, is your inner peace.",
+      "arabic": "ما يهم حقاً، هو سلامك الداخلي.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209931"
+    },
+    {
+      "english": "Reflect deeply, find your truth.",
+      "arabic": "تأمل بعمق، ابحث عن حقيقتك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209934"
+    },
+    {
+      "english": "True strength, comes from within.",
+      "arabic": "القوة الحقيقية، تأتي من الداخل.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209937"
+    },
+    {
+      "english": "Let go of what holds you back.",
+      "arabic": "تخلَّ عن ما يعيقك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209939"
+    },
+    {
+      "english": "Your emotions, are your guides.",
+      "arabic": "مشاعرك، هي دليلك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209942"
+    },
+    {
+      "english": "Be gentle with yourself, during struggles.",
+      "arabic": "كن لطيفاً مع نفسك، وقت الصعاب.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209945"
+    },
+    {
+      "english": "Embrace vulnerability, it's a brave act.",
+      "arabic": "احتضن الضعف، إنه فعل شجاع.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209948"
+    },
+    {
+      "english": "Listen to your heart's whisper.",
+      "arabic": "استمع لهمس قلبك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209951"
+    },
+    {
+      "english": "Authenticity, leads to genuine happiness.",
+      "arabic": "الأصالة، تقود للسعادة الحقيقية.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209954"
+    },
+    {
+      "english": "Your journey, is uniquely yours.",
+      "arabic": "رحلتك، تخصك وحدك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209957"
+    },
+    {
+      "english": "Self-compassion, fuels resilience.",
+      "arabic": "التعاطف مع الذات، يغذي الصمود.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209960"
+    },
+    {
+      "english": "Acceptance, brings profound peace.",
+      "arabic": "القبول، يجلب سلاماً عميقاً.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209962"
+    },
+    {
+      "english": "Your past, doesn't define your future.",
+      "arabic": "ماضيك، لا يحدد مستقبلك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209965"
+    },
+    {
+      "english": "Forgiveness, liberates your soul.",
+      "arabic": "المسامحة، تحرر روحك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209968"
+    },
+    {
+      "english": "Seek understanding, not just answers.",
+      "arabic": "ابحث عن الفهم، لا مجرد الإجابات.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209971"
+    },
+    {
+      "english": "Connect with your authentic self.",
+      "arabic": "تواصل مع ذاتك الأصيلة.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209974"
+    },
+    {
+      "english": "Inner alignment, is true success.",
+      "arabic": "التوافق الداخلي، هو النجاح الحقيقي.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209977"
+    },
+    {
+      "english": "Embrace imperfections, they make you human.",
+      "arabic": "تقبَّل العيوب، فهي تجعلك إنسانياً.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209980"
+    },
+    {
+      "english": "Learn to sit with discomfort.",
+      "arabic": "تعلم الجلوس مع عدم الارتياح.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209986"
+    },
+    {
+      "english": "Your intuition, is a wise compass.",
+      "arabic": "حدسك، بوصلة حكيمة.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209991"
+    },
+    {
+      "english": "Express gratitude, it multiplies blessings.",
+      "arabic": "عبِّر عن الامتنان، فهو يضاعف النعم.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209994"
+    },
+    {
+      "english": "Trust the unfolding, of your life.",
+      "arabic": "ثق بانكشاف، حياتك.",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209996"
+    },
+    {
+      "english": "What lessons, are you learning now?",
+      "arabic": "ما هي الدروس، التي تتعلمها الآن؟",
+      "category": "Success",
+      "generated_at": "2026-10-23T05:46:23.209999"
     }
   ],
-  "last_updated": "2026-10-22T05:47:29.267566"
+  "last_updated": "2026-10-23T05:46:23.210001"
 }
