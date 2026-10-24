@@ -68399,7 +68399,727 @@
       "arabic": "ما هي الدروس، التي تتعلمها الآن؟",
       "category": "Success",
       "generated_at": "2026-10-23T05:46:23.209999"
+    },
+    {
+      "english": "Just a little more time, please.",
+      "arabic": "فقط المزيد من الوقت، من فضلك.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879693"
+    },
+    {
+      "english": "We need to be patient, a bit.",
+      "arabic": "نحتاج إلى الصبر، قليلاً.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879710"
+    },
+    {
+      "english": "Let's wait, and see what happens.",
+      "arabic": "لننتظر، ونرى ماذا سيحدث.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879714"
+    },
+    {
+      "english": "Don't rush, it's not a race.",
+      "arabic": "لا تتعجل، إنها ليست سباقاً.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879716"
+    },
+    {
+      "english": "Slowly, slowly, we will get there.",
+      "arabic": "رويداً رويداً، سنصل إلى هناك.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879721"
+    },
+    {
+      "english": "Give it a chance, to grow.",
+      "arabic": "أعطه فرصة، لينمو.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879723"
+    },
+    {
+      "english": "We must have patience, always.",
+      "arabic": "يجب أن نتحلى بالصبر، دائماً.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879726"
+    },
+    {
+      "english": "Let's be calm, and wait.",
+      "arabic": "لنكن هادئين، وننتظر.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879731"
+    },
+    {
+      "english": "This needs, more time.",
+      "arabic": "هذا يحتاج، المزيد من الوقت.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879734"
+    },
+    {
+      "english": "Patience yields, beautiful results.",
+      "arabic": "الصبر يجلب، نتائج جميلة.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879737"
+    },
+    {
+      "english": "Let's not be hasty, okay?",
+      "arabic": "دعنا لا نستعجل، حسناً؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879740"
+    },
+    {
+      "english": "We must learn, to wait.",
+      "arabic": "علينا أن نتعلم، الانتظار.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879742"
+    },
+    {
+      "english": "Every seed, needs time to sprout.",
+      "arabic": "كل بذرة، تحتاج وقتاً لتنبت.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879745"
+    },
+    {
+      "english": "Relax, and let it unfold.",
+      "arabic": "استرخِ، ودعه يتكشف.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879747"
+    },
+    {
+      "english": "A moment of patience, can save a lot.",
+      "arabic": "لحظة صبر، قد تنقذ الكثير.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879749"
+    },
+    {
+      "english": "Let's take our time, for this.",
+      "arabic": "لنأخذ وقتنا، لهذا.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879752"
+    },
+    {
+      "english": "The calm before, the storm's end.",
+      "arabic": "الهدوء قبل، نهاية العاصفة.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879754"
+    },
+    {
+      "english": "We'll get there, with patience.",
+      "arabic": "سنصل إلى هناك، بالصبر.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879756"
+    },
+    {
+      "english": "Let your heart, be patient.",
+      "arabic": "اجعل قلبك، صبوراً.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879758"
+    },
+    {
+      "english": "We need to be steady, and wait.",
+      "arabic": "نحتاج إلى الثبات، والانتظار.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879761"
+    },
+    {
+      "english": "Don't lose hope, just wait.",
+      "arabic": "لا تفقد الأمل، فقط انتظر.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879763"
+    },
+    {
+      "english": "Let the process, play out.",
+      "arabic": "دع العملية، تتكشف.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879765"
+    },
+    {
+      "english": "A little more waiting, will pay off.",
+      "arabic": "قليل من الانتظار، سيكافئ.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879768"
+    },
+    {
+      "english": "We're almost there, just wait.",
+      "arabic": "نحن على وشك الوصول، فقط انتظر.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879770"
+    },
+    {
+      "english": "Can you explain, this situation?",
+      "arabic": "هل يمكنك شرح، هذا الوضع؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879773"
+    },
+    {
+      "english": "How long, should we wait?",
+      "arabic": "كم من الوقت، يجب أن ننتظر؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879777"
+    },
+    {
+      "english": "Is there a solution, for now?",
+      "arabic": "هل يوجد حل، الآن؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879780"
+    },
+    {
+      "english": "What's the next step, please?",
+      "arabic": "ما هي الخطوة التالية، لو سمحت؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879783"
+    },
+    {
+      "english": "Can you advise, me on this?",
+      "arabic": "هل يمكنك نصحي، في هذا؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879785"
+    },
+    {
+      "english": "Shall we discuss, this further?",
+      "arabic": "هل نناقش، هذا أكثر؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879788"
+    },
+    {
+      "english": "Could you clarify, this point?",
+      "arabic": "هل يمكنك توضيح، هذه النقطة؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879790"
+    },
+    {
+      "english": "What is expected, from us?",
+      "arabic": "ما المتوقع، منا؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879793"
+    },
+    {
+      "english": "Can we find, a compromise?",
+      "arabic": "هل يمكننا إيجاد، حل وسط؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879795"
+    },
+    {
+      "english": "What is your opinion, dear friend?",
+      "arabic": "ما رأيك، يا صديقي العزيز؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879797"
+    },
+    {
+      "english": "When can we expect, an update?",
+      "arabic": "متى يمكننا توقع، تحديث؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879800"
+    },
+    {
+      "english": "Do you have, any suggestions?",
+      "arabic": "هل لديك، أي اقتراحات؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879802"
+    },
+    {
+      "english": "How do you handle, such situations?",
+      "arabic": "كيف تتعامل، مع مثل هذه المواقف؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879807"
+    },
+    {
+      "english": "Is there a better way, to approach this?",
+      "arabic": "هل هناك طريقة أفضل، للتعامل مع هذا؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879809"
+    },
+    {
+      "english": "What is the plan, moving forward?",
+      "arabic": "ما هي الخطة، للمضي قدما؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879811"
+    },
+    {
+      "english": "Can we brainstorm, ideas together?",
+      "arabic": "هل يمكننا تبادل الأفكار، معا؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879814"
+    },
+    {
+      "english": "What have you learned, from this?",
+      "arabic": "ماذا تعلمت، من هذا؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879816"
+    },
+    {
+      "english": "Can you share, your experience?",
+      "arabic": "هل يمكنك مشاركة، تجربتك؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879818"
+    },
+    {
+      "english": "What is the best course, of action?",
+      "arabic": "ما هو أفضل مسار، للعمل؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879820"
+    },
+    {
+      "english": "Are we on the right track,?",
+      "arabic": "هل نحن على المسار الصحيح،؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879822"
+    },
+    {
+      "english": "What outcome, do you expect?",
+      "arabic": "ما هي النتيجة، التي تتوقعها؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879824"
+    },
+    {
+      "english": "Could you elaborate, please?",
+      "arabic": "هل يمكنك التوضيح، من فضلك؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879826"
+    },
+    {
+      "english": "What are the challenges, ahead?",
+      "arabic": "ما هي التحديات، التي تنتظرنا؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879828"
+    },
+    {
+      "english": "How can we improve, our approach?",
+      "arabic": "كيف يمكننا تحسين، طريقتنا؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879830"
+    },
+    {
+      "english": "What is your take, on this issue?",
+      "arabic": "ما هو رأيك، في هذه القضية؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879832"
+    },
+    {
+      "english": "Is there any feedback, you can give?",
+      "arabic": "هل هناك أي ملاحظات، يمكنك تقديمها؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879834"
+    },
+    {
+      "english": "What’s the long-term, outlook?",
+      "arabic": "ما هو المستقبل، على المدى الطويل؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879837"
+    },
+    {
+      "english": "Should we reconsider, our strategy?",
+      "arabic": "هل يجب أن نعيد النظر، في استراتيجيتنا؟",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879840"
+    },
+    {
+      "english": "Trust the journey, it's unfolding.",
+      "arabic": "ثق بالرحلة، إنها تتكشف.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879842"
+    },
+    {
+      "english": "Good things take time, believe it.",
+      "arabic": "الأشياء الجيدة تستغرق وقتًا، صدق ذلك.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879845"
+    },
+    {
+      "english": "Patience is a virtue, my friend.",
+      "arabic": "الصبر فضيلة، يا صديقي.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879849"
+    },
+    {
+      "english": "Let's breathe, and stay calm.",
+      "arabic": "دعنا نتنفس، ونبقى هادئين.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879851"
+    },
+    {
+      "english": "Keep pushing forward, with hope.",
+      "arabic": "استمر في التقدم، بالأمل.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879854"
+    },
+    {
+      "english": "This moment is temporary, hold on.",
+      "arabic": "هذه اللحظة مؤقتة، تمسك.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879856"
+    },
+    {
+      "english": "Inner peace, comes with waiting.",
+      "arabic": "السلام الداخلي، يأتي مع الانتظار.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879858"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "arabic": "أنت أقوى مما تعتقد.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879861"
+    },
+    {
+      "english": "Let go of stress, embrace patience.",
+      "arabic": "تخل عن التوتر، احتضن الصبر.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879863"
+    },
+    {
+      "english": "Every challenge, builds resilience.",
+      "arabic": "كل تحدٍ، يبني المرونة.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879866"
+    },
+    {
+      "english": "Stay positive, the results will show.",
+      "arabic": "ابق إيجابيًا، ستظهر النتائج.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879870"
+    },
+    {
+      "english": "This is a learning curve, adapt.",
+      "arabic": "هذا منحنى تعليمي، تكيف.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879873"
+    },
+    {
+      "english": "Patience brings clarity, be patient.",
+      "arabic": "الصبر يجلب الوضوح، كن صبورًا.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879875"
+    },
+    {
+      "english": "The reward is worth, the wait.",
+      "arabic": "المكافأة تستحق، الانتظار.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879878"
+    },
+    {
+      "english": "Don't rush perfection, it takes time.",
+      "arabic": "لا تتسرع الكمال، يستغرق وقتًا.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879880"
+    },
+    {
+      "english": "Focus on progress, not just speed.",
+      "arabic": "ركز على التقدم، وليس السرعة فقط.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879884"
+    },
+    {
+      "english": "Your perseverance matters, truly.",
+      "arabic": "مثابرتك مهمة، حقًا.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879886"
+    },
+    {
+      "english": "Handle this with grace, and time.",
+      "arabic": "تعامل مع هذا بلطف، ومع الوقت.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879889"
+    },
+    {
+      "english": "Your mind is powerful, stay calm.",
+      "arabic": "عقلك قوي، حافظ على هدوئك.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879891"
+    },
+    {
+      "english": "One step at a time, you'll get there.",
+      "arabic": "خطوة بخطوة، ستصل إلى هناك.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879894"
+    },
+    {
+      "english": "This situation needs understanding, and time.",
+      "arabic": "هذا الموقف يحتاج تفهمًا، ووقتًا.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879896"
+    },
+    {
+      "english": "Let challenges refine you, gently.",
+      "arabic": "دع التحديات تصقلك، بلطف.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879898"
+    },
+    {
+      "english": "The best outcomes, require patience.",
+      "arabic": "أفضل النتائج، تتطلب صبرًا.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879901"
+    },
+    {
+      "english": "Maintain composure, and wait wisely.",
+      "arabic": "حافظ على رباطة جأشك، وانتظر بحكمة.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879903"
+    },
+    {
+      "english": "Slowly, but surely, we'll get there.",
+      "arabic": "بشويش، بس بالتدريج، بنوصل.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879905"
+    },
+    {
+      "english": "Don't worry, it's not the end of the world.",
+      "arabic": "لا تقلق، مو نهاية العالم.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879908"
+    },
+    {
+      "english": "This needs time, like a good meal.",
+      "arabic": "هذي يبغالها وقت، زي الأكل الزين.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879910"
+    },
+    {
+      "english": "Take a deep breath, and don't rush.",
+      "arabic": "خذ نفس عميق، ولا تستعجل.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879913"
+    },
+    {
+      "english": "Let's see what happens, with time.",
+      "arabic": "خلينا نشوف وش بيصير، مع الوقت.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879916"
+    },
+    {
+      "english": "No need to panic, just wait a bit.",
+      "arabic": "ما له داعي الهلع، انتظر شوي.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879918"
+    },
+    {
+      "english": "This is a marathon, not a sprint.",
+      "arabic": "هذي ماراثون، مو سباق سرعة.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879920"
+    },
+    {
+      "english": "Let things unfold naturally, like a flower.",
+      "arabic": "خل الأمور تمشي طبيعي، زي الوردة.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879924"
+    },
+    {
+      "english": "We have to be patient, like a good farmer.",
+      "arabic": "لازم نصبر، زي الفلاح الشاطر.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879927"
+    },
+    {
+      "english": "It's better to wait, than to regret later.",
+      "arabic": "أحسن ما نستعجل، ونندم بعدين.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879929"
+    },
+    {
+      "english": "This is a test, let's pass it calmly.",
+      "arabic": "هذا اختبار، نعديه بهدوء.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879931"
+    },
+    {
+      "english": "Patience now, reward later, ins'shallah.",
+      "arabic": "صبر الحين، والرزق بعدين، إن شاء الله.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879934"
+    },
+    {
+      "english": "Don't get frustrated, it takes time.",
+      "arabic": "لا تتضايق، الموضوع ياخذ وقته.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879936"
+    },
+    {
+      "english": "We must be calm, like still water.",
+      "arabic": "لازم نكون هاديين، زي الموية الساكنة.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879939"
+    },
+    {
+      "english": "Every delay has a wisdom, perhaps.",
+      "arabic": "كل تأخيره، فيها خيره، يمكن.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879941"
+    },
+    {
+      "english": "Let's give it some breathing room.",
+      "arabic": "خلنا نعطي الموضوع مساحة يتنفس.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879944"
+    },
+    {
+      "english": "This requires more than just speed.",
+      "arabic": "هذا يبي له أكثر من مجرد سرعة.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879946"
+    },
+    {
+      "english": "We need to let it cook a little.",
+      "arabic": "نحتاج نخليه يستوي شوي.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879950"
+    },
+    {
+      "english": "Just keep going, don't lose hope.",
+      "arabic": "بس استمر، لا تفقد الأمل.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879953"
+    },
+    {
+      "english": "This is a slow process, accept it.",
+      "arabic": "هذي عملية بطيئة، تقبلها.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879955"
+    },
+    {
+      "english": "Let time do its magic, don't force it.",
+      "arabic": "خل الوقت يسوي سحره، لا تجبره.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879957"
+    },
+    {
+      "english": "We'll get there, eventually.",
+      "arabic": "بنوصل، في النهاية.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879960"
+    },
+    {
+      "english": "Don't push too hard, let it flow.",
+      "arabic": "لا تضغط كثير، خلها تمشي.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879962"
+    },
+    {
+      "english": "Good things, come to those who wait.",
+      "arabic": "الأشياء الحلوة، تجي للي يصبر.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879966"
+    },
+    {
+      "english": "We need patience, like salt in food.",
+      "arabic": "نحتاج صبر، زي الملح في الأكل.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879968"
+    },
+    {
+      "english": "This is a journey, enjoy the ride.",
+      "arabic": "هذي رحلة، استمتع بالطريق.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879970"
+    },
+    {
+      "english": "Let's not make a hasty decision.",
+      "arabic": "لا نتسرع في القرار.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879972"
+    },
+    {
+      "english": "Hold on tight, the dawn is coming.",
+      "arabic": "تمسك زين، الفجر بيجي.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879974"
+    },
+    {
+      "english": "Adjust your expectations, please.",
+      "arabic": "رجاءً، اضبط توقعاتك.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879977"
+    },
+    {
+      "english": "Take breaks, recharge your energy.",
+      "arabic": "خذ استراحات، جدد طاقتك.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879979"
+    },
+    {
+      "english": "Focus on the process, not the outcome.",
+      "arabic": "ركز على العملية، لا النتيجة.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879981"
+    },
+    {
+      "english": "Breathe deeply, find your center.",
+      "arabic": "تنفس بعمق، ابحث عن مركزك.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879984"
+    },
+    {
+      "english": "This requires careful thought, not haste.",
+      "arabic": "هذا يتطلب تفكيراً متأنياً، لا عجلة.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879986"
+    },
+    {
+      "english": "Observe the situation, calmly.",
+      "arabic": "راقب الموقف، بهدوء.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879989"
+    },
+    {
+      "english": "This is a learning curve, embrace it.",
+      "arabic": "هذه منحنى تعلم، تقبله.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879991"
+    },
+    {
+      "english": "Allow for adjustments, along the way.",
+      "arabic": "اسمح بالتعديلات، على طول الطريق.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879993"
+    },
+    {
+      "english": "Manage your energy, wisely.",
+      "arabic": "أدر طاقتك، بحكمة.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879996"
+    },
+    {
+      "english": "What's meant to be, will be.",
+      "arabic": "ما كُتب سيكون، سيحدث.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.879998"
+    },
+    {
+      "english": "This needs time, to settle.",
+      "arabic": "هذا يحتاج وقتاً، ليستقر.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.880000"
+    },
+    {
+      "english": "Don't rush, important things take time.",
+      "arabic": "لا تستعجل، الأمور المهمة تأخذ وقتاً.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.880003"
+    },
+    {
+      "english": "Slow down, observe the details.",
+      "arabic": "أبطئ، لاحظ التفاصيل.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.880005"
+    },
+    {
+      "english": "Accept imperfections, for now.",
+      "arabic": "تقبل العيوب، في الوقت الحالي.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.880008"
+    },
+    {
+      "english": "This is a slow burn, be patient.",
+      "arabic": "هذا احتراق بطيء، كن صبوراً.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.880010"
+    },
+    {
+      "english": "Give yourself grace, and time.",
+      "arabic": "امنح نفسك لطفاً، ووقتاً.",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:26:01.880012"
     }
   ],
-  "last_updated": "2026-10-23T05:46:23.210001"
+  "last_updated": "2026-10-24T05:26:01.880014"
 }
