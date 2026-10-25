@@ -69119,7 +69119,727 @@
       "arabic": "امنح نفسك لطفاً، ووقتاً.",
       "category": "Patience",
       "generated_at": "2026-10-24T05:26:01.880012"
+    },
+    {
+      "english": "Take a moment, pause now.",
+      "arabic": "خذ لحظة، توقف الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165909"
+    },
+    {
+      "english": "Listen closely, what do you hear?",
+      "arabic": "استمع جيداً، ماذا تسمع؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165927"
+    },
+    {
+      "english": "Let worries, fade away.",
+      "arabic": "دع الهموم، تتلاشى.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165931"
+    },
+    {
+      "english": "This moment, is a gift.",
+      "arabic": "هذه اللحظة، هدية.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165934"
+    },
+    {
+      "english": "Notice the feeling, in your hands.",
+      "arabic": "لاحظ الشعور، في يديك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165938"
+    },
+    {
+      "english": "What is, truly important?",
+      "arabic": "ما هو، المهم حقاً؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165941"
+    },
+    {
+      "english": "Stay centered, in the chaos.",
+      "arabic": "ابق متزناً، في الفوضى.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165944"
+    },
+    {
+      "english": "Acknowledge your, emotions kindly.",
+      "arabic": "اعترف بمشاعرك، بلطف.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165951"
+    },
+    {
+      "english": "See the world, with fresh eyes.",
+      "arabic": "انظر للعالم، بعينين جديدتين.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165955"
+    },
+    {
+      "english": "Find comfort, in the silence.",
+      "arabic": "ابحث عن الراحة، في السكون.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165958"
+    },
+    {
+      "english": "Appreciate this, simple moment.",
+      "arabic": "قدّر هذه، اللحظة البسيطة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165961"
+    },
+    {
+      "english": "Observe your, inner landscape.",
+      "arabic": "راقب، منظرِك الداخلي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165964"
+    },
+    {
+      "english": "Embrace the, unfolding now.",
+      "arabic": "احتضن، ما يتكشف الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165967"
+    },
+    {
+      "english": "Let kindness, guide you.",
+      "arabic": "دع اللطف، يوجهك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165969"
+    },
+    {
+      "english": "This is, enough for now.",
+      "arabic": "هذا، كافٍ الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165972"
+    },
+    {
+      "english": "Tune into, your body's wisdom.",
+      "arabic": "استمع لحكمة، جسدك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165975"
+    },
+    {
+      "english": "Find calm, in your core.",
+      "arabic": "ابحث عن الهدوء، في مركزك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165978"
+    },
+    {
+      "english": "Acknowledge the, passing clouds.",
+      "arabic": "لاحظ، السحب العابرة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165983"
+    },
+    {
+      "english": "Let go, of control.",
+      "arabic": "تخلَّ عن، السيطرة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165986"
+    },
+    {
+      "english": "This breath, is fresh start.",
+      "arabic": "هذا النفس، بداية جديدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165989"
+    },
+    {
+      "english": "Notice the, small details.",
+      "arabic": "لاحظ، التفاصيل الصغيرة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165991"
+    },
+    {
+      "english": "Can you help me, understand this feeling?",
+      "arabic": "هل يمكنك مساعدتي، في فهم هذا الشعور؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165995"
+    },
+    {
+      "english": "What are you thinking, about right now?",
+      "arabic": "ماذا تفكر، فيه الآن؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.165998"
+    },
+    {
+      "english": "Is it okay, to feel this way?",
+      "arabic": "هل من الطبيعي، أن أشعر هكذا؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166002"
+    },
+    {
+      "english": "What brings you, a sense of peace?",
+      "arabic": "ما الذي يجلب لك، شعوراً بالسلام؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166005"
+    },
+    {
+      "english": "Can we talk, about your experience?",
+      "arabic": "هل يمكننا التحدث، عن تجربتك؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166008"
+    },
+    {
+      "english": "Do you have any, advice for focus?",
+      "arabic": "هل لديك أي، نصيحة للتركيز؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166011"
+    },
+    {
+      "english": "What helps you, stay present?",
+      "arabic": "ما الذي يساعدك، على البقاء حاضراً؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166014"
+    },
+    {
+      "english": "How do you handle, difficult thoughts?",
+      "arabic": "كيف تتعامل، مع الأفكار الصعبة؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166017"
+    },
+    {
+      "english": "Could you share, your breathing technique?",
+      "arabic": "هل يمكنك مشاركة، طريقة تنفسك؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166019"
+    },
+    {
+      "english": "What do you notice, when you're quiet?",
+      "arabic": "ماذا تلاحظ، عندما تكون هادئاً؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166022"
+    },
+    {
+      "english": "Is there something, I should know?",
+      "arabic": "هل هناك شيء، يجب أن أعرفه؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166025"
+    },
+    {
+      "english": "What is your, favorite quiet space?",
+      "arabic": "ما هو مكانك, الهادئ المفضل؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166028"
+    },
+    {
+      "english": "Can you teach me, to be more mindful?",
+      "arabic": "هل يمكنك تعليمي، أن أكون أكثر وعياً؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166031"
+    },
+    {
+      "english": "What does 'being present' mean, to you?",
+      "arabic": "ماذا يعني 'التواجد', بالنسبة لك؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166037"
+    },
+    {
+      "english": "Do you find value, in reflection?",
+      "arabic": "هل تجد قيمة، في التأمل؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166039"
+    },
+    {
+      "english": "How can I, improve my focus?",
+      "arabic": "كيف يمكنني، تحسين تركيزي؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166042"
+    },
+    {
+      "english": "What is the benefit, of pausing?",
+      "arabic": "ما هي فائدة، التوقف للحظة؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166045"
+    },
+    {
+      "english": "Can you guide me, through this exercise?",
+      "arabic": "هل يمكنك إرشادي، خلال هذا التمرين؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166048"
+    },
+    {
+      "english": "How do you, reconnect with yourself?",
+      "arabic": "كيف تعيد، الاتصال بنفسك؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166051"
+    },
+    {
+      "english": "What helps you, calm your mind?",
+      "arabic": "ما الذي يساعدك، على تهدئة عقلك؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166053"
+    },
+    {
+      "english": "Can you explain, this mindfulness concept?",
+      "arabic": "هل يمكنك شرح، مفهوم اليقظة هذا؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166056"
+    },
+    {
+      "english": "What's your approach, to daily stress?",
+      "arabic": "ما هو نهجك، للتعامل مع التوتر اليومي؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166059"
+    },
+    {
+      "english": "Do you ever, feel overwhelmed?",
+      "arabic": "هل تشعر، بالإرهاق أحياناً؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166062"
+    },
+    {
+      "english": "What's a simple, mindful activity?",
+      "arabic": "ما هو نشاط، بسيط ويقظ؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166065"
+    },
+    {
+      "english": "How do you, find inner strength?",
+      "arabic": "كيف تجد، القوة الداخلية؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166068"
+    },
+    {
+      "english": "Can you suggest, a good meditation?",
+      "arabic": "هل يمكنك اقتراح، تأمل جيد؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166071"
+    },
+    {
+      "english": "How can we, be more mindful together?",
+      "arabic": "كيف يمكننا، أن نكون أكثر وعياً معاً؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166077"
+    },
+    {
+      "english": "Your progress is noticeable, well done.",
+      "arabic": "تقدمك ملحوظ، أحسنت.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166080"
+    },
+    {
+      "english": "Believe in your ability, you can do it.",
+      "arabic": "صدق بقدرتك، يمكنك فعل ذلك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166083"
+    },
+    {
+      "english": "Every small step counts, don't give up.",
+      "arabic": "كل خطوة صغيرة مهمة، لا تستسلم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166086"
+    },
+    {
+      "english": "Your effort is appreciated, thank you.",
+      "arabic": "جهدك محل تقدير، شكراً لك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166090"
+    },
+    {
+      "english": "You have a strong inner will.",
+      "arabic": "لديك إرادة داخلية قوية.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166092"
+    },
+    {
+      "english": "Your potential is limitless, explore it.",
+      "arabic": "إمكانياتك لا حدود لها، استكشفها.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166095"
+    },
+    {
+      "english": "Be proud of your journey, so far.",
+      "arabic": "كن فخوراً برحلتك، حتى الآن.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166100"
+    },
+    {
+      "english": "Your mindset shapes your reality.",
+      "arabic": "عقليتك تشكل واقعك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166103"
+    },
+    {
+      "english": "Cultivate patience, with yourself.",
+      "arabic": "ازرع الصبر، مع نفسك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166106"
+    },
+    {
+      "english": "You are learning, and that's fantastic.",
+      "arabic": "أنت تتعلم، وهذا رائع.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166110"
+    },
+    {
+      "english": "Your dedication is truly inspiring.",
+      "arabic": "تفانيك ملهم حقاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166112"
+    },
+    {
+      "english": "Give yourself credit, for trying.",
+      "arabic": "امنح نفسك تقديراً، لمحاولتك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166115"
+    },
+    {
+      "english": "Embrace growth, it's a natural part.",
+      "arabic": "احتضن النمو، إنه جزء طبيعي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166118"
+    },
+    {
+      "english": "You are resilient, and adaptable.",
+      "arabic": "أنت مرن، وقابل للتكيف.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166121"
+    },
+    {
+      "english": "Your determination is admirable.",
+      "arabic": "عزيمتك جديرة بالثناء.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166124"
+    },
+    {
+      "english": "Keep that positive momentum going.",
+      "arabic": "حافظ على هذا الزخم الإيجابي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166127"
+    },
+    {
+      "english": "You are creating, positive change.",
+      "arabic": "أنت تخلق تغييراً إيجابياً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166130"
+    },
+    {
+      "english": "Your effort leads to, great rewards.",
+      "arabic": "جهدك يؤدي إلى، مكافآت عظيمة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166133"
+    },
+    {
+      "english": "You are mastering, this new skill.",
+      "arabic": "أنت تتقن، هذه المهارة الجديدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166137"
+    },
+    {
+      "english": "Your commitment shines, brightly.",
+      "arabic": "التزامك يلمع، ببراعة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166140"
+    },
+    {
+      "english": "Keep nurturing, your inner growth.",
+      "arabic": "استمر في تغذية، نموك الداخلي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166143"
+    },
+    {
+      "english": "You have the strength, to overcome.",
+      "arabic": "لديك القوة، للتغلب.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166146"
+    },
+    {
+      "english": "Take it easy, friend.",
+      "arabic": "خد الأمور ببساطة يا صديقي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166149"
+    },
+    {
+      "english": "Breathe deep, let go.",
+      "arabic": "تنفس بعمق، ودع كل شيء.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166152"
+    },
+    {
+      "english": "Feel the moment, fully.",
+      "arabic": "اشعر باللحظة، بكاملها.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166168"
+    },
+    {
+      "english": "Just be, don't think.",
+      "arabic": "فقط كن، لا تفكر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166172"
+    },
+    {
+      "english": "Your inner world, matters.",
+      "arabic": "عالمك الداخلي، مهم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166175"
+    },
+    {
+      "english": "Trust your intuition.",
+      "arabic": "ثق بحدسك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166178"
+    },
+    {
+      "english": "Live simply, be content.",
+      "arabic": "عش ببساطة، وكن قانعاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166181"
+    },
+    {
+      "english": "Flow like water.",
+      "arabic": "سر مثل الماء.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166184"
+    },
+    {
+      "english": "Empty your mind.",
+      "arabic": "أفرغ عقلك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166186"
+    },
+    {
+      "english": "Every breath, a new start.",
+      "arabic": "كل نفس، بداية جديدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166190"
+    },
+    {
+      "english": "Mind your own business.",
+      "arabic": "اهتم بشؤونك الخاصة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166192"
+    },
+    {
+      "english": "Go with the flow.",
+      "arabic": "سر مع التيار.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166195"
+    },
+    {
+      "english": "Be like a tree.",
+      "arabic": "كن مثل الشجرة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166198"
+    },
+    {
+      "english": "Open your awareness.",
+      "arabic": "افتح وعيك.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166200"
+    },
+    {
+      "english": "Seek inner quiet.",
+      "arabic": "ابحث عن السكون الداخلي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166203"
+    },
+    {
+      "english": "Let it be.",
+      "arabic": "دعه يكون.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166206"
+    },
+    {
+      "english": "Mindfulness is freedom.",
+      "arabic": "اليقظة هي الحرية.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166209"
+    },
+    {
+      "english": "Today, I feel calm, and centered.",
+      "arabic": "اليوم، أشعر بالهدوء، والاتزان.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166212"
+    },
+    {
+      "english": "What's truly important, right now?",
+      "arabic": "ما هو المهم حقاً، الآن؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166217"
+    },
+    {
+      "english": "I accept myself, just as I am.",
+      "arabic": "أتقبل نفسي، كما أنا.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166220"
+    },
+    {
+      "english": "Where does this thought, come from?",
+      "arabic": "من أين يأتي هذا الفكر؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166223"
+    },
+    {
+      "english": "My mind, can be quiet.",
+      "arabic": "عقلي، يمكن أن يكون هادئاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166226"
+    },
+    {
+      "english": "I choose peace, over stress.",
+      "arabic": "أختار السلام، على التوتر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166229"
+    },
+    {
+      "english": "This moment, is enough.",
+      "arabic": "هذه اللحظة، كافية.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166232"
+    },
+    {
+      "english": "I am learning, to be patient.",
+      "arabic": "أتعلم، أن أكون صبوراً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166234"
+    },
+    {
+      "english": "My reactions, don't define me.",
+      "arabic": "ردود أفعالي، لا تعرفني.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166237"
+    },
+    {
+      "english": "What can I appreciate, today?",
+      "arabic": "ما الذي يمكنني تقديره، اليوم؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166240"
+    },
+    {
+      "english": "I am not my, thoughts.",
+      "arabic": "أنا لست أفكاري.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166245"
+    },
+    {
+      "english": "Kindness, starts within.",
+      "arabic": "اللطف، يبدأ من الداخل.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166248"
+    },
+    {
+      "english": "This challenge, will pass.",
+      "arabic": "هذا التحدي، سيمر.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166251"
+    },
+    {
+      "english": "I listen, to my body.",
+      "arabic": "أستمع، إلى جسدي.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166253"
+    },
+    {
+      "english": "I let go, of what doesn't serve.",
+      "arabic": "أتخلى، عن ما لا يخدم.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166256"
+    },
+    {
+      "english": "Honesty, with myself, first.",
+      "arabic": "الصدق، مع نفسي، أولاً.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166260"
+    },
+    {
+      "english": "What lesson, is here?",
+      "arabic": "ما هو الدرس، هنا؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166262"
+    },
+    {
+      "english": "I am breathing, in peace.",
+      "arabic": "أتنفس، السلام.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166266"
+    },
+    {
+      "english": "This pause, is needed.",
+      "arabic": "هذه الوقفة، ضرورية.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166268"
+    },
+    {
+      "english": "Wisdom grows, from stillness.",
+      "arabic": "الحكمة تنمو، من السكون.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166273"
+    },
+    {
+      "english": "My heart, knows the way.",
+      "arabic": "قلبي، يعرف الطريق.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166276"
+    },
+    {
+      "english": "I allow, myself to feel.",
+      "arabic": "أسمح، لنفسي بالشعور.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166279"
+    },
+    {
+      "english": "Gratitude, shifts perspective.",
+      "arabic": "الامتنان، يغير المنظور.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166282"
+    },
+    {
+      "english": "I am present, fully.",
+      "arabic": "أنا حاضر، بالكامل.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166285"
+    },
+    {
+      "english": "Small steps daily, big changes.",
+      "arabic": "خطوات صغيرة يومياً، تغييرات كبيرة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166288"
+    },
+    {
+      "english": "When stuck, ask for help.",
+      "arabic": "عندما تتعثر، اطلب المساعدة.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166292"
+    },
+    {
+      "english": "Mistakes are just lessons.",
+      "arabic": "الأخطاء دروس فقط.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166296"
+    },
+    {
+      "english": "Be kind, even when tired.",
+      "arabic": "كن لطيفاً، حتى وأنت متعب.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166299"
+    },
+    {
+      "english": "One thing at a time, please.",
+      "arabic": "شيء واحد في كل مرة، لو سمحت.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166302"
+    },
+    {
+      "english": "Can you simplify this task?",
+      "arabic": "هل يمكنك تبسيط هذه المهمة؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166305"
+    },
+    {
+      "english": "Take a moment, before reacting.",
+      "arabic": "خذ لحظة، قبل أن ترد.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166308"
+    },
+    {
+      "english": "What's one small win today?",
+      "arabic": "ما هو انتصار صغير واحد اليوم؟",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166311"
+    },
+    {
+      "english": "Share your thoughts, calmly.",
+      "arabic": "شارك أفكارك، بهدوء.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:44:42.166313"
     }
   ],
-  "last_updated": "2026-10-24T05:26:01.880014"
+  "last_updated": "2026-10-25T05:44:42.166315"
 }
