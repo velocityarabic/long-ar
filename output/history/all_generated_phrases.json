@@ -69839,7 +69839,727 @@
       "arabic": "شارك أفكارك، بهدوء.",
       "category": "Mindfulness",
       "generated_at": "2026-10-25T05:44:42.166313"
+    },
+    {
+      "english": "I'm so happy to see you.",
+      "arabic": "أنا سعيد جداً لرؤيتك.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222883"
+    },
+    {
+      "english": "This is great news!",
+      "arabic": "هذا خبر رائع!",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222897"
+    },
+    {
+      "english": "I feel wonderful today.",
+      "arabic": "أشعر بشعور رائع اليوم.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222900"
+    },
+    {
+      "english": "That makes me smile.",
+      "arabic": "هذا يجعلني أبتسم.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222903"
+    },
+    {
+      "english": "What a lovely day!",
+      "arabic": "يا له من يوم جميل!",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222906"
+    },
+    {
+      "english": "I'm feeling very optimistic.",
+      "arabic": "أنا متفائل جداً.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222908"
+    },
+    {
+      "english": "Everything is going well.",
+      "arabic": "كل شيء يسير على ما يرام.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222911"
+    },
+    {
+      "english": "That sounds fantastic!",
+      "arabic": "هذا يبدو رائعاً!",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222916"
+    },
+    {
+      "english": "I'm in a good mood.",
+      "arabic": "مزاجي جيد.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222920"
+    },
+    {
+      "english": "I feel so content.",
+      "arabic": "أشعر بالرضا التام.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222923"
+    },
+    {
+      "english": "What a pleasant experience!",
+      "arabic": "يا لها من تجربة ممتعة!",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222926"
+    },
+    {
+      "english": "I'm feeling very hopeful.",
+      "arabic": "أشعر بالكثير من الأمل.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222930"
+    },
+    {
+      "english": "I'm so excited about this.",
+      "arabic": "أنا متحمس جداً لهذا.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222933"
+    },
+    {
+      "english": "This brings me joy.",
+      "arabic": "هذا يجلب لي السعادة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222936"
+    },
+    {
+      "english": "I'm feeling quite cheerful.",
+      "arabic": "أشعر ببعض البهجة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222938"
+    },
+    {
+      "english": "That's wonderful to hear.",
+      "arabic": "هذا رائع أن نسمع.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222941"
+    },
+    {
+      "english": "I feel completely at ease.",
+      "arabic": "أشعر براحة تامة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222944"
+    },
+    {
+      "english": "This is a happy moment.",
+      "arabic": "هذه لحظة سعيدة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222946"
+    },
+    {
+      "english": "I'm feeling very refreshed.",
+      "arabic": "أشعر بالانتعاش الشديد.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222949"
+    },
+    {
+      "english": "What a delightful occasion!",
+      "arabic": "يا لها من مناسبة بهيجة!",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222951"
+    },
+    {
+      "english": "This is absolutely perfect.",
+      "arabic": "هذا مثالي تماماً.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222954"
+    },
+    {
+      "english": "I'm filled with gratitude.",
+      "arabic": "قلبي ممتلئ بالامتنان.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222956"
+    },
+    {
+      "english": "Everything feels so right.",
+      "arabic": "كل شيء يبدو صحيحاً.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222959"
+    },
+    {
+      "english": "This is incredibly uplifting.",
+      "arabic": "هذا ملهم بشكل لا يصدق.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222963"
+    },
+    {
+      "english": "I feel so peaceful right now.",
+      "arabic": "أشعر بالسلام التام الآن.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222966"
+    },
+    {
+      "english": "What brings you, joy?",
+      "arabic": "ما الذي يجلب لك، السعادة؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222968"
+    },
+    {
+      "english": "Tell me something, good?",
+      "arabic": "أخبرني شيئًا، جيدًا؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222971"
+    },
+    {
+      "english": "Is everything okay, with you?",
+      "arabic": "هل كل شيء على ما يرام، معك؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222974"
+    },
+    {
+      "english": "What's making you, happy?",
+      "arabic": "ما الذي يجعلك، سعيدًا؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222976"
+    },
+    {
+      "english": "Can you share, a happy thought?",
+      "arabic": "هل يمكنك مشاركة، فكرة سعيدة؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222979"
+    },
+    {
+      "english": "What's your secret, to happiness?",
+      "arabic": "ما هو سرك، للسعادة؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222982"
+    },
+    {
+      "english": "Are you enjoying, this moment?",
+      "arabic": "هل تستمتع، بهذه اللحظة؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222985"
+    },
+    {
+      "english": "How did that, make you feel?",
+      "arabic": "كيف جعلك ذلك، تشعر؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222988"
+    },
+    {
+      "english": "Should we do, something fun?",
+      "arabic": "هل يجب أن نفعل، شيئًا ممتعًا؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222991"
+    },
+    {
+      "english": "What would make, you smile?",
+      "arabic": "ما الذي سيجعلك، تبتسم؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222993"
+    },
+    {
+      "english": "Is there any, advice you have?",
+      "arabic": "هل لديك أي، نصيحة؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222996"
+    },
+    {
+      "english": "Did you hear, the good news?",
+      "arabic": "هل سمعت، الأخبار الجيدة؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.222999"
+    },
+    {
+      "english": "What are your, plans for today?",
+      "arabic": "ما هي خططك، لهذا اليوم؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223003"
+    },
+    {
+      "english": "Are you happy, with the result?",
+      "arabic": "هل أنت راضٍ، عن النتيجة؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223006"
+    },
+    {
+      "english": "What's one thing, you love?",
+      "arabic": "ما هو الشيء الوحيد، الذي تحبه؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223009"
+    },
+    {
+      "english": "What's your favorite, happy memory?",
+      "arabic": "ما هي ذكرى، سعيدة مفضلة لديك؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223012"
+    },
+    {
+      "english": "Do you agree, with this idea?",
+      "arabic": "هل توافق، على هذه الفكرة؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223015"
+    },
+    {
+      "english": "What makes you, feel good?",
+      "arabic": "ما الذي يجعلك، تشعر بالرضا؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223018"
+    },
+    {
+      "english": "Can we discuss, this later?",
+      "arabic": "هل يمكننا مناقشة، هذا لاحقًا؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223020"
+    },
+    {
+      "english": "What's your opinion, on happiness?",
+      "arabic": "ما رأيك، في السعادة؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223023"
+    },
+    {
+      "english": "Are you ready, for this?",
+      "arabic": "هل أنت مستعد، لهذا؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223026"
+    },
+    {
+      "english": "Do you want, to talk more?",
+      "arabic": "هل تريد، التحدث أكثر؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223028"
+    },
+    {
+      "english": "What's the plan, now?",
+      "arabic": "ما هي الخطة، الآن؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223033"
+    },
+    {
+      "english": "Anything else, I can do?",
+      "arabic": "هل هناك أي شيء آخر، يمكنني فعله؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223035"
+    },
+    {
+      "english": "Your efforts will pay off.",
+      "arabic": "جهودك ستؤتي ثمارها.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223038"
+    },
+    {
+      "english": "Stay positive, stay strong.",
+      "arabic": "ابق إيجابياً، ابق قوياً.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223041"
+    },
+    {
+      "english": "Embrace challenges with courage.",
+      "arabic": "واجه التحديات بشجاعة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223043"
+    },
+    {
+      "english": "See the good in every situation.",
+      "arabic": "ابحث عن الخير في كل موقف.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223046"
+    },
+    {
+      "english": "Believe in the process.",
+      "arabic": "آمن بالعملية.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223048"
+    },
+    {
+      "english": "A little progress each day.",
+      "arabic": "تقدم قليل كل يوم.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223051"
+    },
+    {
+      "english": "Your positive energy is contagious.",
+      "arabic": "طاقتك الإيجابية معدية.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223055"
+    },
+    {
+      "english": "Don't doubt your abilities.",
+      "arabic": "لا تشك في قدراتك.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223058"
+    },
+    {
+      "english": "Think big, act boldly.",
+      "arabic": "فكر بإيجابية، تصرف بجرأة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223060"
+    },
+    {
+      "english": "You've got this, easily.",
+      "arabic": "يمكنك فعلها، بكل سهولة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223064"
+    },
+    {
+      "english": "Your persistence is admirable.",
+      "arabic": "مثابرتك جديرة بالثناء.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223066"
+    },
+    {
+      "english": "Create your own happiness.",
+      "arabic": "اصنع سعادتك بنفسك.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223069"
+    },
+    {
+      "english": "You inspire others, you know.",
+      "arabic": "أنت تلهم الآخرين، هل تعلم؟",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223071"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "arabic": "حافظ على رفع رأسك، دائماً.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223074"
+    },
+    {
+      "english": "Your resilience is amazing.",
+      "arabic": "صمودك مذهل.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223077"
+    },
+    {
+      "english": "You are on the right path.",
+      "arabic": "أنت على الطريق الصحيح.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223081"
+    },
+    {
+      "english": "My heart is full, with joy.",
+      "arabic": "قلبي مليء, بالفرح.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223084"
+    },
+    {
+      "english": "Life is sweet, like honey.",
+      "arabic": "الحياة حلوة, مثل العسل.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223087"
+    },
+    {
+      "english": "Good times, are rolling.",
+      "arabic": "الأوقات الحلوة, تدوم.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223089"
+    },
+    {
+      "english": "Every day, brings a smile.",
+      "arabic": "كل يوم, يجلب بسمة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223092"
+    },
+    {
+      "english": "I feel light, as a feather.",
+      "arabic": "أشعر بالخفة, كالريشة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223095"
+    },
+    {
+      "english": "My soul, is singing.",
+      "arabic": "روحي, تغني.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223098"
+    },
+    {
+      "english": "A good day, indeed.",
+      "arabic": "يوم جميل, حقاً.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223101"
+    },
+    {
+      "english": "Happiness, knocked on my door.",
+      "arabic": "السعادة, طرقت بابي.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223103"
+    },
+    {
+      "english": "Feeling great, today.",
+      "arabic": "شعور رائع, اليوم.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223106"
+    },
+    {
+      "english": "My cup, overflows.",
+      "arabic": "كأسي, يفيض.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223108"
+    },
+    {
+      "english": "Smiling from ear, to ear.",
+      "arabic": "أبتسم من الأذن, للأذن.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223111"
+    },
+    {
+      "english": "Everything is, bright now.",
+      "arabic": "كل شيء, مشرق الآن.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223114"
+    },
+    {
+      "english": "A light heart, is key.",
+      "arabic": "القلب الخفيف, هو المفتاح.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223117"
+    },
+    {
+      "english": "Joyful, beyond words.",
+      "arabic": "مبتهج, فوق الوصف.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223119"
+    },
+    {
+      "english": "Contentment, is my wealth.",
+      "arabic": "الرضا, ثروتي.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223122"
+    },
+    {
+      "english": "My spirit, is uplifted.",
+      "arabic": "روحي, معنوياتي مرتفعة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223125"
+    },
+    {
+      "english": "Life's good, really good.",
+      "arabic": "الحياة جيدة, جيدة جداً.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223128"
+    },
+    {
+      "english": "A happy feeling, lingers.",
+      "arabic": "شعور سعيد, يدوم.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223130"
+    },
+    {
+      "english": "My world, is shining.",
+      "arabic": "عالمي, يلمع.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223133"
+    },
+    {
+      "english": "Peace and joy, inside.",
+      "arabic": "سلام وفرح, في الداخل.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223135"
+    },
+    {
+      "english": "This is pure, delight.",
+      "arabic": "هذا بهجة, خالصة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223138"
+    },
+    {
+      "english": "I'm feeling, blissful.",
+      "arabic": "أنا أشعر, بالنعيم.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223140"
+    },
+    {
+      "english": "A good vibe, all around.",
+      "arabic": "طاقة إيجابية, في كل مكان.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223145"
+    },
+    {
+      "english": "My heart, skips a beat.",
+      "arabic": "قلبي, يرقص فرحاً.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223147"
+    },
+    {
+      "english": "This makes me, feel alive.",
+      "arabic": "هذا يجعلني, أشعر بالحياة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223151"
+    },
+    {
+      "english": "A simple joy, suffices.",
+      "arabic": "فرح بسيط, يكفي.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223154"
+    },
+    {
+      "english": "My smile, is genuine.",
+      "arabic": "ابتسامتي, حقيقية.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223157"
+    },
+    {
+      "english": "Life is beautiful, truly.",
+      "arabic": "الحياة جميلة, حقاً.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223160"
+    },
+    {
+      "english": "Trust, the journey.",
+      "arabic": "ثق، بالرحلة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223162"
+    },
+    {
+      "english": "Slow steps, win.",
+      "arabic": "خطوات بطيئة، تفوز.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223165"
+    },
+    {
+      "english": "Your vibe, attracts.",
+      "arabic": "طاقك، تجذب.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223168"
+    },
+    {
+      "english": "Your skills, shine.",
+      "arabic": "مهاراتك، تلمع.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223170"
+    },
+    {
+      "english": "Dream big, start now.",
+      "arabic": "احلم كبيرًا، ابدأ الآن.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223173"
+    },
+    {
+      "english": "You can, do it.",
+      "arabic": "أنت تستطيع، فعلها.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223175"
+    },
+    {
+      "english": "Make your joy, happen.",
+      "arabic": "اصنع سعادتك، بنفسك.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223178"
+    },
+    {
+      "english": "You inspire, me.",
+      "arabic": "أنت تلهم، أنا.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223181"
+    },
+    {
+      "english": "Stay strong, always.",
+      "arabic": "ابق قويًا، دائمًا.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223183"
+    },
+    {
+      "english": "Your strength, shows.",
+      "arabic": "قوتك، تظهر.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223186"
+    },
+    {
+      "english": "This path, is yours.",
+      "arabic": "هذا الطريق، لك.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223188"
+    },
+    {
+      "english": "My heart, feels full.",
+      "arabic": "قلبي، يشعر بالامتلاء.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223191"
+    },
+    {
+      "english": "Life tastes, sweet.",
+      "arabic": "الحياة طعمها، حلو.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223193"
+    },
+    {
+      "english": "Good days, are here.",
+      "arabic": "الأيام الجيدة، هنا.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223195"
+    },
+    {
+      "english": "Today smiles, back.",
+      "arabic": "اليوم يبتسم، لك.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223198"
+    },
+    {
+      "english": "I feel so, light.",
+      "arabic": "أشعر بخفة، شديدة.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223201"
+    },
+    {
+      "english": "My soul, dances.",
+      "arabic": "روحي، ترقص.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223205"
+    },
+    {
+      "english": "What a, good day.",
+      "arabic": "يا له من، يوم جيد.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223208"
+    },
+    {
+      "english": "Happiness, found me.",
+      "arabic": "السعادة، وجدَتني.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223210"
+    },
+    {
+      "english": "Feeling really, good.",
+      "arabic": "أشعر بتحسن، كبير.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223213"
+    },
+    {
+      "english": "My joy, is much.",
+      "arabic": "فرحي، كثير.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223215"
+    },
+    {
+      "english": "A big smile, now.",
+      "arabic": "ابتسامة كبيرة، الآن.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223218"
+    },
+    {
+      "english": "Everything, is clear.",
+      "arabic": "كل شيء، واضح.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223220"
+    },
+    {
+      "english": "A happy heart, matters.",
+      "arabic": "القلب السعيد، مهم.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223223"
+    },
+    {
+      "english": "Pure bliss, within.",
+      "arabic": "نعيم خالص، في الداخل.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223226"
+    },
+    {
+      "english": "Contentment, is peace.",
+      "arabic": "الرضا، سلام.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223304"
+    },
+    {
+      "english": "My spirit, feels free.",
+      "arabic": "روحي، تشعر بالحرية.",
+      "category": "Happiness",
+      "generated_at": "2026-10-26T05:48:33.223310"
     }
   ],
-  "last_updated": "2026-10-25T05:44:42.166315"
+  "last_updated": "2026-10-26T05:48:33.223313"
 }
