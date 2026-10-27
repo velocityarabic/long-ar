@@ -70559,7 +70559,727 @@
       "arabic": "روحي، تشعر بالحرية.",
       "category": "Happiness",
       "generated_at": "2026-10-26T05:48:33.223310"
+    },
+    {
+      "english": "Nice weather today, isn't it?",
+      "arabic": "الجو جميل اليوم, أليس كذلك؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160500"
+    },
+    {
+      "english": "It's quite hot, wow!",
+      "arabic": "الجو حار جداً, يا إلهي!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160516"
+    },
+    {
+      "english": "Brrr, it's cold outside.",
+      "arabic": "بررر, الجو بارد بالخارج.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160518"
+    },
+    {
+      "english": "Looks like rain, maybe.",
+      "arabic": "يبدو أنها ستمطر, ربما.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160520"
+    },
+    {
+      "english": "What a beautiful day!",
+      "arabic": "يا له من يوم جميل!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160522"
+    },
+    {
+      "english": "The wind is strong today.",
+      "arabic": "الرياح قوية اليوم.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160524"
+    },
+    {
+      "english": "The sky is clear, nice.",
+      "arabic": "السماء صافية, جميلة.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160526"
+    },
+    {
+      "english": "Hope the weather stays good.",
+      "arabic": "أتمنى أن يبقى الجو جيداً.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160530"
+    },
+    {
+      "english": "It's very humid, isn't it?",
+      "arabic": "الجو رطب جداً, أليس كذلك؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160533"
+    },
+    {
+      "english": "Such a lovely morning.",
+      "arabic": "صباح جميل جداً.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160534"
+    },
+    {
+      "english": "Evening is getting chilly.",
+      "arabic": "المساء بدأ يبرد.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160536"
+    },
+    {
+      "english": "Did you see the fog?",
+      "arabic": "هل رأيت الضباب؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160537"
+    },
+    {
+      "english": "It's sunny, perfect for walks.",
+      "arabic": "الجو مشمس, مثالي للمشي.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160539"
+    },
+    {
+      "english": "A bit cloudy today, huh?",
+      "arabic": "غائم قليلاً اليوم, أليس كذلك؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160541"
+    },
+    {
+      "english": "Hope it doesn't storm later.",
+      "arabic": "أتمنى ألا تعصف لاحقاً.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160543"
+    },
+    {
+      "english": "What a change in weather!",
+      "arabic": "يا له من تغيير في الجو!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160544"
+    },
+    {
+      "english": "It feels much warmer now.",
+      "arabic": "الجو أصبح أدفأ بكثير الآن.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160547"
+    },
+    {
+      "english": "Can't believe it's raining again.",
+      "arabic": "لا أصدق أنها تمطر مجدداً.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160549"
+    },
+    {
+      "english": "The temperature dropped a lot.",
+      "arabic": "درجة الحرارة انخفضت كثيراً.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160551"
+    },
+    {
+      "english": "It's quite breezy, nice.",
+      "arabic": "الجو فيه نسمة هواء جميلة.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160553"
+    },
+    {
+      "english": "Finally, some sunshine!",
+      "arabic": "أخيراً, بعض أشعة الشمس!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160554"
+    },
+    {
+      "english": "Looks like a storm is coming.",
+      "arabic": "يبدو أن عاصفة قادمة.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160556"
+    },
+    {
+      "english": "Such a pleasant climate here.",
+      "arabic": "مناخ لطيف جداً هنا.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160559"
+    },
+    {
+      "english": "The air feels fresh today.",
+      "arabic": "الهواء يبدو منعشاً اليوم.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160561"
+    },
+    {
+      "english": "Is it going to snow soon?",
+      "arabic": "هل سيسقط الثلج قريباً؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160563"
+    },
+    {
+      "english": "It's getting darker, time to go.",
+      "arabic": "بدأ يحل الظلام, حان وقت الذهاب.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160564"
+    },
+    {
+      "english": "What a freezing cold day!",
+      "arabic": "يا له من يوم شديد البرودة!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160566"
+    },
+    {
+      "english": "The humidity is unbearable.",
+      "arabic": "الرطوبة لا تطاق.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160568"
+    },
+    {
+      "english": "Hope the rain stops soon.",
+      "arabic": "أتمنى أن يتوقف المطر قريباً.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160569"
+    },
+    {
+      "english": "What a pleasant surprise, the sun!",
+      "arabic": "يا لها من مفاجأة سارة, الشمس!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160571"
+    },
+    {
+      "english": "How's the weather looking, friend?",
+      "arabic": "كيف الجو يا صاحبي؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160573"
+    },
+    {
+      "english": "Any rain expected soon?",
+      "arabic": "متوقعين مطر قريب؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160575"
+    },
+    {
+      "english": "Should I bring an umbrella, maybe?",
+      "arabic": "أجيب شمسية، يمكن؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160577"
+    },
+    {
+      "english": "Does it usually get this cold here?",
+      "arabic": "الجو عادة يبرد كذا هنا؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160579"
+    },
+    {
+      "english": "Tell me, how's the temperature today?",
+      "arabic": "قل لي، كيف الحرارة اليوم؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160581"
+    },
+    {
+      "english": "Is this normal for this time of year?",
+      "arabic": "هذا طبيعي بهالوقت من السنة؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160582"
+    },
+    {
+      "english": "What's your forecast for tomorrow?",
+      "arabic": "توقعاتك لبكرة إيش؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160584"
+    },
+    {
+      "english": "You think it will clear up later?",
+      "arabic": "تظن بيصفى الجو بعدين؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160586"
+    },
+    {
+      "english": "Is it a good day for a walk?",
+      "arabic": "يوم زين للمشي؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160588"
+    },
+    {
+      "english": "What should I wear, honestly?",
+      "arabic": "إيش ألبس، بصراحة؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160591"
+    },
+    {
+      "english": "Have you heard about the wind?",
+      "arabic": "سمعت عن الريح؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160593"
+    },
+    {
+      "english": "How do you handle this humidity?",
+      "arabic": "كيف تتعامل مع الرطوبة هذه؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160595"
+    },
+    {
+      "english": "Is it better to stay inside today?",
+      "arabic": "الأفضل نضل جوا اليوم؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160596"
+    },
+    {
+      "english": "What's the best time to go out?",
+      "arabic": "أحسن وقت أطلع فيه؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160598"
+    },
+    {
+      "english": "Do you prefer sunny or cloudy days?",
+      "arabic": "تفضل الأيام المشمسة ولا الغائمة؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160599"
+    },
+    {
+      "english": "What do you recommend for this weather?",
+      "arabic": "إيش تنصح بهالجو؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160601"
+    },
+    {
+      "english": "Feels like winter arrived early, right?",
+      "arabic": "حاسس الشتا جاء بدري، صح؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160603"
+    },
+    {
+      "english": "Is the air quality okay today?",
+      "arabic": "الهواء نظيف اليوم؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160606"
+    },
+    {
+      "english": "How long do you think this will last?",
+      "arabic": "كم تتوقع بتستمر؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160608"
+    },
+    {
+      "english": "Should we cancel our plans?",
+      "arabic": "نلغي خططنا؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160609"
+    },
+    {
+      "english": "What's your favorite season, by the way?",
+      "arabic": "موسمك المفضل، بالمناسبة؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160611"
+    },
+    {
+      "english": "Did you feel that sudden chill?",
+      "arabic": "حسيت بالبرودة المفاجئة؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160613"
+    },
+    {
+      "english": "Is it too windy to sit outside?",
+      "arabic": "الجو مرة قوي للجلسة برا؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160614"
+    },
+    {
+      "english": "What's the best drink for this weather?",
+      "arabic": "أحسن مشروب بهالجو؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160617"
+    },
+    {
+      "english": "Do you think it'll clear by noon?",
+      "arabic": "تتوقع يصفى الظهر؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160619"
+    },
+    {
+      "english": "Is this heat normal for August?",
+      "arabic": "هالحر طبيعي بأغسطس؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160620"
+    },
+    {
+      "english": "What do you do when it's this cold?",
+      "arabic": "إيش تسوي لما الجو كذا بارد؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160622"
+    },
+    {
+      "english": "Is it a good time for gardening?",
+      "arabic": "وقت مناسب للزراعة؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160624"
+    },
+    {
+      "english": "Hope the sky stays this blue.",
+      "arabic": "أتمنى السما تظل زرقا كذا.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160625"
+    },
+    {
+      "english": "Keep smiling, it's a beautiful day.",
+      "arabic": "ابتسم دائمًا، إنه يوم جميل.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160627"
+    },
+    {
+      "english": "Good weather, good mood, right?",
+      "arabic": "جو لطيف، مزاج رائع، صحيح؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160629"
+    },
+    {
+      "english": "This sunshine feels like a gift.",
+      "arabic": "هذه الشمس تبدو كهدية.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160631"
+    },
+    {
+      "english": "Let's enjoy this lovely breeze.",
+      "arabic": "دعنا نستمتع بهذه النسيم العليل.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160633"
+    },
+    {
+      "english": "Stay positive, the weather will change.",
+      "arabic": "ابق إيجابياً، الطقس سيتغير.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160635"
+    },
+    {
+      "english": "What a lovely day for a new start.",
+      "arabic": "يا له من يوم رائع لبداية جديدة.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160637"
+    },
+    {
+      "english": "This clear sky inspires me.",
+      "arabic": "هذه السماء الصافية تلهمُني.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160639"
+    },
+    {
+      "english": "You brighten up any day.",
+      "arabic": "أنت تُشرق أي يوم.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160640"
+    },
+    {
+      "english": "Feeling good, feeling hopeful.",
+      "arabic": "الشعور جيد، الشعور بالأمل.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160642"
+    },
+    {
+      "english": "Let's make the most of it.",
+      "arabic": "دعنا نستفيد منه إلى أقصى حد.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160644"
+    },
+    {
+      "english": "Your smile, like the sun.",
+      "arabic": "ابتسامتك، مثل الشمس.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160645"
+    },
+    {
+      "english": "A little rain never hurt anyone.",
+      "arabic": "القليل من المطر لم يؤذِ أحدًا.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160647"
+    },
+    {
+      "english": "Perfect weather for relaxing.",
+      "arabic": "طقس مثالي للاسترخاء.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160650"
+    },
+    {
+      "english": "You have a great perspective.",
+      "arabic": "لديك وجهة نظر رائعة.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160651"
+    },
+    {
+      "english": "This warmth is so comforting.",
+      "arabic": "هذا الدفء مريح جدًا.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160653"
+    },
+    {
+      "english": "Don't let the weather get you down.",
+      "arabic": "لا تدع الطقس يُحبطك.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160655"
+    },
+    {
+      "english": "You're a ray of sunshine.",
+      "arabic": "أنت شعاع من أشعة الشمس.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160657"
+    },
+    {
+      "english": "Embrace the change, like the seasons.",
+      "arabic": "احتضن التغيير، مثل الفصول.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160659"
+    },
+    {
+      "english": "What a refreshing change!",
+      "arabic": "يا له من تغيير منعش!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160662"
+    },
+    {
+      "english": "Let's find the good in today.",
+      "arabic": "دعنا نجد الخير في هذا اليوم.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160664"
+    },
+    {
+      "english": "This calm weather is wonderful.",
+      "arabic": "هذا الجو الهادئ رائع.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160665"
+    },
+    {
+      "english": "You always bring the sunshine.",
+      "arabic": "أنت دائمًا تجلب الشمس.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160667"
+    },
+    {
+      "english": "Every day is a new opportunity.",
+      "arabic": "كل يوم هو فرصة جديدة.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160668"
+    },
+    {
+      "english": "This mildness is very welcome.",
+      "arabic": "هذه اللطف مرحب به جدًا.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160670"
+    },
+    {
+      "english": "You make things brighter.",
+      "arabic": "أنت تجعل الأمور أكثر إشراقًا.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160672"
+    },
+    {
+      "english": "Stay warm and cozy.",
+      "arabic": "ابق دافئًا ومريحًا.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160673"
+    },
+    {
+      "english": "This cool air is invigorating.",
+      "arabic": "هذا الهواء البارد مُنشط.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160676"
+    },
+    {
+      "english": "This sudden downpour, honestly, makes me think...",
+      "arabic": "هذا المطر المفاجئ، بصراحة، يجعلني أفكر...",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160678"
+    },
+    {
+      "english": "Sometimes, the quiet after the storm, is telling.",
+      "arabic": "أحياناً، الهدوء بعد العاصفة، يحمل معنى.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160680"
+    },
+    {
+      "english": "This lingering fog, it feels like a metaphor.",
+      "arabic": "هذه الشبورة المستمرة، تبدو كأنها استعارة.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160682"
+    },
+    {
+      "english": "The persistent wind, reminds me to be resilient.",
+      "arabic": "الرياح المستمرة، تذكرني بالصمود.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160684"
+    },
+    {
+      "english": "When the sun breaks through, it's a moment of pure hope.",
+      "arabic": "عندما تخترق الشمس الغيوم، إنها لحظة أمل خالص.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160686"
+    },
+    {
+      "english": "This extreme heat, tests my patience, deeply.",
+      "arabic": "هذه الحرارة الشديدة، تختبر صبري، بعمق.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160688"
+    },
+    {
+      "english": "The early sunset, gives me time for reflection.",
+      "arabic": "غروب الشمس المبكر، يمنحني وقتًا للتأمل.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160689"
+    },
+    {
+      "english": "A sudden frost, makes me appreciate warmth more.",
+      "arabic": "صقيع مفاجئ، يجعلني أقدر الدفء أكثر.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160691"
+    },
+    {
+      "english": "This muggy air, feels heavy with unspoken words.",
+      "arabic": "هذا الهواء الرطب، يبدو ثقيلاً بكلمات لم تُقال.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160693"
+    },
+    {
+      "english": "When it hails, I remember nature's raw power.",
+      "arabic": "عندما يتساقط البرد، أتذكر قوة الطبيعة الخام.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160695"
+    },
+    {
+      "english": "This gentle rain, is like a soothing balm.",
+      "arabic": "هذا المطر اللطيف، كأنه بلسم مهدئ.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160697"
+    },
+    {
+      "english": "The changing clouds, reflect life's own unpredictability.",
+      "arabic": "الغيوم المتغيرة، تعكس عدم القدرة على التنبؤ بالحياة نفسها.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160699"
+    },
+    {
+      "english": "This crisp autumn air, feels honest and clear.",
+      "arabic": "هواء الخريف المنعش هذا، يبدو صادقاً وواضحاً.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160701"
+    },
+    {
+      "english": "A sudden gust of wind, swept my worries away.",
+      "arabic": "هبت عاصفة مفاجئة، جرفت همومي بعيدًا.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160703"
+    },
+    {
+      "english": "This intense humidity, makes me long for simplicity.",
+      "arabic": "هذه الرطوبة الشديدة، تجعلني أشتاق للبساطة.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160704"
+    },
+    {
+      "english": "When the thunder rumbles, I feel small, yet connected.",
+      "arabic": "عندما يدوي الرعد، أشعر بالضآلة، ومع ذلك بالارتباط.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160708"
+    },
+    {
+      "english": "This long winter, teaches us patience, doesn't it?",
+      "arabic": "هذا الشتاء الطويل، يعلمنا الصبر، أليس كذلك؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160710"
+    },
+    {
+      "english": "The unpredictable frost, feels like a gentle warning.",
+      "arabic": "الصقيع غير المتوقع، يبدو كتحذير لطيف.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160713"
+    },
+    {
+      "english": "This hazy morning, brings a sense of quiet contemplation.",
+      "arabic": "هذا الصباح الضبابي، يجلب شعوراً بالتأمل الهادئ.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160714"
+    },
+    {
+      "english": "When the snow falls softly, it hushes the world.",
+      "arabic": "عندما يتساقط الثلج بهدوء، يصمت العالم.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160716"
+    },
+    {
+      "english": "This oppressive heat, makes me yearn for deep breaths.",
+      "arabic": "هذه الحرارة الخانقة، تجعلني أتوق لأخذ أنفاس عميقة.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160718"
+    },
+    {
+      "english": "The lingering twilight, invites honest conversation.",
+      "arabic": "الشفق المستمر، يدعو إلى محادثة صريحة.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160719"
+    },
+    {
+      "english": "A sudden thunderstorm, shakes things up, doesn't it?",
+      "arabic": "عاصفة رعدية مفاجئة، تغير الأمور، أليس كذلك؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160721"
+    },
+    {
+      "english": "This biting cold, makes me cherish simple comforts.",
+      "arabic": "هذا البرد القارس، يجعلني أعتز بالراحة البسيطة.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160723"
+    },
+    {
+      "english": "The relentless sun, forces me to slow down.",
+      "arabic": "الشمس التي لا ترحم، تجبرني على التباطؤ.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160725"
+    },
+    {
+      "english": "This freezing rain, feels surprisingly cleansing.",
+      "arabic": "هذا المطر المتجمد، يبدو منظفاً بشكل مفاجئ.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160726"
+    },
+    {
+      "english": "The constant drizzle, whispers of perseverance.",
+      "arabic": "الرذاذ المستمر، يهمس بالصمود.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160729"
+    },
+    {
+      "english": "This oppressive humidity, makes me seek clarity.",
+      "arabic": "هذه الرطوبة الخانقة، تجعلني أبحث عن الوضوح.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160731"
+    },
+    {
+      "english": "When the fog lifts, the truth often emerges.",
+      "arabic": "عندما ينقشع الضباب، غالباً ما تظهر الحقيقة.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160733"
+    },
+    {
+      "english": "This sharp wind, cuts through the noise, doesn't it?",
+      "arabic": "هذه الرياح الحادة، تخترق الضجيج، أليس كذلك؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160735"
+    },
+    {
+      "english": "Grab an umbrella, it looks like rain.",
+      "arabic": "خذ مظلة، يبدو أنها ستمطر.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160737"
+    },
+    {
+      "english": "This humidity, makes me want to stay inside.",
+      "arabic": "هذه الرطوبة، تجعلني أرغب بالبقاء بالداخل.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160740"
+    },
+    {
+      "english": "Let's enjoy this beautiful sunny day, together.",
+      "arabic": "دعنا نستمتع بهذا اليوم المشمس الجميل، معاً.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160742"
+    },
+    {
+      "english": "Did you see that rainbow, after the rain?",
+      "arabic": "هل رأيت ذلك القوس قزح، بعد المطر؟",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-27T06:01:04.160744"
     }
   ],
-  "last_updated": "2026-10-26T05:48:33.223313"
+  "last_updated": "2026-10-27T06:01:04.160745"
 }
