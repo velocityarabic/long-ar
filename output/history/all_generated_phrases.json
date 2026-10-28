@@ -71279,7 +71279,727 @@
       "arabic": "هل رأيت ذلك القوس قزح، بعد المطر؟",
       "category": "Weather & Small Talk",
       "generated_at": "2026-10-27T06:01:04.160744"
+    },
+    {
+      "english": "How much is this?, please?",
+      "arabic": "بكم هذا، لو سمحت؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721771"
+    },
+    {
+      "english": "What's the price?, tell me.",
+      "arabic": "ما هو السعر؟, قل لي.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721786"
+    },
+    {
+      "english": "It's too expensive!, really.",
+      "arabic": "إنه غالي جداً!, حقاً.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721788"
+    },
+    {
+      "english": "Can you give me a discount?",
+      "arabic": "هل يمكنك خصم لي؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721790"
+    },
+    {
+      "english": "This is a good price., yes.",
+      "arabic": "هذا سعر جيد., نعم.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721792"
+    },
+    {
+      "english": "I'll take it!, definitely.",
+      "arabic": "سآخذه., بالتأكيد.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721794"
+    },
+    {
+      "english": "Do you have anything cheaper?",
+      "arabic": "هل لديك شيء أرخص؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721796"
+    },
+    {
+      "english": "I'm just looking., thank you.",
+      "arabic": "أنا فقط أنظر., شكراً لك.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721800"
+    },
+    {
+      "english": "Where is the cashier?, please?",
+      "arabic": "أين المحاسب؟, من فضلك؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721803"
+    },
+    {
+      "english": "Can I pay by card?, here?",
+      "arabic": "هل يمكنني الدفع بالبطاقة؟, هنا؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721804"
+    },
+    {
+      "english": "I need a bag., please.",
+      "arabic": "أحتاج كيساً., من فضلك.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721806"
+    },
+    {
+      "english": "This is exactly what I wanted.",
+      "arabic": "هذا بالضبط ما أردته.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721808"
+    },
+    {
+      "english": "Is there a sale?, right now?",
+      "arabic": "هل يوجد تخفيض؟, الآن؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721810"
+    },
+    {
+      "english": "I'll think about it., maybe.",
+      "arabic": "سأفكر في الأمر., ربما.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721812"
+    },
+    {
+      "english": "Do you accept cash?, only?",
+      "arabic": "هل تقبلون النقد؟, فقط؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721814"
+    },
+    {
+      "english": "This looks good., wow.",
+      "arabic": "هذا يبدو جيداً., واو.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721816"
+    },
+    {
+      "english": "I need change., please.",
+      "arabic": "أحتاج فكة., من فضلك.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721817"
+    },
+    {
+      "english": "How much for all of this?",
+      "arabic": "كم كل هذا؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721819"
+    },
+    {
+      "english": "It's a fair price., honestly.",
+      "arabic": "إنه سعر معقول., بصراحة.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721821"
+    },
+    {
+      "english": "Can I try this on?, please?",
+      "arabic": "هل يمكنني تجربة هذا؟, من فضلك؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721825"
+    },
+    {
+      "english": "Where are the fitting rooms?",
+      "arabic": "أين غرف القياس؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721826"
+    },
+    {
+      "english": "This is perfect!, exactly.",
+      "arabic": "هذا مثالي!, بالضبط.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721828"
+    },
+    {
+      "english": "I don't have enough money.",
+      "arabic": "ليس لدي نقود كافية.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721830"
+    },
+    {
+      "english": "This is good quality., really.",
+      "arabic": "هذه جودة جيدة., حقاً.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721831"
+    },
+    {
+      "english": "I'm looking for something specific.",
+      "arabic": "أبحث عن شيء محدد.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721834"
+    },
+    {
+      "english": "Can you wrap it up?, nicely?",
+      "arabic": "هل يمكنك لفه؟, بشكل جيد؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721836"
+    },
+    {
+      "english": "That's a great deal!, wow.",
+      "arabic": "هذه صفقة رائعة!, واو.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721838"
+    },
+    {
+      "english": "I'll come back later., okay?",
+      "arabic": "سأعود لاحقاً., حسناً؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721840"
+    },
+    {
+      "english": "Do you deliver?, to my home?",
+      "arabic": "هل توصلون؟, إلى بيتي؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721904"
+    },
+    {
+      "english": "Can you suggest something, nice?",
+      "arabic": "ممكن تقترح عليّ شي حلو؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721907"
+    },
+    {
+      "english": "What do you recommend, for a gift?",
+      "arabic": "شو بتنصحني، لهدية؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721909"
+    },
+    {
+      "english": "Is this the latest, model?",
+      "arabic": "هذا آخر موديل، صح؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721911"
+    },
+    {
+      "english": "Does it come, in other colors?",
+      "arabic": "فيه ألوان ثانية، منه؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721912"
+    },
+    {
+      "english": "Can I see, another option?",
+      "arabic": "ممكن أشوف، خيار ثاني؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721915"
+    },
+    {
+      "english": "Is this one, on sale?",
+      "arabic": "هذا عليه تخفيض، ولا؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721917"
+    },
+    {
+      "english": "What's the best, you have?",
+      "arabic": "شو أحسن شي، عندك؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721919"
+    },
+    {
+      "english": "Can you tell me, about this?",
+      "arabic": "ممكن تحكيلي، عن هاد؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721921"
+    },
+    {
+      "english": "Is there a warranty, on this?",
+      "arabic": "عليه ضمان، هذا؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721922"
+    },
+    {
+      "english": "Do you offer, gift wrapping?",
+      "arabic": "عندكم تغليف، هدايا؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721924"
+    },
+    {
+      "english": "How do I use, this?",
+      "arabic": "كيف بستخدم، هاد؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721926"
+    },
+    {
+      "english": "Is this item, popular?",
+      "arabic": "هالقطعة مطلوبة، كتير؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721927"
+    },
+    {
+      "english": "Can I exchange, it later?",
+      "arabic": "ممكن أبدّله، بعدين؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721929"
+    },
+    {
+      "english": "What's the return, policy?",
+      "arabic": "شو سياسة، الإرجاع؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721931"
+    },
+    {
+      "english": "Does this fit, me well?",
+      "arabic": "هذا بيناسبني، كتير؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721932"
+    },
+    {
+      "english": "Where can I find, accessories?",
+      "arabic": "وين بلاقي، الاكسسوارات؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721934"
+    },
+    {
+      "english": "Is this handmade, or factory?",
+      "arabic": "هذا شغل يد، ولا مصنع؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721937"
+    },
+    {
+      "english": "Can you show me, similar items?",
+      "arabic": "تورجيني، شي شبيه؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721938"
+    },
+    {
+      "english": "Can I get a, loyalty card?",
+      "arabic": "ممكن آخد كرت ولاء؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721940"
+    },
+    {
+      "english": "Is this locally, sourced?",
+      "arabic": "هذا محلي، الصنع؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721942"
+    },
+    {
+      "english": "What's the difference, between these?",
+      "arabic": "شو الفرق، بين هدول؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721944"
+    },
+    {
+      "english": "Can I reserve, this item?",
+      "arabic": "ممكن أحجز، هالقطعة؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721945"
+    },
+    {
+      "english": "Is this available, online too?",
+      "arabic": "متوفر أونلاين، كمان؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721948"
+    },
+    {
+      "english": "What's the story, behind this?",
+      "arabic": "شو قصة، هاد؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721950"
+    },
+    {
+      "english": "Can I get, a sample, please?",
+      "arabic": "ممكن آخد عينة، لو سمحت؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721952"
+    },
+    {
+      "english": "Is this a good, deal?",
+      "arabic": "هذا عرض كويس، صح؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721953"
+    },
+    {
+      "english": "Do you have, any coupons?",
+      "arabic": "عندك أي كوبونات، خصم؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721955"
+    },
+    {
+      "english": "Can you help me, decide?",
+      "arabic": "ممكن تساعدني، أقرر؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721956"
+    },
+    {
+      "english": "Believe in your bargain hunt!, you can find it.",
+      "arabic": "آمن ببحثك عن الصفقة، يمكنك إيجادها.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721959"
+    },
+    {
+      "english": "Every purchase, is a step forward.",
+      "arabic": "كل عملية شراء، هي خطوة للأمام.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721961"
+    },
+    {
+      "english": "Don't worry about the price, focus on the value.",
+      "arabic": "لا تقلق بشأن السعر، ركز على القيمة.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721963"
+    },
+    {
+      "english": "This is an investment, in yourself.",
+      "arabic": "هذا استثمار، في نفسك.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721965"
+    },
+    {
+      "english": "You deserve this, treat yourself!",
+      "arabic": "أنت تستحق هذا، دلل نفسك!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721967"
+    },
+    {
+      "english": "Amazing find!, you have a great eye.",
+      "arabic": "اكتشاف مذهل!، لديك عين رائعة.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721969"
+    },
+    {
+      "english": "Well done!, you got a good price.",
+      "arabic": "أحسنت!، لقد حصلت على سعر جيد.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721971"
+    },
+    {
+      "english": "Keep searching, the best deal is coming.",
+      "arabic": "استمر في البحث، أفضل صفقة قادمة.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721973"
+    },
+    {
+      "english": "Think smart, shop smart.",
+      "arabic": "فكر بذكاء، تسوق بذكاء.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721975"
+    },
+    {
+      "english": "You're a smart shopper!, truly.",
+      "arabic": "أنت متسوق ذكي!، حقاً.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721981"
+    },
+    {
+      "english": "This price is reasonable, for this quality.",
+      "arabic": "هذا السعر معقول، لهذه الجودة.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721983"
+    },
+    {
+      "english": "Don't hesitate, if you love it.",
+      "arabic": "لا تتردد، إذا أحببته.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721985"
+    },
+    {
+      "english": "You made a wise choice., excellent.",
+      "arabic": "لقد اتخذت خياراً حكيماً.، ممتاز.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721987"
+    },
+    {
+      "english": "Focus on happiness, not just the cost.",
+      "arabic": "ركز على السعادة، وليس فقط التكلفة.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721989"
+    },
+    {
+      "english": "This is worth every penny., trust me.",
+      "arabic": "هذا يستحق كل قرش.، ثق بي.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721991"
+    },
+    {
+      "english": "You found a gem!, congratulations.",
+      "arabic": "لقد وجدت جوهرة!، مبروك.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721992"
+    },
+    {
+      "english": "Great negotiation!, well done.",
+      "arabic": "تفاوض رائع!، أحسنت.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721994"
+    },
+    {
+      "english": "Let your heart guide your wallet.",
+      "arabic": "دع قلبك يقود محفظتك.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721996"
+    },
+    {
+      "english": "This purchase brings joy., that's priceless.",
+      "arabic": "هذه الصفقة تجلب الفرح.، هذا لا يقدر بثمن.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.721998"
+    },
+    {
+      "english": "You've got good taste., definitely.",
+      "arabic": "لديك ذوق رفيع.، بالتأكيد.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722000"
+    },
+    {
+      "english": "Celebrate your savings!, you earned it.",
+      "arabic": "احتفل بمدخراتك!، لقد كسبتها.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722002"
+    },
+    {
+      "english": "Buy what makes you happy., always.",
+      "arabic": "اشترِ ما يجعلك سعيداً.، دائماً.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722005"
+    },
+    {
+      "english": "This deal is fantastic!, you lucked out.",
+      "arabic": "هذه الصفقة رائعة!، لقد كنت محظوظاً.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722006"
+    },
+    {
+      "english": "Your intuition is good., trust it.",
+      "arabic": "حدسك جيد.، ثق به.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722008"
+    },
+    {
+      "english": "Don't overthink it., just go for it.",
+      "arabic": "لا تفرط في التفكير.، فقط انطلق.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722010"
+    },
+    {
+      "english": "This is a steal!, amazing price.",
+      "arabic": "هذه سرقة!، سعر مذهل.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722013"
+    },
+    {
+      "english": "You are a master negotiator., really.",
+      "arabic": "أنت مفاوض ماهر.، حقاً.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722014"
+    },
+    {
+      "english": "Every little bit saved counts.",
+      "arabic": "كل مبلغ صغير تم توفيره مهم.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722016"
+    },
+    {
+      "english": "Positive vibes, positive finds.",
+      "arabic": "طاقة إيجابية، مشتريات إيجابية.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722018"
+    },
+    {
+      "english": "You chose well!, perfect.",
+      "arabic": "لقد اخترت جيداً!، مثالي.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722019"
+    },
+    {
+      "english": "This price feels right, for my budget.",
+      "arabic": "هذا السعر مناسب, لميزانيتي.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722021"
+    },
+    {
+      "english": "I'm considering the long-term value, you know?",
+      "arabic": "أفكر في القيمة طويلة الأمد, تعرف؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722023"
+    },
+    {
+      "english": "It's more than just a purchase, it's a feeling.",
+      "arabic": "إنها أكثر من مجرد شراء, إنها شعور.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722025"
+    },
+    {
+      "english": "Patience led me to this wonderful price.",
+      "arabic": "الصبر قادني لهذا السعر الرائع.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722027"
+    },
+    {
+      "english": "My intuition tells me, this is the one.",
+      "arabic": "حدسي يخبرني, هذا هو.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722028"
+    },
+    {
+      "english": "I'm happy with this decision, truly.",
+      "arabic": "أنا سعيد بهذا القرار, حقاً.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722030"
+    },
+    {
+      "english": "This reflects my current needs, perfectly.",
+      "arabic": "هذا يعكس احتياجاتي الحالية, تماماً.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722032"
+    },
+    {
+      "english": "I feel a connection, with this item.",
+      "arabic": "أشعر بارتباط, بهذا الغرض.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722034"
+    },
+    {
+      "english": "Sometimes, you just have to trust your heart.",
+      "arabic": "أحياناً, عليك فقط أن تثق بقلبك.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722036"
+    },
+    {
+      "english": "This price makes me feel at ease.",
+      "arabic": "هذا السعر يجعلني أشعر بالراحة.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722037"
+    },
+    {
+      "english": "It’s not about the money, it’s about the joy.",
+      "arabic": "لا يتعلق الأمر بالمال, بل بالسعادة.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722042"
+    },
+    {
+      "english": "I waited for a good opportunity, and here it is.",
+      "arabic": "انتظرت فرصة جيدة, وها هي.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722044"
+    },
+    {
+      "english": "This purchase aligns with my values.",
+      "arabic": "هذه الصفقة تتوافق مع قيمي.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722046"
+    },
+    {
+      "english": "This feels like a genuine reflection, of quality.",
+      "arabic": "هذا يبدو انعكاساً حقيقياً, للجودة.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722048"
+    },
+    {
+      "english": "I'm embracing this moment, with gratitude.",
+      "arabic": "أنا أحتضن هذه اللحظة, بامتنان.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722050"
+    },
+    {
+      "english": "The price is fair, for the peace of mind.",
+      "arabic": "السعر عادل, مقابل راحة البال.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722051"
+    },
+    {
+      "english": "This allows me to express myself, authentically.",
+      "arabic": "هذا يسمح لي بالتعبير عن نفسي, بصدق.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722053"
+    },
+    {
+      "english": "I'm finding inner peace, through this choice.",
+      "arabic": "أجد السلام الداخلي, من خلال هذا الاختيار.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722055"
+    },
+    {
+      "english": "This price is a pleasant surprise, honestly.",
+      "arabic": "هذا السعر مفاجأة سارة, بصراحة.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722057"
+    },
+    {
+      "english": "I'm allowing myself, this little luxury.",
+      "arabic": "أسمح لنفسي, بهذه الرفاهية الصغيرة.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722058"
+    },
+    {
+      "english": "This purchase brings a sense of calm.",
+      "arabic": "هذه الصفقة تجلب شعوراً بالهدوء.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722060"
+    },
+    {
+      "english": "I feel good about supporting this brand.",
+      "arabic": "أشعر بالرضا لدعم هذه العلامة التجارية.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722062"
+    },
+    {
+      "english": "This price is an honest reflection, of effort.",
+      "arabic": "هذا السعر انعكاس صادق, للجهد.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722065"
+    },
+    {
+      "english": "I'm practicing gratitude, for this find.",
+      "arabic": "أمارس الامتنان, لهذا الاكتشاف.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722066"
+    },
+    {
+      "english": "This feels like a meaningful investment.",
+      "arabic": "هذا يبدو استثماراً ذا معنى.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722068"
+    },
+    {
+      "english": "I'm being true to myself, with this.",
+      "arabic": "أنا أكون صادقاً مع نفسي, بهذا.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722070"
+    },
+    {
+      "english": "The experience was worth the price.",
+      "arabic": "التجربة كانت تستحق السعر.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722071"
+    },
+    {
+      "english": "This is a conscious choice, for happiness.",
+      "arabic": "هذا اختيار واعٍ, للسعادة.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722074"
+    },
+    {
+      "english": "I'm allowing myself to be delighted.",
+      "arabic": "أسمح لنفسي بالبهجة.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722076"
+    },
+    {
+      "english": "Can I see something cheaper?",
+      "arabic": "هل يمكن رؤية أرخص؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722078"
+    },
+    {
+      "english": "Is there a discount, maybe?",
+      "arabic": "هل هناك خصم, ربما؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722079"
+    },
+    {
+      "english": "This is a bit expensive, you know?",
+      "arabic": "هذا غالٍ قليلاً, تعرف؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722081"
+    },
+    {
+      "english": "What's the final price then?",
+      "arabic": "ما هو السعر النهائي إذاً؟",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-28T06:39:48.722083"
     }
   ],
-  "last_updated": "2026-10-27T06:01:04.160745"
+  "last_updated": "2026-10-28T06:39:48.722084"
 }
