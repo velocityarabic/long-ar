@@ -71999,7 +71999,727 @@
       "arabic": "ما هو السعر النهائي إذاً؟",
       "category": "Shopping & Prices",
       "generated_at": "2026-10-28T06:39:48.722083"
+    },
+    {
+      "english": "What are you doing, later?",
+      "arabic": "ماذا ستفعل، لاحقاً؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860052"
+    },
+    {
+      "english": "Got any plans, tonight?",
+      "arabic": "هل لديك أي خطط، الليلة؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860067"
+    },
+    {
+      "english": "Let's hang out, soon.",
+      "arabic": "لنتقابل، قريباً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860070"
+    },
+    {
+      "english": "Are you free, this weekend?",
+      "arabic": "هل أنت متفرغ، في نهاية الأسبوع؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860071"
+    },
+    {
+      "english": "We should catch up, sometime.",
+      "arabic": "يجب أن نلتقي، في وقت ما.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860073"
+    },
+    {
+      "english": "What's the plan, boss?",
+      "arabic": "ما هي الخطة، يا زعيم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860075"
+    },
+    {
+      "english": "Fancy a coffee, maybe?",
+      "arabic": "هل ترغب في قهوة، ربما؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860077"
+    },
+    {
+      "english": "I'm free, after work.",
+      "arabic": "أنا متفرغ، بعد العمل.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860081"
+    },
+    {
+      "english": "Let's do something, fun.",
+      "arabic": "دعنا نفعل شيئاً، ممتعاً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860083"
+    },
+    {
+      "english": "What are you up to?",
+      "arabic": "ماذا ستفعل؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860086"
+    },
+    {
+      "english": "I'm not busy, right now.",
+      "arabic": "لست مشغولاً، الآن.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860088"
+    },
+    {
+      "english": "Want to grab dinner, tonight?",
+      "arabic": "هل تريد تناول العشاء، الليلة؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860090"
+    },
+    {
+      "english": "Any ideas, for the evening?",
+      "arabic": "هل لديك أي أفكار، للمساء؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860092"
+    },
+    {
+      "english": "Let's make a plan, soon.",
+      "arabic": "دعنا نضع خطة، قريباً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860094"
+    },
+    {
+      "english": "I'm available, on Tuesday.",
+      "arabic": "أنا متاح، يوم الثلاثاء.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860095"
+    },
+    {
+      "english": "What time works, for you?",
+      "arabic": "أي وقت يناسبك؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860097"
+    },
+    {
+      "english": "Let's aim for, next week.",
+      "arabic": "دعنا نستهدف، الأسبوع القادم.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860099"
+    },
+    {
+      "english": "Are you interested, in going?",
+      "arabic": "هل أنت مهتم، بالذهاب؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860100"
+    },
+    {
+      "english": "We need to organize, something.",
+      "arabic": "نحتاج إلى تنظيم، شيء ما.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860102"
+    },
+    {
+      "english": "Let's confirm, later.",
+      "arabic": "دعنا نؤكد، لاحقاً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860105"
+    },
+    {
+      "english": "I'm open, to suggestions.",
+      "arabic": "أنا منفتح، على الاقتراحات.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860107"
+    },
+    {
+      "english": "What do you feel like, doing?",
+      "arabic": "ماذا تشعر برغبة، في فعله؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860109"
+    },
+    {
+      "english": "Let's pencil it, in.",
+      "arabic": "دعنا ندونها، مبدئياً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860110"
+    },
+    {
+      "english": "Can we reschedule, maybe?",
+      "arabic": "هل يمكننا إعادة الجدولة، ربما؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860112"
+    },
+    {
+      "english": "I'm totally free, tomorrow.",
+      "arabic": "أنا متفرغ تماماً، غداً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860113"
+    },
+    {
+      "english": "Let's make it happen, guys.",
+      "arabic": "دعنا نجعل هذا يحدث، يا رفاق.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860115"
+    },
+    {
+      "english": "What's the agenda, today?",
+      "arabic": "ما هو جدول الأعمال، اليوم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860117"
+    },
+    {
+      "english": "Let's keep it simple, okay?",
+      "arabic": "دعنا نبقي الأمر بسيطاً، حسناً؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860118"
+    },
+    {
+      "english": "I'm game, for anything.",
+      "arabic": "أنا مستعد، لأي شيء.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860120"
+    },
+    {
+      "english": "Let's meet up, for sure.",
+      "arabic": "دعنا نتقابل، بالتأكيد.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860122"
+    },
+    {
+      "english": "What's on your mind, today?",
+      "arabic": "ما في بالك, اليوم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860123"
+    },
+    {
+      "english": "Thinking of anything interesting, lately?",
+      "arabic": "تفكر بشيء مثير, مؤخراً؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860126"
+    },
+    {
+      "english": "Do you have a moment, to chat?",
+      "arabic": "عندك وقت, نتكلم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860128"
+    },
+    {
+      "english": "What's your current vibe, friend?",
+      "arabic": "ما هو جوك, يا صديقي؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860130"
+    },
+    {
+      "english": "Any particular interest, today?",
+      "arabic": "هل لديك اهتمام معين, اليوم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860133"
+    },
+    {
+      "english": "How about we brainstorm, ideas?",
+      "arabic": "ما رأيك نتبادل, الأفكار؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860135"
+    },
+    {
+      "english": "What spontaneous adventure, calls you?",
+      "arabic": "أي مغامرة عفوية, تناديك؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860137"
+    },
+    {
+      "english": "Is there anything brewing, for you?",
+      "arabic": "هل هناك شيء يدور, في بالك؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860139"
+    },
+    {
+      "english": "What sparks your curiosity, now?",
+      "arabic": "ما الذي يثير فضولك, الآن؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860141"
+    },
+    {
+      "english": "Tell me your thoughts, about this.",
+      "arabic": "قل لي رأيك, في هذا.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860143"
+    },
+    {
+      "english": "What's capturing your attention, today?",
+      "arabic": "ما الذي يلفت انتباهك, اليوم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860144"
+    },
+    {
+      "english": "Got any new discoveries, recently?",
+      "arabic": "هل اكتشفت شيئاً جديداً, مؤخراً؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860146"
+    },
+    {
+      "english": "What kind of mood, are you in?",
+      "arabic": "ما هو مزاجك, الآن؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860147"
+    },
+    {
+      "english": "Is there a specific craving, you have?",
+      "arabic": "هل لديك رغبة معينة, في شيء؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860149"
+    },
+    {
+      "english": "What's inspiring your day, friend?",
+      "arabic": "ما الذي يلهم يومك, يا صديقي؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860151"
+    },
+    {
+      "english": "Do you feel like a change, of pace?",
+      "arabic": "هل ترغب بتغيير, الروتين؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860152"
+    },
+    {
+      "english": "What activities are on your radar?",
+      "arabic": "ما الأنشطة التي تراقبها؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860154"
+    },
+    {
+      "english": "Can you suggest something, unique?",
+      "arabic": "هل يمكنك اقتراح شيء, فريد؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860155"
+    },
+    {
+      "english": "What direction, are you leaning towards?",
+      "arabic": "ما هو الاتجاه, الذي تميل إليه؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860157"
+    },
+    {
+      "english": "What's sparking joy, for you?",
+      "arabic": "ما الذي يمنحك السعادة, الآن؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860159"
+    },
+    {
+      "english": "Got any unexpected ideas, popping up?",
+      "arabic": "هل تخطر ببالك أفكار, غير متوقعة؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860160"
+    },
+    {
+      "english": "What's calling your name, today?",
+      "arabic": "ما الذي يناديك, اليوم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860162"
+    },
+    {
+      "english": "How do you feel about, a new plan?",
+      "arabic": "ما شعورك تجاه, خطة جديدة؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860163"
+    },
+    {
+      "english": "What's inspiring your next move?",
+      "arabic": "ما الذي يلهم خطوتك القادمة؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860165"
+    },
+    {
+      "english": "Any particular cravings, today?",
+      "arabic": "هل لديك أي رغبات, خاصة اليوم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860166"
+    },
+    {
+      "english": "What's on your radar, friend?",
+      "arabic": "ما الذي في دائرة اهتمامك, يا صديقي؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860168"
+    },
+    {
+      "english": "What's your current impulse, tell me?",
+      "arabic": "ما هو اندفاعك الحالي, أخبرني؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860170"
+    },
+    {
+      "english": "Do you have a gut feeling, about this?",
+      "arabic": "هل لديك حدس, بخصوص هذا؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860171"
+    },
+    {
+      "english": "What's the general inclination, today?",
+      "arabic": "ما هو الميل العام, اليوم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860173"
+    },
+    {
+      "english": "Believe in the plan, it's awesome!",
+      "arabic": "آمن بالخطة، إنها رائعة!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860175"
+    },
+    {
+      "english": "You've got this, my friend!",
+      "arabic": "أنت قادر على هذا، يا صديقي!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860177"
+    },
+    {
+      "english": "Great job, we're making progress!",
+      "arabic": "عمل رائع، نحن نتقدم!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860179"
+    },
+    {
+      "english": "Let's stay positive, always!",
+      "arabic": "دعنا نبقى إيجابيين، دائمًا!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860181"
+    },
+    {
+      "english": "This is going to be amazing!",
+      "arabic": "هذا سيكون مذهلاً!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860182"
+    },
+    {
+      "english": "Keep that energy going, wow!",
+      "arabic": "حافظ على هذه الطاقة، واو!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860184"
+    },
+    {
+      "english": "You're doing so well, keep it up!",
+      "arabic": "أنت تقوم بعمل جيد جدًا، استمر!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860186"
+    },
+    {
+      "english": "Don't doubt yourself, you're brilliant!",
+      "arabic": "لا تشك في نفسك، أنت لامع!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860190"
+    },
+    {
+      "english": "We're a great team, for sure!",
+      "arabic": "نحن فريق رائع، بالتأكيد!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860191"
+    },
+    {
+      "english": "Every step counts, let's go!",
+      "arabic": "كل خطوة مهمة، هيا بنا!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860195"
+    },
+    {
+      "english": "Your optimism is contagious!",
+      "arabic": "تفاؤلك معدٍ!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860196"
+    },
+    {
+      "english": "This plan has huge potential!",
+      "arabic": "هذه الخطة لديها إمكانات هائلة!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860198"
+    },
+    {
+      "english": "You're inspiring us all!",
+      "arabic": "أنت تلهمنا جميعًا!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860200"
+    },
+    {
+      "english": "Let's focus, we can achieve this!",
+      "arabic": "دعنا نركز، يمكننا تحقيق هذا!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860202"
+    },
+    {
+      "english": "This is a fantastic idea, truly!",
+      "arabic": "هذه فكرة رائعة، حقًا!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860204"
+    },
+    {
+      "english": "Positive vibes only, my friend!",
+      "arabic": "مشاعر إيجابية فقط، يا صديقي!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860205"
+    },
+    {
+      "english": "We're building something special!",
+      "arabic": "نحن نبني شيئًا مميزًا!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860207"
+    },
+    {
+      "english": "Your effort is greatly appreciated!",
+      "arabic": "جهدك محل تقدير كبير!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860209"
+    },
+    {
+      "english": "Think big, act bold!",
+      "arabic": "فكر كبيرًا، تصرف بجرأة!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860210"
+    },
+    {
+      "english": "This adventure will be epic!",
+      "arabic": "هذه المغامرة ستكون ملحمية!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860212"
+    },
+    {
+      "english": "Your perspective is a gift!",
+      "arabic": "منظورك هدية!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860213"
+    },
+    {
+      "english": "Confidence is key, you have it!",
+      "arabic": "الثقة هي المفتاح، لديك!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860215"
+    },
+    {
+      "english": "You're creating magic, honestly!",
+      "arabic": "أنت تخلق السحر، بصدق!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860217"
+    },
+    {
+      "english": "Let's make this unforgettable!",
+      "arabic": "دعنا نجعل هذا لا يُنسى!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860218"
+    },
+    {
+      "english": "Together, we are unstoppable!",
+      "arabic": "معًا، نحن لا يمكن إيقافنا!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860220"
+    },
+    {
+      "english": "How are you feeling, about today?",
+      "arabic": "كيف تشعر، تجاه هذا اليوم؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860222"
+    },
+    {
+      "english": "What's truly important, to you?",
+      "arabic": "ما هو المهم حقاً، لك؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860225"
+    },
+    {
+      "english": "Are we on the same page, here?",
+      "arabic": "هل نحن على نفس الصفحة، هنا؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860227"
+    },
+    {
+      "english": "What feels right, in your heart?",
+      "arabic": "ما الذي تشعر به، في قلبك؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860229"
+    },
+    {
+      "english": "Let's be honest, with ourselves.",
+      "arabic": "دعنا نكون صريحين، مع أنفسنا.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860230"
+    },
+    {
+      "english": "Patience is needed, for this.",
+      "arabic": "الصبر مطلوب، لهذا.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860232"
+    },
+    {
+      "english": "What are you reflecting, on?",
+      "arabic": "ما الذي تفكر فيه، بعمق؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860234"
+    },
+    {
+      "english": "This requires, deep thought.",
+      "arabic": "هذا يتطلب، تفكيراً عميقاً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860236"
+    },
+    {
+      "english": "How do you truly want, this?",
+      "arabic": "كيف تريد هذا، حقاً؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860237"
+    },
+    {
+      "english": "What's your inner voice, saying?",
+      "arabic": "ماذا يقول صوتك الداخلي؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860239"
+    },
+    {
+      "english": "Let's feel this out, together.",
+      "arabic": "دعنا نستشعر هذا، معاً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860241"
+    },
+    {
+      "english": "Is this authentic, for you?",
+      "arabic": "هل هذا أصيل، لك؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860244"
+    },
+    {
+      "english": "What needs attention, right now?",
+      "arabic": "ما الذي يحتاج اهتماماً، الآن؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860245"
+    },
+    {
+      "english": "Let's trust our feelings, here.",
+      "arabic": "دعنا نثق بمشاعرنا، هنا.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860249"
+    },
+    {
+      "english": "What are you hoping, for?",
+      "arabic": "ما الذي تأمله،؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860250"
+    },
+    {
+      "english": "This is a moment, of truth.",
+      "arabic": "هذه لحظة، الحقيقة.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860252"
+    },
+    {
+      "english": "What does your gut, tell you?",
+      "arabic": "ماذا يقول لك حدسك؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860254"
+    },
+    {
+      "english": "Let's be vulnerable, with this.",
+      "arabic": "دعنا نكون ضعفاء، بهذا.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860255"
+    },
+    {
+      "english": "What truly matters, my friend?",
+      "arabic": "ما الذي يهم حقاً، يا صديقي؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860257"
+    },
+    {
+      "english": "Let's slow down, and listen.",
+      "arabic": "دعنا نهدأ، ونستمع.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860259"
+    },
+    {
+      "english": "This needs genuine, feeling.",
+      "arabic": "هذا يحتاج، شعوراً صادقاً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860261"
+    },
+    {
+      "english": "What are your deepest, desires?",
+      "arabic": "ما هي أعمق، رغباتك؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860263"
+    },
+    {
+      "english": "Let's explore our emotions, openly.",
+      "arabic": "دعنا نستكشف مشاعرنا، بانفتاح.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860265"
+    },
+    {
+      "english": "What's the honest, truth here?",
+      "arabic": "ما هي الحقيقة، الصادقة هنا؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860267"
+    },
+    {
+      "english": "This requires, real introspection.",
+      "arabic": "هذا يتطلب، تأملاً حقيقياً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860269"
+    },
+    {
+      "english": "What's your heart, telling you?",
+      "arabic": "ماذا يقول لك قلبك؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860270"
+    },
+    {
+      "english": "What brings you, inner peace?",
+      "arabic": "ما الذي يجلب لك، السلام الداخلي؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860272"
+    },
+    {
+      "english": "Can we meet, near the station?",
+      "arabic": "هل نلتقي، قرب المحطة؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860274"
+    },
+    {
+      "english": "Let's grab coffee, this afternoon.",
+      "arabic": "لنشرب قهوة، بعد الظهر.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860276"
+    },
+    {
+      "english": "Are you free, on Saturday?",
+      "arabic": "هل أنت متفرغ، يوم السبت؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860277"
+    },
+    {
+      "english": "I suggest we go, by train.",
+      "arabic": "أقترح أن نذهب، بالقطار.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860279"
+    },
+    {
+      "english": "How about dinner, tonight?",
+      "arabic": "ما رأيك في العشاء، الليلة؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860280"
+    },
+    {
+      "english": "We need to book, tickets soon.",
+      "arabic": "نحتاج لحجز، التذاكر قريباً.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860282"
+    },
+    {
+      "english": "Should we buy, souvenirs?",
+      "arabic": "هل نشتري، هدايا تذكارية؟",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860284"
+    },
+    {
+      "english": "I'll call you, when I arrive.",
+      "arabic": "سأتصل بك، عندما أصل.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860285"
+    },
+    {
+      "english": "Don't forget, your passport.",
+      "arabic": "لا تنسَ، جواز سفرك.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-29T06:47:14.860287"
     }
   ],
-  "last_updated": "2026-10-28T06:39:48.722084"
+  "last_updated": "2026-10-29T06:47:14.860289"
 }
