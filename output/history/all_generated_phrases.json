@@ -74879,7 +74879,727 @@
       "arabic": "اعرف متى تضغط، ومتى ترتاح.",
       "category": "Balance",
       "generated_at": "2026-11-01T07:09:50.867148"
+    },
+    {
+      "english": "Stay strong, friend.",
+      "arabic": "ابق قوياً يا صديقي.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821085"
+    },
+    {
+      "english": "You have great strength.",
+      "arabic": "لديك قوة عظيمة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821106"
+    },
+    {
+      "english": "Show your strength.",
+      "arabic": "أظهر قوتك.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821110"
+    },
+    {
+      "english": "This requires strength.",
+      "arabic": "هذا يتطلب قوة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821126"
+    },
+    {
+      "english": "Find inner strength.",
+      "arabic": "ابحث عن قوتك الداخلية.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821129"
+    },
+    {
+      "english": "Are you feeling strong?",
+      "arabic": "هل تشعر بالقوة؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821132"
+    },
+    {
+      "english": "We need more strength.",
+      "arabic": "نحن نحتاج المزيد من القوة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821136"
+    },
+    {
+      "english": "That took a lot of strength.",
+      "arabic": "هذا تطلب الكثير من القوة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821142"
+    },
+    {
+      "english": "You are incredibly strong.",
+      "arabic": "أنت قوي بشكل لا يصدق.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821146"
+    },
+    {
+      "english": "Let your strength shine.",
+      "arabic": "دع قوتك تتألق.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821149"
+    },
+    {
+      "english": "You have remarkable strength.",
+      "arabic": "لديك قوة ملحوظة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821151"
+    },
+    {
+      "english": "Show some strength.",
+      "arabic": "أظهر بعض القوة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821154"
+    },
+    {
+      "english": "We admire your strength.",
+      "arabic": "نحن معجبون بقوتك.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821157"
+    },
+    {
+      "english": "You possess great strength.",
+      "arabic": "تمتلك قوة كبيرة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821160"
+    },
+    {
+      "english": "It's a test of strength.",
+      "arabic": "إنه اختبار للقوة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821162"
+    },
+    {
+      "english": "Gather your strength.",
+      "arabic": "اجمع قوتك.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821168"
+    },
+    {
+      "english": "This requires strong nerves.",
+      "arabic": "هذا يتطلب أعصاباً قوية.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821171"
+    },
+    {
+      "english": "You handle it with strength.",
+      "arabic": "تتعامل معها بقوة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821173"
+    },
+    {
+      "english": "You are full of strength.",
+      "arabic": "أنت مليء بالقوة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821176"
+    },
+    {
+      "english": "Never underestimate your strength.",
+      "arabic": "لا تستهن أبداً بقوتك.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821181"
+    },
+    {
+      "english": "You demonstrate great strength.",
+      "arabic": "تظهر قوة عظيمة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821184"
+    },
+    {
+      "english": "Find strength in numbers.",
+      "arabic": "ابحث عن القوة في الأعداد.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821186"
+    },
+    {
+      "english": "You are a strong person.",
+      "arabic": "أنت شخص قوي.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821189"
+    },
+    {
+      "english": "Your spirit is strong.",
+      "arabic": "روحك قوية.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821191"
+    },
+    {
+      "english": "What a show of strength!",
+      "arabic": "يا لها من قوة!",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821194"
+    },
+    {
+      "english": "What's your secret, to staying so strong?",
+      "arabic": "ما هو سرك, للبقاء قوياً هكذا؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821198"
+    },
+    {
+      "english": "How do you manage, such big challenges?",
+      "arabic": "كيف تتعامل, مع تحديات كبيرة كهذه؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821201"
+    },
+    {
+      "english": "Do you ever feel weak, or tired?",
+      "arabic": "هل تشعر بالضعف, أو التعب أحياناً؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821204"
+    },
+    {
+      "english": "Where do you get, your motivation from?",
+      "arabic": "من أين تحصل, على دافعك؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821207"
+    },
+    {
+      "english": "What helps you, when things get tough?",
+      "arabic": "ماذا يساعدك, عندما تصبح الأمور صعبة؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821210"
+    },
+    {
+      "english": "Do you think, strength is something you learn?",
+      "arabic": "هل تعتقد, أن القوة شيء نتعلمه؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821213"
+    },
+    {
+      "english": "How do you build, mental toughness?",
+      "arabic": "كيف تبني, الصلابة الذهنية؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821216"
+    },
+    {
+      "english": "Is there a specific routine, you follow?",
+      "arabic": "هل هناك روتين معين, تتبعه؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821219"
+    },
+    {
+      "english": "Who inspires you, to be stronger?",
+      "arabic": "من يلهمك, لتكون أقوى؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821222"
+    },
+    {
+      "english": "Do you practice, self-discipline often?",
+      "arabic": "هل تمارس, الانضباط الذاتي كثيراً؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821225"
+    },
+    {
+      "english": "What's your go-to phrase, when you're down?",
+      "arabic": "ما هي عبارتك المفضلة, عندما تكون محبطاً؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821228"
+    },
+    {
+      "english": "How do you bounce back, from setbacks?",
+      "arabic": "كيف تتعافى, من الانتكاسات؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821231"
+    },
+    {
+      "english": "Do you believe, in positive self-talk?",
+      "arabic": "هل تؤمن, بالحديث الإيجابي مع النفس؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821234"
+    },
+    {
+      "english": "What's the best lesson, you've learned about strength?",
+      "arabic": "ما هو أفضل درس, تعلمته عن القوة؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821238"
+    },
+    {
+      "english": "How do you find balance, when feeling overwhelmed?",
+      "arabic": "كيف تجد التوازن, عندما تشعر بالإرهاق؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821241"
+    },
+    {
+      "english": "Do you think, perseverance is key?",
+      "arabic": "هل تعتقد, أن المثابرة هي المفتاح؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821244"
+    },
+    {
+      "english": "What's a small step, to start building courage?",
+      "arabic": "ما هي خطوة صغيرة, لبدء بناء الشجاعة؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821247"
+    },
+    {
+      "english": "What helps you, to overcome fear?",
+      "arabic": "ماذا يساعدك, على التغلب على الخوف؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821249"
+    },
+    {
+      "english": "How do you handle, pressure gracefully?",
+      "arabic": "كيف تتعامل, مع الضغط برشاقة؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821252"
+    },
+    {
+      "english": "Do you believe, in your own resilience?",
+      "arabic": "هل تؤمن, بمرونتك الخاصة؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821257"
+    },
+    {
+      "english": "What's your approach, to difficult conversations?",
+      "arabic": "ما هو أسلوبك, في المحادثات الصعبة؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821260"
+    },
+    {
+      "english": "How do you maintain, inner peace?",
+      "arabic": "كيف تحافظ, على السلام الداخلي؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821263"
+    },
+    {
+      "english": "Do you see challenges, as opportunities?",
+      "arabic": "هل ترى التحديات, كفرص؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821266"
+    },
+    {
+      "english": "What's one small victory, you celebrate?",
+      "arabic": "ما هو انتصار صغير واحد, تحتفل به؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821269"
+    },
+    {
+      "english": "How do you adapt, to change effectively?",
+      "arabic": "كيف تتكيف, مع التغيير بفعالية؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821272"
+    },
+    {
+      "english": "Do you find strength, in vulnerability?",
+      "arabic": "هل تجد القوة, في الضعف؟",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821274"
+    },
+    {
+      "english": "Keep pushing forward, don't stop.",
+      "arabic": "استمر في التقدم، لا تتوقف.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821280"
+    },
+    {
+      "english": "That's amazing resilience, wow!",
+      "arabic": "هذه مرونة مدهشة، واو!",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821283"
+    },
+    {
+      "english": "You're incredibly capable, remember that.",
+      "arabic": "أنت قادر بشكل لا يصدق، تذكر ذلك.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821286"
+    },
+    {
+      "english": "Don't give up, you're almost there.",
+      "arabic": "لا تستسلم، لقد أوشكت على الوصول.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821292"
+    },
+    {
+      "english": "You have a strong will, amazing.",
+      "arabic": "لديك إرادة قوية، مدهش.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821295"
+    },
+    {
+      "english": "Each step counts, keep going.",
+      "arabic": "كل خطوة مهمة، واصل.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821298"
+    },
+    {
+      "english": "You can overcome anything, I know.",
+      "arabic": "تستطيع تجاوز أي شيء، أعرف.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821301"
+    },
+    {
+      "english": "Your courage shines through, always.",
+      "arabic": "شجاعتك تضيء، دائماً.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821304"
+    },
+    {
+      "english": "Stay focused, you've got this.",
+      "arabic": "ابقَ مركزاً، أنت قادر على هذا.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821307"
+    },
+    {
+      "english": "Positive thoughts, lead to success.",
+      "arabic": "الأفكار الإيجابية، تؤدي للنجاح.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821310"
+    },
+    {
+      "english": "You are stronger than you realize.",
+      "arabic": "أنت أقوى مما تدرك.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821313"
+    },
+    {
+      "english": "Never underestimate your inner power.",
+      "arabic": "لا تستهن أبداً بقوتك الداخلية.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821316"
+    },
+    {
+      "english": "Keep that positive attitude, brilliant!",
+      "arabic": "حافظ على تلك الروح الإيجابية، رائع!",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821319"
+    },
+    {
+      "english": "That's remarkable perseverance, truly.",
+      "arabic": "هذه مثابرة ملحوظة، حقاً.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821324"
+    },
+    {
+      "english": "You're growing stronger every day.",
+      "arabic": "أنت تزداد قوة كل يوم.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821327"
+    },
+    {
+      "english": "Your confidence is impressive, honestly.",
+      "arabic": "ثقتك بنفسك مثيرة للإعجاب، بصراحة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821330"
+    },
+    {
+      "english": "Keep believing, the results will come.",
+      "arabic": "واصل الإيمان، ستأتي النتائج.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821333"
+    },
+    {
+      "english": "You possess such great mental fortitude.",
+      "arabic": "تمتلك صلابة ذهنية عظيمة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821336"
+    },
+    {
+      "english": "Your focus is commendable, well done.",
+      "arabic": "تركيزك جدير بالثناء، أحسنت.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821339"
+    },
+    {
+      "english": "Embrace the struggle, it builds you.",
+      "arabic": "احتضن الصراع، فهو يبنيك.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821342"
+    },
+    {
+      "english": "You have a powerful spirit, yes!",
+      "arabic": "لديك روح قوية، نعم!",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821344"
+    },
+    {
+      "english": "Your efforts are truly admirable.",
+      "arabic": "جهودك جديرة بالإعجاب حقاً.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821347"
+    },
+    {
+      "english": "You can conquer any obstacle.",
+      "arabic": "يمكنك قهر أي عقبة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821350"
+    },
+    {
+      "english": "Stay strong, you are capable.",
+      "arabic": "ابق قوياً، أنت قادر.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821353"
+    },
+    {
+      "english": "He has nerves of steel.",
+      "arabic": "عنده أعصاب فولاذية.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821356"
+    },
+    {
+      "english": "She's a rock, always steady.",
+      "arabic": "هي صخرة، ثابتة دائماً.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821359"
+    },
+    {
+      "english": "Tough times, don't last.",
+      "arabic": "الأوقات الصعبة، لا تدوم.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821362"
+    },
+    {
+      "english": "He's got grit, through and through.",
+      "arabic": "لديه عزيمة، من الألف إلى الياء.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821365"
+    },
+    {
+      "english": "We push through, together.",
+      "arabic": "نتجاوز الصعاب، معاً.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821368"
+    },
+    {
+      "english": "Her spirit, is unbroken.",
+      "arabic": "روحها، لم تنكسر.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821371"
+    },
+    {
+      "english": "Don't break, under pressure.",
+      "arabic": "لا تنكسر، تحت الضغط.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821374"
+    },
+    {
+      "english": "He can handle, any heat.",
+      "arabic": "يستطيع تحمل، أي ضغط.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821376"
+    },
+    {
+      "english": "Show some backbone, stand up.",
+      "arabic": "أظهر بعض الشجاعة، قف.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821381"
+    },
+    {
+      "english": "She weathered the storm, bravely.",
+      "arabic": "تجاوزت العاصفة، بشجاعة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821384"
+    },
+    {
+      "english": "It takes guts, to try.",
+      "arabic": "يتطلب شجاعة، للمحاولة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821387"
+    },
+    {
+      "english": "He faced it, head on.",
+      "arabic": "واجه الأمر، مباشرة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821392"
+    },
+    {
+      "english": "Be firm, in your beliefs.",
+      "arabic": "كن ثابتاً، في معتقداتك.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821395"
+    },
+    {
+      "english": "She won't back down, ever.",
+      "arabic": "لن تتراجع، أبداً.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821398"
+    },
+    {
+      "english": "We find strength, in unity.",
+      "arabic": "نجد القوة، في الوحدة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821400"
+    },
+    {
+      "english": "He is built, for hardship.",
+      "arabic": "هو مُعدّ، للمشقة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821403"
+    },
+    {
+      "english": "Don't buckle, under strain.",
+      "arabic": "لا تنحنِ، تحت الضغط.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821406"
+    },
+    {
+      "english": "She has a warrior's heart.",
+      "arabic": "لديها قلب محارب.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821409"
+    },
+    {
+      "english": "We stand our ground, firm.",
+      "arabic": "نثبت في موقفنا، بقوة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821412"
+    },
+    {
+      "english": "He's got staying power, for sure.",
+      "arabic": "لديه قدرة على التحمل، بالتأكيد.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821415"
+    },
+    {
+      "english": "Her resilience, is inspiring.",
+      "arabic": "صمودها، ملهم.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821418"
+    },
+    {
+      "english": "We face challenges, head up.",
+      "arabic": "نواجه التحديات، برؤوس مرفوعة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821421"
+    },
+    {
+      "english": "He bends, but doesn't break.",
+      "arabic": "ينحني، لكن لا ينكسر.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821424"
+    },
+    {
+      "english": "She's tough, as nails.",
+      "arabic": "هي قوية، جداً.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821426"
+    },
+    {
+      "english": "We carry on, no matter what.",
+      "arabic": "نواصل، مهما حدث.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821429"
+    },
+    {
+      "english": "He thrives, under pressure.",
+      "arabic": "يزدهر، تحت الضغط.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821432"
+    },
+    {
+      "english": "Her determination, is a force.",
+      "arabic": "إصرارها، قوة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821435"
+    },
+    {
+      "english": "We keep going, strong.",
+      "arabic": "نستمر، بقوة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821438"
+    },
+    {
+      "english": "Build good habits, daily.",
+      "arabic": "ابني عادات جيدة, يومياً.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821440"
+    },
+    {
+      "english": "Ask for help, when needed.",
+      "arabic": "اطلب المساعدة, عند الحاجة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821443"
+    },
+    {
+      "english": "Stay calm, in tough situations.",
+      "arabic": "ابق هادئاً, في المواقف الصعبة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821446"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "arabic": "كن صبوراً, مع نفسك.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821449"
+    },
+    {
+      "english": "Share your burdens, with friends.",
+      "arabic": "شارك أعباءك, مع الأصدقاء.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821452"
+    },
+    {
+      "english": "Rest well, recharge your energy.",
+      "arabic": "ارتح جيداً, جدد طاقتك.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821456"
+    },
+    {
+      "english": "Think before you speak, wisely.",
+      "arabic": "فكر قبل أن تتكلم, بحكمة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821459"
+    },
+    {
+      "english": "Adapt to changes, flexibly.",
+      "arabic": "تكيف مع التغييرات, بمرونة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821462"
+    },
+    {
+      "english": "Forgive quickly, move forward.",
+      "arabic": "سامح بسرعة, تقدم للأمام.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821465"
+    },
+    {
+      "english": "Be kind, to everyone.",
+      "arabic": "كن لطيفاً, مع الجميع.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821470"
+    },
+    {
+      "english": "Practice makes progress, truly.",
+      "arabic": "الممارسة تصنع التقدم, حقاً.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821473"
+    },
+    {
+      "english": "Manage your time, wisely.",
+      "arabic": "نظم وقتك, بحكمة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821476"
+    },
+    {
+      "english": "Don't compare, your journey.",
+      "arabic": "لا تقارن, رحلتك.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821481"
+    },
+    {
+      "english": "Stay humble, in success.",
+      "arabic": "ابق متواضعاً, عند النجاح.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821484"
+    },
+    {
+      "english": "Embrace discomfort, to grow.",
+      "arabic": "احتضن عدم الارتياح, لتنمو.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821486"
+    },
+    {
+      "english": "Seek feedback, to improve.",
+      "arabic": "اطلب الملاحظات, للتحسين.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821490"
+    },
+    {
+      "english": "Find joy, in simple things.",
+      "arabic": "ابحث عن السعادة, في الأشياء البسيطة.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T07:16:29.821492"
     }
   ],
-  "last_updated": "2026-11-01T07:09:50.867150"
+  "last_updated": "2026-11-02T07:16:29.821495"
 }
