@@ -75599,7 +75599,727 @@
       "arabic": "ابحث عن السعادة, في الأشياء البسيطة.",
       "category": "Strength",
       "generated_at": "2026-11-02T07:16:29.821492"
+    },
+    {
+      "english": "Hi, do you have a menu, please?",
+      "arabic": "مرحبًا، هل عندكم قائمة طعام، من فضلك؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019274"
+    },
+    {
+      "english": "Yes, one moment, I’m choosing.",
+      "arabic": "نعم، لحظة واحدة، أنا أختار.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019290"
+    },
+    {
+      "english": "What do you recommend today, please?",
+      "arabic": "بماذا تنصحون اليوم، من فضلك؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019294"
+    },
+    {
+      "english": "This looks great, I’ll take it.",
+      "arabic": "هذا يبدو رائعًا، سأطلبه.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019298"
+    },
+    {
+      "english": "Can I get water first, please?",
+      "arabic": "هل يمكنني الحصول على ماء أولًا، من فضلك؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019301"
+    },
+    {
+      "english": "I’ll try it, even if it’s spicy.",
+      "arabic": "سأجربه، حتى لو كان حارًا.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019305"
+    },
+    {
+      "english": "No, thanks, I’m not that hungry.",
+      "arabic": "لا شكرًا، أنا لست جائعًا جدًا.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019309"
+    },
+    {
+      "english": "Wait, I need to ask something.",
+      "arabic": "انتظر، أحتاج أن أسأل شيئًا.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019315"
+    },
+    {
+      "english": "Sorry, can you repeat that, please?",
+      "arabic": "عذرًا، هل يمكنك تكرار ذلك، من فضلك؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019319"
+    },
+    {
+      "english": "How much is this, exactly?",
+      "arabic": "كم سعر هذا بالضبط؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019323"
+    },
+    {
+      "english": "Do you have it without onions?",
+      "arabic": "هل يمكن بدون بصل؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019325"
+    },
+    {
+      "english": "Is it fresh, like really fresh?",
+      "arabic": "هل هو طازج، طازج فعلًا؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019328"
+    },
+    {
+      "english": "Great choice, I’ll order now.",
+      "arabic": "اختيار رائع، سأطلب الآن.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019333"
+    },
+    {
+      "english": "I’m allergic to nuts, just so you know.",
+      "arabic": "عندي حساسية من المكسرات، فقط للتوضيح.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019337"
+    },
+    {
+      "english": "Can I have it to-go, please?",
+      "arabic": "هل يمكنني أخذه معي، من فضلك؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019340"
+    },
+    {
+      "english": "Do you have spicy sauce on the side?",
+      "arabic": "هل عندكم صوص حار على جنب؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019342"
+    },
+    {
+      "english": "I’ll take the small size, please.",
+      "arabic": "سآخذ الحجم الصغير، من فضلك.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019346"
+    },
+    {
+      "english": "Could I get extra lemon, please?",
+      "arabic": "هل يمكنني الحصول على ليمون إضافي، من فضلك؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019355"
+    },
+    {
+      "english": "No cheese, please, I can’t eat it.",
+      "arabic": "بدون جبن، من فضلك، لا أقدر عليه.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019358"
+    },
+    {
+      "english": "What’s the wait time, roughly?",
+      "arabic": "كم تقريبًا وقت الانتظار؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019362"
+    },
+    {
+      "english": "Please bring the bill, when you can.",
+      "arabic": "من فضلك، أحضروا الفاتورة عندما تستطيعون.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019366"
+    },
+    {
+      "english": "How do I pay, cash or card?",
+      "arabic": "كيف أدفع، نقدًا أم بطاقة؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019369"
+    },
+    {
+      "english": "Everything here smells amazing!",
+      "arabic": "كل شيء هنا رائحته ممتازة!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019372"
+    },
+    {
+      "english": "It’s too salty, can I get less?",
+      "arabic": "إنه مالح جدًا، هل يمكن تخفيفه؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019377"
+    },
+    {
+      "english": "Sorry, I ordered the wrong thing.",
+      "arabic": "عذرًا، أنا طلبت شيئًا غير صحيح.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019380"
+    },
+    {
+      "english": "Can we get separate plates, please?",
+      "arabic": "هل يمكن أحصل على أطباق منفصلة، من فضلك؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019383"
+    },
+    {
+      "english": "Excuse me, where is the restaurant menu?",
+      "arabic": "عذرًا، أين قائمة الطعام هنا؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019386"
+    },
+    {
+      "english": "Is there anything vegetarian here?",
+      "arabic": "هل يوجد شيء نباتي هنا؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019388"
+    },
+    {
+      "english": "Can I get ketchup, please, no problem?",
+      "arabic": "هل يمكنني كاتشب، من فضلك، بدون مشكلة؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019391"
+    },
+    {
+      "english": "What’s the house specialty today, by the way?",
+      "arabic": "ما هي أفضل أكلة البيت اليوم، بالمناسبة؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019395"
+    },
+    {
+      "english": "Is this spicy, or mild for me?",
+      "arabic": "هل هذا حار، أم خفيف عليه؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019398"
+    },
+    {
+      "english": "Do you have a kids’ portion here?",
+      "arabic": "هل عندكم وجبة للأطفال؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019402"
+    },
+    {
+      "english": "How do I order at the counter, please?",
+      "arabic": "كيف أطلب عند الكاونتر، من فضلك؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019405"
+    },
+    {
+      "english": "Can I ask about the ingredients, quickly?",
+      "arabic": "هل أقدر أسأل عن المكونات بسرعة؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019410"
+    },
+    {
+      "english": "Is there a sauce option, choose one?",
+      "arabic": "هل في خيارات صوص، تختار واحد؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019413"
+    },
+    {
+      "english": "Which one is best for beginners?",
+      "arabic": "أي واحد أنسب للمبتدئين؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019416"
+    },
+    {
+      "english": "Do you have it grilled, instead of fried?",
+      "arabic": "هل تقدر تسويه مشوي بدل مقلي؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019419"
+    },
+    {
+      "english": "Can I swap the side, please?",
+      "arabic": "هل ممكن أبدّل الصوص الجانبي، من فضلك؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019421"
+    },
+    {
+      "english": "What comes with it, exactly?",
+      "arabic": "ما الذي يأتي معه، بالضبط؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019424"
+    },
+    {
+      "english": "Could I get it less oily, please?",
+      "arabic": "ممكن تخليه أقل دهن، من فضلك؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019427"
+    },
+    {
+      "english": "Do you offer any vegetarian starters?",
+      "arabic": "هل عندكم مقبلات نباتية؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019430"
+    },
+    {
+      "english": "Is the portion big, or medium here?",
+      "arabic": "الحصة كبيرة، ولا متوسطة هنا؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019433"
+    },
+    {
+      "english": "What’s the most popular drink today?",
+      "arabic": "ما أكثر مشروب طلبوه اليوم؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019436"
+    },
+    {
+      "english": "Can I see the allergy details, please?",
+      "arabic": "هل ممكن تشوف لي تفاصيل الحساسية؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019439"
+    },
+    {
+      "english": "If I wait, how fast is it?",
+      "arabic": "إذا انتظرت، كم تقريبًا يستغرق؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019442"
+    },
+    {
+      "english": "Can I get it without garlic, please?",
+      "arabic": "هل ممكن بدون ثوم، من فضلك؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019445"
+    },
+    {
+      "english": "Do you have a healthier option on the menu?",
+      "arabic": "هل عندكم خيار أخف على القائمة؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019447"
+    },
+    {
+      "english": "Which bread comes with the meal?",
+      "arabic": "أي خبز يجي مع الوجبة؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019450"
+    },
+    {
+      "english": "Is there a discount for students, maybe?",
+      "arabic": "هل فيه خصم للطلاب؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019453"
+    },
+    {
+      "english": "Do you have free refills for drinks?",
+      "arabic": "هل تعبيّة مجانية للمشروبات؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019457"
+    },
+    {
+      "english": "Can we sit here, or outside?",
+      "arabic": "ممكن نجلس هنا، ولا برا؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019460"
+    },
+    {
+      "english": "What’s the suggestion if I like citrus?",
+      "arabic": "لو بحب طعم الحمضيات، ماذا تنصحني؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019463"
+    },
+    {
+      "english": "Do you serve it with rice or fries?",
+      "arabic": "هل يجي مع رز ولا بطاطس؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019466"
+    },
+    {
+      "english": "Is this dish okay for lactose-free?",
+      "arabic": "هل هذا مناسب بدون لاكتوز؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019469"
+    },
+    {
+      "english": "Do I order first, then pay?",
+      "arabic": "أطلب أولًا، بعدين أدفع؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019471"
+    },
+    {
+      "english": "What do you mean by, chef’s special?",
+      "arabic": "ماذا تقصد بعبارة، طبق الشيف الخاص؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019475"
+    },
+    {
+      "english": "Could you tell me the portion calories, roughly?",
+      "arabic": "هل تقدر تقول لي السعرات، تقريبًا؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019478"
+    },
+    {
+      "english": "If I don’t like it, can I change?",
+      "arabic": "إذا ما عجبني، هل أقدر أبدّل؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019483"
+    },
+    {
+      "english": "What’s the best time to avoid the rush?",
+      "arabic": "متى يكون أفضل وقت لتفادي الزحمة؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019487"
+    },
+    {
+      "english": "You’ve got this, order confidently, one step.",
+      "arabic": "عندك هذا، اطلب بثقة، خطوة بخطوة.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019491"
+    },
+    {
+      "english": "Relax, take your time, I’m with you.",
+      "arabic": "ارتاح، خذ وقتك، أنا معك.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019508"
+    },
+    {
+      "english": "Small choices, big comfort, enjoy your meal.",
+      "arabic": "اختيارات بسيطة، راحة كبيرة، استمتع بوجبتك.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019512"
+    },
+    {
+      "english": "Say it clearly, they’ll understand you quickly.",
+      "arabic": "قلها بوضوح، سيفهمونك بسرعة.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019516"
+    },
+    {
+      "english": "You’re learning fast, ask with a smile.",
+      "arabic": "أنت تتعلم بسرعة، اسأل بابتسامة.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019520"
+    },
+    {
+      "english": "It’s okay to ask twice, no stress.",
+      "arabic": "ممكن تسأل مرتين، ولا يهمك.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019524"
+    },
+    {
+      "english": "Great job, you found your taste already.",
+      "arabic": "أحسنت، أنت عرفت ذوقك بالفعل.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019527"
+    },
+    {
+      "english": "Start simple, then upgrade your order later.",
+      "arabic": "ابدأ ببساطة، وبعدها طوّر طلبك لاحقًا.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019530"
+    },
+    {
+      "english": "Today’s a win, go with what you like.",
+      "arabic": "اليوم فوز، اختَر اللي يعجبك.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019534"
+    },
+    {
+      "english": "Confidence sounds good, even before the first bite.",
+      "arabic": "الثقة جميلة، حتى قبل أول لقمة.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019537"
+    },
+    {
+      "english": "No rush, take a breath, then order.",
+      "arabic": "بدون استعجال، خذ نفس، ثم اطلب.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019540"
+    },
+    {
+      "english": "Kind requests work, keep it polite always.",
+      "arabic": "الطلبات اللطيفة تنفع، حافظ على الأدب.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019543"
+    },
+    {
+      "english": "You’re doing great, thank them, enjoy more.",
+      "arabic": "أنت ممتاز، شكرًا لهم، وخذ راحتك.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019547"
+    },
+    {
+      "english": "Trust your choice, let the flavors guide you.",
+      "arabic": "ثق بقرارك، ودع النكهات ترشدك.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019550"
+    },
+    {
+      "english": "If you’re unsure, ask, that’s smart.",
+      "arabic": "إذا ما كنت متأكد، اسأل، هذا ذكي.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019554"
+    },
+    {
+      "english": "Every order is practice, you’re building skill.",
+      "arabic": "كل طلب تدريب، أنت تبني مهارة.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019557"
+    },
+    {
+      "english": "Go easy on yourself, speak slowly, clearly.",
+      "arabic": "عامل نفسك بلطف، تكلم ببطء، بوضوح.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019561"
+    },
+    {
+      "english": "Nice energy, they’ll help you faster today.",
+      "arabic": "طاقة حلوة، اليوم سيساعدونك أسرع.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019564"
+    },
+    {
+      "english": "You can adjust after, start with your pick.",
+      "arabic": "تقدر تعدّل بعدين، ابدأ باختيارك.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019567"
+    },
+    {
+      "english": "Listen first, then answer, you’ve got this.",
+      "arabic": "اسمع أولًا، ثم جاوب، عندك هذا.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019571"
+    },
+    {
+      "english": "Celebrate small wins, your Arabic will improve.",
+      "arabic": "احتفل بالإنجازات الصغيرة، عربيتك بتتحسن.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019574"
+    },
+    {
+      "english": "Make it simple, one clear request works.",
+      "arabic": "خلّها بسيطة، طلب واحد واضح يكفي.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019579"
+    },
+    {
+      "english": "Your tone matters, calm voice gets results.",
+      "arabic": "نبرة صوتك مهمة، الصوت الهادئ يجيب نتيجة.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019582"
+    },
+    {
+      "english": "Keep asking, because progress feels good.",
+      "arabic": "كمّل بالسؤال، لأن التقدم يفرّح.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019584"
+    },
+    {
+      "english": "You deserve a tasty meal, enjoy it fully.",
+      "arabic": "تستاهل وجبة لذيذة، استمتع بها كاملًا.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019587"
+    },
+    {
+      "english": "Let’s do this, quick order, then relax.",
+      "arabic": "خلّينا نعملها، طلب سريع، ثم ارتاح.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019591"
+    },
+    {
+      "english": "Good morning appetite, today you’ll discover new flavors.",
+      "arabic": "صباح الخير للشهية، اليوم بتكتشف نكهات جديدة.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019595"
+    },
+    {
+      "english": "Be brave, order what sounds best to you.",
+      "arabic": "كن شجاع، اطلب اللي يبدو الأفضل لك.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019598"
+    },
+    {
+      "english": "Kind and clear, that’s the winning combo.",
+      "arabic": "لطيف وواضح، هذا هو السر.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019601"
+    },
+    {
+      "english": "You’re improving, each word makes you stronger.",
+      "arabic": "أنت تتحسن، كل كلمة تقوّيك.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019607"
+    },
+    {
+      "english": "I’m a bit unsure, can you guide me?",
+      "arabic": "أنا متردد قليلاً، هل ممكن تساعدني؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019610"
+    },
+    {
+      "english": "Honestly, I’m craving something light today.",
+      "arabic": "بصراحة، أنا محتاج شيء خفيف اليوم.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019616"
+    },
+    {
+      "english": "I want it mild, not too spicy, please.",
+      "arabic": "أريده خفيفاً، ليس حاراً كثيراً، من فضلك.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019620"
+    },
+    {
+      "english": "If it’s fresh, I’ll be really happy.",
+      "arabic": "إذا كان طازجاً، سأكون سعيداً جداً.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019623"
+    },
+    {
+      "english": "I’m patient, take your time, please.",
+      "arabic": "أنا صبور، خذ وقتك، من فضلك.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019627"
+    },
+    {
+      "english": "I’d like your comfort choice, my way.",
+      "arabic": "أريد اختيارك المريح، على طريقتي.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019630"
+    },
+    {
+      "english": "Let me think, I’ll decide in a minute.",
+      "arabic": "خلّني أفكر، سأقرر بعد دقيقة.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019634"
+    },
+    {
+      "english": "I’m trying to eat healthier, any options?",
+      "arabic": "أنا أحاول أتناول شيء أأصح، أي خيارات؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019637"
+    },
+    {
+      "english": "I need something filling, but not heavy.",
+      "arabic": "أحتاج شيء مشبع، لكن ليس ثقيلًا.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019640"
+    },
+    {
+      "english": "Please, I’d like it less salty.",
+      "arabic": "من فضلك، أريده أقل ملوحة.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019644"
+    },
+    {
+      "english": "I’d rather have it cooked well, not raw.",
+      "arabic": "أفضل يكون مطبوخ جيداً، ليس نيّاً.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019647"
+    },
+    {
+      "english": "I’m nervous ordering Arabic, sorry.",
+      "arabic": "أنا متوتر من الطلب بالعربي، عفواً.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019650"
+    },
+    {
+      "english": "No worries, I can repeat my order.",
+      "arabic": "لا بأس، أقدر أكرر طلبي.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019653"
+    },
+    {
+      "english": "I appreciate your patience, thank you.",
+      "arabic": "أقدّر صبرك، شكراً لك.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019656"
+    },
+    {
+      "english": "I want something warm, it feels cold outside.",
+      "arabic": "أريد شيئاً دافئاً، الجو بارد.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019661"
+    },
+    {
+      "english": "Honestly, I don’t want anything too sweet.",
+      "arabic": "بصراحة، ما أبغى شيء حلو كثير.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019664"
+    },
+    {
+      "english": "Can you confirm the ingredients, please?",
+      "arabic": "هل ممكن تؤكد المكونات، من فضلك؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019667"
+    },
+    {
+      "english": "I’m okay with waiting, I value quality.",
+      "arabic": "أنا موافق أنتظر، الجودة تهمني.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019671"
+    },
+    {
+      "english": "If I’m wrong, please correct me gently.",
+      "arabic": "إذا كنت مخطئاً، صحح لي بلطف.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019674"
+    },
+    {
+      "english": "I’d like it without any nuts, if possible.",
+      "arabic": "أريده بدون أي مكسرات، إذا أمكن.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019677"
+    },
+    {
+      "english": "I’m trying to slow down, one choice at a time.",
+      "arabic": "أحاول أهدّي، خيار واحد في كل مرة.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019681"
+    },
+    {
+      "english": "I want honest feedback, what’s your favorite?",
+      "arabic": "أريد رأياً صريحاً، ما هو مفضلّك؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019684"
+    },
+    {
+      "english": "I’m not in a mood for heavy sauce.",
+      "arabic": "أنا مو مزاجي مع الصوص الثقيل.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019688"
+    },
+    {
+      "english": "Please make it less oily, I get nauseous.",
+      "arabic": "من فضلك خليه أقل دهناً، أتعب من الزيت.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019693"
+    },
+    {
+      "english": "I’m excited, but I still want to understand.",
+      "arabic": "أنا متحمس، لكن أريد أفهم أولاً.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019696"
+    },
+    {
+      "english": "I’ll start small, then maybe add later.",
+      "arabic": "سأبدأ بكمية صغيرة، ثم ربما أزيد لاحقاً.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019699"
+    },
+    {
+      "english": "If it tastes okay, I’ll order it again.",
+      "arabic": "إذا كان طعمه مناسب، سأطلبه مرة ثانية.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019702"
+    },
+    {
+      "english": "Right now, I just want simple and fresh.",
+      "arabic": "حالياً، أريد شيء بسيط وطازج فقط.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019705"
+    },
+    {
+      "english": "I’m learning, so please speak a bit slower.",
+      "arabic": "أنا أتعلّم، فممكن تتكلم أبطأ قليلاً.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019708"
+    },
+    {
+      "english": "Thank you, I feel better after choosing.",
+      "arabic": "شكراً لك، أشعر براحة بعد الاختيار.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019711"
+    },
+    {
+      "english": "Can I see the menu, please, quick?",
+      "arabic": "ممكن أشوف القائمة، لو سمحت، بسرعة؟",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T07:37:49.019714"
     }
   ],
-  "last_updated": "2026-11-02T07:16:29.821495"
+  "last_updated": "2026-11-03T07:37:49.019716"
 }
