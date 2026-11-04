@@ -76319,7 +76319,727 @@
       "arabic": "ممكن أشوف القائمة، لو سمحت، بسرعة؟",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-11-03T07:37:49.019714"
+    },
+    {
+      "english": "Coffee first, then we talk, okay?",
+      "arabic": "القهوة أولًا, وبعدها نحكي, تمام؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315231"
+    },
+    {
+      "english": "Thanks, really, you're always so kind.",
+      "arabic": "شكرًا بصراحة, أنت دايمًا لطيف.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315248"
+    },
+    {
+      "english": "Take it easy, it's no big deal.",
+      "arabic": "تهونها شوية, الموضوع عادي جدًا.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315252"
+    },
+    {
+      "english": "Wait, let me get my bag.",
+      "arabic": "استنى, خلّيني أجيب الشنطة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315256"
+    },
+    {
+      "english": "Oh wow, that's so beautiful, really.",
+      "arabic": "يا سلام, هذا جميل جدًا, بصراحة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315259"
+    },
+    {
+      "english": "No worries, we’ll figure it out.",
+      "arabic": "ولا يهمك, بنرتّبها سوا.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315263"
+    },
+    {
+      "english": "Come in, don't stand outside.",
+      "arabic": "تفضل ادخل, ما تقف برا.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315266"
+    },
+    {
+      "english": "Try this, it’s delicious, trust me.",
+      "arabic": "جرب هذا, لذيذ جدًا, صدقني.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315274"
+    },
+    {
+      "english": "I’m good, just a little thirsty.",
+      "arabic": "أنا تمام, بس تعبان شوية من العطش.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315278"
+    },
+    {
+      "english": "Hold on, I need a second.",
+      "arabic": "لحظة لحظة, محتاج ثانية بس.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315283"
+    },
+    {
+      "english": "That’s the usual, right?",
+      "arabic": "هذا المعتاد, صح؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315287"
+    },
+    {
+      "english": "Great, let's start now, please.",
+      "arabic": "تمام, نبدأ الآن, لو سمحت.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315290"
+    },
+    {
+      "english": "Say it again, I didn’t catch that.",
+      "arabic": "عيدها, ما فهمتش.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315293"
+    },
+    {
+      "english": "Noted, okay, I’ll remember that.",
+      "arabic": "تمام, وصلت, بآخذها ببالّي.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315296"
+    },
+    {
+      "english": "You’re right, that makes sense.",
+      "arabic": "معك حق, الكلام منطقي.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315300"
+    },
+    {
+      "english": "Hey, what’s up, how’s your day?",
+      "arabic": "أهلًا, كيف الحال, كيف يومك؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315303"
+    },
+    {
+      "english": "Sorry, I’m late, traffic was crazy.",
+      "arabic": "آسف, تأخرت, الزحمة كانت مجنونة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315307"
+    },
+    {
+      "english": "Good one, you always make me laugh.",
+      "arabic": "يا سلام, دايمًا تضحكني.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315309"
+    },
+    {
+      "english": "Here you go, enjoy your food.",
+      "arabic": "تفضل, بالعافية عليك.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315312"
+    },
+    {
+      "english": "That’s perfect, exactly what I needed.",
+      "arabic": "ممتاز, هذا بالضبط اللي كنت أحتاجه.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315315"
+    },
+    {
+      "english": "Slow down, I’m not ready yet.",
+      "arabic": "ببطء, أنا لسه ما استعدّيت.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315319"
+    },
+    {
+      "english": "Respect, that's a real tradition.",
+      "arabic": "إجلال, هذي عادة محترمة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315321"
+    },
+    {
+      "english": "Tell me, what do people do here?",
+      "arabic": "قلّي, الناس هنا يعملوا إيش؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315324"
+    },
+    {
+      "english": "I'm staying, come sit with us.",
+      "arabic": "أنا باقي, تعال اقعد معنا.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315326"
+    },
+    {
+      "english": "Okay okay, I get it, no problem.",
+      "arabic": "حاضر حاضر, فهمت, ولا يهمك.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315329"
+    },
+    {
+      "english": "Wow, look at that, so neat!",
+      "arabic": "يا نهار أبيض, شوفه مرتب!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315332"
+    },
+    {
+      "english": "Let me help, you don't have to.",
+      "arabic": "خلّيني أساعد, ما عليك.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315335"
+    },
+    {
+      "english": "That’s sweet, you remembered me!",
+      "arabic": "يا ذوقك, تذكّرتني!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315338"
+    },
+    {
+      "english": "Between us, this is totally normal.",
+      "arabic": "بيننا وبينك, هذا طبيعي جدًا.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315341"
+    },
+    {
+      "english": "Alright, let's go, shoes on, please.",
+      "arabic": "تمام, نمشي, حط الحذاء بس.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315346"
+    },
+    {
+      "english": "When do families visit relatives, usually?",
+      "arabic": "متى تزور العائلات الأقارب عادةً؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315349"
+    },
+    {
+      "english": "What do you say first, greetings-wise?",
+      "arabic": "ماذا تقول أولًا في التحية؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315352"
+    },
+    {
+      "english": "Can I ask, what’s the gift etiquette?",
+      "arabic": "هل أقدر أسأل، ما آداب الهدايا؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315355"
+    },
+    {
+      "english": "Do people bring sweets when they visit?",
+      "arabic": "هل يحضر الناس الحلويات عند الزيارة؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315358"
+    },
+    {
+      "english": "How do you greet elders, respectfully?",
+      "arabic": "كيف تُحيّي الكبار باحترام؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315361"
+    },
+    {
+      "english": "Is it okay to decline tea politely?",
+      "arabic": "هل يجوز رفض الشاي بأدب؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315363"
+    },
+    {
+      "english": "What’s the usual way to thank the host?",
+      "arabic": "ما الطريقة المعتادة لشكر المضيف؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315366"
+    },
+    {
+      "english": "When someone offers help, what’s best to say?",
+      "arabic": "إذا عرض أحد المساعدة، ماذا تقول الأفضل؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315370"
+    },
+    {
+      "english": "Can you tell me about first-day traditions?",
+      "arabic": "هل ممكن تحكي لي عن تقاليد أول يوم؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315373"
+    },
+    {
+      "english": "Do you shake hands, or is it different?",
+      "arabic": "هل تصافحون، أم تختلف الطريقة؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315376"
+    },
+    {
+      "english": "What’s the right time to arrive, socially?",
+      "arabic": "متى من الأفضل أن نصل، اجتماعيًا؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315380"
+    },
+    {
+      "english": "Is it rude to be late without calling?",
+      "arabic": "هل يُعدّ التأخر دون اتصال أمرًا غير لائق؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315383"
+    },
+    {
+      "english": "Which side do you start with, in conversation?",
+      "arabic": "من أين نبدأ الكلام عادةً؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315387"
+    },
+    {
+      "english": "What topic is safe, when meeting someone?",
+      "arabic": "أي موضوع يكون آمنًا عند مقابلة شخص؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315389"
+    },
+    {
+      "english": "Can I compliment a dish, or is it awkward?",
+      "arabic": "هل أقدر أُثني على الطبق، أم هذا محرج؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315392"
+    },
+    {
+      "english": "How do you ask about someone’s family?",
+      "arabic": "كيف تسأل عن عائلة الشخص؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315395"
+    },
+    {
+      "english": "Is family dinner something everyone follows?",
+      "arabic": "هل عزيمة العائلة شيء يلتزم به الجميع؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315397"
+    },
+    {
+      "english": "When it’s Ramadan, what do people do first?",
+      "arabic": "في رمضان، ماذا يفعل الناس أولًا؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315401"
+    },
+    {
+      "english": "Do you say “bismillah,” before meals?",
+      "arabic": "هل تقول “بسم الله” قبل الأكل؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315404"
+    },
+    {
+      "english": "What’s the best way to ask for directions?",
+      "arabic": "ما أفضل طريقة لطلب الاتجاهات؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315407"
+    },
+    {
+      "english": "If I don’t understand, what should I say?",
+      "arabic": "إذا ما فهمت، ماذا أقول؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315410"
+    },
+    {
+      "english": "Is there a phrase for “you’re very welcome”?",
+      "arabic": "هل يوجد تعبير “العفو”؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315415"
+    },
+    {
+      "english": "How do you handle invitations, kindly?",
+      "arabic": "كيف تتعامل مع الدعوات بلطف؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315418"
+    },
+    {
+      "english": "Should I bring something, or just show up?",
+      "arabic": "هل أحضر شيئًا، أم يكفي أن أجيء؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315420"
+    },
+    {
+      "english": "What’s a polite way to ask for seconds?",
+      "arabic": "كيف أطلب المزيد بأدب؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315423"
+    },
+    {
+      "english": "When visiting, do you remove shoes inside?",
+      "arabic": "عند الزيارة، هل نخلع الأحذية داخلًا؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315426"
+    },
+    {
+      "english": "Can I take a photo, is it allowed?",
+      "arabic": "هل يمكنني أن أصوّر، هل هذا مسموح؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315429"
+    },
+    {
+      "english": "What do people do after the meal, together?",
+      "arabic": "ماذا يفعل الناس بعد الوجبة معًا؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315431"
+    },
+    {
+      "english": "How do you say goodbye, in a warm way?",
+      "arabic": "كيف تقول وداعًا بطريقة لطيفة؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315434"
+    },
+    {
+      "english": "What’s one tradition I should respect most?",
+      "arabic": "ما تقليد واحد يجب أن أحترمه أكثر؟",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315437"
+    },
+    {
+      "english": "The guest is treated like a king, always.",
+      "arabic": "الضيف له معاملة الملك، دايمًا.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315440"
+    },
+    {
+      "english": "We show love, with food and tea.",
+      "arabic": "نبيّن المحبة، بالأكل والشاي.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315444"
+    },
+    {
+      "english": "Don’t come empty-handed, even with a little.",
+      "arabic": "ما تجي فاضي، حتى لو بشي بسيط.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315448"
+    },
+    {
+      "english": "Better late than never, but call first.",
+      "arabic": "أحسن متأخر من لا، بس اتصل قبل.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315451"
+    },
+    {
+      "english": "Family comes first, هذا الكلام ما يتغيّر.",
+      "arabic": "العيلة قبل كل شيء، هذا الكلام ما يتغيّر.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315456"
+    },
+    {
+      "english": "In gatherings, everyone has a role.",
+      "arabic": "في اللمة، كل واحد له دوره.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315459"
+    },
+    {
+      "english": "We say, eat, and don’t argue.",
+      "arabic": "قول عيش، ولا تناقش.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315462"
+    },
+    {
+      "english": "You snooze, you lose the best slice.",
+      "arabic": "لي يتهنّى ينسى، أحسن قطعة تروح.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315465"
+    },
+    {
+      "english": "Bread is life, so don’t waste it.",
+      "arabic": "العيش حياة، فلا تضيّعه.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315469"
+    },
+    {
+      "english": "When it’s sweet time, everyone gathers.",
+      "arabic": "وقت الحلى، الكل يتلمّ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315472"
+    },
+    {
+      "english": "We forgive, ونرجع نضحك سوا.",
+      "arabic": "نغفر، ونرجع نضحك سوا.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315492"
+    },
+    {
+      "english": "If you visit, stay a bit more.",
+      "arabic": "إذا زرت، خلّك أطول شوي.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315496"
+    },
+    {
+      "english": "Talk with respect, وريحك تكون حلوة.",
+      "arabic": "احكي بأدب، وريحك تكون حلوة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315501"
+    },
+    {
+      "english": "The heart wins, even without big words.",
+      "arabic": "القلب يفوز، حتى لو ما في كلام كثير.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315504"
+    },
+    {
+      "english": "Practice hospitality, it opens doors.",
+      "arabic": "حسن الضيافة، يفتح أبواب.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315506"
+    },
+    {
+      "english": "We share everything, من غير ما نحسب.",
+      "arabic": "نشارك كل شيء، من غير حساب.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315510"
+    },
+    {
+      "english": "Don’t make it heavy, خلّها خفيفة.",
+      "arabic": "ما تعقّدها، خلّها خفيفة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315515"
+    },
+    {
+      "english": "When someone helps, say 'الله يسهّلها'.",
+      "arabic": "لما يساعدك، قول: الله يسهّلها.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315519"
+    },
+    {
+      "english": "Good manners are better than gifts.",
+      "arabic": "الذوق أحسن من الهدايا.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315522"
+    },
+    {
+      "english": "We don’t rush, الوقت مع الناس.",
+      "arabic": "ما نستعجل، الوقت مع الناس.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315527"
+    },
+    {
+      "english": "A warm smile, يسوى ألف كلمة.",
+      "arabic": "الابتسامة الحلوة، تسوى ألف كلمة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315531"
+    },
+    {
+      "english": "To keep peace, تنازل شوي وكمّل.",
+      "arabic": "عشان السِلم، تنازل شوي وكمّل.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315535"
+    },
+    {
+      "english": "If you’re invited, bring a good vibe.",
+      "arabic": "إذا اندعيت، جيب معاك جو حلو.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315538"
+    },
+    {
+      "english": "We welcome you, even if you’re late.",
+      "arabic": "نستقبلك، حتى لو تأخرت.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315542"
+    },
+    {
+      "english": "The table has blessings, لا تفوتها.",
+      "arabic": "الطاولة فيها بركة، ما تفوّتها.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315545"
+    },
+    {
+      "english": "Try it first, بعدين احكم.",
+      "arabic": "جرّب أولًا، بعدين احكم.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315550"
+    },
+    {
+      "english": "We say 'عيش وملح' for real warmth.",
+      "arabic": "نقول عيش وملح، يعني محبة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315554"
+    },
+    {
+      "english": "Sitting together, هذا سر الراحة.",
+      "arabic": "الجلوس سوا، هذا سر الراحة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315558"
+    },
+    {
+      "english": "Don’t spill gossip, خلّ لسانك نظيف.",
+      "arabic": "لا تخلي القيل والقال، خلّ لسانك نظيف.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315562"
+    },
+    {
+      "english": "Honestly, I feel proud of our patience here, really.",
+      "arabic": "بصراحة، أحس بفخر على صبرنا هون، جدًّا.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315566"
+    },
+    {
+      "english": "I’m excited, but I’ll stay calm, step by step.",
+      "arabic": "أنا مبسوط، بس رح أضل هادي، خطوة خطوة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315570"
+    },
+    {
+      "english": "When they ask how you are, answer from the heart.",
+      "arabic": "لما يسألوا عنك، جاوب من قلبك.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315573"
+    },
+    {
+      "english": "I notice the way they listen, it feels respectful.",
+      "arabic": "لا حظت كيف ينصتوا، بيحسسك باحترام.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315575"
+    },
+    {
+      "english": "That tea moment, I feel it in my chest.",
+      "arabic": "هاللحظة مع الشاي، بحسّها بصدري.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315580"
+    },
+    {
+      "english": "I’m not rushing, I just want to understand better.",
+      "arabic": "ما عم أستعجل، بس أبغى أفهم أكتر.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315584"
+    },
+    {
+      "english": "Respectfully, I’ll wait my turn, no drama.",
+      "arabic": "بكل احترام، بانتظر دوري، بلا مشاكل.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315589"
+    },
+    {
+      "english": "Can I be honest, I like this tradition a lot.",
+      "arabic": "بصراحة، أنا بحب هالتقليد كثير.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315592"
+    },
+    {
+      "english": "Their kindness surprises me, in the nicest way.",
+      "arabic": "لطفهم بيفاجئني، بأحلى شكل.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315595"
+    },
+    {
+      "english": "I’m learning slowly, but my heart stays open.",
+      "arabic": "أنا بتعلم ببطء، بس قلبي مفتوح.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315598"
+    },
+    {
+      "english": "If something is unclear, I’ll ask calmly.",
+      "arabic": "إذا في شي مو واضح، رح أسأل بهدوء.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315602"
+    },
+    {
+      "english": "I appreciate the effort, even when I’m new here.",
+      "arabic": "بقدّر الجهد، حتى وأنا جديد هون.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315607"
+    },
+    {
+      "english": "This gathering feels warm, like family energy.",
+      "arabic": "هاللقاء دافئ، كأنّه طاقة عيلة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315609"
+    },
+    {
+      "english": "I’ll match the mood, and stay polite always.",
+      "arabic": "رح أضبط على الجو، وأضل محترم دائمًا.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315612"
+    },
+    {
+      "english": "I don’t want to miss the meaning, only the words.",
+      "arabic": "ما بدي أفوت المعنى، مش بس الكلمات.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315616"
+    },
+    {
+      "english": "When someone cheers for you, it hits different.",
+      "arabic": "لما يفرّحوا لك، بتفرق التجربة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315619"
+    },
+    {
+      "english": "I’m feeling nervous, but I’m trying anyway.",
+      "arabic": "أنا حاسس بتوتر، بس عم أحاول.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315623"
+    },
+    {
+      "english": "Take your time, I’m enjoying every moment.",
+      "arabic": "خد راحتك، أنا مبسوط بكل لحظة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315626"
+    },
+    {
+      "english": "I love the honesty, they speak clearly and kindly.",
+      "arabic": "بحب الصراحة، يحكوا بوضوح وبطيبة.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315629"
+    },
+    {
+      "english": "I feel safe here, because they keep things respectful.",
+      "arabic": "بحس بالأمان هون، لأنهم بيمشوا باحترام.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315632"
+    },
+    {
+      "english": "Let’s slow down, traditions need real attention.",
+      "arabic": "خلّينا نهدّي شوي، التقاليد بدها اهتمام.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315635"
+    },
+    {
+      "english": "I’ll keep my tone soft, even when I’m unsure.",
+      "arabic": "رح أخلي نبرتي هادية، حتى لو مو متأكد.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315639"
+    },
+    {
+      "english": "This is more than a custom, it’s a feeling.",
+      "arabic": "هذي مو بس عادة، هذي إحساس.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315642"
+    },
+    {
+      "english": "I respect their rhythm, I won’t interrupt.",
+      "arabic": "بِحترم إيقاعهم، ما رح أقطع عليهم.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315645"
+    },
+    {
+      "english": "Honestly, your warmth makes me want to stay.",
+      "arabic": "بصراحة، دفعتك دافية بتخلّيني أبغى أبقى.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315649"
+    },
+    {
+      "english": "I’m grateful, I see how much care they show.",
+      "arabic": "أنا ممتن، شايف قد إيش بيهتمّوا.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315652"
+    },
+    {
+      "english": "If I mess up, be patient, I’ll learn.",
+      "arabic": "إذا غلطت، تحمّلني، رح أتعلم.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315656"
+    },
+    {
+      "english": "Their words feel sincere, and that matters to me.",
+      "arabic": "كلامهم بيكون صادق، وذا الشي مهم عندي.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315658"
+    },
+    {
+      "english": "I’m curious, tell me about the tradition’s meaning.",
+      "arabic": "أنا فضولي، احكيلي عن معنى هالتقليد.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315662"
+    },
+    {
+      "english": "I’ll keep it light, but I mean it from deep.",
+      "arabic": "بخلّيه خفيف، بس أنا بقصد من قلبي.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315665"
+    },
+    {
+      "english": "This tradition makes me feel closer to everyone.",
+      "arabic": "هالتقليد بخليّني أحسّ إني أقرب للجميع.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T07:17:19.315668"
     }
   ],
-  "last_updated": "2026-11-03T07:37:49.019716"
+  "last_updated": "2026-11-04T07:17:19.315670"
 }
