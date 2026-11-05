@@ -77039,7 +77039,727 @@
       "arabic": "هالتقليد بخليّني أحسّ إني أقرب للجميع.",
       "category": "Cultural Traditions",
       "generated_at": "2026-11-04T07:17:19.315668"
+    },
+    {
+      "english": "No way, that’s crazy, seriously?",
+      "arabic": "مستحيل، هذا مجنون، جديًا؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700210"
+    },
+    {
+      "english": "For real, I swear, I didn’t know.",
+      "arabic": "على كيفي، أقسم لك، ما كنت أعرف.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700222"
+    },
+    {
+      "english": "Relax, it’s fine, no worries.",
+      "arabic": "عادي، كل شي تمام، لا تقلق.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700225"
+    },
+    {
+      "english": "Seriously though, listen to me.",
+      "arabic": "بس جدًّا، اسمعني.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700227"
+    },
+    {
+      "english": "What’s up, what are you doing?",
+      "arabic": "إيش الأخبار، وين رايح؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700229"
+    },
+    {
+      "english": "Long time, where you been?",
+      "arabic": "يا ساتر، شلونك؟ وين غايب؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700230"
+    },
+    {
+      "english": "Come on, don’t stress it.",
+      "arabic": "يا حبيبي، لا تتوتر.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700232"
+    },
+    {
+      "english": "Hold up, wait a second.",
+      "arabic": "استنى، لحظة بس.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700237"
+    },
+    {
+      "english": "Okay, got it, I understand.",
+      "arabic": "تمام، فهمت عليك.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700240"
+    },
+    {
+      "english": "Alright then, let’s go.",
+      "arabic": "تمام، يلا نروح.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700242"
+    },
+    {
+      "english": "I’m down, let’s do it now.",
+      "arabic": "أنا جاهز، يلا نسويها.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700244"
+    },
+    {
+      "english": "That’s a lie, no way.",
+      "arabic": "كذب، مستحيل.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700246"
+    },
+    {
+      "english": "Stop kidding, for real.",
+      "arabic": "كفّز، جديًا.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700247"
+    },
+    {
+      "english": "No, I’m not buying it.",
+      "arabic": "لا، ما اقتنعت.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700249"
+    },
+    {
+      "english": "You’re joking, right?",
+      "arabic": "أنت تمزح، صح؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700251"
+    },
+    {
+      "english": "I can’t, I’m swamped.",
+      "arabic": "ما أقدر، أنا مشغول.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700253"
+    },
+    {
+      "english": "I’m on my way, wait.",
+      "arabic": "أنا بالطريق، استنِّي.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700255"
+    },
+    {
+      "english": "Not bad, it’s actually okay.",
+      "arabic": "مو سيّئ، بصراحة تمام.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700257"
+    },
+    {
+      "english": "Damn, that’s expensive!",
+      "arabic": "يا ساتر، غالي مرّة!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700260"
+    },
+    {
+      "english": "Seriously? That’s wild.",
+      "arabic": "جدّيًا؟ هذا شي غريب.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700262"
+    },
+    {
+      "english": "That doesn’t make sense, sorry.",
+      "arabic": "ما فهمت، حقك عليّ.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700263"
+    },
+    {
+      "english": "My bad, I messed up.",
+      "arabic": "معليش، غلّطت.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700265"
+    },
+    {
+      "english": "My bad, I’ll fix it now.",
+      "arabic": "معليش، برجع أصلّحها.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700267"
+    },
+    {
+      "english": "You got this, trust me.",
+      "arabic": "عليك، صدقني تقدر.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700268"
+    },
+    {
+      "english": "Enough already, stop it.",
+      "arabic": "كفاية، خلّص.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700270"
+    },
+    {
+      "english": "It’s whatever, no big deal.",
+      "arabic": "عادي، ما في شي.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700272"
+    },
+    {
+      "english": "I’m hungry, let’s eat.",
+      "arabic": "جوعان، يلا ناكل.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700273"
+    },
+    {
+      "english": "I’m tired, I need rest.",
+      "arabic": "تعبان، محتاج راحة.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700276"
+    },
+    {
+      "english": "Gimme a sec, I’m checking.",
+      "arabic": "استنى، لحظة بس أشيك.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700278"
+    },
+    {
+      "english": "Deal, we’re good, thanks!",
+      "arabic": "تم، خلاص، الله يخليك!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700280"
+    },
+    {
+      "english": "Be careful, okay, don’t rush.",
+      "arabic": "خليك حذر، تمام، لا تستعجل.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700282"
+    },
+    {
+      "english": "Quick question, what do you think?",
+      "arabic": "سؤال سريع, إيش رأيك؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700284"
+    },
+    {
+      "english": "Where’s the nearest place to eat?",
+      "arabic": "وين أقرب مكان أكل؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700286"
+    },
+    {
+      "english": "Can you help me, real quick?",
+      "arabic": "ممكن تساعدني, بس بسرعة؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700288"
+    },
+    {
+      "english": "Do you know how much it costs?",
+      "arabic": "تعرف كم سعره؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700291"
+    },
+    {
+      "english": "Which one should I choose, honestly?",
+      "arabic": "أي واحد أختار, بصراحة؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700292"
+    },
+    {
+      "english": "Is it okay if we change plans?",
+      "arabic": "عادي لو نغيّر الخطة؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700294"
+    },
+    {
+      "english": "What time do you usually go?",
+      "arabic": "تتأخر عادة, ولا تمشي بدري؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700296"
+    },
+    {
+      "english": "Tell me, why did you decide?",
+      "arabic": "قولي, ليش قررت؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700297"
+    },
+    {
+      "english": "Can I ask something, no judgment?",
+      "arabic": "ممكن أسأل سؤال, بدون أحكام؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700299"
+    },
+    {
+      "english": "What’s the easiest way to learn?",
+      "arabic": "أسهل طريقة تتعلم إيش؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700301"
+    },
+    {
+      "english": "Who should I call for this?",
+      "arabic": "مين أكلّم عشان هذا؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700302"
+    },
+    {
+      "english": "Do you mind if I sit here?",
+      "arabic": "ماتمانع لو أجلس هنا؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700304"
+    },
+    {
+      "english": "How come you’re not coming?",
+      "arabic": "ليه ما تجي؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700306"
+    },
+    {
+      "english": "What’s your plan for tonight?",
+      "arabic": "وش خطتك الليلة؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700308"
+    },
+    {
+      "english": "Any tips before I start?",
+      "arabic": "فيه نصايح قبل أبدأ؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700309"
+    },
+    {
+      "english": "Should I bring anything?",
+      "arabic": "أجيب معي شي؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700311"
+    },
+    {
+      "english": "What did you mean by that?",
+      "arabic": "إيش قصدك من كذا؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700312"
+    },
+    {
+      "english": "Are you free later, maybe?",
+      "arabic": "تكون فاضي بعدين؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700314"
+    },
+    {
+      "english": "Can we talk for a minute?",
+      "arabic": "ممكن نتكلم دقيقتين؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700315"
+    },
+    {
+      "english": "Do you feel like going out?",
+      "arabic": "تحب تطلع اليوم؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700316"
+    },
+    {
+      "english": "How’s that working for you?",
+      "arabic": "وش صار معك مع هذا؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700318"
+    },
+    {
+      "english": "Better idea, can we swap times?",
+      "arabic": "فكرة أحسن, نبدّل الوقت؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700320"
+    },
+    {
+      "english": "Wait, what exactly happened?",
+      "arabic": "لحظة, وش بالضبط صار؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700321"
+    },
+    {
+      "english": "You serious about that, or joking?",
+      "arabic": "على كيفك؟ أو جاي جد؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700327"
+    },
+    {
+      "english": "Who’s paying, you or me?",
+      "arabic": "مين يدفع, إنت ولا أنا؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700328"
+    },
+    {
+      "english": "Is this the right place, I think?",
+      "arabic": "هنا المكان الصح؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700330"
+    },
+    {
+      "english": "Can you slow down, please?",
+      "arabic": "ممكن تِهدي شوي؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700331"
+    },
+    {
+      "english": "How did you manage to do it?",
+      "arabic": "كيف قدرت تسويها؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700333"
+    },
+    {
+      "english": "What should I say in that case?",
+      "arabic": "لو صار كذا, إيش أقول؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700336"
+    },
+    {
+      "english": "One last thing, you sure?",
+      "arabic": "آخر شي, أنت متأكد؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700338"
+    },
+    {
+      "english": "Come on, don’t make it hard.",
+      "arabic": "يلا، لا تعقّدها.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700340"
+    },
+    {
+      "english": "Relax, it’ll sort itself out.",
+      "arabic": "فكّك، الأمور بتنحل.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700342"
+    },
+    {
+      "english": "You’re talking too much, for real.",
+      "arabic": "إنت بتتكلم كتير، بصراحة.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700344"
+    },
+    {
+      "english": "Not gonna lie, you look amazing.",
+      "arabic": "بصراحة؟ إنت شكلك خطير.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700346"
+    },
+    {
+      "english": "Mind your business, seriously.",
+      "arabic": "خليك بمكانك، بجد.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700348"
+    },
+    {
+      "english": "I’m broke, my wallet is empty.",
+      "arabic": "معدّي فلوس، المحفظة فاضية.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700350"
+    },
+    {
+      "english": "Hold up, let me think first.",
+      "arabic": "لحظة، خلّيني أفكّر.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700351"
+    },
+    {
+      "english": "You’re playing me, don’t lie.",
+      "arabic": "بتلفّ عليّ؟ لا تكذب.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700353"
+    },
+    {
+      "english": "We’ll see, don’t stress it now.",
+      "arabic": "نشوف، لا تتوتر هلق.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700355"
+    },
+    {
+      "english": "No hard feelings, it happens.",
+      "arabic": "ولا يهمك، بتصير.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700357"
+    },
+    {
+      "english": "Your vibe is dangerous, in a good way.",
+      "arabic": "ستايلك خطر، بس حلو.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700359"
+    },
+    {
+      "english": "Stop acting, be honest with me.",
+      "arabic": "لا تمثّل، احكي الصراحة.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700360"
+    },
+    {
+      "english": "I’ll keep it cool, don’t worry.",
+      "arabic": "بهدّي نفسي، لا تقلق.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700362"
+    },
+    {
+      "english": "Let it go, it’s not that serious.",
+      "arabic": "سيبها، الموضوع مو كبير.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700364"
+    },
+    {
+      "english": "Your eyes said it first, wow.",
+      "arabic": "عيونك سبقت الكلام، يا سلام.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700366"
+    },
+    {
+      "english": "I’m into you, don’t play dumb.",
+      "arabic": "معجب فيك، لا تسوّي حالك ما تدري.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700368"
+    },
+    {
+      "english": "You’re late again, typical.",
+      "arabic": "متأخر مرّة ثانية، كالعاده.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700370"
+    },
+    {
+      "english": "We’re not buying it, sorry.",
+      "arabic": "ما بنصدّق، آسفين.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700372"
+    },
+    {
+      "english": "Calm down, don’t blow it up.",
+      "arabic": "اهدأ، لا تبوّظها.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700374"
+    },
+    {
+      "english": "You’re my type, no debate.",
+      "arabic": "إنت ستايلي، خلاص.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700376"
+    },
+    {
+      "english": "Take it easy, we’ll figure it out.",
+      "arabic": "خدها هادية، بنرتّبها.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700378"
+    },
+    {
+      "english": "That’s shady, don’t do it.",
+      "arabic": "هذي مشبوهة، لا تعملها.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700381"
+    },
+    {
+      "english": "Honestly, you’re kinda obsessed with me.",
+      "arabic": "بصراحة؟ إنت مهووس فيني شوي.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700383"
+    },
+    {
+      "english": "I’m done, my patience ran out.",
+      "arabic": "خلصت، خلص صبري.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700384"
+    },
+    {
+      "english": "Say less, I get you.",
+      "arabic": "قول أقل، أنا فاهمك.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700386"
+    },
+    {
+      "english": "You always vanish, where’d you go?",
+      "arabic": "دايم تختفي، وينك؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700389"
+    },
+    {
+      "english": "Don’t act tough, you’ll crack.",
+      "arabic": "لا تتدلّع بالقوة، بتنكسر.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700391"
+    },
+    {
+      "english": "I’m on my way, don’t start without me.",
+      "arabic": "جاي بالطريق، ما تبلّش بدوني.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700393"
+    },
+    {
+      "english": "You’re changing the subject, huh?",
+      "arabic": "بتغيّر الموضوع، صح؟",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700395"
+    },
+    {
+      "english": "I’m not okay, I just hide it.",
+      "arabic": "أنا مو تمام، بس أنا أستخبى.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700397"
+    },
+    {
+      "english": "I need time, let me breathe.",
+      "arabic": "أحتاج وقت، خلّيني أتنفّس.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700400"
+    },
+    {
+      "english": "To be real, I miss you.",
+      "arabic": "بصراحة، أنا أشتاق لك.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700401"
+    },
+    {
+      "english": "My feelings are loud, I can’t lie.",
+      "arabic": "مشاعري صايرة عالية، ما أقدر أكذب.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700403"
+    },
+    {
+      "english": "I’m trying, don’t rush me.",
+      "arabic": "أنا أحاول، لا تسرّعني.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700405"
+    },
+    {
+      "english": "I’ll be gentle with myself, for real.",
+      "arabic": "بحاول أكون حنين على نفسي، جدّي.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700407"
+    },
+    {
+      "english": "I don’t want drama, I just want calm.",
+      "arabic": "ما أبي دراما، أبي هدوء بس.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700409"
+    },
+    {
+      "english": "I’m learning, mistakes don’t scare me.",
+      "arabic": "أنا أتعلم، الغلط ما يخوفني.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700411"
+    },
+    {
+      "english": "Honestly, I’m tired of pretending.",
+      "arabic": "بصراحة، تعبت من التمثيل.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700413"
+    },
+    {
+      "english": "Give me space, I’ll come back stronger.",
+      "arabic": "أعطني مساحة، بروح وأرجع أقوى.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700415"
+    },
+    {
+      "english": "I’m not mad, I’m just hurt.",
+      "arabic": "أنا مو زعلان، أنا بس مجروح.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700417"
+    },
+    {
+      "english": "Let it sink in, take it slow.",
+      "arabic": "خلّها توصل لقلبك، خذها ببطء.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700418"
+    },
+    {
+      "english": "I get you, I felt that too.",
+      "arabic": "فاهمك، حسّيت كذا قبل.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700420"
+    },
+    {
+      "english": "I’m okay, I just need quiet.",
+      "arabic": "أنا تمام، بس أبي سكوت.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700422"
+    },
+    {
+      "english": "My thoughts won’t stop, tonight.",
+      "arabic": "أفكاري ما تسكت، الليلة.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700424"
+    },
+    {
+      "english": "I’m trying to heal, step by step.",
+      "arabic": "أنا أحاول أتعافى، خطوة خطوة.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700425"
+    },
+    {
+      "english": "Don’t take it personally, please.",
+      "arabic": "لا تاخذها على قلبك، لو سمحت.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700427"
+    },
+    {
+      "english": "I’m keeping it real, I’m scared.",
+      "arabic": "أنا أحكي الصدق، أنا خايف.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700429"
+    },
+    {
+      "english": "I’m proud, even if I struggle.",
+      "arabic": "أنا فخور، حتى لو أتعب.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700431"
+    },
+    {
+      "english": "I’ll talk when I’m ready.",
+      "arabic": "بنتكلم لما أكون جاهز.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700433"
+    },
+    {
+      "english": "I’m not over it, not yet.",
+      "arabic": "أنا مو منتهي منها، لسه.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700434"
+    },
+    {
+      "english": "I can’t fake this mood, sorry.",
+      "arabic": "ما أقدر أفبرك هالمزاج، آسف.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700436"
+    },
+    {
+      "english": "Let’s be honest, it hurt.",
+      "arabic": "خلّينا نكون صريحين، وجعني.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700438"
+    },
+    {
+      "english": "I’m choosing peace, no more fights.",
+      "arabic": "أنا أختار السلام، خلاص لا خناقات.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700440"
+    },
+    {
+      "english": "I’m low today, be patient.",
+      "arabic": "أنا نازل اليوم، تحمّل.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700441"
+    },
+    {
+      "english": "I’m gonna cry, but I’m okay.",
+      "arabic": "ببكي، بس أنا تمام.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700444"
+    },
+    {
+      "english": "I don’t need perfection, I need effort.",
+      "arabic": "مو محتاج الكمال، محتاج الجهد.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700446"
+    },
+    {
+      "english": "I’m grateful, even with messy days.",
+      "arabic": "أنا شاكر، حتى بأيامي المتلخبطة.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700448"
+    },
+    {
+      "english": "I’ll slow down, I’m human.",
+      "arabic": "ببطّي شوي، أنا بشر.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700450"
+    },
+    {
+      "english": "I need clarity, not just words.",
+      "arabic": "أحتاج وضوح، مو كلام بس.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-05T07:45:16.700451"
     }
   ],
-  "last_updated": "2026-11-04T07:17:19.315670"
+  "last_updated": "2026-11-05T07:45:16.700453"
 }
