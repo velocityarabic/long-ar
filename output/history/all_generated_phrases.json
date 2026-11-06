@@ -77759,7 +77759,727 @@
       "arabic": "أحتاج وضوح، مو كلام بس.",
       "category": "Common Native Slang",
       "generated_at": "2026-11-05T07:45:16.700451"
+    },
+    {
+      "english": "Hey, how’s it going, today?",
+      "arabic": "مرحبًا، كيف الأمور تمشي اليوم؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568070"
+    },
+    {
+      "english": "Not bad, I’m trying, one step.",
+      "arabic": "ليس سيئًا، أنا أحاول، خطوة واحدة.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568088"
+    },
+    {
+      "english": "Really? That’s great news, wow!",
+      "arabic": "حقًا؟ هذا خبر ممتاز، واو!",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568092"
+    },
+    {
+      "english": "Hold on, let me think, quickly.",
+      "arabic": "ثواني، خلّيني أفكر بسرعة.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568096"
+    },
+    {
+      "english": "Good point, I’ll keep that in mind.",
+      "arabic": "كلامك في محله، سأضعه في بالي.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568100"
+    },
+    {
+      "english": "I’m getting better, slowly but sure.",
+      "arabic": "أنا اتحسّن، ببطء لكن بثبات.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568106"
+    },
+    {
+      "english": "Let’s start small, and continue.",
+      "arabic": "خلّينا نبدأ صغيرًا، ونكمل.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568109"
+    },
+    {
+      "english": "Wait, what do you mean exactly?",
+      "arabic": "لحظة، ماذا تقصد بالضبط؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568115"
+    },
+    {
+      "english": "That’s on me, sorry about it.",
+      "arabic": "هذا خطئي، آسف على ذلك.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568119"
+    },
+    {
+      "english": "Okay, next step, what’s the plan?",
+      "arabic": "حسنًا، الخطوة التالية، ما الخطة؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568123"
+    },
+    {
+      "english": "Quick check, did you understand?",
+      "arabic": "سؤال سريع، هل فهمت؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568126"
+    },
+    {
+      "english": "I need a break, just for now.",
+      "arabic": "أحتاج استراحة، فقط الآن.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568129"
+    },
+    {
+      "english": "Awesome, you’re doing really well.",
+      "arabic": "رائع، أنت تعمل بشكل ممتاز.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568132"
+    },
+    {
+      "english": "Hmm, let’s revisit that idea.",
+      "arabic": "ممكن، لنراجع الفكرة مرة ثانية.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568135"
+    },
+    {
+      "english": "I’m here, don’t stress, please.",
+      "arabic": "أنا موجود، لا تتوتر، من فضلك.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568142"
+    },
+    {
+      "english": "Tell me more, I’m listening.",
+      "arabic": "احكِ لي أكثر، أنا أسمع.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568147"
+    },
+    {
+      "english": "That works, let’s move forward.",
+      "arabic": "هذا مناسب، خلّينا نكمل للأمام.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568150"
+    },
+    {
+      "english": "I’ll try again, no problem.",
+      "arabic": "سأحاول مرة أخرى، لا مشكلة.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568153"
+    },
+    {
+      "english": "What’s the easiest way, honestly?",
+      "arabic": "ما أسهل طريقة، بصراحة؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568156"
+    },
+    {
+      "english": "Yes, keep going, you got this.",
+      "arabic": "نعم، أكمل، أنت قادر.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568159"
+    },
+    {
+      "english": "Not yet, but I’m close, promise.",
+      "arabic": "لسه ليس الآن، لكن قريب، وعد.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568163"
+    },
+    {
+      "english": "That’s interesting, where did you learn?",
+      "arabic": "فكرة ممتعة، من أين تعلمت؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568166"
+    },
+    {
+      "english": "Small wins, I’m counting them.",
+      "arabic": "انتصارات صغيرة، أنا أحصيها.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568169"
+    },
+    {
+      "english": "Let’s keep it simple, for now.",
+      "arabic": "خلّينا نبقيها بسيطة، الآن.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568172"
+    },
+    {
+      "english": "Sorry, I got confused, my bad.",
+      "arabic": "آسف، تلوّشت، خطئي.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568175"
+    },
+    {
+      "english": "I’m learning by doing, every day.",
+      "arabic": "أنا أتعلم بالتطبيق، كل يوم.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568178"
+    },
+    {
+      "english": "Go ahead, ask, I’ll help you.",
+      "arabic": "تفضل، اسأل، وسأساعدك.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568182"
+    },
+    {
+      "english": "Nice try, even mistakes count.",
+      "arabic": "محاولة حلوة، حتى الأخطاء تُحسب.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568184"
+    },
+    {
+      "english": "What should I focus on, first?",
+      "arabic": "على ماذا أركز أولًا؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568187"
+    },
+    {
+      "english": "Can you help me practice this, please?",
+      "arabic": "هل يمكنك مساعدتي في ممارسة هذا، من فضلك؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568190"
+    },
+    {
+      "english": "What does this mean in Arabic exactly?",
+      "arabic": "ماذا يعني هذا بالعربية بالضبط؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568192"
+    },
+    {
+      "english": "Which question should I start with?",
+      "arabic": "أي سؤال يجب أن أبدأ به؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568195"
+    },
+    {
+      "english": "How do you ask for advice politely?",
+      "arabic": "كيف تطلب نصيحة بأدب؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568200"
+    },
+    {
+      "english": "Where can I learn this step-by-step?",
+      "arabic": "أين يمكنني أن أتعلم هذا خطوة بخطوة؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568203"
+    },
+    {
+      "english": "Should I use formal or casual Arabic?",
+      "arabic": "هل أستخدم العربية الفصحى أم الدارجة؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568205"
+    },
+    {
+      "english": "What’s the best way to answer back?",
+      "arabic": "ما أفضل طريقة للرد بسرعة؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568208"
+    },
+    {
+      "english": "Can we repeat it together, one more time?",
+      "arabic": "هل نكرره معًا، مرة واحدة أخرى؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568211"
+    },
+    {
+      "english": "Do you have a simple example for me?",
+      "arabic": "هل لديك مثال بسيط لي؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568213"
+    },
+    {
+      "english": "What should I say after this sentence?",
+      "arabic": "ماذا أقول بعد هذه الجملة؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568216"
+    },
+    {
+      "english": "Can you correct my sentence, please?",
+      "arabic": "هل يمكنك تصحيح جملتي، من فضلك؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568218"
+    },
+    {
+      "english": "How can I sound more natural, quickly?",
+      "arabic": "كيف أصير أبدو أكثر طبيعية، بسرعة؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568221"
+    },
+    {
+      "english": "What’s your suggestion for daily practice?",
+      "arabic": "ما اقتراحك للتدريب اليومي؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568224"
+    },
+    {
+      "english": "Do you recommend a podcast or videos?",
+      "arabic": "هل تنصحني بودكاست أو فيديوهات؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568227"
+    },
+    {
+      "english": "Which topic should we talk about today?",
+      "arabic": "أي موضوع نتكلم عنه اليوم؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568230"
+    },
+    {
+      "english": "How do you handle mistakes during conversation?",
+      "arabic": "كيف تتعامل مع الأخطاء أثناء الحديث؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568233"
+    },
+    {
+      "english": "Can you break it down for beginners?",
+      "arabic": "هل يمكنك تبسيطه للمبتدئين؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568235"
+    },
+    {
+      "english": "What’s a good question to start with?",
+      "arabic": "ما سؤال جيد لنبدا به؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568241"
+    },
+    {
+      "english": "How often should I review vocabulary?",
+      "arabic": "كم مرة يجب أن أراجع المفردات؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568243"
+    },
+    {
+      "english": "Can I ask you one more thing?",
+      "arabic": "هل أستطيع أن أسألك سؤالًا آخر؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568246"
+    },
+    {
+      "english": "What phrase helps you ask patiently?",
+      "arabic": "ما العبارة التي تساعدك أن تطلب بصبر؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568248"
+    },
+    {
+      "english": "Do you think this sentence is correct?",
+      "arabic": "هل تعتقد أن هذه الجملة صحيحة؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568251"
+    },
+    {
+      "english": "Which word should I emphasize here?",
+      "arabic": "أي كلمة يجب أن أركز عليها هنا؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568253"
+    },
+    {
+      "english": "How do you say “I need help”",
+      "arabic": "كيف تقول “أحتاج مساعدة”؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568256"
+    },
+    {
+      "english": "What’s the fastest way to improve today?",
+      "arabic": "ما أسرع طريقة للتحسن اليوم؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568260"
+    },
+    {
+      "english": "Can we do a quick role-play, please?",
+      "arabic": "هل نعمل تمثيلًا سريعًا، من فضلك؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568262"
+    },
+    {
+      "english": "What do you want to learn next?",
+      "arabic": "ماذا تريد أن تتعلم بعد ذلك؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568265"
+    },
+    {
+      "english": "How can I make sentences from this?",
+      "arabic": "كيف أستطيع أن أصنع جملًا من هذا؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568267"
+    },
+    {
+      "english": "What’s your best tip for speaking confidence?",
+      "arabic": "ما أفضل نصيحة لثقة الكلام؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568271"
+    },
+    {
+      "english": "Should I ask “why” or “how” first?",
+      "arabic": "هل أسأل “لماذا” أم “كيف” أولًا؟",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568274"
+    },
+    {
+      "english": "You’re building skill, one try at a time.",
+      "arabic": "أنت تبني مهارة, خطوة خطوة مع كل محاولة.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568278"
+    },
+    {
+      "english": "Keep your brain curious, not stressed.",
+      "arabic": "خلِّ مخّك فضولي, مو متوتر.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568281"
+    },
+    {
+      "english": "Confusion is normal, it means growth.",
+      "arabic": "الحيرة طبيعية, وهذا يعني تطوّر.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568283"
+    },
+    {
+      "english": "Say it anyway, you’ll get better.",
+      "arabic": "قلها حتى لو غلطت, راح تتحسن.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568287"
+    },
+    {
+      "english": "Every mistake teaches you, slowly and clearly.",
+      "arabic": "كل خطأ يعلّمك, بهدوء وبوضوح.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568290"
+    },
+    {
+      "english": "Trust the process, even when it’s slow.",
+      "arabic": "ثق بالعملية, حتى لو كانت بطيئة.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568293"
+    },
+    {
+      "english": "Your effort counts, even if nobody sees.",
+      "arabic": "مجهودك محسوب, حتى لو ما حد شاف.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568296"
+    },
+    {
+      "english": "Small habits win, especially over months.",
+      "arabic": "العادات الصغيرة تفوز, خصوصًا مع الشهور.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568298"
+    },
+    {
+      "english": "Be kind to yourself, keep practicing.",
+      "arabic": "عامل نفسك بلطف, واستمر بالتدريب.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568301"
+    },
+    {
+      "english": "You’re not behind, you’re building momentum.",
+      "arabic": "أنت مو متأخر, أنت تبني زخم.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568305"
+    },
+    {
+      "english": "Try again, with a calmer mind.",
+      "arabic": "جرّب مرة ثانية, بعقل أهدى.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568308"
+    },
+    {
+      "english": "Focus on meaning, the words will follow.",
+      "arabic": "ركّز على المعنى, الكلمات تجي بعدها.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568310"
+    },
+    {
+      "english": "You’re doing better than yesterday, notice it.",
+      "arabic": "أنت أفضل من أمس, انتبه.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568313"
+    },
+    {
+      "english": "Your voice matters, speak with confidence.",
+      "arabic": "صوتك مهم, تكلم بثقة.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568316"
+    },
+    {
+      "english": "Let the rhythm guide you, don’t freeze.",
+      "arabic": "خلّ الإيقاع يهديك, لا تتجمّد.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568330"
+    },
+    {
+      "english": "Make today easy, tomorrow gets easier.",
+      "arabic": "خلِّ اليوم سهل, بكرة بتصير أسهل.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568333"
+    },
+    {
+      "english": "Give yourself credit, for effort and courage.",
+      "arabic": "امنح نفسك تقدير, للجهد والشجاعة.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568336"
+    },
+    {
+      "english": "Keep going, even if it feels awkward.",
+      "arabic": "كمل, حتى لو صار الكلام غريب.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568339"
+    },
+    {
+      "english": "You’ll understand more when you keep listening.",
+      "arabic": "بتفهم أكثر, لما تواصل الاستماع.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568344"
+    },
+    {
+      "english": "Mistakes are data, not a dead end.",
+      "arabic": "الأخطاء بيانات, مو نهاية.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568349"
+    },
+    {
+      "english": "Stay consistent, motivation follows action.",
+      "arabic": "استمر بثبات, الحماس يجي بعد الفعل.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568352"
+    },
+    {
+      "english": "Say short sentences, build your confidence fast.",
+      "arabic": "قول جمل قصيرة, وبتبني ثقتك بسرعة.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568355"
+    },
+    {
+      "english": "Be proud, you chose a tough language.",
+      "arabic": "افتخر, أنت اخترت لغة صعبة.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568360"
+    },
+    {
+      "english": "If you don’t know, ask gently and continue.",
+      "arabic": "إذا ما تعرف, اسأل بلطف وكمّل.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568363"
+    },
+    {
+      "english": "Your brain learns best with repetition and joy.",
+      "arabic": "مخّك يتعلم أفضل بالتكرار والفرح.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568366"
+    },
+    {
+      "english": "Don’t compare, measure your own progress.",
+      "arabic": "لا تقارن, قِس تقدّمك أنت.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568369"
+    },
+    {
+      "english": "Keep a positive phrase ready for hard moments.",
+      "arabic": "جهّز جملة إيجابية وقت اللحظات الصعبة.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568372"
+    },
+    {
+      "english": "Today’s practice is tomorrow’s speaking.",
+      "arabic": "تدريب اليوم, كلام الغد.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568375"
+    },
+    {
+      "english": "You’re one step closer, keep moving forward.",
+      "arabic": "أنت أقرب خطوة, واصل التقدّم للأمام.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568379"
+    },
+    {
+      "english": "I feel nervous, but I’ll keep going.",
+      "arabic": "أنا أشعر بالتوتر، لكن سأكمل.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568382"
+    },
+    {
+      "english": "When I forget, I breathe, then try again.",
+      "arabic": "عندما أنسى، أتنفّس ثم أحاول من جديد.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568385"
+    },
+    {
+      "english": "I’m proud of trying, even if slow.",
+      "arabic": "أنا فخور بمحاولتي، حتى لو كان ببطء.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568388"
+    },
+    {
+      "english": "Some days I learn more quietly.",
+      "arabic": "بعض الأيام أتعلم بهدوء أكثر.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568391"
+    },
+    {
+      "english": "My goal is honest progress, not perfection.",
+      "arabic": "هدفي تقدّم صادق، لا كمال.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568394"
+    },
+    {
+      "english": "I notice my effort, not my mistakes.",
+      "arabic": "ألاحظ جهدي، لا أخطائي.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568396"
+    },
+    {
+      "english": "I accept I’m learning, not instant.",
+      "arabic": "أتقبل أنني أتعلم، ليس فورًا.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568400"
+    },
+    {
+      "english": "I listen first, my thoughts settle down.",
+      "arabic": "أستمع أولًا، أفكاري تهدأ.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568403"
+    },
+    {
+      "english": "Patience feels hard, but it works.",
+      "arabic": "الصبر صعب أحيانًا، لكنه ينجح.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568405"
+    },
+    {
+      "english": "I’m learning to speak with kindness.",
+      "arabic": "أنا أتعلّم كيف أتكلم بلطف.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568408"
+    },
+    {
+      "english": "Sometimes I pause, because I’m thinking.",
+      "arabic": "أحيانًا أتوقف، لأني أفكر.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568411"
+    },
+    {
+      "english": "I won’t rush, I’ll understand step by step.",
+      "arabic": "لن أستعجل، سأفهم خطوة خطوة.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568415"
+    },
+    {
+      "english": "Even my fear teaches me something useful.",
+      "arabic": "حتى خوفي يعلّمني شيئًا مفيدًا.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568417"
+    },
+    {
+      "english": "I talk slowly, and my mind follows.",
+      "arabic": "أتكلم ببطء، وعقلي يلحق.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568420"
+    },
+    {
+      "english": "I’m choosing calm, over quick replies.",
+      "arabic": "أنا أختار الهدوء بدل ردود سريعة.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568423"
+    },
+    {
+      "english": "I tell myself, ‘It’s okay to be new.’",
+      "arabic": "أقول لنفسي، «مفيش مشكلة أنني جديد».",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568427"
+    },
+    {
+      "english": "I’m not stuck, I’m rebuilding my confidence.",
+      "arabic": "أنا لست عالقًا، أنا أعيد بناء ثقته.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568431"
+    },
+    {
+      "english": "I keep my expectations realistic, and I rest.",
+      "arabic": "أحافظ على توقعات واقعية، وأرتاح.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568433"
+    },
+    {
+      "english": "When I get emotional, I continue practicing.",
+      "arabic": "عندما أتأثر، أكمل التدريب.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568436"
+    },
+    {
+      "english": "I’m learning to be gentle with my tongue.",
+      "arabic": "أتعلّم أن أكون لطيفًا مع لساني.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568439"
+    },
+    {
+      "english": "I reflect, then write a better sentence.",
+      "arabic": "أتأمل، ثم أكتب جملة أفضل.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568442"
+    },
+    {
+      "english": "My confidence grows when I stay honest.",
+      "arabic": "ثقتي تكبر عندما أكون صادقًا.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568445"
+    },
+    {
+      "english": "I don’t need perfect grammar to start speaking.",
+      "arabic": "لا أحتاج قواعد مثالية لأبدأ بالكلام.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568450"
+    },
+    {
+      "english": "I let the language repeat inside my head.",
+      "arabic": "أترك اللغة تتكرر داخل رأسي.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568453"
+    },
+    {
+      "english": "Today, I choose progress, even if messy.",
+      "arabic": "اليوم أختار التقدم، حتى لو كان فوضويًا.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568456"
+    },
+    {
+      "english": "I admit what I don’t know, calmly.",
+      "arabic": "أعترف بما لا أعرف، بهدوء.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568459"
+    },
+    {
+      "english": "I’m building a habit of trying daily.",
+      "arabic": "أنا أبني عادة المحاولة يوميًا.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568462"
+    },
+    {
+      "english": "If my day is tough, I practice anyway.",
+      "arabic": "إذا كان يومي صعبًا، أتدرّب رغم ذلك.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568464"
+    },
+    {
+      "english": "I trust myself, I can learn this.",
+      "arabic": "أثق بنفسي، أستطيع أن أتعلم هذا.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568467"
+    },
+    {
+      "english": "Before speaking, breathe, then answer simply.",
+      "arabic": "قبل ما تتكلم، تنفّس، ثم جاوب ببساطة.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568470"
+    },
+    {
+      "english": "At the shop, ask the price, politely.",
+      "arabic": "في المتجر، اسأل عن السعر بأدب.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568474"
+    },
+    {
+      "english": "When lost, say sorry, then ask directions.",
+      "arabic": "إذا ضعت، اعتذر، ثم اسأل عن الطريق.",
+      "category": "Growth",
+      "generated_at": "2026-11-06T07:42:29.568477"
     }
   ],
-  "last_updated": "2026-11-05T07:45:16.700453"
+  "last_updated": "2026-11-06T07:42:29.568479"
 }
