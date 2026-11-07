@@ -78479,7 +78479,727 @@
       "arabic": "إذا ضعت، اعتذر، ثم اسأل عن الطريق.",
       "category": "Growth",
       "generated_at": "2026-11-06T07:42:29.568477"
+    },
+    {
+      "english": "Good morning, how’s your day going?",
+      "arabic": "صباح الخير، كيف يسير يومك؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403232"
+    },
+    {
+      "english": "I’m on my way, be right there.",
+      "arabic": "أنا في طريقي، سأكون هناك قريبًا.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403242"
+    },
+    {
+      "english": "Hold on, I’ll check the file.",
+      "arabic": "لحظة، سأتحقق من الملف.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403244"
+    },
+    {
+      "english": "Let me grab this document, please.",
+      "arabic": "اسمح لي آخذ هذه الوثيقة من فضلك.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403246"
+    },
+    {
+      "english": "Can you send it right now?",
+      "arabic": "هل يمكنك إرسالها الآن؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403248"
+    },
+    {
+      "english": "Sorry, I missed your message.",
+      "arabic": "آسف، فاتتني رسالتك.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403250"
+    },
+    {
+      "english": "No worries, we’ll handle it.",
+      "arabic": "لا تقلق، سنحلّها.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403253"
+    },
+    {
+      "english": "Quick question, where’s the printer?",
+      "arabic": "سؤال سريع، أين الطابعة؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403258"
+    },
+    {
+      "english": "I’ll call you back in two minutes.",
+      "arabic": "سأعاود الاتصال بك خلال دقيقتين.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403261"
+    },
+    {
+      "english": "Please speak slowly, I’m learning Arabic.",
+      "arabic": "من فضلك تحدث ببطء، أنا أتعلم العربية.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403263"
+    },
+    {
+      "english": "That makes sense, thanks for explaining.",
+      "arabic": "هذا منطقي، شكرًا لشرحك.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403265"
+    },
+    {
+      "english": "I got it, I understand now.",
+      "arabic": "تمام، فهمت الآن.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403266"
+    },
+    {
+      "english": "Wait, check the time on this.",
+      "arabic": "انتظر، تحقّق من الوقت هنا.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403268"
+    },
+    {
+      "english": "Is this urgent, or later is fine?",
+      "arabic": "هل هذا عاجل، أم لاحقًا يكفي؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403270"
+    },
+    {
+      "english": "I’ll be right back, don’t close it.",
+      "arabic": "سأعود فورًا، لا تغلقه.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403272"
+    },
+    {
+      "english": "Can I get a copy, please?",
+      "arabic": "هل يمكنني الحصول على نسخة؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403274"
+    },
+    {
+      "english": "We need it by tomorrow morning.",
+      "arabic": "نحتاجه صباح الغد.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403275"
+    },
+    {
+      "english": "I’ll update you once it’s ready.",
+      "arabic": "سأخبرك عندما يصبح جاهزًا.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403279"
+    },
+    {
+      "english": "It’s not working, try again.",
+      "arabic": "لا يعمل، جرّب مرة أخرى.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403282"
+    },
+    {
+      "english": "Who owns this task?",
+      "arabic": "من مسؤول عن هذه المهمة؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403284"
+    },
+    {
+      "english": "Let’s keep it simple, please.",
+      "arabic": "خلّينا نخليها بسيطة، من فضلك.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403286"
+    },
+    {
+      "english": "Any updates on the project?",
+      "arabic": "هل في تحديثات عن المشروع؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403287"
+    },
+    {
+      "english": "I’m running late, sorry again.",
+      "arabic": "أتأخر قليلًا، آسف مرة أخرى.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403289"
+    },
+    {
+      "english": "Let’s schedule a meeting, today.",
+      "arabic": "لنجدول اجتماعًا اليوم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403291"
+    },
+    {
+      "english": "That’s a great idea, let’s do it.",
+      "arabic": "فكرة رائعة، لنفعلها.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403293"
+    },
+    {
+      "english": "I’ll take care of the emails.",
+      "arabic": "سأتولى رسائل البريد.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403295"
+    },
+    {
+      "english": "Did you receive the attachment?",
+      "arabic": "هل استلمت المرفق؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403297"
+    },
+    {
+      "english": "Be careful, the system is down.",
+      "arabic": "انتبه، النظام متعطل.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403299"
+    },
+    {
+      "english": "Thanks, you saved me time.",
+      "arabic": "شكرًا، أنقذتني من الوقت.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403300"
+    },
+    {
+      "english": "Let’s wrap up, we’re almost done.",
+      "arabic": "لننهي بسرعة، نحن قريبون من النهاية.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403303"
+    },
+    {
+      "english": "I need a quick approval, please.",
+      "arabic": "أحتاج موافقة سريعة، من فضلك.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403304"
+    },
+    {
+      "english": "Which team handles this request, please?",
+      "arabic": "أي فريق يتولى هذا الطلب، من فضلك؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403306"
+    },
+    {
+      "english": "Do we have the latest version?",
+      "arabic": "هل لدينا آخر نسخة؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403308"
+    },
+    {
+      "english": "What’s the deadline for this task?",
+      "arabic": "ما هو موعد تسليم هذه المهمة؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403310"
+    },
+    {
+      "english": "Can you confirm the meeting location, today?",
+      "arabic": "هل يمكنك تأكيد مكان الاجتماع، اليوم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403312"
+    },
+    {
+      "english": "Who should I ask for access?",
+      "arabic": "مَن الذي أسأله للحصول على صلاحية؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403313"
+    },
+    {
+      "english": "Is this form required for everyone?",
+      "arabic": "هل هذا النموذج مطلوب للجميع؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403315"
+    },
+    {
+      "english": "Where do I submit the paperwork?",
+      "arabic": "أين أرسل الأوراق الرسمية؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403316"
+    },
+    {
+      "english": "Could you explain the steps briefly?",
+      "arabic": "هل يمكنك شرح الخطوات بسرعة؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403318"
+    },
+    {
+      "english": "Should I use email or chat?",
+      "arabic": "هل أستخدم البريد الإلكتروني أم الدردشة؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403319"
+    },
+    {
+      "english": "Can we review it together, quickly?",
+      "arabic": "هل يمكننا مراجعتها معًا بسرعة؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403321"
+    },
+    {
+      "english": "Is there anything I should fix first?",
+      "arabic": "هل يوجد شيء يجب أن أصلحه أولًا؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403323"
+    },
+    {
+      "english": "How should I format the report?",
+      "arabic": "كيف يجب أن أرتّب التقرير؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403324"
+    },
+    {
+      "english": "Which document do you want, specifically?",
+      "arabic": "أي مستند تريد تحديدًا؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403327"
+    },
+    {
+      "english": "Can I get your feedback on this?",
+      "arabic": "هل ممكن تعطيني ملاحظاتك على هذا؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403329"
+    },
+    {
+      "english": "What’s the best way to escalate this?",
+      "arabic": "ما أفضل طريقة لتصعيد هذا الموضوع؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403331"
+    },
+    {
+      "english": "Do you have a template for this?",
+      "arabic": "هل لديك نموذج جاهز لهذا؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403332"
+    },
+    {
+      "english": "Should I copy HR on this email?",
+      "arabic": "هل أضع الموارد البشرية في نسخة هذه الرسالة؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403334"
+    },
+    {
+      "english": "Are we aligned on the timeline?",
+      "arabic": "هل نحن متفقون على الجدول الزمني؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403335"
+    },
+    {
+      "english": "What’s the status of my request?",
+      "arabic": "ما وضع طلبِي؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403337"
+    },
+    {
+      "english": "Who will approve the final version?",
+      "arabic": "من سيعتمد النسخة النهائية؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403339"
+    },
+    {
+      "english": "Can we reschedule, if needed?",
+      "arabic": "هل يمكننا إعادة الجدولة، إذا لزم؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403340"
+    },
+    {
+      "english": "Do you prefer calls or messages?",
+      "arabic": "هل تفضّل المكالمات أم الرسائل؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403342"
+    },
+    {
+      "english": "How much time will this take?",
+      "arabic": "كم الوقت الذي سيستغرقه هذا؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403344"
+    },
+    {
+      "english": "What should I prepare before the call?",
+      "arabic": "ماذا يجب أن أجهّز قبل المكالمة؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403345"
+    },
+    {
+      "english": "Is it okay to start without you?",
+      "arabic": "هل من المقبول أن أبدأ بدونك؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403347"
+    },
+    {
+      "english": "Where can I find the policy document?",
+      "arabic": "أين أجد وثيقة السياسة؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403348"
+    },
+    {
+      "english": "Do you want the summary or details?",
+      "arabic": "هل تريد الملخص أم التفاصيل؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403350"
+    },
+    {
+      "english": "Can you remind me what we agreed?",
+      "arabic": "هل يمكنك تذكيري بما اتفقنا عليه؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403352"
+    },
+    {
+      "english": "What’s the next step after this approval?",
+      "arabic": "ما الخطوة التالية بعد هذا الاعتماد؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403354"
+    },
+    {
+      "english": "We’ll handle it, step by step.",
+      "arabic": "بنرتّبها خطوة خطوة.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403356"
+    },
+    {
+      "english": "No worries, we’ll sort it today.",
+      "arabic": "ولا يهمك، بنحلّها اليوم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403358"
+    },
+    {
+      "english": "Let it sit, then check tomorrow.",
+      "arabic": "سيبه يبرد، وارجع له بكرة.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403360"
+    },
+    {
+      "english": "Mind the details, don’t rush.",
+      "arabic": "ركّز على التفاصيل، لا تستعجل.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403362"
+    },
+    {
+      "english": "I’ll pass it to the right person.",
+      "arabic": "بحوّله للشخص المناسب.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403364"
+    },
+    {
+      "english": "Let’s iron out the issues first.",
+      "arabic": "خلّينا نسوّيها سوا، ونفصّل المشكلة.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403366"
+    },
+    {
+      "english": "Keep it short, get to the point.",
+      "arabic": "خلّيه مختصر، على طول للموضوع.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403368"
+    },
+    {
+      "english": "Talk less, deliver more.",
+      "arabic": "قلّيل كلام، شغل كثير.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403369"
+    },
+    {
+      "english": "We’ll do it your way, okay?",
+      "arabic": "بنمشي على طريقتك، تمام؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403372"
+    },
+    {
+      "english": "Better safe than sorry, check twice.",
+      "arabic": "الاحتياط أحسن، شيّك مرتين.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403374"
+    },
+    {
+      "english": "I’ll follow up with them today.",
+      "arabic": "بحبّع لهم اليوم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403376"
+    },
+    {
+      "english": "We need it, ASAP, please.",
+      "arabic": "نحتاجه، بسرعة، لو سمحت.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403378"
+    },
+    {
+      "english": "Send it when you’re done, no rush.",
+      "arabic": "ابعتّه لما تخلص، ولا تعجل.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403380"
+    },
+    {
+      "english": "This is urgent, don’t let it wait.",
+      "arabic": "هذا مستعجل، لا تخلّيه يتأخر.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403382"
+    },
+    {
+      "english": "We’ll keep it transparent, always.",
+      "arabic": "بنخليها واضحة، دايمًا.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403384"
+    },
+    {
+      "english": "Cross-check it with the numbers.",
+      "arabic": "طابقه بالأرقام، كويس.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403387"
+    },
+    {
+      "english": "Let’s close this issue and move on.",
+      "arabic": "سكرنا الموضوع، ونتقدّم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403389"
+    },
+    {
+      "english": "I’ll get the ball rolling now.",
+      "arabic": "أنا هبدأ الشغل الآن.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403391"
+    },
+    {
+      "english": "Don’t leave it for the last minute.",
+      "arabic": "لا تسيبه لآخر لحظة.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403393"
+    },
+    {
+      "english": "We’ll review, then decide quickly.",
+      "arabic": "بنراجع، وبعدها قرار سريع.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403396"
+    },
+    {
+      "english": "Let’s do a quick sanity check.",
+      "arabic": "خلّينا نعمل مراجعة سريعة للتأكد.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403398"
+    },
+    {
+      "english": "Keep me posted, day by day.",
+      "arabic": "خبرّني بالتطورات، يوم بيوم.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403399"
+    },
+    {
+      "english": "We’re waiting on one missing detail.",
+      "arabic": "ناقصنا تفاصيل بسيطة وبنخلص.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403402"
+    },
+    {
+      "english": "Put it on my desk, please.",
+      "arabic": "حطه على مكتبي، لو سمحت.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403404"
+    },
+    {
+      "english": "Let’s not make it complicated.",
+      "arabic": "ما نكثّر تعقيد، خلّينا بسيطين.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403406"
+    },
+    {
+      "english": "You’re the go-to person for this.",
+      "arabic": "إنت الشخص اللي عليه الكلام.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403408"
+    },
+    {
+      "english": "We’ll speak in facts, not guesses.",
+      "arabic": "نتكلم بالأدلة، مش تخمين.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403410"
+    },
+    {
+      "english": "Let’s keep momentum, don’t stop now.",
+      "arabic": "كملوا، لا توقفوا.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403413"
+    },
+    {
+      "english": "I’m a bit overwhelmed, but I’m managing it.",
+      "arabic": "أنا متوتر شوي، لكني أتعامل.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403415"
+    },
+    {
+      "english": "Honestly, I need clarity before I proceed.",
+      "arabic": "بصراحة، أحتاج وضوحًا قبل ما أبدأ.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403417"
+    },
+    {
+      "english": "I’m learning patience, and it’s helping.",
+      "arabic": "أنا بتعلم الصبر، وفعلاً بيساعد.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403419"
+    },
+    {
+      "english": "Today, I’ll slow down, so it’s solid.",
+      "arabic": "اليوم، بُطّيت شوي علشان يكون مضبوط.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403421"
+    },
+    {
+      "english": "I feel better once we align on priorities.",
+      "arabic": "بِرتاح لما نرتّب الأولويات مع بعض.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403423"
+    },
+    {
+      "english": "I want to do this right, not fast.",
+      "arabic": "أبغى أسويه صح، مو بس بسرعة.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403425"
+    },
+    {
+      "english": "I trust you, and I’m listening carefully.",
+      "arabic": "أثق فيك، وأنا أسمع بعناية.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403427"
+    },
+    {
+      "english": "If I’m off, tell me kindly, please.",
+      "arabic": "إذا كنت غلطان، قلّي بلطف، لو سمحت.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403429"
+    },
+    {
+      "english": "I’m not ignoring it, I’m processing.",
+      "arabic": "مو إني بتجاهله، أنا بس أستوعب.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403431"
+    },
+    {
+      "english": "I’m trying to stay calm, even under pressure.",
+      "arabic": "بجاهد عشان أظل هادي، حتى مع الضغط.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403434"
+    },
+    {
+      "english": "This matters to me, so I’m careful.",
+      "arabic": "هذا مهم بالنسبة لي، لذلك أنا حريص.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403436"
+    },
+    {
+      "english": "I appreciate your honesty, it helps a lot.",
+      "arabic": "تقديرًا لصدقك، هذا يساعد كثير.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403437"
+    },
+    {
+      "english": "I need a minute, my thoughts aren’t ready.",
+      "arabic": "احتاج دقيقة، أفكاري لسه ما نضجت.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403440"
+    },
+    {
+      "english": "Let’s pause, and choose the best words.",
+      "arabic": "خلّينا نوقف لحظة، ونختار الكلمات الصح.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403442"
+    },
+    {
+      "english": "I’m grateful, even when things are messy.",
+      "arabic": "أنا ممتن، حتى لو الدنيا فيها فوضى.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403444"
+    },
+    {
+      "english": "I want to reflect, then send my feedback.",
+      "arabic": "أبي أتأمل شوي، وبعدين أرسل ملاحظاتي.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403445"
+    },
+    {
+      "english": "I’m still learning the workflow, be patient with me.",
+      "arabic": "لسه أتعلّم سير العمل، صبرًا علي.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403448"
+    },
+    {
+      "english": "My gut says it’s risky, let’s review.",
+      "arabic": "حدسي يقول إنه فيه مخاطرة، خلّينا نراجع.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403450"
+    },
+    {
+      "english": "I’m trying not to overthink, but it’s tough.",
+      "arabic": "بحاول ما أبالغ بالتفكير، بس الموضوع صعب.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403452"
+    },
+    {
+      "english": "I’d rather be honest than look perfect.",
+      "arabic": "أفضل أكون صريح، بدل ما أبين مثالي.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403455"
+    },
+    {
+      "english": "I feel stuck, so I need a different view.",
+      "arabic": "حاسسني عالق، فاحتاج منظور مختلف.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403457"
+    },
+    {
+      "english": "Let’s keep it real, not just professional.",
+      "arabic": "خلّينا واقعيين، مو بس رسميين.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403459"
+    },
+    {
+      "english": "I’m taking notes, so we don’t miss anything.",
+      "arabic": "أنا آخذ ملاحظات، عشان ما نفوّت شيء.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403462"
+    },
+    {
+      "english": "I’m balancing speed with quality, that’s my goal.",
+      "arabic": "أوازن بين السرعة والجودة، هذا هدفي.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403464"
+    },
+    {
+      "english": "I hear you, and I’ll think it through.",
+      "arabic": "سمعتك، وبفكّر فيها بهدوء.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403466"
+    },
+    {
+      "english": "I’m proud of the progress we made.",
+      "arabic": "أنا فخور بالتقدم اللي صار.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403468"
+    },
+    {
+      "english": "I’m being careful, because details shape outcomes.",
+      "arabic": "أنا حريص، لأن التفاصيل تغيّر النتيجة.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403470"
+    },
+    {
+      "english": "Sometimes I need support, not just tasks.",
+      "arabic": "أحيانًا أحتاج دعم، مو بس مهام.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403472"
+    },
+    {
+      "english": "After work, I reset my mind, then return.",
+      "arabic": "بعد الدوام، أرتّب نفسي وأرجع.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403474"
+    },
+    {
+      "english": "I’ll be patient, until we find solid footing.",
+      "arabic": "بكون صبور، لحد ما نلقى أساس قوي.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403476"
+    },
+    {
+      "english": "Can you send it with a quick summary?",
+      "arabic": "هل يمكنك إرساله مع ملخص سريع؟",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403477"
+    },
+    {
+      "english": "Before the meeting, let's tidy the agenda.",
+      "arabic": "قبل الاجتماع, خلّونا نرتّب جدول الأعمال.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:52:05.403479"
     }
   ],
-  "last_updated": "2026-11-06T07:42:29.568479"
+  "last_updated": "2026-11-07T06:52:05.403481"
 }
