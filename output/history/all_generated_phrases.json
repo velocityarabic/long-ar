@@ -79919,7 +79919,727 @@
       "arabic": "في المتجر، اسأل عن السعر أولًا.",
       "category": "Wisdom",
       "generated_at": "2026-11-08T06:57:38.495858"
+    },
+    {
+      "english": "Yes, that makes sense, I agree.",
+      "arabic": "نعم, هذا منطقي, أنا موافق.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720863"
+    },
+    {
+      "english": "Exactly, you’re right, that’s true.",
+      "arabic": "بالضبط, أنت على حق, هذا صحيح.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720882"
+    },
+    {
+      "english": "I think so, sounds good to me.",
+      "arabic": "أظن ذلك, يبدو مناسبًا لي.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720893"
+    },
+    {
+      "english": "Sure, go ahead, I’m on board.",
+      "arabic": "أكيد, تفضل, أنا معك.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720896"
+    },
+    {
+      "english": "Of course, that’s exactly what I meant.",
+      "arabic": "بالطبع, هذا بالضبط ما كنت أقصده.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720900"
+    },
+    {
+      "english": "Absolutely, that’s the best idea.",
+      "arabic": "بالطبع، هذا أفضل فكرة.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720903"
+    },
+    {
+      "english": "Agreed, let’s do it right now.",
+      "arabic": "موافق, لنعملها الآن.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720905"
+    },
+    {
+      "english": "I agree with you, totally.",
+      "arabic": "أنا أوافقك, تمامًا.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720912"
+    },
+    {
+      "english": "That’s fair, I understand your point.",
+      "arabic": "هذا معقول, أفهم وجهة نظرك.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720916"
+    },
+    {
+      "english": "You’re right, I’ve been thinking that.",
+      "arabic": "معك حق, كنت أفكر بهذا.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720921"
+    },
+    {
+      "english": "Not really, I see it differently.",
+      "arabic": "ليس تمامًا, أنا أراه بشكل مختلف.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720924"
+    },
+    {
+      "english": "No way, I completely disagree.",
+      "arabic": "مستحيل, أنا لا أوافق تمامًا.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720926"
+    },
+    {
+      "english": "I don’t think so, not at all.",
+      "arabic": "لا أظن ذلك, أبدًا.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720929"
+    },
+    {
+      "english": "I disagree, but I get your idea.",
+      "arabic": "أنا لا أوافق, لكن فهمت فكرتك.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720931"
+    },
+    {
+      "english": "Sorry, I can’t agree with that.",
+      "arabic": "آسف, لا أستطيع الموافقة على هذا.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720933"
+    },
+    {
+      "english": "That’s not how I see it.",
+      "arabic": "هذا ليس مثل ما أراه.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720936"
+    },
+    {
+      "english": "I’m not convinced, there’s no proof.",
+      "arabic": "لست مقتنعًا, لا يوجد دليل.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720939"
+    },
+    {
+      "english": "Hmm, maybe, but I’m unsure.",
+      "arabic": "ممكن، لكن أنا غير متأكد.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720942"
+    },
+    {
+      "english": "I’m on the fence, not sure yet.",
+      "arabic": "أنا متردد, لست متأكدًا بعد.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720944"
+    },
+    {
+      "english": "Let’s be honest, that’s not true.",
+      "arabic": "لنكن صريحين, هذا غير صحيح.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720947"
+    },
+    {
+      "english": "I get you, but I disagree.",
+      "arabic": "أفهمك, لكني أختلف معك.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720949"
+    },
+    {
+      "english": "No, thanks, I’ll pass.",
+      "arabic": "لا شكرًا, سأرفض.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720951"
+    },
+    {
+      "english": "Maybe, but I’m leaning the other way.",
+      "arabic": "يمكن, لكني أميل للجهة الأخرى.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720954"
+    },
+    {
+      "english": "Yes, absolutely, I’m with you.",
+      "arabic": "نعم, بالتأكيد, أنا معك.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720957"
+    },
+    {
+      "english": "That’s a good point, I agree.",
+      "arabic": "هذه نقطة جيدة, أنا موافق.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720959"
+    },
+    {
+      "english": "I’m thinking the opposite, sorry.",
+      "arabic": "أنا أفكر بالعكس, آسف.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720962"
+    },
+    {
+      "english": "True, I noticed that too.",
+      "arabic": "صحيح, لاحظت ذلك أيضًا.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720964"
+    },
+    {
+      "english": "That won’t work, trust me.",
+      "arabic": "هذا لن ينجح, صدقني.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720967"
+    },
+    {
+      "english": "We agree, let’s keep going.",
+      "arabic": "نتفق, لنكمل.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720969"
+    },
+    {
+      "english": "I’m not sure, but I’m open to it.",
+      "arabic": "لست متأكدًا, لكني منفتح على ذلك.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720972"
+    },
+    {
+      "english": "Do you think this plan is solid?",
+      "arabic": "هل تعتقد أن هذه الخطة قوية؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720974"
+    },
+    {
+      "english": "What makes you feel that way?",
+      "arabic": "ما الذي يخليك تشعر بذلك؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720977"
+    },
+    {
+      "english": "Can I ask, why disagree with this?",
+      "arabic": "ممكن أسأل، لماذا لا تتفق مع هذا؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720979"
+    },
+    {
+      "english": "How sure are you about that?",
+      "arabic": "قد إيش واثق من ذلك؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720982"
+    },
+    {
+      "english": "Do you want my honest opinion?",
+      "arabic": "تحب رأيي الصريح؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720986"
+    },
+    {
+      "english": "I see it differently, may I ask?",
+      "arabic": "أنا شايفه بشكل مختلف، ممكن أسأل؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720988"
+    },
+    {
+      "english": "Would you change your mind if...",
+      "arabic": "هل ستغير رأيك لو...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720991"
+    },
+    {
+      "english": "What would convince you, exactly?",
+      "arabic": "إيش اللي بيقنعك بالضبط؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720993"
+    },
+    {
+      "english": "Can you give me your reasons?",
+      "arabic": "تقدر تعطيني الأسباب؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720995"
+    },
+    {
+      "english": "Let me confirm, you mean that?",
+      "arabic": "خليني أتأكد، تقصد كذا؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.720999"
+    },
+    {
+      "english": "If I understand right, you disagree?",
+      "arabic": "إذا فهمت صح، أنت ضد؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721002"
+    },
+    {
+      "english": "I’m not sure, what do you suggest?",
+      "arabic": "مش متأكد، إيش تقترح؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721006"
+    },
+    {
+      "english": "Quick question, why not try it?",
+      "arabic": "سؤال سريع، ليه ما نجرب؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721008"
+    },
+    {
+      "english": "Honestly, I’m leaning the other way.",
+      "arabic": "بصراحة، أنا مائل للجهة الثانية.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721011"
+    },
+    {
+      "english": "Do you feel the same about it?",
+      "arabic": "تحس نفس الشيء؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721013"
+    },
+    {
+      "english": "I hear you, but let’s compare.",
+      "arabic": "فاهمك، بس خلينا نقارن.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721015"
+    },
+    {
+      "english": "What’s your take on this decision?",
+      "arabic": "إيش رأيك في هذا القرار؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721018"
+    },
+    {
+      "english": "I might be wrong, but I doubt it.",
+      "arabic": "ممكن أكون غلطان، بس أشك.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721020"
+    },
+    {
+      "english": "Would you mind sharing more details?",
+      "arabic": "ممكن تشاركنا بتفاصيل أكثر؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721022"
+    },
+    {
+      "english": "Let’s be real, why is it risky?",
+      "arabic": "خلينا نكون واقعيين، ليه هو خطِر؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721024"
+    },
+    {
+      "english": "So, you’re saying it won’t work?",
+      "arabic": "يعني أنت تقول إنه ما راح يمشي؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721026"
+    },
+    {
+      "english": "I respect your view, but I’m cautious.",
+      "arabic": "أحترم وجهة نظرك، بس أنا حذر.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721029"
+    },
+    {
+      "english": "If it’s clear, tell me why you say that.",
+      "arabic": "إذا الموضوع واضح، قلّي ليه تقول كذا.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721031"
+    },
+    {
+      "english": "Do you think it’s worth the effort?",
+      "arabic": "هل تشوفه يستاهل الجهد؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721034"
+    },
+    {
+      "english": "I’m open to it, but explain first.",
+      "arabic": "أنا متقبل، بس وضّح لي أولاً.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721036"
+    },
+    {
+      "english": "What’s the best reason to agree here?",
+      "arabic": "إيش أفضل سبب نخليها اتفاق؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721038"
+    },
+    {
+      "english": "Can we pause, and settle the facts?",
+      "arabic": "نقدر نوقف لحظة، ونحسم الحقائق؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721040"
+    },
+    {
+      "english": "What if we try a smaller step first?",
+      "arabic": "طيب لو نجرب خطوة أصغر أول؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721042"
+    },
+    {
+      "english": "To be honest, I don’t see the benefit.",
+      "arabic": "بصراحة، أنا ما شايف فايدة واضحة.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721045"
+    },
+    {
+      "english": "Want to debate it, or just decide?",
+      "arabic": "تبغى نناقش، ولا نقرر بس؟",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721047"
+    },
+    {
+      "english": "Right on, this is exactly it",
+      "arabic": "بالضبط، هذا هو الكلام",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721049"
+    },
+    {
+      "english": "I’m with you, but not on this part",
+      "arabic": "أنا معك، لكن مو بهالشيء",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721052"
+    },
+    {
+      "english": "Sounds right to me, go for it",
+      "arabic": "يطلع صح، جرّبها",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721055"
+    },
+    {
+      "english": "Not gonna lie, this feels off",
+      "arabic": "بصراحة، هذا مو مريح",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721057"
+    },
+    {
+      "english": "That makes sense, I’ll back it",
+      "arabic": "كلامك عليه، أنا أؤيده",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721060"
+    },
+    {
+      "english": "I don’t buy it, not this time",
+      "arabic": "ما مقتنع، مو هالمرة",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721063"
+    },
+    {
+      "english": "Fair point, still I disagree",
+      "arabic": "وجهة نظر محترمة، بس أنا مختلف",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721065"
+    },
+    {
+      "english": "You’re not wrong, but I see more",
+      "arabic": "معك حق، بس عندي زاوية ثانية",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721069"
+    },
+    {
+      "english": "Exactly, that’s how things work",
+      "arabic": "صح، هيك الأمور تمشي",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721072"
+    },
+    {
+      "english": "Eh, I’m not convinced at all",
+      "arabic": "لا والله، ما اقتنعت",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721077"
+    },
+    {
+      "english": "Okay, that’s a good idea, really",
+      "arabic": "تمام، فكرة حلوة",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721079"
+    },
+    {
+      "english": "Hold on, this sounds backwards",
+      "arabic": "استنى، هذا كلامه عكس",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721082"
+    },
+    {
+      "english": "You said it, I agree 100 percent",
+      "arabic": "كلامك عين العقل، معك تمام",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721084"
+    },
+    {
+      "english": "I hear you, but I’m not buying",
+      "arabic": "سمعتك، بس ما أقتنع",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721091"
+    },
+    {
+      "english": "That’s the spirit, let’s do it",
+      "arabic": "كفو، خلّينا نمشيها",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721094"
+    },
+    {
+      "english": "No way, that’s a bad move",
+      "arabic": "مستحيل، هذي خطوة غلط",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721097"
+    },
+    {
+      "english": "You’re on point, I totally agree",
+      "arabic": "أنت ماشي صح، أتفق معك",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721099"
+    },
+    {
+      "english": "I’m not feeling it, honestly",
+      "arabic": "الصراحة، ما حاسس فيها",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721102"
+    },
+    {
+      "english": "That’s true, and it matters",
+      "arabic": "صحيح، وهذا مهم",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721105"
+    },
+    {
+      "english": "Still, I’m not convinced, yet",
+      "arabic": "بس لسه ما قتنعت",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721107"
+    },
+    {
+      "english": "Exactly, we’re on the same page",
+      "arabic": "صح، إحنا نفس الفكرة",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721110"
+    },
+    {
+      "english": "Let’s be careful, this could backfire",
+      "arabic": "خلّينا ننتبه، ممكن تنقلب ضدنا",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721113"
+    },
+    {
+      "english": "Agreed, this is the sensible way",
+      "arabic": "تمام، هذا التصرف العقلاني",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721115"
+    },
+    {
+      "english": "I doubt it, sounds too convenient",
+      "arabic": "أشك فيه، كثيرها سهلة زيادة",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721118"
+    },
+    {
+      "english": "You’re right, that’s the real deal",
+      "arabic": "معك حق، هذا الصح",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721120"
+    },
+    {
+      "english": "I’m gonna disagree, respectfully",
+      "arabic": "بكل احترام، أنا ما أوافق",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721122"
+    },
+    {
+      "english": "Makes perfect sense, let’s move",
+      "arabic": "واضح تمام، خلّينا نمشي",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721125"
+    },
+    {
+      "english": "That’s wishful thinking, not reality",
+      "arabic": "كلام أحلام، مو واقع",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721127"
+    },
+    {
+      "english": "Yeah, I get it, but no",
+      "arabic": "أيوه فاهمك، بس لا",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721130"
+    },
+    {
+      "english": "I’m on the same side, for sure",
+      "arabic": "أنا معك بنفس الاتجاه",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721132"
+    },
+    {
+      "english": "I agree, but I need time to process",
+      "arabic": "أنا موافق، لكن أحتاج وقتًا لأستوعب",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721134"
+    },
+    {
+      "english": "I feel you, still, my doubts stay",
+      "arabic": "أفهمك، لكن شكي ما زال موجودًا",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721137"
+    },
+    {
+      "english": "That’s honest, and I respect your patience",
+      "arabic": "هذا صادق، وأحترم صبرك",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721140"
+    },
+    {
+      "english": "I can agree, if we’re talking about today",
+      "arabic": "أقدر أوافق، إذا كنا نتكلم عن اليوم فقط",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721142"
+    },
+    {
+      "english": "I’m not against it, I’m just unsure",
+      "arabic": "أنا لست ضدّه، فقط غير متأكد",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721146"
+    },
+    {
+      "english": "I hear your heart, but the facts differ",
+      "arabic": "أسمع كلامك من القلب، لكن الوقائع مختلفة",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721148"
+    },
+    {
+      "english": "I agree, and it actually makes me calmer",
+      "arabic": "أوافق، وهذا يخلّيني أهدأ فعلًا",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721150"
+    },
+    {
+      "english": "I get the logic, but I don’t feel it",
+      "arabic": "أفهم المنطق، لكني لا أحسّه",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721155"
+    },
+    {
+      "english": "Let’s be real, this might not fit me",
+      "arabic": "خلّينا نكون صريحين، هذا يمكن ما يناسبني",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721157"
+    },
+    {
+      "english": "I’m with you emotionally, not fully agreeing",
+      "arabic": "أنا معك من ناحية المشاعر، لكن مو موافقة بالكامل",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721161"
+    },
+    {
+      "english": "Maybe, but I worry we’re missing something",
+      "arabic": "يمكن، لكن يقلقني أننا نفوّتنا شيء",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721165"
+    },
+    {
+      "english": "I respect it, but my gut says wait",
+      "arabic": "أحترمه، لكن قلبي يقول انتظر",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721168"
+    },
+    {
+      "english": "I can agree in theory, not in practice",
+      "arabic": "أقدر أوافق نظريًا، مو عمليًا",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721170"
+    },
+    {
+      "english": "Honestly, I’m tired of pushing this",
+      "arabic": "بصراحة، تعبت من دفع هذا الموضوع",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721173"
+    },
+    {
+      "english": "I agree, and I’m ready to stand by it",
+      "arabic": "أوافق، وأنا مستعد ألتزم به",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721175"
+    },
+    {
+      "english": "I’m not convinced, because this feels rushed",
+      "arabic": "مو مقتنع، لأن هذا يبدو مستعجل",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721178"
+    },
+    {
+      "english": "That’s fair, I just see it differently",
+      "arabic": "هذا منصف، لكني أشوفه بشكل مختلف",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721180"
+    },
+    {
+      "english": "I agree, but only if we set boundaries",
+      "arabic": "أوافق، لكن فقط إذا حدّدنا حدودًا",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721182"
+    },
+    {
+      "english": "I don’t hate the idea, just the timing",
+      "arabic": "أنا ما أكره الفكرة، بس التوقيت",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721185"
+    },
+    {
+      "english": "I’m trying to agree, but it doesn’t land",
+      "arabic": "أحاول أوافق، لكن ما وصلني الإحساس",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721187"
+    },
+    {
+      "english": "I see your point, and still I hesitate",
+      "arabic": "أفهم وجهة نظرك، وما زلت أتردد",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721190"
+    },
+    {
+      "english": "I agree, and I’m proud we’re careful",
+      "arabic": "أوافق، وأنا فخور إننا نكون حذرين",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721192"
+    },
+    {
+      "english": "I’m disagreeing, because I want fewer surprises",
+      "arabic": "أنا أعارض، لأني أبي أقل مفاجآت",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721195"
+    },
+    {
+      "english": "We can disagree kindly, without shutting down",
+      "arabic": "نتجادل باحترام، بدون ما نسكّر الباب",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721197"
+    },
+    {
+      "english": "I agree, and I’m learning to be patient",
+      "arabic": "أوافق، وأنا أتعلم أكون صبور",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721200"
+    },
+    {
+      "english": "I don’t agree yet, I need more proof",
+      "arabic": "ما أوافق بعد، أحتاج دليل أكثر",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721202"
+    },
+    {
+      "english": "I respect you, but I’m standing firm",
+      "arabic": "أحترمك، لكنّي ثابت على رأيي",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721204"
+    },
+    {
+      "english": "I agree with you, but I’m cautious today",
+      "arabic": "أنا معك، لكني حذر اليوم",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721207"
+    },
+    {
+      "english": "I disagree, and I’m saying it gently",
+      "arabic": "أنا أعارض، وبقولها بلطف",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721209"
+    },
+    {
+      "english": "I’m not ready to commit, let’s think",
+      "arabic": "أنا مو جاهز ألتزم، خلينا نفكر",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-09T07:42:08.721212"
     }
   ],
-  "last_updated": "2026-11-08T06:57:38.495860"
+  "last_updated": "2026-11-09T07:42:08.721214"
 }
