@@ -80639,7 +80639,727 @@
       "arabic": "أنا مو جاهز ألتزم، خلينا نفكر",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-11-09T07:42:08.721212"
+    },
+    {
+      "english": "Good morning, how was your night?",
+      "arabic": "صباح الخير, كيف كانت ليلتك؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366432"
+    },
+    {
+      "english": "I’m heading out now, see you later",
+      "arabic": "أنا خارج الآن, أراك لاحقًا",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366447"
+    },
+    {
+      "english": "Hold on, let me grab my keys",
+      "arabic": "لحظة, سأحضر مفاتيحي",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366451"
+    },
+    {
+      "english": "I forgot, wait, I’ll check again",
+      "arabic": "نسيت, لحظة، سأراجع مرة ثانية",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366455"
+    },
+    {
+      "english": "Sorry, I’m running late today",
+      "arabic": "آسف, أنا متأخر اليوم",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366459"
+    },
+    {
+      "english": "Wait, what time does it start?",
+      "arabic": "انتظر, متى يبدأ؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366462"
+    },
+    {
+      "english": "I’m on my way, don’t leave yet",
+      "arabic": "أنا في طريقي, لا تغادر بعد",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366465"
+    },
+    {
+      "english": "Oh no, I lost my phone",
+      "arabic": "يا لا, ضعت هاتفي",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366471"
+    },
+    {
+      "english": "Great, let’s meet after work",
+      "arabic": "رائع, لِنلتقي بعد العمل",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366475"
+    },
+    {
+      "english": "I’ll call you in a minute",
+      "arabic": "سأكلمك بعد دقيقة",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366478"
+    },
+    {
+      "english": "I’m thirsty, I need some water",
+      "arabic": "أنا عطشان, أحتاج ماء",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366481"
+    },
+    {
+      "english": "I’m hungry, I’ll grab a quick bite",
+      "arabic": "أنا جائع, سأأخذ لقمة سريعة",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366488"
+    },
+    {
+      "english": "Did you eat yet, or not?",
+      "arabic": "هل أكلتَ بعد؟ ولا لسه؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366491"
+    },
+    {
+      "english": "Yes, I’m ready, let’s go",
+      "arabic": "نعم، أنا جاهز، هيا",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366494"
+    },
+    {
+      "english": "No, I can’t, I have plans",
+      "arabic": "لا، ما أقدر، عندي مشوار",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366498"
+    },
+    {
+      "english": "Tell me, what’s the news today?",
+      "arabic": "قلّي, إيش الجديد اليوم؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366501"
+    },
+    {
+      "english": "Sounds good, I’ll do it now",
+      "arabic": "تمام, سأعملها الآن",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366506"
+    },
+    {
+      "english": "Let me think, give me a second",
+      "arabic": "خلّيني أفكر, أعطني لحظة",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366509"
+    },
+    {
+      "english": "Just a moment, I’m finishing up",
+      "arabic": "لحظة بس, أنا بخلص",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366512"
+    },
+    {
+      "english": "Really? Wow, that’s unexpected",
+      "arabic": "حقًا؟ يا سلام, هذا غير متوقع",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366515"
+    },
+    {
+      "english": "Come on, don’t overthink it",
+      "arabic": "هيا, لا تفكّر كثير",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366518"
+    },
+    {
+      "english": "Take care, text me when you arrive",
+      "arabic": "اعتنِ بنفسك, ابعث لي رسالة عند الوصول",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366521"
+    },
+    {
+      "english": "I’m leaving now, bye",
+      "arabic": "أنا بمشي الآن, باي",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366524"
+    },
+    {
+      "english": "I got it, thanks for your help",
+      "arabic": "فهمت, شكرًا لمساعدتك",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366526"
+    },
+    {
+      "english": "Wait, that’s not what I meant",
+      "arabic": "لحظة, هذا ليس ما قصدته",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366530"
+    },
+    {
+      "english": "Cool, let’s continue from here",
+      "arabic": "تمام, نكمل من هنا",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366533"
+    },
+    {
+      "english": "Sorry again, it was my mistake",
+      "arabic": "آسف مرة ثانية, الخطأ خطئي",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366537"
+    },
+    {
+      "english": "All set, I’m good to go",
+      "arabic": "جاهز, أنا تمام",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366540"
+    },
+    {
+      "english": "Before work, what’s your usual routine?",
+      "arabic": "قبل العمل، ما روتينك المعتاد؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366544"
+    },
+    {
+      "english": "How do you start your mornings, usually?",
+      "arabic": "كيف تبدأ صباحك عادةً؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366547"
+    },
+    {
+      "english": "What do you do after breakfast, first?",
+      "arabic": "ماذا تفعل بعد الفطور أولاً؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366550"
+    },
+    {
+      "english": "Do you exercise in the morning, or later?",
+      "arabic": "هل تتمرن في الصباح، أم لاحقاً؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366553"
+    },
+    {
+      "english": "Quick question, what time do you commute?",
+      "arabic": "سؤال سريع، في أي وقت تذهب للعمل؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366555"
+    },
+    {
+      "english": "When you get home, what’s step one?",
+      "arabic": "لما ترجع للبيت، ما الخطوة الأولى؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366559"
+    },
+    {
+      "english": "Which is easier for you, coffee or tea?",
+      "arabic": "أيّهما أسهل لك، القهوة أم الشاي؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366561"
+    },
+    {
+      "english": "Can you recommend a quick lunch idea?",
+      "arabic": "هل تقدر توصي بفكرة غداء سريعة؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366564"
+    },
+    {
+      "english": "How do you stay organized during the day?",
+      "arabic": "كيف تبقى منظماً طوال اليوم؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366566"
+    },
+    {
+      "english": "What do you listen to while traveling?",
+      "arabic": "بماذا تستمع أثناء الطريق؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366569"
+    },
+    {
+      "english": "Do you take calls after work, or before?",
+      "arabic": "هل ترد على المكالمات بعد العمل، أم قبله؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366572"
+    },
+    {
+      "english": "Is your evening routine relaxing or busy?",
+      "arabic": "هل روتينك المسائي مريح، أم مزدحم؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366575"
+    },
+    {
+      "english": "What’s your go-to dinner when you’re tired?",
+      "arabic": "ما عشاءك المفضل لما تكون تعبان؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366578"
+    },
+    {
+      "english": "How long do you usually scroll at night?",
+      "arabic": "كم ساعة تتصفح عادةً بالليل؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366581"
+    },
+    {
+      "english": "Before bed, what helps you unwind?",
+      "arabic": "قبل النوم، ما الذي يريحك؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366587"
+    },
+    {
+      "english": "Do you read, or watch something, at night?",
+      "arabic": "هل تقرأ، أم تشاهد شيئاً ليلاً؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366590"
+    },
+    {
+      "english": "What’s one habit you don’t skip daily?",
+      "arabic": "ما عادة واحدة ما تتركها كل يوم؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366593"
+    },
+    {
+      "english": "Can I ask, how do you plan tomorrow?",
+      "arabic": "ممكن أسأل، كيف تخطط لبكرا؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366596"
+    },
+    {
+      "english": "Do you write a list, or keep it in mind?",
+      "arabic": "تكتب قائمة، ولا تحفظه في بالك؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366599"
+    },
+    {
+      "english": "What’s your trick for waking up earlier?",
+      "arabic": "ما حيلتك للاستيقاظ بدري؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366602"
+    },
+    {
+      "english": "When mornings are hectic, what do you do?",
+      "arabic": "لما تكون الصباحات مزدحمة، وش تسوي؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366605"
+    },
+    {
+      "english": "Should I meal prep, or keep it simple?",
+      "arabic": "هل أجهز الأكل مسبقاً، ولا خلّيه بسيط؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366607"
+    },
+    {
+      "english": "What helps you focus, music or silence?",
+      "arabic": "وش يساعدك تركز، موسيقى ولا هدوء؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366610"
+    },
+    {
+      "english": "How do you handle stress during busy hours?",
+      "arabic": "كيف تتعامل مع التوتر وقت الزحمة؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366612"
+    },
+    {
+      "english": "Where do you keep your daily planner?",
+      "arabic": "وين تحط مخططك اليومي؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366614"
+    },
+    {
+      "english": "What’s your bedtime goal on weekdays?",
+      "arabic": "وش هدفك وقت النوم في أيام الدوام؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366617"
+    },
+    {
+      "english": "Do you do chores right after breakfast?",
+      "arabic": "هل تسوي الشغل بالبيت بعد الفطور مباشرة؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366620"
+    },
+    {
+      "english": "Any advice for sticking to a routine?",
+      "arabic": "عندك نصيحة عشان تثبت على الروتين؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366622"
+    },
+    {
+      "english": "What do you do when the day slips?",
+      "arabic": "ماذا تفعل عندما يضيع وقت اليوم؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366625"
+    },
+    {
+      "english": "Can we compare routines this week?",
+      "arabic": "هل نقدر نقارن الروتين هذا الأسبوع؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366627"
+    },
+    {
+      "english": "You’ve got this, keep moving, one step now",
+      "arabic": "عندك هذا، واصل الحركة، خطوة خطوة الآن",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366631"
+    },
+    {
+      "english": "Small wins count, today you’re building momentum",
+      "arabic": "الانتصارات الصغيرة تحسب، اليوم تبني زخمك",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366635"
+    },
+    {
+      "english": "Reset your mind, breathe, then start fresh",
+      "arabic": "صفِّ ذهنك، تنفّس، ثم ابدأ من جديد",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366638"
+    },
+    {
+      "english": "After coffee, I’m officially in motion, ya3ni",
+      "arabic": "بعد القهوة، أنا رسميًا دخلت على الخط، يعني",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366641"
+    },
+    {
+      "english": "I wake up, roll over, repeat, بس بسرعة",
+      "arabic": "أصحى، ألف على جنب، وأعيد، بس بسرعة",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366645"
+    },
+    {
+      "english": "No stress, I’ll get it done on time",
+      "arabic": "ولا يهمك، بخلصها على الوقت",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366649"
+    },
+    {
+      "english": "I grab breakfast, and I’m gone, على طول",
+      "arabic": "آكل فطار سريع، وأمشي، على طول",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366653"
+    },
+    {
+      "english": "At work, I keep it moving, تمام",
+      "arabic": "في الشغل، أمشي خطوة خطوة، تمام",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366657"
+    },
+    {
+      "english": "If I’m late, I’ll play it cool, عادي",
+      "arabic": "لو تأخرت، بعملها هادي، عادي",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366660"
+    },
+    {
+      "english": "Lunch break, I recharge, دقيقة بدقيقة",
+      "arabic": "استراحة الغداء، أرتّاح وأشحن، دقيقة بدقيقة",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366665"
+    },
+    {
+      "english": "In the afternoon, I power through, ولا يهم",
+      "arabic": "بالضهر، أكمل على قدّي، ولا يهم",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366668"
+    },
+    {
+      "english": "I don’t skip shower, لازم كل يوم",
+      "arabic": "ما أتهربش من الدوش، لازم كل يوم",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366672"
+    },
+    {
+      "english": "After work, I unwind slowly, مِش مستعجل",
+      "arabic": "بعد الشغل، بفكّ راسي بهدوء، مش مستعجل",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366676"
+    },
+    {
+      "english": "I hit the couch first, بعدين كل شيء",
+      "arabic": "أقع على الكنبة أولًا، بعدين كل شيء",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366682"
+    },
+    {
+      "english": "Dinner is quick, خلّصناها بسرعة",
+      "arabic": "العشا خفيف، خلّصناها بسرعة",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366686"
+    },
+    {
+      "english": "Before bed, I tidy up, لآخر مرة",
+      "arabic": "قبل النوم، أرتّب الدنيا، لآخر مرة",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366694"
+    },
+    {
+      "english": "I scroll a bit, then stop, خلاص",
+      "arabic": "ألف شوية، وبعدين أوقف، خلاص",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366697"
+    },
+    {
+      "english": "Night routine? Lights off, دماغي هادي",
+      "arabic": "روتين الليل؟ أنوار خفّت، دماغي هادي",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366701"
+    },
+    {
+      "english": "I set my alarm, on repeat, كل يوم",
+      "arabic": "أظبط المنبّه، على التكرار، كل يوم",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366704"
+    },
+    {
+      "english": "Morning chores, done fast, مش هيتاخد وقت",
+      "arabic": "شغل الصبح، يتعمل بسرعة، مش هياخد وقت",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366708"
+    },
+    {
+      "english": "I drink water first, الجسم يقول شكرًا",
+      "arabic": "أشرب ميه أولًا، الجسم يقول شكرًا",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366712"
+    },
+    {
+      "english": "When I’m hungry, I don’t negotiate, بصراحة",
+      "arabic": "لما أجوع، مابفاوِضش، بصراحة",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366716"
+    },
+    {
+      "english": "I take a breather, كده وخلصنا",
+      "arabic": "آخذ نفس، كده وخلصنا",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366720"
+    },
+    {
+      "english": "I keep my phone away, عشان أركز",
+      "arabic": "ببعد الموبايل شوية، عشان أركز",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366723"
+    },
+    {
+      "english": "My desk stays messy, لحد ما أحتاج",
+      "arabic": "المكتب فوضى شوية، لحد ما أحتاج",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366727"
+    },
+    {
+      "english": "I do the hard thing first, كسر الروتين",
+      "arabic": "أعمل الصعب أولًا، كسر الروتين",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366730"
+    },
+    {
+      "english": "After dinner, no more caffeine, بلاش زيادة",
+      "arabic": "بعد العشا، مافيش كافيين، بلاش زيادة",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366734"
+    },
+    {
+      "english": "I wash up quickly, عشان أرتاح",
+      "arabic": "أغسل بسرعة، عشان أرتاح",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366738"
+    },
+    {
+      "english": "If plans change, I roll with it, عادي",
+      "arabic": "لو الخطة تغيّرت، بتمشي معايا، عادي",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366741"
+    },
+    {
+      "english": "I don’t rush mornings, خفيف دماغي",
+      "arabic": "ما بستنغلش الصبح، خفيف دماغي",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366744"
+    },
+    {
+      "english": "At night, I replay the day, بس بهدوء",
+      "arabic": "بالليل براجع اليوم، بس بهدوء",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366748"
+    },
+    {
+      "english": "I sleep early, عشان بكرة أسهل",
+      "arabic": "أنام بدري، عشان بكرة أسهل",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366752"
+    },
+    {
+      "english": "Tomorrow will sort itself out, إن شاء الله",
+      "arabic": "بكرة هتمشي لوحدها، إن شاء الله",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366755"
+    },
+    {
+      "english": "I check in with myself, no drama, بس بصدق",
+      "arabic": "أعمل Check-in مع نفسي، بدون دراما، بس بصدق",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366759"
+    },
+    {
+      "english": "Some days I’m slower, and that’s okay",
+      "arabic": "في أيام بكون أبطأ، وده عادي",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366763"
+    },
+    {
+      "english": "I notice my mood, before I plan anything",
+      "arabic": "بلاحظ مزاجي، قبل ما أخطط أي حاجة",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366766"
+    },
+    {
+      "english": "When I feel off, I go gently",
+      "arabic": "لما أحس إني مش على بعضي، بروّق",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366768"
+    },
+    {
+      "english": "I don’t chase perfection, I just show up",
+      "arabic": "أنا مش بلاحق الكمال، أنا بس بحضر",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366771"
+    },
+    {
+      "english": "I give myself patience, خطوة خطوة",
+      "arabic": "بدي لنفسي صبر، خطوة خطوة",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366775"
+    },
+    {
+      "english": "I write feelings down, it helps, بصراحة",
+      "arabic": "بكتب مشاعري، ده بيساعد، بصراحة",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366779"
+    },
+    {
+      "english": "I reflect, then I pick one next step",
+      "arabic": "بعمل تأمل، وبعدين أختار خطوة واحدة جاية",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366781"
+    },
+    {
+      "english": "Honestly, I need breaks, not just coffee",
+      "arabic": "بصراحة، أنا محتاج استراحات، مش قهوة بس",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366787"
+    },
+    {
+      "english": "Today felt heavy, so I kept it simple",
+      "arabic": "اليوم كان ثقيل، فخليتها بسيطة",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366789"
+    },
+    {
+      "english": "I’m learning to restart, even mid-day",
+      "arabic": "أنا بتعلّم أرجع من جديد، حتى في نص اليوم",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366793"
+    },
+    {
+      "english": "My routine is calm, not a punishment",
+      "arabic": "روتيني هادي، مش عقاب",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366795"
+    },
+    {
+      "english": "I forgive yesterday, and move forward",
+      "arabic": "بسامح نفسي على اللي فات، وبكمل",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366798"
+    },
+    {
+      "english": "Even when I mess up, I breathe",
+      "arabic": "حتى لو غلطت، بأخد نفس",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366801"
+    },
+    {
+      "english": "I ask, what do I really need today?",
+      "arabic": "أسأل نفسي، إيه اللي أنا محتاجه اليوم فعلًا؟",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366803"
+    },
+    {
+      "english": "I’m not behind, I’m just adjusting",
+      "arabic": "أنا مش متأخر، أنا بس بظبط الأمور",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366809"
+    },
+    {
+      "english": "I notice, then I soften my expectations",
+      "arabic": "بلاحظ، وبعدين بتخفف توقعاتي",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366814"
+    },
+    {
+      "english": "I talk to myself kindly, بدون عصبية",
+      "arabic": "بكلم نفسي بلطف، بدون عصبية",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366817"
+    },
+    {
+      "english": "Sometimes my goals need a reality check",
+      "arabic": "أحيانًا أهدافي محتاجة مراجعة على الواقع",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366820"
+    },
+    {
+      "english": "I keep my heart light, even at work",
+      "arabic": "بخلي قلبي خفيف، حتى في الشغل",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366822"
+    },
+    {
+      "english": "I don’t pretend, I say it as it is",
+      "arabic": "أنا مش بتمثّل، بقولها زي ما هي",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366826"
+    },
+    {
+      "english": "I track progress, not just tasks",
+      "arabic": "بقيّس التطور، مش المهام بس",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366828"
+    },
+    {
+      "english": "I let my day teach me, silently",
+      "arabic": "أخلي اليوم يعلّمني، بصمت",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366831"
+    },
+    {
+      "english": "If I’m emotional, I slow down",
+      "arabic": "لو أنا متأثر، ببطلع خطوة أهدى",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366834"
+    },
+    {
+      "english": "I focus on one thing, then exhale",
+      "arabic": "بركز على حاجة واحدة، وبعدين أتنفس",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366836"
+    },
+    {
+      "english": "My feelings matter, so I plan around them",
+      "arabic": "مشاعري مهمة، فبخطط على حسبها",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366839"
+    },
+    {
+      "english": "I try again, even if today stings",
+      "arabic": "بجرّب تاني، حتى لو اليوم موجع",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366841"
+    },
+    {
+      "english": "Before sleeping, I thank myself quietly",
+      "arabic": "قبل ما أنام، بشكر نفسي بهدوء",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366843"
+    },
+    {
+      "english": "I stay honest, I’m proud of little efforts",
+      "arabic": "بصراحة، أنا فخور بالمجهود البسيط",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T08:02:11.366847"
     }
   ],
-  "last_updated": "2026-11-09T07:42:08.721214"
+  "last_updated": "2026-11-10T08:02:11.366849"
 }
