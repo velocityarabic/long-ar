@@ -81359,7 +81359,727 @@
       "arabic": "بصراحة، أنا فخور بالمجهود البسيط",
       "category": "Daily Routine",
       "generated_at": "2026-11-10T08:02:11.366847"
+    },
+    {
+      "english": "Breathe, then try again, right now.",
+      "arabic": "تنفّس، ثم حاول مرة ثانية، الآن.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185345"
+    },
+    {
+      "english": "It’s okay, take it step by step.",
+      "arabic": "لا بأس، خذها خطوة خطوة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185364"
+    },
+    {
+      "english": "Slow down, consistency wins, keep going.",
+      "arabic": "امشِ بهدوء، الاستمرار يفوز، واصل.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185368"
+    },
+    {
+      "english": "Go on, I know you can.",
+      "arabic": "تابع، أعرف أنك تستطيع.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185371"
+    },
+    {
+      "english": "When it’s hard, don’t panic, just continue.",
+      "arabic": "عندما يتعب الأمر، لا هلع، فقط كمل.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185375"
+    },
+    {
+      "english": "You’ve got this, stay steady, no rush.",
+      "arabic": "أنت قادر، تمهّل، بدون استعجال.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185379"
+    },
+    {
+      "english": "Adjust, not stop, try a new way.",
+      "arabic": "عدّل، لا تتوقف، جرّب طريقة جديدة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185382"
+    },
+    {
+      "english": "One small win counts, today.",
+      "arabic": "نصر صغير واحد يكفي، اليوم.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185389"
+    },
+    {
+      "english": "Even if it’s late, keep working.",
+      "arabic": "حتى لو تأخر الوقت، واصل العمل.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185393"
+    },
+    {
+      "english": "Make time, practice daily, don’t skip.",
+      "arabic": "احجز وقتًا، تدرب يوميًا، لا تتغيب.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185397"
+    },
+    {
+      "english": "Your effort matters, show up again.",
+      "arabic": "مجهودك مهم، تعال مرة ثانية.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185399"
+    },
+    {
+      "english": "Reset your mind, then move forward.",
+      "arabic": "صفِّ ذهنك، ثم تقدّم.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185402"
+    },
+    {
+      "english": "If you fall, get up, calmly.",
+      "arabic": "إذا وقعت، انهض بهدوء.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185405"
+    },
+    {
+      "english": "Keep it simple, do the next thing.",
+      "arabic": "خليها بسيطة، اعمل الخطوة اللي بعدها.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185408"
+    },
+    {
+      "english": "Stay focused, work beats stress.",
+      "arabic": "ركّز، العمل يتغلب على التوتر.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185412"
+    },
+    {
+      "english": "We’ll figure it out, one try at a time.",
+      "arabic": "بنلاقي الحل، مرة كل مرة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185416"
+    },
+    {
+      "english": "Don’t judge today, just improve a little.",
+      "arabic": "لا تحكم على اليوم، بس حسّن شوي.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185419"
+    },
+    {
+      "english": "Keep your promise, show up for yourself.",
+      "arabic": "احفظ وعدك، حضر لنفسك.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185421"
+    },
+    {
+      "english": "Stay brave, even when nobody notices.",
+      "arabic": "كن شجاعًا، حتى لو ما أحد لاحظ.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185424"
+    },
+    {
+      "english": "Today you learn, tomorrow you level up.",
+      "arabic": "اليوم تتعلم، بكرة تتطور.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185426"
+    },
+    {
+      "english": "When doubts talk, answer with action.",
+      "arabic": "لما الشك يحكي، ردّ بالفعل.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185429"
+    },
+    {
+      "english": "Hold on, you’re making progress.",
+      "arabic": "تماسك، أنت تحقق تقدّم.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185432"
+    },
+    {
+      "english": "Keep your routine, it builds confidence.",
+      "arabic": "ثبّت روتينك، يبني ثقتك.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185434"
+    },
+    {
+      "english": "Try, review, repeat, that’s the plan.",
+      "arabic": "جرّب، راجع، كرّر، دي الخطة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185438"
+    },
+    {
+      "english": "No excuses, one focused session.",
+      "arabic": "بدون أعذار، جلسة مركّزة واحدة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185440"
+    },
+    {
+      "english": "Push through the tough moment, breathe.",
+      "arabic": "عدّي لحظة الصعوبة، تنفّس.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185443"
+    },
+    {
+      "english": "You don’t need perfect, just keep going.",
+      "arabic": "ما تحتاج كمال، بس واصل.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185446"
+    },
+    {
+      "english": "Celebrate effort, then plan your next step.",
+      "arabic": "احتفل بالمجهود، ثم خطط للخطوة اللي بعد.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185448"
+    },
+    {
+      "english": "Stay patient, improvements come with time.",
+      "arabic": "تحلّى بالصبر، التحسّن يجي مع الوقت.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185452"
+    },
+    {
+      "english": "You’re learning fast, don’t stop now.",
+      "arabic": "أنت تتعلم بسرعة، لا تتوقف الآن.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185456"
+    },
+    {
+      "english": "What challenge are you facing today, exactly?",
+      "arabic": "ما المشكلة التي تواجهها اليوم بالضبط؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185459"
+    },
+    {
+      "english": "Can you help me, how should I start?",
+      "arabic": "هل يمكنك مساعدتي؟ كيف أبدأ؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185461"
+    },
+    {
+      "english": "Which step feels hardest, and why?",
+      "arabic": "أي خطوة تبدو أصعب، ولماذا؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185464"
+    },
+    {
+      "english": "Do you have advice for staying consistent?",
+      "arabic": "هل لديك نصيحة للبقاء على الانتظام؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185466"
+    },
+    {
+      "english": "Should I keep going, even if I’m tired?",
+      "arabic": "هل أكمل، حتى لو كنتُ متعبًا؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185471"
+    },
+    {
+      "english": "What’s your plan, if it gets tough?",
+      "arabic": "ما خطتك إذا صار الأمر صعبًا؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185474"
+    },
+    {
+      "english": "Where do you find motivation on bad days?",
+      "arabic": "من أين تجد الحافز في الأيام الصعبة؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185476"
+    },
+    {
+      "english": "May I ask, what worked for you before?",
+      "arabic": "هل يمكنني أن أسأل، ما الذي نجح معك؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185478"
+    },
+    {
+      "english": "Do you think practice beats perfection here?",
+      "arabic": "هل تعتقد أن التدريب أهم من الكمال هنا؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185481"
+    },
+    {
+      "english": "If I mess up, what should I do?",
+      "arabic": "إذا أخطأت، ماذا أفعل؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185483"
+    },
+    {
+      "english": "What’s a small goal for tonight?",
+      "arabic": "ما هدف صغير لليلة هذه؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185486"
+    },
+    {
+      "english": "Can we set a routine, together?",
+      "arabic": "هل يمكننا أن نضع روتينًا معًا؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185489"
+    },
+    {
+      "english": "How long should I try before quitting?",
+      "arabic": "كم مدة التجربة قبل أن أستسلم؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185491"
+    },
+    {
+      "english": "What should I track, so I improve?",
+      "arabic": "ماذا يجب أن أتابع كي أتحسن؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185494"
+    },
+    {
+      "english": "Do you want to practice with me now?",
+      "arabic": "هل تريد أن نتدرب معًا الآن؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185496"
+    },
+    {
+      "english": "When things slow down, what helps you?",
+      "arabic": "ماذا يساعدك عندما يتباطأ التقدم؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185499"
+    },
+    {
+      "english": "Should I ask questions, or just study alone?",
+      "arabic": "هل أسأل، أم أدرس وحدي؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185501"
+    },
+    {
+      "english": "Can you review my plan, please?",
+      "arabic": "هل يمكنك مراجعة خطتي، من فضلك؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185504"
+    },
+    {
+      "english": "What’s the best way to stay focused?",
+      "arabic": "ما أفضل طريقة للبقاء مركزًا؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185507"
+    },
+    {
+      "english": "How do you keep calm when you fail?",
+      "arabic": "كيف تحافظ على هدوئك عند الفشل؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185509"
+    },
+    {
+      "english": "What can I do today to move forward?",
+      "arabic": "ماذا يمكنني أن أفعل اليوم لأتقدم؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185513"
+    },
+    {
+      "english": "Do you set reminders, or do you just do it?",
+      "arabic": "هل تضع تذكيرات، أم تكتفي بأن تفعل؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185516"
+    },
+    {
+      "english": "What’s your answer when motivation disappears?",
+      "arabic": "ما ردّك عندما تختفي الحماسة؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185519"
+    },
+    {
+      "english": "Can you tell me, what’s your next step?",
+      "arabic": "هل يمكنك أن تخبرني، ما خطوتك التالية؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185522"
+    },
+    {
+      "english": "How do you know you’re improving, for real?",
+      "arabic": "كيف تعرف أنك تتحسن فعلًا؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185525"
+    },
+    {
+      "english": "If I’m behind, what should I prioritize?",
+      "arabic": "إذا كنت متأخرًا، ماذا أولوِّي؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185528"
+    },
+    {
+      "english": "Can we talk about your progress, briefly?",
+      "arabic": "هل نتكلم عن تقدمك، بسرعة؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185531"
+    },
+    {
+      "english": "What’s one question I should ask you?",
+      "arabic": "ما سؤال واحد يجب أن أسألك؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185534"
+    },
+    {
+      "english": "What do you do after a bad day?",
+      "arabic": "ماذا تفعل بعد يوم سيئ؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185538"
+    },
+    {
+      "english": "Small wins count, keep going today.",
+      "arabic": "الإنجاز الصغير مهم، أكمل اليوم.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185541"
+    },
+    {
+      "english": "Tell yourself, I can handle this.",
+      "arabic": "قل لنفسك، أنا أقدر على هذا.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185545"
+    },
+    {
+      "english": "Focus on effort, not just results.",
+      "arabic": "ركّز على الجهد، لا على النتيجة فقط.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185547"
+    },
+    {
+      "english": "You’re building skill, even with mistakes.",
+      "arabic": "أنت تبني مهارة، حتى مع الأخطاء.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185550"
+    },
+    {
+      "english": "Don’t quit, your momentum is growing.",
+      "arabic": "لا توقف، زخمك يكبر.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185554"
+    },
+    {
+      "english": "Breathe, then start again calmly.",
+      "arabic": "تنفّس، ثم ابدأ من جديد بهدوء.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185556"
+    },
+    {
+      "english": "Say it, I’m improving step by step.",
+      "arabic": "قلها، أنا أتحسّن خطوة خطوة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185560"
+    },
+    {
+      "english": "Even tired days, you still show up.",
+      "arabic": "حتى في أيام التعب، ما زلتَ تحضر.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185562"
+    },
+    {
+      "english": "Praise your progress, it fuels you.",
+      "arabic": "امدح تقدّمك، يغذّيك.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185565"
+    },
+    {
+      "english": "When it’s hard, go one minute more.",
+      "arabic": "لما يصير صعب، زد دقيقة واحدة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185568"
+    },
+    {
+      "english": "It’s okay to be slow, stay steady.",
+      "arabic": "لا بأس أن تكون بطيئًا، كن ثابتًا.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185571"
+    },
+    {
+      "english": "You’re not stuck, you’re practicing.",
+      "arabic": "أنت لست عالقًا، أنت تتدرّب.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185574"
+    },
+    {
+      "english": "Keep your goals visible, daily.",
+      "arabic": "خلّ أهدافك واضحة، يوميًا.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185577"
+    },
+    {
+      "english": "Your brain learns through repetition, trust that.",
+      "arabic": "العقل يتعلّم بالتكرار، ثق بهذا.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185580"
+    },
+    {
+      "english": "Don’t dramatize setbacks, learn and move.",
+      "arabic": "لا تضخّم الإخفاقات، تعلّم وامشِ.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185584"
+    },
+    {
+      "english": "Ask, what did I learn from this?",
+      "arabic": "اسأل، ماذا تعلمت من هذا؟",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185586"
+    },
+    {
+      "english": "Say thank you to yourself, you tried.",
+      "arabic": "قل لنفسك شكرًا، لأنك حاولت.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185589"
+    },
+    {
+      "english": "Stay positive, the next try matters.",
+      "arabic": "كن إيجابيًا، المحاولة التالية مهمة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185591"
+    },
+    {
+      "english": "You don’t need luck, you need focus.",
+      "arabic": "لا تحتاج حظًا، تحتاج تركيزًا.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185594"
+    },
+    {
+      "english": "Give yourself credit, you’re doing it.",
+      "arabic": "امنح نفسك تقديرًا، أنت تفعلها.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185597"
+    },
+    {
+      "english": "One sentence today still counts.",
+      "arabic": "جملة واحدة اليوم ما زالت تحسب.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185600"
+    },
+    {
+      "english": "When you fall, reset your mindset.",
+      "arabic": "عندما تسقط، أعد ضبط تفكيرك.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185603"
+    },
+    {
+      "english": "Make it fun, and keep practicing.",
+      "arabic": "خلّه ممتعًا، وواصل التدريب.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185605"
+    },
+    {
+      "english": "You’re stronger than yesterday’s doubt.",
+      "arabic": "أنت أقوى من شكّ أمس.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185609"
+    },
+    {
+      "english": "Trust the process, you’ll feel it soon.",
+      "arabic": "ثق بالخطوات، ستشعر بها قريبًا.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185612"
+    },
+    {
+      "english": "Don’t compare, compete with your past self.",
+      "arabic": "لا تقارن، تنافس نفسك القديمة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185615"
+    },
+    {
+      "english": "Say, I’m learning, not failing.",
+      "arabic": "قل، أنا أتعلم، لا أفشل.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185618"
+    },
+    {
+      "english": "Keep small promises, your confidence grows.",
+      "arabic": "نفّذ الوعود الصغيرة، ثقتك تكبر.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185620"
+    },
+    {
+      "english": "Even silence can be practice, be brave.",
+      "arabic": "حتى الصمت تدريب، كن شجاعًا.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185623"
+    },
+    {
+      "english": "I write feelings down, then breathe, and continue.",
+      "arabic": "أكتب مشاعري، ثم أتنفّس، وأكمل.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185626"
+    },
+    {
+      "english": "Some days hurt, I still walk the path.",
+      "arabic": "بعض الأيام تؤلم، لكنني أمشي الطريق.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185628"
+    },
+    {
+      "english": "I admit I’m scared, then I try anyway.",
+      "arabic": "أعترف أنني خائف، ثم أحاول رغم ذلك.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185631"
+    },
+    {
+      "english": "I don’t rush, patience protects my progress.",
+      "arabic": "لا أستعجل، والصبر يحمي تقدّمي.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185635"
+    },
+    {
+      "english": "When I’m tired, I scale down, not stop.",
+      "arabic": "عندما أتعب، أُخفّض المستوى، لا أتوقف.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185639"
+    },
+    {
+      "english": "I stay honest, my pace is still real.",
+      "arabic": "أبقى صادقًا، وسرعتي ما زالت حقيقية.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185642"
+    },
+    {
+      "english": "I tell myself, today is for practice.",
+      "arabic": "أقول لنفسي، اليوم للتدرّب.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185645"
+    },
+    {
+      "english": "I pause, review, then choose one next action.",
+      "arabic": "أتوقف، أراجع، ثم أختار خطوة تالية واحدة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185648"
+    },
+    {
+      "english": "I don’t need perfect, I need consistent.",
+      "arabic": "لا أحتاج الكمال، أحتاج الاستمرار.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185652"
+    },
+    {
+      "english": "My plan adapts, I don’t lose direction.",
+      "arabic": "خُطّتي تتكيّف، ولا أفقد الاتجاه.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185656"
+    },
+    {
+      "english": "I face the feeling, then do the work.",
+      "arabic": "أواجه الشعور، ثم أنجز العمل.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185658"
+    },
+    {
+      "english": "I learn quietly, even when nobody sees.",
+      "arabic": "أتعلّم بهدوء، حتى عندما لا يراها أحد.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185661"
+    },
+    {
+      "english": "I trust time, it rewards steady effort.",
+      "arabic": "أثق بالوقت، فهو يكافئ الجهد المنتظم.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185663"
+    },
+    {
+      "english": "I keep promises to myself, one by one.",
+      "arabic": "أحافظ على الوعود لنفسي، واحدة واحدة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185667"
+    },
+    {
+      "english": "Even my doubt gets a seat, then moves aside.",
+      "arabic": "حتى شكي يأخذ مكانه، ثم يبتعد.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185670"
+    },
+    {
+      "english": "I’m not stuck, I’m building my way.",
+      "arabic": "أنا لست عالقًا، أنا أبني طريقي.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185674"
+    },
+    {
+      "english": "I forgive the delay, then return to practice.",
+      "arabic": "أسامح التأخير، ثم أعود للتدرّب.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185678"
+    },
+    {
+      "english": "I focus on tonight, not the whole year.",
+      "arabic": "أركّز على الليلة، لا على السنة كلها.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185681"
+    },
+    {
+      "english": "I let small progress calm my nervous thoughts.",
+      "arabic": "أسمح لتقدّم بسيط أن يهدّئ الأفكار المتوترة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185684"
+    },
+    {
+      "english": "I notice my triggers, then I plan better.",
+      "arabic": "ألاحظ ما يحرّكني، ثم أخطط أفضل.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185686"
+    },
+    {
+      "english": "I don’t chase energy, I follow the routine.",
+      "arabic": "لا ألاحق الطاقة، أتبع الروتين.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185690"
+    },
+    {
+      "english": "I say it plainly, I’m doing my best.",
+      "arabic": "أقولها بوضوح، أنا أفعل أفضل ما أستطيع.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185693"
+    },
+    {
+      "english": "When emotions spike, I slow down on purpose.",
+      "arabic": "عندما تشتد المشاعر، أبطّئ عمدًا.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185696"
+    },
+    {
+      "english": "I keep going, because quitting doesn’t heal me.",
+      "arabic": "أكمل، لأن الاستسلام لا يشفيني.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185699"
+    },
+    {
+      "english": "I reflect, and I choose kindness for myself.",
+      "arabic": "أتأمل، وأختار اللطف لنفسي.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185701"
+    },
+    {
+      "english": "Today I’m brave enough to start again.",
+      "arabic": "اليوم شجاعتي تكفي لأبدأ من جديد.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185704"
+    },
+    {
+      "english": "I stop overthinking, then I take one step.",
+      "arabic": "أوقف التفكير الزائد، ثم أتحرك خطوة واحدة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185707"
+    },
+    {
+      "english": "My heart can be messy, still my actions matter.",
+      "arabic": "قد يكون قلبي فوضويًا، ومع ذلك أفعالي مهمة.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185710"
+    },
+    {
+      "english": "I keep receipts of effort, not excuses.",
+      "arabic": "أحتفظ بدليل الجهد، لا بالأعذار.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185712"
+    },
+    {
+      "english": "I set a humble goal, then I honor it.",
+      "arabic": "أضع هدفًا متواضعًا، ثم أوفي به.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185714"
+    },
+    {
+      "english": "Wake up, do one small task first.",
+      "arabic": "استيقظ، أنجز مهمة صغيرة واحدة أولًا.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185717"
+    },
+    {
+      "english": "When plans fail, reschedule, don’t spiral.",
+      "arabic": "إذا فشلت الخطة، أعد الجدولة، بدون تَوهان.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-11T07:34:47.185721"
     }
   ],
-  "last_updated": "2026-11-10T08:02:11.366849"
+  "last_updated": "2026-11-11T07:34:47.185723"
 }
