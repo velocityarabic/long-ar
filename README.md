@@ -1,6 +1,6 @@
 # Velocity Arabic
 
-**56 Arabic phrases in a ~10-minute lesson - a brand-new video every day.**
+**Up to 56 Arabic phrases in a ~10-minute lesson - a brand-new video every day.**
 
 Velocity Arabic is a daily Arabic lesson for English speakers. Every episode is built from
 scratch: fresh topics, fresh phrases, natural العربية audio and an English pronunciation
@@ -8,7 +8,7 @@ guide for every line. Watch, repeat out loud, and grow your Arabic one chapter a
 
 ## What is inside every lesson
 
-- **56 real-life phrases** across **8 themed chapters**
+- **Up to 56 real-life phrases** across **8 themed chapters**, trimmed to fit the clock
 - **Native audio** for every Arabic line
 - **English pronunciation** with stressed syllables in CAPITALS
 - A **new topic mix every day** - no repeated phrase lists
