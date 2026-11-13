@@ -103,7 +103,39 @@
     {
       "category": "Perseverance",
       "date": "2020-01-26"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Hope",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Gratitude",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Celebrations & Parties",
+      "date": "2026-11-13"
     }
   ],
-  "last_updated": "2026-11-12T11:20:50.563834"
+  "last_updated": "2026-11-13T06:57:42.954211"
 }

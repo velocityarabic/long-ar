@@ -82079,7 +82079,399 @@
       "arabic": "إذا فشلت الخطة، أعد الجدولة، بدون تَوهان.",
       "category": "Perseverance",
       "generated_at": "2026-11-11T07:34:47.185721"
+    },
+    {
+      "english": "I trust myself, step by step.",
+      "arabic": "أثق بنفسي، خطوة خطوة.",
+      "transliteration": "athiqu bī nafsī, khُطوة khُطوة.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "My confidence grows with every try.",
+      "arabic": "تزداد ثقتي مع كل محاولة.",
+      "transliteration": "tazdād thiqatī maعa kull muHāwala.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Today, I choose calm strength.",
+      "arabic": "اليوم أختار قوة هادئة.",
+      "transliteration": "alyawm akhtār quwwa hādِئa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I can handle this moment.",
+      "arabic": "أستطيع التعامل مع هذه اللحظة.",
+      "transliteration": "astaṭīع at-taعāmal maعa hādhihi al-laHẓa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I stand tall, even nervous.",
+      "arabic": "أقف منتصبًا حتى وأنا متوتر.",
+      "transliteration": "aqif muntasiB-an ḥattā wa anā mutawattir.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I’ll speak up, respectfully.",
+      "arabic": "سأتكلم بوضوح، باحترام.",
+      "transliteration": "sauَtakallam biwuḍūḥ, biِiḥtirām.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I believe in my next move.",
+      "arabic": "أؤمن بخطوتي القادمة.",
+      "transliteration": "uؤمن bikhُطَوتي al-qādimah.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Hi, do you have rooms tonight?",
+      "arabic": "مرحبًا، هل عندكم غرف الليلة؟",
+      "transliteration": "MarHaBAn, hal 3indakum ghurf al-layla?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Is breakfast included in the price?",
+      "arabic": "هل الفطور مشمول بالسعر؟",
+      "transliteration": "Hal al-FuTur mashmul bi-as-si3r?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Can I check in early, please?",
+      "arabic": "هل يمكنني تسجيل الوصول مبكرًا من فضلك؟",
+      "transliteration": "Hal yumkinuni tasjil al-wusul mubakkirAn min faDlak?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "What time is checkout?",
+      "arabic": "متى موعد تسجيل المغادرة؟",
+      "transliteration": "Matta mawa3id tasjil al-mughaDara?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Do you have free Wi‑Fi in rooms?",
+      "arabic": "هل يوجد واي فاي مجاني داخل الغرف؟",
+      "transliteration": "Hal yuwjad waay faay majani dakhil al-ghurf?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Is parking free for guests?",
+      "arabic": "هل الموقف مجاني للنزلاء؟",
+      "transliteration": "Hal al-mawqif majani li-l-nuzala?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I need a quiet room, please.",
+      "arabic": "أحتاج غرفة هادئة من فضلك.",
+      "transliteration": "AHTaj ghurfHa haadiya min faDlak.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Hope, breathe, take one step now.",
+      "arabic": "أمل، تنفّس، خُذ خطوة واحدة الآن.",
+      "transliteration": "AMAL, naffas, khud khُوتWA wahida al-an.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I won’t lose hope, not today.",
+      "arabic": "لن أفقد الأمل، لا اليوم.",
+      "transliteration": "LAn afqid al-AMAL, la al-yawm.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Hope keeps knocking, I answer.",
+      "arabic": "الأمل يطرُق الباب، وأنا أُجيب.",
+      "transliteration": "AL-AMAL yatruqu al-baab, wa ana ujeeb.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Let hope ride with you.",
+      "arabic": "خَلِّ الأمل يرافقك.",
+      "transliteration": "khalli al-AMAL yurafiqak.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Even small hope changes everything.",
+      "arabic": "حتى الأمل الصغير يغيّر كل شيء.",
+      "transliteration": "Hatta al-AMAL as-saghir yugayyir kulla shay.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I trust hope will find me.",
+      "arabic": "أثق أن الأمل سيجدني.",
+      "transliteration": "Athiqu anna al-AMAL sa yajidni.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "When doubt comes, I choose hope.",
+      "arabic": "عندما يجيء الشك، أختار الأمل.",
+      "transliteration": "indama yajee al-shakk, akhtar al-AMAL.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I really appreciate your help, today.",
+      "arabic": "أنا أقدّر مساعدتك حقا اليوم،",
+      "transliteration": "ana aqduru musaa'datuk haqqa al-yawm,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Thank you for your steady support.",
+      "arabic": "شكرا لدعمك الثابت،",
+      "transliteration": "shukran lid'amik ath-thaabit,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I’m grateful for your time and care.",
+      "arabic": "أنا ممتن لوقتك واهتمامك،",
+      "transliteration": "ana mumtinn liwaqtik wa-ihhtimaamik,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Your kindness made me feel safe.",
+      "arabic": "لطفك جعلني أشعر بالأمان،",
+      "transliteration": "lutfuk ja'alani ashur bi-l-amaan,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Thank you for listening, it mattered.",
+      "arabic": "شكرا لأنك استمعت، هذا مهم،",
+      "transliteration": "shukran 'annaka istama't, hadha muhimm,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I owe you, truly, for this.",
+      "arabic": "أنا مدين لك حقا على هذا،",
+      "transliteration": "ana madeenun laka haqqan 'alaa hadha,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Your message lifted my spirits today.",
+      "arabic": "رسالتك رفعت معنوياتي اليوم،",
+      "transliteration": "risalatuk rafa'at ma'nawiyati al-yawm,",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Call an ambulance, please, now.",
+      "arabic": "اتصل بالإسعاف من فضلك، الآن.",
+      "transliteration": "ittasil bil-ʾiʿsaaf min faḍlik, ALaN.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I’m having chest pain, please help.",
+      "arabic": "عندي ألم في الصدر، أرجو المساعدة.",
+      "transliteration": "ʿindī ʾalam fī aṣ-ṣadr, ʾarjū al-musāʿada.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Stop the bleeding, I need help.",
+      "arabic": "أوقف النزيف، أحتاج المساعدة.",
+      "transliteration": "ūqif an-nazīf, ʾaḥtāju al-musāʿada.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I swallowed something, I’m choking.",
+      "arabic": "ابتلعت شيئًا وأنا أختنق.",
+      "transliteration": "ibtalʿtu shayʾan wa-anā ʾakhtaniq.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I feel dizzy, I might faint.",
+      "arabic": "أنا أشعر بدوخة، قد أغمى عليّ.",
+      "transliteration": "anā ʾashʿur bi-duKha, qad ʾughma ʿalayya.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Someone hit my head, help me now.",
+      "arabic": "أحدٌ ضرب رأسي، ساعدوني الآن.",
+      "transliteration": "aḥad ḍaraba raʾsī, sāʿidūnī ALaN.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I’m short of breath, it’s getting worse.",
+      "arabic": "أنا لا أستطيع التنفس، تسوء حالتي.",
+      "transliteration": "anā lā ʾastaṭīʿ at-tanaffus, tasūʾ ḥālatī.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Hi, I need to refill my prescription.",
+      "arabic": "مرحبًا، أريد إعادة صرف وصفتي.",
+      "transliteration": "marHabaN, ureedu i'aada saRf waSFE ti.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Is this medicine available right now?",
+      "arabic": "هل هذا الدواء متوفر الآن؟",
+      "transliteration": "hal hatha ad dawa maTwuf r an al an?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Does it cause drowsiness?",
+      "arabic": "هل يسبب النعاس؟",
+      "transliteration": "hal yasubbabu an na' aas?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "What dose should I take today?",
+      "arabic": "كم الجرعة التي آخذها اليوم؟",
+      "transliteration": "kam al Jir 'a tii aakhudhuh a al yawm?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Doctor, I have chest pain.",
+      "arabic": "طبيب، لدي ألم في الصدر.",
+      "transliteration": "taBEEb, laday 'alam fi aSadr.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I need a quick check-up, please.",
+      "arabic": "أحتاج فحصًا سريعًا، من فضلك.",
+      "transliteration": "aHtaghu faHSan saree' aN, min faDlak.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Is it safe with my allergies?",
+      "arabic": "هل هو آمن مع الحساسية التي لدي؟",
+      "transliteration": "hal huwa a' min ma' al hissaasiyyati al latii ladayya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Today, choose one courageous step.",
+      "arabic": "اليوم، اختر خطوة شجاعة واحدة.",
+      "transliteration": "alyawm, ikhtar KHUWTWA SHAJA'A waHIDA.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Write one line that moves you.",
+      "arabic": "اكتب سطرًا واحدًا يحركك.",
+      "transliteration": "uktub SATRAN waHIDA yuHARRIKUK.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Let hope ride in your breath.",
+      "arabic": "دع الأمل يسكن أنفاسك.",
+      "transliteration": "da' al-َamal yaskun ANFASAK.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Seek beauty in ordinary moments.",
+      "arabic": "ابحث عن الجمال في اللحظات العادية.",
+      "transliteration": "ibHath 'an al-JAMAL fi al-LAHZAT al-'ADIYA.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Your reset can be a new start.",
+      "arabic": "إعادة ضبطك ممكن أن تكون بداية جديدة.",
+      "transliteration": "i'ada zabtuk mumkin an takuun BIDAYAH jadeeda.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Turn doubt into questions, gently.",
+      "arabic": "حوّل الشك إلى أسئلة بلطف.",
+      "transliteration": "Hawwِل ash-Shakk ila AS'ILA bil-lutf.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Find mentors, even in books.",
+      "arabic": "ابحث عن مرشدين، ولو في الكتب.",
+      "transliteration": "ibHath 'an murshidIn, wa law fi al-kutub.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "What a great party tonight!",
+      "arabic": "يا له من حفلة رائعة الليلة!",
+      "transliteration": "Ya lahu min ḥafla rā’i‘a al-layla!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "We’re celebrating my friend’s birthday.",
+      "arabic": "نحتفل بعيد ميلاد صديقي.",
+      "transliteration": "Naḥtafil bi‘īd mīlād ṣadīqī.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Do you want to come with us?",
+      "arabic": "هل تريد أن تأتي معنا؟",
+      "transliteration": "Hal turīdu an ta’tiya ma‘ana?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "The music is perfect for dancing.",
+      "arabic": "الموسيقى رائعة للرقص.",
+      "transliteration": "Al-mūsīqā rā’i‘a lil-raqṣ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Where is the cake table?",
+      "arabic": "أين طاولة الكعك؟",
+      "transliteration": "Ayna ṭāwilat al-ka‘k?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "I brought snacks for everyone.",
+      "arabic": "حضّرت معًا وجبات خفيفة للجميع.",
+      "transliteration": "Haḍḍart ma‘a wijbāt khafīfa lil-jamī‘.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Happy Eid, I’m so happy for you!",
+      "arabic": "عيد مبارك، أنا سعيد جدًا لك!",
+      "transliteration": "‘Īd Mubārak, anā sa‘īd jiddan laka!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T06:57:42.885415"
     }
   ],
-  "last_updated": "2026-11-11T07:34:47.185723"
+  "last_updated": "2026-11-13T06:57:42.885415"
 }
