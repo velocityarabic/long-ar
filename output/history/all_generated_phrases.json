@@ -82471,7 +82471,399 @@
       "transliteration": "‘Īd Mubārak, anā sa‘īd jiddan laka!",
       "category": "Celebrations & Parties",
       "generated_at": "2026-11-13T06:57:42.885415"
+    },
+    {
+      "english": "Thanks for listening, really listening",
+      "arabic": "شكرًا لأنك تسمعني، بصراحة تسمع",
+      "transliteration": "shukran li-anna-ka tasmaʿni, biṣirāḥa tasmaʿ",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "You tell it like it is",
+      "arabic": "تقول لي الحقيقة بدون لفّ",
+      "transliteration": "taqul li al-ḥaqīqa bidūn laff",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "We laugh, even after hard days",
+      "arabic": "نضحك حتى بعد الأيام الصعبة",
+      "transliteration": "nuḍḥak ḥattā baʿda al-ayyām aṣ-ṣaʿba",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Your support feels steady, not loud",
+      "arabic": "دعمك ثابت، مش صاخب",
+      "transliteration": "daʿmuka thābit, mish ṣāḥib",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I can be myself with you",
+      "arabic": "أقدر أكون نفسي معك",
+      "transliteration": "aqdir akūn nafsī maʿak",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "We check in, no awkwardness",
+      "arabic": "نتطمن على بعض، من غير إحراج",
+      "transliteration": "nataṭamman ʿalā baʿḍ, min ghayr iḥrāj",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "You’ve got my back, always",
+      "arabic": "إنت معايا وظهري جنب ظهرك",
+      "transliteration": "inta maʿāya wa-ẓahrī janb ẓahrak",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "My passport is inside my bag.",
+      "arabic": "جواز سَفَري داخل حقيبتي.",
+      "transliteration": "JAWAZ sAFARI dakhil HAQIBATI.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Where is the check-in desk?",
+      "arabic": "أين مكتب تسجيل الوصول؟",
+      "transliteration": "AYNa MAKTAB taSJEEL al-WuSUUL?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I need help with my boarding pass.",
+      "arabic": "أحتاج مساعدة في بطاقة الصعود.",
+      "transliteration": "AHTAJ MUSA’ADA fi BItaqat AS-SUUDOUD.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Is this line for baggage drop-off?",
+      "arabic": "هل هذه الطابور لإسقاط الأمتعة؟",
+      "transliteration": "HAL HAZIH aT-TaBOOR li-ISQAAT al-UMTI‘A?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Can you weigh my suitcase, please?",
+      "arabic": "هل يمكنكم وزن حقيبتي من فضلك؟",
+      "transliteration": "HAL yumkinukum wazn HAQIBATI min faDLIK?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "My suitcase is overweight.",
+      "arabic": "حقيبتي زائدة في الوزن.",
+      "transliteration": "HAQIBATI ZA’IDA fi al-WAZN.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Which gate is my flight at?",
+      "arabic": "في أي بوابة رحلتي؟",
+      "transliteration": "fi ay BOABA rahLATI?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I journal for ten minutes nightly.",
+      "arabic": "أكتب يومياتي عشر دقائق كل ليلة،",
+      "transliteration": "aktub yawmiyati 'ashr daqaiq kulla laylaa,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Lately, I’ve been learning pottery.",
+      "arabic": "في الآونة الأخيرة، تعلّمتُ صناعة الفخار،",
+      "transliteration": "fi al-aawna al-aakhira, ta'allamtu sina'at al-fakhār,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I love walking to clear my head.",
+      "arabic": "أحب المشي لأصفّي رأسي،",
+      "transliteration": "uhibbu al-mashy li'usaffi ra'si,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Board games make my evenings fun.",
+      "arabic": "ألعاب الطاولة تجعل أمسياتي ممتعة،",
+      "transliteration": "a'la'bu at-tawla taj'al 'amsiyati mumti'a,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I cook one new dish on weekends.",
+      "arabic": "أطبخ طبقًا جديدًا في عطلة نهاية الأسبوع،",
+      "transliteration": "aṭbukh ṭabaqan jadeedan fi 'aṭlat nihāyat al-'usbu',",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I keep a small plant alive indoors.",
+      "arabic": "أحاول إبقاء نبات صغير حيًّا داخل البيت،",
+      "transliteration": "uḥāwil إبqā' nabāt ṣaghīr ḥayyān dākhil al-bayt,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I’m trying a new recipe each week.",
+      "arabic": "أجرّب وصفة جديدة كل أسبوع،",
+      "transliteration": "ujarّibu wasfa jadeeda kulla 'usbū',",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I feel nervous before meetings.",
+      "arabic": "أنا أشعر بالتوتر قبل الاجتماعات.",
+      "transliteration": "ana ash'uru bi-tawattr qabl al-ijtimaat.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "My chest feels tight right now.",
+      "arabic": "صدري ضيّق الآن.",
+      "transliteration": "sadri dayyiq al-aan.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I’m so relieved you’re safe.",
+      "arabic": "أنا مرتاح جدًا لأنك بأمان.",
+      "transliteration": "ana murtahijiddan li-anna-ka bi-amaan.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I’m grateful for your help today.",
+      "arabic": "أنا ممتن لمساعدتك اليوم.",
+      "transliteration": "ana muminun li-musa'adatika al-yawm.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I feel calm, like everything is okay.",
+      "arabic": "أنا أشعر بالهدوء، كأن كل شيء على ما يرام.",
+      "transliteration": "ana ashh'uru bil-hudoo', ka-ann kulla shay'in 'ala maa yiraam.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I’m embarrassed about what I said.",
+      "arabic": "أنا متحَشِّج من كلامي.",
+      "transliteration": "ana mutahajjij min kalami.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I feel lonely when I get home.",
+      "arabic": "أشعر بالوحدة عندما أعود للبيت.",
+      "transliteration": "ash'uru bil-wahdah 'indama a'ood lil-bayt.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Home feels calm when we eat together.",
+      "arabic": "يكون البيت هادئًا عندما نتناول الطعام معًا.",
+      "transliteration": "YAKoon ul-baytu haDIAN, INda maa nataaWL ul-taAAm maAAan.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Can you show me the guest room?",
+      "arabic": "هل يمكنك أن تُريني غرفة الضيوف؟",
+      "transliteration": "Hal yumkinuk an TURInee GHURfat ad-duyooF?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I’m making breakfast for everyone this morning.",
+      "arabic": "أُحضّر الفطور للجميع هذا الصباح.",
+      "transliteration": "UuHADIR al-futoor lil-jameeAA haTHA as-SABaah.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "My mom calls me after work every day.",
+      "arabic": "أمي تتصل بي بعد العمل كل يوم.",
+      "transliteration": "Ummii tataSIL bi baAda al-AAmal kulla Yَوْم.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "We share chores, so nobody burns out.",
+      "arabic": "نُقسّم الأعمال بيننا، حتى لا يتعب أحد.",
+      "transliteration": "NUQasSim al-aAmaal baynana, hatta la yataAAab ahad.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "The living room smells like coffee today.",
+      "arabic": "صالة الجلوس رائحتها مثل القهوة اليوم.",
+      "transliteration": "SaLAat al-juloos RAIHatُha mithl al-quHWa al-YAWM.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "My dad fixes things instead of buying new.",
+      "arabic": "والدي يُصلح الأشياء بدلًا من شراء الجديد.",
+      "transliteration": "waALIDii yusLIH ash-shyaa'a BADalan min shiraa'i al-jadeed.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I can’t stop grinning, wow.",
+      "arabic": "لا أستطيع التوقف عن الابتسام، يا للروعة.",
+      "transliteration": "la astatī‘ an at-tawaqaf ‘an al-ibtisām, yā lil-raw‘ah.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "You made my day, really.",
+      "arabic": "أنت جعلت يومي رائعًا حقًا.",
+      "transliteration": "anta ja‘alt yawmī rā‘i‘an haqīqan.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "My laughter is coming easy today.",
+      "arabic": "ضحكتي سهلة اليوم، ولا تتوقف.",
+      "transliteration": "ḍaḥkati sahla al-yawm, wa-lā tatawaqqaf.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Everything feels brighter, somehow.",
+      "arabic": "كل شيء يبدو أفتح، بطريقة ما.",
+      "transliteration": "kull shay’ yabdu awfaḥ, bi-ṭarīqah mā.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I’m celebrating, no hesitation.",
+      "arabic": "أحتفل الآن، بلا تردد.",
+      "transliteration": "aḥtifil al-āna, bilā tataruddud.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I feel joyful and fearless.",
+      "arabic": "أشعر بفرحٍ شجاع، وبقلبٍ مطمئن.",
+      "transliteration": "ash‘ur bi-farḥin shujā‘, wa-bi-qalbٍ muṭma’inn.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "This feels like a fresh start.",
+      "arabic": "هذا الشعور كأنه بداية جديدة.",
+      "transliteration": "hādhā ash-shu‘ūr ka-annahu badāyah jadīdah.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Start with a soft, respectful tone",
+      "arabic": "ابدأ بنبرة لطيفة ومحترمة",
+      "transliteration": "Ubd-a bi-NABRA LATIIF-A wa MUHTARAM-A",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Ask, then listen without rushing",
+      "arabic": "اسأل، ثم استمع دون استعجال",
+      "transliteration": "Is-al, thumma istami' dUn isti'jaal",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Make room for others at meetings",
+      "arabic": "فسح المجال للآخرين في الاجتماعات",
+      "transliteration": "Fasah al-majaal lil-Akhariin fii al-ijtimaa'aat",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Check in, just to say you care",
+      "arabic": "اطمئن عليّ، فقط لتقول إنك تهتم",
+      "transliteration": "I'tamiin 'alayya, faqat litqul in-naka tuhtam",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Return a small favor, no drama",
+      "arabic": "أعد الجميل بطريقة بسيطة بلا دراما",
+      "transliteration": "A'ud al-jamiil bi-tariiq basiit bila DRAMA",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Compliment effort, not only results",
+      "arabic": "اثنِ على المحاولة، حتى قبل النتيجة",
+      "transliteration": "Athni 'ala al-muhaawalah, hattaa qabl an-ntii ja",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Help someone find what they need",
+      "arabic": "ساعده يلقى ما يحتاجه",
+      "transliteration": "Saa'id-hu yalqa maa yahtaa ju",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Forgive, and ask for what you need.",
+      "arabic": "سامحني، واطلب ما أحتاجه.",
+      "transliteration": "SAMHni, wa'tlUB MA AHTajuh.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I forgive you, even if it’s hard.",
+      "arabic": "سامحتك، حتى لو كان ذلك صعبًا.",
+      "transliteration": "SAMH-tuka, hatta law KAN Dhaalika SA'BAn.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Let’s talk, not punish each other.",
+      "arabic": "لنتكلم، لا نعاقب بعضنا.",
+      "transliteration": "لنَتَكَلَّم, la nu'aqib ba'dana.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I choose peace over being right.",
+      "arabic": "أختار السلام على أن أكون على صواب.",
+      "transliteration": "UKH-TAR IS-SALAM 'ala an AKUN 'ala SAWAB.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "May Allah put forgiveness in my heart.",
+      "arabic": "اللهم اجعل الغفران في قلبي.",
+      "transliteration": "Allahumma-j'al il-GHUF-ran fi Qalbi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "I’m done carrying this anger.",
+      "arabic": "لقد انتهيت من حمل هذا الغضب.",
+      "transliteration": "LAQAD INTAHAY-tu min HAML haadha GHADAB.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "You can make it right, start now.",
+      "arabic": "تستطيع أن تصلح الأمر، ابدأ الآن.",
+      "transliteration": "TASTaTI' an TUṢLiḥ al-'amr, IDH-A NOW.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T06:39:57.999456"
     }
   ],
-  "last_updated": "2026-11-13T06:57:42.885415"
+  "last_updated": "2026-11-14T06:39:57.999456"
 }
