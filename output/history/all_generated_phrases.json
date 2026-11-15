@@ -82863,7 +82863,399 @@
       "transliteration": "TASTaTI' an TUṢLiḥ al-'amr, IDH-A NOW.",
       "category": "Forgiveness",
       "generated_at": "2026-11-14T06:39:57.999456"
+    },
+    {
+      "english": "Where is the nearest bus stop?",
+      "arabic": "وين أقرب محطة باص؟",
+      "transliteration": "WEN aqrab MAHATTAT baas?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "What line goes to downtown?",
+      "arabic": "أي خط يروح للوسط؟",
+      "transliteration": "AY khatt YARooH lil-wisT?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Does this bus stop at the metro?",
+      "arabic": "هل الباص بيركن عند المترو؟",
+      "transliteration": "HAL al-baas BYARKAN 3INDA al-mit-ro?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "How much is a single ticket?",
+      "arabic": "بكم التذكرة الواحدة؟",
+      "transliteration": "B-KAM at-tidhKIRa al-wAHiِda?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Does the metro accept contactless?",
+      "arabic": "المترو يقبل الدفع اللاتلامسي؟",
+      "transliteration": "al-mit-ro yaqbalu ad-daf3 al-la-tTamas-si?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Is there a late-night bus?",
+      "arabic": "في باص للّيل المتأخر؟",
+      "transliteration": "fi baas lil-layl al-mutaakhkhir?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "What time does it arrive?",
+      "arabic": "على أي ساعة بييجي؟",
+      "transliteration": "3Ala AY saa-3a BI-jee?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "I choose my next right step",
+      "arabic": "أختار خطوتي التالية الصحيحة",
+      "transliteration": "AKHTAAR KhaTWA TI NAAliya S-SaHiHa",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "My goal is simple, do it",
+      "arabic": "هدفي بسيط، نفّذه",
+      "transliteration": "HADFI BASiT, NAFFiZHU",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "I return to my why today",
+      "arabic": "أعود إلى سببِي اليوم",
+      "transliteration": "AAooDu ILaa SABaBI YAWM",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Let effort match your purpose",
+      "arabic": "خلّ الجهد يطابق هدفك",
+      "transliteration": "KHAll A L-JUHd YU TAAbiQ HADAFaK",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Start small, stay on purpose",
+      "arabic": "ابدأ صغيرًا، واثبت على هدفك",
+      "transliteration": "iBda’ S GHiirAn, WAaTHBIT aaLaa HADAFaK",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "I focus, then I act",
+      "arabic": "أركّز ثم أتحرّك",
+      "transliteration": "URAKKIZ THUMMA A T HARRAK",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "I trust my plan, one day at a time",
+      "arabic": "أثق بخطتي، يومًا بيوم",
+      "transliteration": "AATHAQ BI KHATTI, YAWMan BI YAWM",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Hi, do you have oat milk?",
+      "arabic": "مرحباً، هل عندكم حليب الشوفان؟",
+      "transliteration": "MarHABA, hal ʿindakum Hليب ASH-Shَوfan?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "One espresso, please, to go.",
+      "arabic": "من فضلك فنجان إسبرسو واحد، للتوصيل معي.",
+      "transliteration": "Min faDlik finjan isBRESSo waHid, lit-tawseel maʿi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Can I see today’s pastry menu?",
+      "arabic": "هل يمكنني أن أرى قائمة الحلويات اليوم؟",
+      "transliteration": "Hal yumkinuni an ara qaa’imat al-HiLOYaat alyawm?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "What’s your most popular croissant?",
+      "arabic": "ما أكثر كرواسون عندكم طلباً؟",
+      "transliteration": "Ma akthar kraoSān ʿindakum talaban?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Fresh bread smell is amazing.",
+      "arabic": "رائحة الخبز الطازج رائعة.",
+      "transliteration": "Raa’iHat al-khubz at-tAazij raa’iعة.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "arabic": "هل لديكم خيارات خالية من الغلوتين؟",
+      "transliteration": "Hal ladaykum ikhtiyarat khāliya min al-ghlooTEEN?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Is this cake made in-house?",
+      "arabic": "هل هذا الكيك مصنوع عندكم في المخبز؟",
+      "transliteration": "Hal haatha al-kayk maSnooʿ ʿindakum fi al-makhbaz?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "I need new running shoes today.",
+      "arabic": "أحتاج حذاء جري جديد اليوم.",
+      "transliteration": "aHTAJU HIZAA' jary JEdiid alyaum.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "How much is this gym membership?",
+      "arabic": "كم سعر اشتراك النادي هذا؟",
+      "transliteration": "kam siHr الاشتراك an-naadi haadha?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Can you show me proper push-ups?",
+      "arabic": "هل يمكنك أن تُريني الطريقة الصحيحة للضغط؟",
+      "transliteration": "hal yumkinuka an turini at-TRYiQ aS-SaHiiHa lil-daF’?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "My back hurts when I lift.",
+      "arabic": "ظهري يؤلمني عندما أرفع الأثقال.",
+      "transliteration": "ZHahrI yu'limunii 'inda aRfa’ al-aTHQaal.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "I’m sweating, this workout is intense!",
+      "arabic": "أنا أعرق، هذا التمرين قوي جدًا!",
+      "transliteration": "ana a‘raQu, haadha at-tamriin qawiyy jiddan!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Let’s stretch before we start.",
+      "arabic": "لنتمدد قبل أن نبدأ.",
+      "transliteration": "lanatamaddad qabl an nabda’.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Do you have a water refill here?",
+      "arabic": "هل عندكم مكان لإعادة تعبئة الماء؟",
+      "transliteration": "hal ‘indakum makaan li-i‘aadat ta‘bi'ati al-miyaa’?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Hi, I’m calling about your order.",
+      "arabic": "مرحبًا، أتصل بشأن طلبك.",
+      "transliteration": "MarHABAN, ATaSSeL biSHAAN TALABIK.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Can you call me back, please?",
+      "arabic": "هل يمكنك أن تتصل بي مرة أخرى؟",
+      "transliteration": "HAL yumkinuka an tataSSeLa bi MARRATAN UKHRA?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "I missed your call, what’s up?",
+      "arabic": "لقد فاتتني مكالمتك، ماذا يحدث؟",
+      "transliteration": "LAQAD faaTATNI MUKAALLATUK, MATHA YAHTATHU?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Sorry, the line was busy.",
+      "arabic": "عذرًا، كانت الخط مشغولة.",
+      "transliteration": "عUDRAN, KAANAT il-KhaT MUSGHULAH.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Could you speak a bit slower?",
+      "arabic": "هل يمكنك أن تتكلم ببطء أكثر؟",
+      "transliteration": "HAL yumkinuka an TATAKALLAM biBUTIء AKTHAR?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "I’ll send the receipt by message.",
+      "arabic": "سأرسل الإيصال برسالة.",
+      "transliteration": "SA URSIL il-iiSaal biRISAALAH.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Where are you right now?",
+      "arabic": "أين أنت الآن؟",
+      "transliteration": "AINA ANTA alAAN?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Start each day with gratitude, not rush.",
+      "arabic": "ابدأ يومك بالشكر، لا بالاندفاع.",
+      "transliteration": "ibda' yawmaka bish-shukr, la bil-inda faʿ.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Let hope lead, even on hard days.",
+      "arabic": "دع الأمل يقودك، حتى في الأيام الصعبة.",
+      "transliteration": "daʿ al-amal yaqooduka, hatta fil-ayyam as-saʿba.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Choose calm, and speak from your heart.",
+      "arabic": "اختر الهدوء، وتكلم من قلبك.",
+      "transliteration": "ikhtar al-hudoo', wa takallam min qalbik.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Make room for rest, it helps.",
+      "arabic": "افتح مساحة للراحة، إنها تساعدك.",
+      "transliteration": "iftaH masaha liraaha, innaha tusaa'iduk.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Turn problems into lessons, one step.",
+      "arabic": "حوّل المشاكل إلى دروس، خطوة بخطوة.",
+      "transliteration": "hawwil al-mashaakil ila duroos, khatwatan bi-khatwa.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Say yes to what energizes you.",
+      "arabic": "قل نعم لما يُشعِرك بالطاقة.",
+      "transliteration": "qul naʿm lima yuSHʿiruka bi-t-taqa.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Protect your focus, silence the noise.",
+      "arabic": "احمِ تركيزك، واجعل الضجيج صامتًا.",
+      "transliteration": "ihmi tarkeazaka, wajʿal aḍ-ḍajij saamit-an.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "How do I get to the metro?",
+      "arabic": "كيف أصل إلى المترو؟",
+      "transliteration": "Kayfa asilu ilá al-METRO?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Is this street going downtown?",
+      "arabic": "هل هذه الشارع يذهب إلى وسط المدينة؟",
+      "transliteration": "Hal hādhā ash-shāriʿ yadhhab ilá wust al-madīnah?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Could you point me to the pharmacy?",
+      "arabic": "هل يمكنك أن تشير إلى الصيدلية؟",
+      "transliteration": "Hal yumkinuka an tushīra ilá as-saydalyah?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "What’s the quickest way to the airport?",
+      "arabic": "ما أسرع طريق إلى المطار؟",
+      "transliteration": "Mā asraʿ tarīq ilá al-Maṭār?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Which way is the train station?",
+      "arabic": "من أي جهة محطة القطار؟",
+      "transliteration": "Min ay jihah maḥaṭṭat al-qiṭār?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Do I turn left here?",
+      "arabic": "هل أُحوِّل يسارًا من هنا؟",
+      "transliteration": "Hal uḥawwilu ysār-an min huna?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "What street is this, exactly?",
+      "arabic": "ما اسم هذه الشارع بالضبط؟",
+      "transliteration": "Mā ismu hādhihi ash-shāriʿ bi-l-duqqah?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Want to grab coffee this week?",
+      "arabic": "هل تريد أن نتناول قهوة هذا الأسبوع؟",
+      "transliteration": "hal turīdu an natanāwal qahwa hādhā al-USBūiʿ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "I’m nervous, but I like you.",
+      "arabic": "أنا متوتر، لكني أحبك.",
+      "transliteration": "anā mutawwir, lākinnī uḥibbuka.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Can I call you after work?",
+      "arabic": "هل يمكنني أن أتصل بك بعد العمل؟",
+      "transliteration": "hal yumkinunī an atasil bika baʿda al-ʿamal?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Your smile made my day.",
+      "arabic": "ابتسامتك جعلت يومي أجمل.",
+      "transliteration": "ibtisāmatuka jaʿalat yawmī ajmal.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Let’s meet somewhere public, safe.",
+      "arabic": "لنلتقِ في مكان عام، يكون آمنًا.",
+      "transliteration": "lanaltaqī fī makān ʿāmm, yakūnu āminan.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "I like your vibe, it feels easy.",
+      "arabic": "يعجبني طبعك، أشعر بالراحة معك.",
+      "transliteration": "yuʿjibunī ṭabaʿuka, asʿar bil-riḥa maʿak.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T06:46:20.456267"
+    },
+    {
+      "english": "Slow down, I want to savor this.",
+      "arabic": "بطّئ قليلًا، أريد أن أستمتع بهذا اللحظة.",
+      "transliteration": "baṭṭiʾ qaliil-an, urīdu an astaṁtiʿa bi-hādhihi al-laḥẓa.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T06:46:20.456267"
     }
   ],
-  "last_updated": "2026-11-14T06:39:57.999456"
+  "last_updated": "2026-11-15T06:46:20.456267"
 }
