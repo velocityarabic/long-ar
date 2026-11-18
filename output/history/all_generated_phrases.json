@@ -84039,7 +84039,399 @@
       "transliteration": "qul na'am li'd-dahm, wa qul la lil'irhaaq",
       "category": "Balance",
       "generated_at": "2026-11-17T08:05:28.136153"
+    },
+    {
+      "english": "I choose courage, even now.",
+      "arabic": "أختار الشجاعة، حتى الآن.",
+      "transliteration": "Akhtaaru SHUJAA‘A, hatta al-AN.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "My calm strength steadies me.",
+      "arabic": "تثبّتني قوتي الهادئة.",
+      "transliteration": "Tuthabbituni QUWWATI al-HAADI’AH.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I protect my peace at all.",
+      "arabic": "أحمي سلامي في كل مرة.",
+      "transliteration": "AHMI SALAAMI fi KULL MAARRAH.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Keep going, one breath at a time.",
+      "arabic": "كمّل خطوة، نفسًا بعد نفس.",
+      "transliteration": "Kammil khUwtah, NAFASAN ba‘da NAFAS.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I say no, and I mean it.",
+      "arabic": "أقول لا، وأقصدها فعلًا.",
+      "transliteration": "Aqool la, wa AqSUDUHA fa‘lan.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I stand up for myself respectfully.",
+      "arabic": "أدافع عن نفسي باحترام.",
+      "transliteration": "Audaafi‘u ‘an nafsi BI-ıHTIRAAM.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Discomfort teaches me how to grow.",
+      "arabic": "الضيق يعلّمني كيف أنمو.",
+      "transliteration": "aD-DU‘YU yu‘allimuni kayfa anmoO.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "What comes with the meal?",
+      "arabic": "ما الذي يأتي مع الوجبة؟",
+      "transliteration": "Ma alladhi yaati maʿa al-wujba?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "arabic": "هل لديكم خيارات نباتية؟",
+      "transliteration": "Hal ladaykum ikhtiyarat nabatiyya?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Could you recommend something local?",
+      "arabic": "هل يمكنك أن توصي بشيء محلي؟",
+      "transliteration": "Hal yumkinuka an tuṣawwi bi-shayʾ maḥalli?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "No onions for me, please.",
+      "arabic": "لا تضع بصلًا من فضلك.",
+      "transliteration": "La taḍaʿ baṣalan min faḍlik.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Can I have extra sauce on the side?",
+      "arabic": "هل يمكنني الحصول على صوص إضافي على الجانب؟",
+      "transliteration": "Hal yumkinni al-ḥuṣūl ʿalā ṣawṣ iḍāfi ʿalā al-janib?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I want it without cheese.",
+      "arabic": "أريده بدون جبن.",
+      "transliteration": "Urīdhu bidūna jubn.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Can I substitute the side dish?",
+      "arabic": "هل يمكن تغيير طبق الجوانب؟",
+      "transliteration": "Hal yumkin taghyīr ṭabaq al-jawānib?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Teach me the meaning behind this ritual",
+      "arabic": "علّمني معنى هذا الطقس من فضلك",
+      "transliteration": "aLLIM-ni ma'nā hādhā al-ṭaqs min faDLIK",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I love how they greet with warmth",
+      "arabic": "أحب طريقة تحيتهم المليانة دفء",
+      "transliteration": "uHib ṭarīqat taHiyyatihim al-melyāna da fʼ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Before we eat, we bless together",
+      "arabic": "قبل ما نأكل، بنبارك سوا",
+      "transliteration": "qabla mā na'kul, nbārak suwā",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Tell me, how did this tradition start?",
+      "arabic": "قولي، كيف بدأت هالتقاليد؟",
+      "transliteration": "qulī, kayf bad'at hādhi at-taqālīd?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I watch, then I copy the steps",
+      "arabic": "أراقب، وبعدين أطبق الخطوات",
+      "transliteration": "u-rāqiB, wa-bae dīn a'tabbiq al-khaṭawāt",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "We keep the table tidy for respect",
+      "arabic": "نرتّب المائدة عشان الاحترام",
+      "transliteration": "nart-tiB al-mā'idah 'ashān al-iHtirām",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "When the elders speak, we listen",
+      "arabic": "لما الكبار يتكلموا، نسكت ونستمع",
+      "transliteration": "lamā al-kuBBār yatikallamu, naskut wa-nastami'",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I m serious, don t joke.",
+      "arabic": "أنا جاد، لا تِزحَك علي.",
+      "transliteration": "ana jadd, la tizzahak 3alay",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Hold up, tell me what happened.",
+      "arabic": "استنى، احكيلي إيش صار.",
+      "transliteration": "stannay, haddeely eesh saar",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Relax, it s not that deep.",
+      "arabic": "اهدى، الموضوع مو بهالعمق.",
+      "transliteration": "ahdee, el mawdoo3 mish behaal 3omq",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I m not available right now.",
+      "arabic": "أنا مش فاضي هالوقت.",
+      "transliteration": "ana mish faadi hal waqt",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Stop scrolling, come talk to me.",
+      "arabic": "اقفل السِكّرين، تعال احكي معي.",
+      "transliteration": "2aafil esscreen, ta3al aHki ma3i",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I m running late, my bad.",
+      "arabic": "متأخر شوي، سامحني.",
+      "transliteration": "muta2khir shway, samHni",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "That s a little too much.",
+      "arabic": "هذي زيادة شوي.",
+      "transliteration": "hadi zyada shway",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Small wins add up, I notice.",
+      "arabic": "نجاحاتي الصغيرة تتراكم، وأنا ألاحظ.",
+      "transliteration": "NajaHAti s-Saghira tatراkum, wa ana aHLaZ.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I grow by doing it imperfectly.",
+      "arabic": "أَنمو عندما أفعلها حتى لو كانت غير مثالية.",
+      "transliteration": "Anmo uNda af a laHaa hataa law kaanat ghayra mu'tamila.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I make room for mistakes, then learn.",
+      "arabic": "أترك مساحة للأخطاء، ثم أتعلّم.",
+      "transliteration": "Utariku masaha lil-ahTaa', thumma at'allam.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I practice again, because consistency wins.",
+      "arabic": "أتدرّب مرة أخرى، لأن الاستمرار ينتصر.",
+      "transliteration": "Atadarrabu marra ukhra, lianna al-istimraar yantasiir.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I track progress with one simple note.",
+      "arabic": "أُسجّل تقدّمي بملاحظة واحدة بسيطة.",
+      "transliteration": "Ussajjil taqadummi bi malaHaza wahida basita.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "When it’s hard, I slow down.",
+      "arabic": "عندما يصير الأمر صعبًا، أُبطئ.",
+      "transliteration": "indama yaSiir al-amr sa'bAan, ubTi'u.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I ask one question, then try again.",
+      "arabic": "أطرح سؤالًا واحدًا، ثم أحاول مجددًا.",
+      "transliteration": "AtraH su'aalan wahidan, thumma aHawil mujadadan.",
+      "category": "Growth",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I need access before I start.",
+      "arabic": "أحتاج صلاحية قبل أن أبدأ.",
+      "transliteration": "aHtāj saLaHiyyah qabla an aBda.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Where do I file this document?",
+      "arabic": "أين أضع هذا المستند في الملف؟",
+      "transliteration": "ayna aDa'u hādhā al-mustand fī al-malf?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Can you clarify the deadline, please?",
+      "arabic": "هل يمكنك توضيح الموعد النهائي من فضلك؟",
+      "transliteration": "hal yumkinuk tawDīH al-maw`id an-nihā’ī min faDlak?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I’ll draft the email today.",
+      "arabic": "سأكتب مسودة البريد اليوم.",
+      "transliteration": "saʾaktub masUdāt al-bariyd al-yawm.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Please send it in one PDF.",
+      "arabic": "من فضلك أرسله ملف PDF واحدًا.",
+      "transliteration": "min faDlak arsِلH ملف PDF wāHidan.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Let’s confirm the meeting location.",
+      "arabic": "لنتأكد من مكان الاجتماع.",
+      "transliteration": "l-nata’akkad min makān al-ijtimā‘.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I’ll handle the presentation slides.",
+      "arabic": "سأتولى شرائح العرض التقديمي.",
+      "transliteration": "sa'atawallá sharā’iH al-‘arD at-taqdīmī.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "When in doubt, ask one more question.",
+      "arabic": "عندما تتردد، اسأل سؤالا واحدا إضافيا.",
+      "transliteration": "indamA tatarrad, us'AL su'ALan wAHidan iDADiyA.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "A calm voice solves many misunderstandings.",
+      "arabic": "الصوت الهادئ يحل كثيرا من سوء الفهم.",
+      "transliteration": "aS-Sawt al-hAdِئ yuHillu kathīran min sū' fAhm.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Small steps beat big stress every day.",
+      "arabic": "الخطوات الصغيرة تهزم التوتر الكبير يوميا.",
+      "transliteration": "al-khaTawAt aS-SaghIra tahzim at-tawattur al-kabIr yawmiyyan.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Correctness is nice, clarity matters more.",
+      "arabic": "الدقة جميلة، لكن الوضوح أهم.",
+      "transliteration": "ad-duqqah jamīlah, lakin al-waDUH ahamm.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Let mistakes be data, not shame.",
+      "arabic": "خلّي الأخطاء تكون بيانات لا خجلا.",
+      "transliteration": "khallِي al-akhTA' takūn bayAnAt lA khajalan.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "If you freeze, restart with hello.",
+      "arabic": "إذا تجمدت، ابدأ بقول مرحبا.",
+      "transliteration": "idhA tajamMadta, ibda' bi-qaul marHaban.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Speak slower, and your listener follows.",
+      "arabic": "تكلم أبطأ، فيلحقك السامع.",
+      "transliteration": "takallam abta', fayalHaq-ka as-sAmi'.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "You convinced me, I’m on board.",
+      "arabic": "أقنعتني، أنا معك تمامًا.",
+      "transliteration": "aqnatani, ana maAAaka tamaman.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I respect it, but I disagree.",
+      "arabic": "أحترم رأيك، لكنني أختلف معك.",
+      "transliteration": "uHtirimu ra'yak, lakenni ukhtalifu maAAak.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "That may work, but not for me.",
+      "arabic": "قد تنجح، لكنها ليست مناسبة لي.",
+      "transliteration": "qad tanjuH, lakenna-ha laysa munasibat lee.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Let’s not assume, let’s check.",
+      "arabic": "لا نفترض، لنَتَأكّد أولًا.",
+      "transliteration": "la naftrid, lina-takaqqud awalan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I’m not against it, just cautious.",
+      "arabic": "أنا لست ضدّه، فقط حذِر.",
+      "transliteration": "ana last diddahu, faqat Hadhir.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "We can agree on the goal.",
+      "arabic": "نقدر نتفق على الهدف.",
+      "transliteration": "naqdar nattafiq AAala al-Hadaf.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "Same idea, different method, though.",
+      "arabic": "نفس الفكرة، لكن الطريقة مختلفة.",
+      "transliteration": "nafs al-fikra, lakin aT-Tariqa mukhtalifa.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T07:41:06.911864"
     }
   ],
-  "last_updated": "2026-11-17T08:05:28.136153"
+  "last_updated": "2026-11-18T07:41:06.911864"
 }
