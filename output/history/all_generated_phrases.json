@@ -84431,7 +84431,399 @@
       "transliteration": "nafs al-fikra, lakin aT-Tariqa mukhtalifa.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-11-18T07:41:06.911864"
+    },
+    {
+      "english": "I start with a clear to-do",
+      "arabic": "أبدأ بقائمة مهام واضحة",
+      "transliteration": "abda bi qaa'imat mahamm waadHa",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I drink water before my phone",
+      "arabic": "أشرب ميه قبل ما أمسك الموبايل",
+      "transliteration": "ashrab mayya qabl ma amsk el-moubayil",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Morning light, breathe, and stretch",
+      "arabic": "نور الصبح، وخد نفس وامدد جسمك",
+      "transliteration": "noor essubh, w khod nafas w amedd jismak",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I tidy one corner, not the whole place",
+      "arabic": "أرتّب زاوية واحدة، مش البيت كله",
+      "transliteration": "arratteb zaawiyya waHida, mish el-bayt kolLo",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I eat slowly, I really taste it",
+      "arabic": "بأكل ببطء، وفعلا بتذوق",
+      "transliteration": "ba'akl be bUto, w fa'lan بتdhooq",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I choose one goal for right now",
+      "arabic": "أختار هدف واحد للوقت ده",
+      "transliteration": "akhtar hadaf waHid lel-waqt dA",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Before work, I set my first task",
+      "arabic": "قبل الشغل، بحدد أول مهمة",
+      "transliteration": "qabl esh-shoghl, b7edded awel maهمa",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I show up, even messy.",
+      "arabic": "أنا أحضر، حتى لو كان كل شيء فوضويًا.",
+      "transliteration": "ana uHADhir, hatta law kana kullu shay'in fawDawiyyan.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "One more rep, then I rest.",
+      "arabic": "مرة أخرى، ثم أرتاح.",
+      "transliteration": "mara ukhra, thumma artAriH.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I fail small, I learn fast.",
+      "arabic": "أفشل قليلًا، وأتعلم بسرعة.",
+      "transliteration": "aFshal qaliilan, wa a ta allam bisur a a.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I keep going, no drama needed.",
+      "arabic": "أكمل، بدون دراما.",
+      "transliteration": "ukmil, bidun drama.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I break it down, then begin.",
+      "arabic": "أقسمها إلى خطوات، ثم أبدأ.",
+      "transliteration": "aqsimuha ila khaWA, thumma abdأ.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I’m tired, so I do the basics.",
+      "arabic": "أنا تعبان، إذًا أفعل الأساسيات فقط.",
+      "transliteration": "ana ta bAan, idhan af a al al asAsiyyat faqat.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I don’t quit today, just adjust.",
+      "arabic": "لا أستسلم اليوم، فقط أعدّل.",
+      "transliteration": "la astaslim alyawm, faqat a u addil.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Turn up the lights, it’s party time",
+      "arabic": "Zayyin al-anwār, dawrāni ḥan el-ḥafla.",
+      "transliteration": "Zayyin AL-anwar, dawrāni ḥan el-ḥafla.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I saved you a seat, come in",
+      "arabic": "ʾAna ḥajjazt la-ka makan, tafaḍḍal dākhil.",
+      "transliteration": "Ana ḥajjazt la-ka MAKAN, tafaḍḍal DAakhil.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Who’s ready for the surprise?",
+      "arabic": "Man mustaʿidd li المفاجأة؟",
+      "transliteration": "Man MUSTaʿidd li el-mufājaʾa?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Let’s toast, cheers to everyone",
+      "arabic": "Halanā nushārib, ṣaḥṭayn li-jamīʿinā.",
+      "transliteration": "Halanā nushārib, ṣaḥTayn li-jamīʿinā.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "The host is so welcoming",
+      "arabic": "El-mustadīf karīmun, yastakbil bi-tarāḥab.",
+      "transliteration": "El-mus-taDīF karīmun, yastakbil bi-tarāḥab.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Can you bring some drinks?",
+      "arabic": "Momkin tajīb shwayyit mashārib, min faḍlak?",
+      "transliteration": "Momkin tajīb shwayyit MASHārib, min faḍlak?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "We’re celebrating with friends tonight",
+      "arabic": "Nḥtafil leilatan maʿa aṣḥābinā, ya rabb.",
+      "transliteration": "Nḥtafi-l leilatan maʿa aṣḥābinā, ya rabb.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Is there a pharmacy open right now?",
+      "arabic": "هل توجد صيدلية مفتوحة الآن؟",
+      "transliteration": "Hal tuwjad saydaliyyah maftooHah AN-an?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I need a doctor urgently, please.",
+      "arabic": "أحتاج طبيبًا على وجه السرعة، من فضلك.",
+      "transliteration": "aHtaj tabiib-an ʿala wajh as-surʿah, min faDlak.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Call emergency services for me now.",
+      "arabic": "اتصل بخدمات الطوارئ من فضلك الآن.",
+      "transliteration": "ittasil biKhidmaat aT-Tawaari' min faDlak AN-an.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I think I'm having a severe allergy.",
+      "arabic": "أظن أنني أعاني من حساسية شديدة.",
+      "transliteration": "aZunn anni aa'ani min haSaasiyyah SHadiidah.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "My face is swelling, help me.",
+      "arabic": "وجهي يتورم، ساعدني.",
+      "transliteration": "wajhiy yatawarRam, saa'idni.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I can't stop vomiting, please help.",
+      "arabic": "لا أستطيع التوقف عن التقيؤ، ساعدني.",
+      "transliteration": "la astatiيع at-tawaqquf ʿan at-taqiyyuu', saa'idni.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I have bad diarrhea, I'm dehydrated.",
+      "arabic": "عندي إسهال شديد، أنا في جفاف.",
+      "transliteration": "ʿindii ishaal SHadiid, anaa fii jaFAAf.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Hi, I need to see a doctor.",
+      "arabic": "مرحبًا، أحتاج أن أراجع طبيبًا.",
+      "transliteration": "marHaban, aHtagh an 'aRAji‘ Tabiiban.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Is there a pharmacy nearby, please?",
+      "arabic": "هل توجد صيدلية قريبة من هنا، من فضلك؟",
+      "transliteration": "hal tawjud saydiليya Qariba min huna, min faDlik?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Do you have cold medicine in stock?",
+      "arabic": "هل يتوفر دواء للزكام عندكم؟",
+      "transliteration": "hal yatawaffar Dawa' lilzukaam 'indakum?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I need something for stomach pain.",
+      "arabic": "أحتاج شيئًا لألم المعدة.",
+      "transliteration": "aHtagh shay'an li'alami l-ma‘ida.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Can I ask about side effects?",
+      "arabic": "هل يمكنني أن أسأل عن الآثار الجانبية؟",
+      "transliteration": "hal yumkinuni an as'ala 'an al-aTHaar al-Jaanibiyya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "How should I take it with food?",
+      "arabic": "كيف أتناوله مع الطعام؟",
+      "transliteration": "kayfa atanaawalu ma‘a aT-Ta‘aam?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Does this interact with my meds?",
+      "arabic": "هل يتعارض مع أدويتي الأخرى؟",
+      "transliteration": "hal yata‘aarad ma‘a adwiyati al-ukhraa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Thank you for showing up for me.",
+      "arabic": "شكرًا لأنك كنت موجودًا من أجلي.",
+      "transliteration": "Shukran li-anna kaNTA mawjudan min ajli.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I appreciate your patience, truly.",
+      "arabic": "أنا أقدّر صبرك فعلًا.",
+      "transliteration": "Ana uqaddiru sabrak faealan.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Thanks for making this easier for me.",
+      "arabic": "شكرًا لأنك جعلت هذا أسهل عليّ.",
+      "transliteration": "Shukran li-anna ja'alt haadha ashal ealayya.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I’m grateful for your steady reassurance.",
+      "arabic": "أنا ممتنّ لطمأنتك الثابتة.",
+      "transliteration": "Ana mumtann li- tma'natik ath-thaabitah.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Your help today meant real relief.",
+      "arabic": "مساعدتك اليوم كانت راحة حقيقية.",
+      "transliteration": "Musa'adatak alyawm kaanat rahaH haqiqiyah.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Thank you for your calm kindness.",
+      "arabic": "شكرًا على لطفك الهادئ.",
+      "transliteration": "Shukran ealaa lutfik al-haadi.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I’m thankful you understood me.",
+      "arabic": "أنا ممتن لأنك فهمتني.",
+      "transliteration": "Ana mumtann li-anna ka-fahemtani.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I text hope to myself",
+      "arabic": "أُرسل الأمل لنفسي رسالة",
+      "transliteration": "Ursil al-amal li-nafsi risalah",
+      "category": "Hope",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Hope, stay close to my heart",
+      "arabic": "أمل، ابقَ قريبًا من قلبي",
+      "transliteration": "Amal, ibiqa qariban min qalbi",
+      "category": "Hope",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I water hope, even on hard days",
+      "arabic": "أُسقي الأمل، حتى في الأيام الصعبة",
+      "transliteration": "Usqi al-amal, hatta fi al-ayyām as-sa‘bāh",
+      "category": "Hope",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "We’ll try again, with hope",
+      "arabic": "سنحاول من جديد، بالأمل",
+      "transliteration": "Sanuhāwil min jadīd, bil-amal",
+      "category": "Hope",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Let hope guide my next choice",
+      "arabic": "خلّي الأمل يوجّه اختياري القادم",
+      "transliteration": "Khallī al-amal yuwajjih ikhtiyāri al-qādim",
+      "category": "Hope",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I can wait, hope keeps breathing",
+      "arabic": "أقدر أستنى، والأمل يتنفس",
+      "transliteration": "Aqdār astannī, wal-amal yatanaffas",
+      "category": "Hope",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "I choose hope, then act softly",
+      "arabic": "أختار الأمل، ثم أتحرّك بهدوء",
+      "transliteration": "Akhtār al-amal, thumma ataharrak bihudū‘",
+      "category": "Hope",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Do you have a suite available?",
+      "arabic": "هل لديكم جناح متاح؟",
+      "transliteration": "hal ladaykum جناح mutaah?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "What’s the price per night?",
+      "arabic": "كم السعر لليلة واحدة؟",
+      "transliteration": "kam as-sa‘r l-ilaylah waHidah?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Is there a deposit for check-in?",
+      "arabic": "هل يوجد تأمين عند تسجيل الدخول؟",
+      "transliteration": "hal yuwjad ta’meen ‘inda tasjeel ad-dukhool?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Can I pay by credit card?",
+      "arabic": "هل يمكنني الدفع ببطاقة ائتمان؟",
+      "transliteration": "hal yumkinnee ad-daF‘ bi-bitaaqat i’timaan?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Do you offer airport pickup?",
+      "arabic": "هل توفرون خدمة توصيل من المطار؟",
+      "transliteration": "hal tawfuroon khidmat tawSeel min al-maTaar?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "How far is the nearest metro?",
+      "arabic": "كم يبعد أقرب مترو؟",
+      "transliteration": "kam yuba‘d aqrab metro?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Do you have rooms for two adults?",
+      "arabic": "هل لديكم غرف لشخصين بالغيْن؟",
+      "transliteration": "hal ladaykum ghurf li-shakhsein bilGhayn?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-19T07:36:58.947361"
     }
   ],
-  "last_updated": "2026-11-18T07:41:06.911864"
+  "last_updated": "2026-11-19T07:36:58.947361"
 }
