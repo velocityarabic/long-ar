@@ -84823,7 +84823,399 @@
       "transliteration": "hal ladaykum ghurf li-shakhsein bilGhayn?",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-19T07:36:58.947361"
+    },
+    {
+      "english": "Let wonder guide your next move.",
+      "arabic": "خَلِّ الدَّهشة تُوجِّه خُطوتَك القادمة.",
+      "transliteration": "Khall id-dahsha tuwajih khuwatuka al-qadima.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Write what you feel, just once.",
+      "arabic": "اكتب ما تشعر به مرةً واحدة.",
+      "transliteration": "Uktub ma tash'uru bihi marra wahida.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Start a small ritual for creativity.",
+      "arabic": "ابدأ طقسًا صغيرًا للإبداع.",
+      "transliteration": "Ibda khusqan sagheeran lil-ibda.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Inhale hope, exhale a brave idea.",
+      "arabic": "اشْرَب الأمل، وافْرُغ من التردّد بفكرة شجاعة.",
+      "transliteration": "Ishrab al-amal, wafrugh min at-tardad bifikra shujaa'a.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Ask, then listen, for new angles.",
+      "arabic": "اسأل، ثم استمع، لتكتشف زوايا جديدة.",
+      "transliteration": "Is'al, thumma istami', litaktashif zuwaya jadeeda.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "A mentor speaks through real stories.",
+      "arabic": "المُرشد يتكلم عبر قصصٍ حقيقية.",
+      "transliteration": "Al-murshid yatakallam 'abra qisasin haqiqiya.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Turn a no into a different path.",
+      "arabic": "حوِّل الرفض إلى طريقٍ آخر.",
+      "transliteration": "Hawwil ar-rad ila tariqin akhar.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I’ll try first, worry later.",
+      "arabic": "سأحاول أولاً، ثم أقلق لاحقاً.",
+      "transliteration": "saُaḥāwilu awalan, thumma aqlaq laḥiqan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I can handle awkward moments.",
+      "arabic": "أستطيع التعامل مع اللحظات المُحرِجة.",
+      "transliteration": "astaṭīʿu at-taʿāmul maʿa al-luḥaẓāt al-muḥriǧa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I speak, then I breathe.",
+      "arabic": "أتكلم، ثم أتنفس.",
+      "transliteration": "atkallam, thumma atanaffas.",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "My effort counts, even imperfect.",
+      "arabic": "جهدي يُحسَب حتى لو كان غير كامل.",
+      "transliteration": "jahdī yuḥsabu ḥattā law kāna ġayra kāmil.",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I don’t wait for permission.",
+      "arabic": "لا أنتظر إذناً.",
+      "transliteration": "lā antaẓiru idhnan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I trust my timing today.",
+      "arabic": "أثق بتوقيتي اليوم.",
+      "transliteration": "aṯiqu bi-tawqītī al-yawm.",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I’ll be kind, and still firm.",
+      "arabic": "سأكون لطيفاً، وما زلتُ ثابتاً.",
+      "transliteration": "sa-akuunu laṭīfan, wa mā ziltu ṯābitan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I forgive, and I mean it.",
+      "arabic": "أنا أسامح، وأنا أعني ذلك.",
+      "transliteration": "ana usامih, wa ana aAni dhak.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I release the anger, not the lesson.",
+      "arabic": "أُطلق الغضب، لا الدرس.",
+      "transliteration": "uṭliqu al-ghaḍab, la ad-dars.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Let’s talk, not keep score.",
+      "arabic": "لنحكي، لا لِنعدّ النقاط.",
+      "transliteration": "لنḥki, la lin-ʿadd an-niqāt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Forgiveness helps me sleep tonight.",
+      "arabic": "المسامحة تساعدني أن أنام الليلة.",
+      "transliteration": "al-muSAmah tuSaaidunī an anaam al-layla.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I choose calm over revenge.",
+      "arabic": "أختار الهدوء بدل الانتقام.",
+      "transliteration": "ukhtāru al-hudūʾ badal al-intiqām.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Repair starts with one sincere apology.",
+      "arabic": "الإصلاح يبدأ باعتذار صادق واحد.",
+      "transliteration": "al-iṣlāḥ yabda bi-iʿtirāḍ ṣādiq wāḥid.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I forgive you, and I set boundaries.",
+      "arabic": "أسامحك، وأضع حدودًا.",
+      "transliteration": "usāmiḥuk, wa aḍaʿ ḥudūdan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Where is passport control, please?",
+      "arabic": "أين مراقبة الجوازات من فضلك؟",
+      "transliteration": "ayna muraaqabat al-jawaazaat, min fadlak?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Do I need to fill this form?",
+      "arabic": "هل لازم أملأ هذا النموذج؟",
+      "transliteration": "hal laazim aamlaa haadha an-namoothaj?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I lost my boarding pass, please help.",
+      "arabic": "ضعت بطاقة الصعود، من فضلك ساعدني.",
+      "transliteration": "daayaat taaqaat as-su`ood, min fadlik saa‘idni",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Can I pay in dollars here?",
+      "arabic": "هل أقدر أدفع بالدولار هنا؟",
+      "transliteration": "hal aqdir adfa‘ bil-doolaar huna?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "How early should I arrive?",
+      "arabic": "كم بدري لازم أوصل؟",
+      "transliteration": "kam badri laazim awsel?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Is there a pharmacy in this terminal?",
+      "arabic": "هل يوجد صيدلية في هذا المطار؟",
+      "transliteration": "hal yuwjad saydaliyya fi haadha al-matar?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Where can I buy a SIM card?",
+      "arabic": "أين أقدر أشتري شريحة SIM؟",
+      "transliteration": "ayn aqdir ashtari shareehat SIM?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Where do we keep the extra blankets?",
+      "arabic": "أين نضع البطانيات الإضافية؟",
+      "transliteration": "AY-na na-Da‘u al-BaTaa-niyaat al-iZaa-fiyya?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I love how our home feels safe.",
+      "arabic": "أحب كيف بيتي يشعرني بالأمان.",
+      "transliteration": "uHibbu kaifa bay-ti yu-sh‘ir-ni bi-l-Amaan.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Did you water the plants this morning?",
+      "arabic": "هل سقيتِ النباتات هذا الصباح؟",
+      "transliteration": "hal saqay-ti an-na-Baa-taat ha-tha aS-SaBaah?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Let’s set the table, please, together.",
+      "arabic": "لنبسط المائدة، من فضلك، معًا.",
+      "transliteration": "lin-bas-T al-mai-Da, min faD-lik, ma‘an.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "We put shoes by the door every time.",
+      "arabic": "نحط الأحذية عند الباب في كل مرة.",
+      "transliteration": "naH-T al-aH-diyya ‘in-da al-baab fi kul ma-rra.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "My sister helps me with homework after dinner.",
+      "arabic": "أختي تساعدني في الواجب بعد العشاء.",
+      "transliteration": "uKH-ti tu-sa‘id-ni fi al-wa-jib ba‘da al-‘i-shaa’.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Can I borrow your toolkit for tonight?",
+      "arabic": "هل يمكنني استعارة عدة الأدوات الليلة؟",
+      "transliteration": "hal yum-kin-ni iS-ti‘aara ‘id-dat al-aD-waan al-lay-la?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I feel excited about tonight.",
+      "arabic": "أشعر بحماس تجاه الليلة.",
+      "transliteration": "ASH-aru bI-HAMAS tI-jaa aL-LAY-la.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I’m anxious waiting for the reply.",
+      "arabic": "أنا قَلِق وأنا أنتظر الرد.",
+      "transliteration": "A-na QAL-IQ wa a-na an-taZIR aR-RAD.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I feel proud of you, seriously.",
+      "arabic": "أنا فخور بك فعلًا.",
+      "transliteration": "A-na FA-Khur bi-ka fa‘l-an.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Right now, I’m overwhelmed with everything.",
+      "arabic": "في هذه اللحظة, أنا غارق في كل شيء.",
+      "transliteration": "fi ha-THI-hi L-LAH-za, A-na GHA-RIQ fi kul SHAY.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I feel shaky after that news.",
+      "arabic": "أشعر برجفة بعد تلك الأخبار.",
+      "transliteration": "ASH-aru bi-RUJ-Fa ba‘d ta-lIk al-aKH-BAAR.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I feel grateful for your honest advice.",
+      "arabic": "أنا ممتن لنصيحتك الصادقة.",
+      "transliteration": "A-na muM-TAN li-NU-SIH-tik aS-Sa-diQ-a.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I’m a little sad, honestly.",
+      "arabic": "أنا حزين قليلًا, بصراحة.",
+      "transliteration": "A-na ha-ZEEN Qal-Ila, bi-SAR-aH-a.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I feel so grateful right now.",
+      "arabic": "أنا ممتن جدًا الآن.",
+      "transliteration": "ana muMtann JIDdan al-AN.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "My smile won’t quit today.",
+      "arabic": "ابتسامتي لن تتوقف اليوم.",
+      "transliteration": "ibtisAmati lan tatWafaq al-Yawm.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Something good just happened to me.",
+      "arabic": "حدث شيء جميل معي للتو.",
+      "transliteration": "Hadasa shay' Jamil ma'i li-taw.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I’m laughing with my whole heart.",
+      "arabic": "أضحك بقلبي كله.",
+      "transliteration": "aDHak biqalbi kullu-hu.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I love how light everything feels.",
+      "arabic": "أحب كيف أن كل شيء صار خفيفًا.",
+      "transliteration": "uHib kayfa an kulla shay'in saara KHafiifan.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "This joy is contagious, truly.",
+      "arabic": "هذه الفرحة معدية حقًا.",
+      "transliteration": "hadhihi al-farHa ma'DIYa Haqan.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I’m celebrating small wins today.",
+      "arabic": "أحتفل بانتصاراتي الصغيرة اليوم.",
+      "transliteration": "aHtafiL biintiSARAAti aS-Saghira al-Yawm.",
+      "category": "Joy",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Thanks for checking on me",
+      "arabic": "شكرًا لأنك تسأل عني",
+      "transliteration": "shukran li-annaka tas-alu 'anni",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "You make hard days lighter",
+      "arabic": "تجعلين الأيام الصعبة أخف",
+      "transliteration": "tuj'alina al-ayyam as-sa'ba akhaf",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "I can count on your honesty",
+      "arabic": "أقدر صدقك كثيرًا",
+      "transliteration": "aqdar sidqaka kathiran",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Call me anytime, I mean it",
+      "arabic": "اتصل بي في أي وقت، أبدًا لا تتردد",
+      "transliteration": "ittasil bi fi ay waqt, abadan la tatawwad",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "You celebrate me, not just my wins",
+      "arabic": "تفرحين بنجاحي وبكل جهدي",
+      "transliteration": "tafrahina binjahi wa bikulli jhadi",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "Your kindness shows up in small ways",
+      "arabic": "لطفك يظهر في التفاصيل الصغيرة",
+      "transliteration": "lutfuka yudhhiru fi at-tafasil as-saghira",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T07:28:28.865862"
+    },
+    {
+      "english": "When I doubt, you remind me",
+      "arabic": "حين أشك، تذكّريني بقدري",
+      "transliteration": "hin ashk, tadhakkirini bi qadri",
+      "category": "Friendship",
+      "generated_at": "2026-11-20T07:28:28.865862"
     }
   ],
-  "last_updated": "2026-11-19T07:36:58.947361"
+  "last_updated": "2026-11-20T07:28:28.865862"
 }
