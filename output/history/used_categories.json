@@ -359,7 +359,39 @@
     {
       "category": "Friendship",
       "date": "2026-11-20"
+    },
+    {
+      "category": "Kindness",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Positive Life",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Purpose",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-21"
     }
   ],
-  "last_updated": "2026-11-20T07:28:28.935206"
+  "last_updated": "2026-11-21T07:21:44.103755"
 }
