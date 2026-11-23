@@ -85999,7 +85999,399 @@
       "transliteration": "ihmī tarkīzak ka’annahu mūhim",
       "category": "Success",
       "generated_at": "2026-11-22T07:02:54.849362"
+    },
+    {
+      "english": "Turn nerves into focused energy.",
+      "arabic": "حوِّل توترك إلى طاقة تركيز.",
+      "transliteration": "Hawwili TAWRAK ilaa taaqet tarkeez.",
+      "category": "Motivation",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Say it anyway, even quietly.",
+      "arabic": "قُلها حتى لو بصوت خافت.",
+      "transliteration": "QULHAA hataa law bisawt khaafit.",
+      "category": "Motivation",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Choose progress over perfect answers.",
+      "arabic": "اختَر التقدُّم على الإجابات المثالية.",
+      "transliteration": "IkhtAR at-taqaddum AAalaa al-ijabaat al-mithaalya.",
+      "category": "Motivation",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "One text message, one Arabic win.",
+      "arabic": "رسالة واحدة بالعربية، انتصار صغير.",
+      "transliteration": "Risaalat wahidah bilAAarabiyya, intisaar sagheer.",
+      "category": "Motivation",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Let today be your comeback day.",
+      "arabic": "اجعل اليوم يوم عودتك القوية.",
+      "transliteration": "IjAAal alyawm yawma AAawdatika al-qawiyya.",
+      "category": "Motivation",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Celebrate effort, not just accuracy.",
+      "arabic": "احتفِل بالجهد، لا بالدقة فقط.",
+      "transliteration": "iHtafiL bil-juhd, la bid-diqah faqat.",
+      "category": "Motivation",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "If you blank, start again.",
+      "arabic": "إذا نسيت، ابدأ من جديد.",
+      "transliteration": "Idhaa nasEet, ibda min jadeed.",
+      "category": "Motivation",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Keep your calm, even now.",
+      "arabic": "حافظ على هدوئك، حتى الآن.",
+      "transliteration": "Hāfiẓ ʿalā hudūʾika, ḥattā al-ān.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Breathe, then wait one more day.",
+      "arabic": "تنفّس، ثم انتظر يومًا إضافيًا.",
+      "transliteration": "Tanaffas, thumma intazir yawmān iḍāfiyyan.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Slow reactions, strong patience.",
+      "arabic": "ردود بطيئة، وصبر قوي.",
+      "transliteration": "Rudūd baṭīʾa, wa ṣabr qawī.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Don’t answer while you’re angry.",
+      "arabic": "لا تُجب عندما تكون غاضبًا.",
+      "transliteration": "Lā tujib ʿindamā takūn ghāḍibān.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Let it pass, don’t chase it.",
+      "arabic": "اتركه يمر، ولا تركض وراءه.",
+      "transliteration": "Atrukhu yamurr, wa lā tarquḍ warāʾahu.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Patience means listening before deciding.",
+      "arabic": "الصبر يعني أن تستمع قبل أن تقرر.",
+      "transliteration": "Aṣ-ṣabr yaʿnī an tas-tamiʿ qabl an taqarrir.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Stay steady, even when plans change.",
+      "arabic": "ابقَ ثابتًا، حتى عندما تتغيّر الخطط.",
+      "transliteration": "Uqbq thābitan, ḥattā ʿindamā tata-ghayyar al-khuṭaṭ.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "If you slip, keep going",
+      "arabic": "إذا تعثرت، أكمل الطريق",
+      "transliteration": "Idhā taAAaththarta, AKMIL at-TAReeq",
+      "category": "Courage",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Stand up for someone weaker",
+      "arabic": "دافع عن شخص أضعف منك",
+      "transliteration": "DAAfiAA AAan shakhs ADAAf minka",
+      "category": "Courage",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Say the hard thing with kindness",
+      "arabic": "قل الشيء الصعب بلطف",
+      "transliteration": "Qul ash-shay’a AS-SaAAb bilLUTF",
+      "category": "Courage",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Try again, even after failure",
+      "arabic": "أعد المحاولة حتى بعد الفشل",
+      "transliteration": "AAID al-muHāwala hattā baAAda al-Fashal",
+      "category": "Courage",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Break the silence when it matters",
+      "arabic": "كسر الصمت حين يلزم",
+      "transliteration": "Kasir as-samt hīna yalzam",
+      "category": "Courage",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Take one step toward your dream",
+      "arabic": "اتخذ خطوة واحدة نحو حلمك",
+      "transliteration": "Ittakhidh KhuTWA wāHida naHwa HULmika",
+      "category": "Courage",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Let your yes mean yes",
+      "arabic": "اجعل نعمك نعمًا",
+      "transliteration": "IJAAal naAAmaka naAAman",
+      "category": "Courage",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Pause, breathe, then choose your next move.",
+      "arabic": "توقّف، تنفّس، ثم اختر خطوتك التالية.",
+      "transliteration": "tawwaff, tanaffas, thumma ikhtar khaotak al-taliyah.",
+      "category": "Balance",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Balance your giving with real rest.",
+      "arabic": "وازن بين عطاءك وراحتك الحقيقية.",
+      "transliteration": "wazzin bayna 'ata'ik warahatak al-haqiqiyah.",
+      "category": "Balance",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Don’t rush the hard talk, plan it.",
+      "arabic": "لا تتعجّل الحديث الصعب، رتّبه بهدوء.",
+      "transliteration": "la tata'ajjil al-hadith al-sa'b, rattibhu bihuduw.",
+      "category": "Balance",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Let your body lead, not panic.",
+      "arabic": "خلّ جسدك يقود، لا تَفْزَع.",
+      "transliteration": "khalli jasadak yaqood, la tafza'.",
+      "category": "Balance",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Small daily check-ins keep me centered.",
+      "arabic": "تفقدات صغيرة يومية تبقيني في مكانه الصحيح.",
+      "transliteration": "taffadudat saghira yawmiya tubqini fi makaanihi al-sahih.",
+      "category": "Balance",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Choose one priority, then soften everything else.",
+      "arabic": "اختر أولوية واحدة، ثم خفّف كل شيء آخر.",
+      "transliteration": "ikhtar awlawiyyah wahidah, thumma khaffif kulla shay'in akhar.",
+      "category": "Balance",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "When you overthink, return to the facts.",
+      "arabic": "عندما تُكثر التفكير، ارجع للحقائق.",
+      "transliteration": "indama tukthir at-tafkeer, irji' lil-haqa'iq.",
+      "category": "Balance",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "I give myself permission to rest",
+      "arabic": "أسمح لنفسي أن أرتاح، بدون ذنب",
+      "transliteration": "UَSMIH LِNAFSI AN ARTAH, BIDOON DHAMB",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Joy starts when I stop rushing",
+      "arabic": "تبدأ السعادة عندما أتوقف عن العجلة",
+      "transliteration": "TABDA2 AS-SA'ADA 'INDA AM ATWAQQAF 'AN AL-'AJLA",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Sunlight on my face feels healing",
+      "arabic": "ضوء الشمس على وجهي مُريح",
+      "transliteration": "Daw' ASH-SHAMS 'ALA WAJHI MU RIH",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "I text someone, and my heart warms",
+      "arabic": "أرسل رسالة لشخصٍ ما، فيدفأ قلبي",
+      "transliteration": "ARSIL RISAALAH LI-SHAKHSIN MA, Fَي-DFA'A QALBI",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Gratitude makes my day softer",
+      "arabic": "الامتنان يجعل يومي ألطف",
+      "transliteration": "AL-IMTINAN YAJ'AL YAWMI A'LAF",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "I choose calm over chaos today",
+      "arabic": "أختار الهدوء على الفوضى اليوم",
+      "transliteration": "AKHTAR AL-HUDO'O 'ALA AL-FAWDA AL-YAWM",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Small kindnesses keep finding me",
+      "arabic": "اللطائف الصغيرة تواصل أن تجدني",
+      "transliteration": "AL-LATA'IF AS-SAGHIRA TUWASSIL AN TAJIDANI",
+      "category": "Happiness",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Let s set priorities for today",
+      "arabic": "لِنُحدِّد أولويات اليوم، ثم نمضي خطوة خطوة",
+      "transliteration": "li nuhadid awlawiyyat alyawm, thumma namsi khatwatan khatwatan",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "What are the top two goals?",
+      "arabic": "ما الهدفان الأهم الآن، الهدفان اللذان نركّز عليهما؟",
+      "transliteration": "ma alhadafan alaham alaan, alhadafan alladhin narka z 'alayhim a?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Let s plan with realistic time",
+      "arabic": "لِنخطِّط بوقت واقعي، من غير ضغط",
+      "transliteration": "li nukhattit bi waqt waqi i, min ghayr dghat t",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "We need a simple step-by-step route",
+      "arabic": "نحتاج طريقًا بسيطًا خطوة بخطوة، بدون تعقيد",
+      "transliteration": "nahtaj tariqan basitan khatwatan bi khatwa, bidun ta'qeid",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Do we have the materials ready?",
+      "arabic": "هل كلّ شيء جاهز قبل أن نبدأ، الأدوات والملفات؟",
+      "transliteration": "hal kulla shay' j ahez qabl an n ibda, al adawat wa al malaffat?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Assign roles, who does what?",
+      "arabic": "لِنقسِّم الأدوار، من يفعل ماذا؟",
+      "transliteration": "li naqassim al adwar, man yaf'alu madha?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Let s build in a buffer time",
+      "arabic": "خلّينا نضيف وقتًا احتياطيًا، للمفاجآت",
+      "transliteration": "khallina n addi waqtan ihtiyat ian, lil mufaja'at",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "What’s the total after tax?",
+      "arabic": "كم المجموع بعد الضريبة؟",
+      "transliteration": "kam al-majmoo ba'da al-dareeba?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Can I get a price breakdown?",
+      "arabic": "هل ممكن تعطيني تفصيل السعر؟",
+      "transliteration": "hal mumkin ta'tini tafseel as-si'r?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Do you have student discounts?",
+      "arabic": "هل عندكم خصم للطلاب؟",
+      "transliteration": "hal 'indakum khasm lil-tullab?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Is there any sale today?",
+      "arabic": "هل في عروض اليوم؟",
+      "transliteration": "hal fi 'urood alyawm?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Does the price include delivery?",
+      "arabic": "هل السعر يشمل التوصيل؟",
+      "transliteration": "hal as-si'r yashmal at-tawsil?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Can I return it if needed?",
+      "arabic": "هل أقدر أرجعه إذا احتجت؟",
+      "transliteration": "hal aqdar arji'ahu idha ihtajtu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Is it cheaper if I buy two?",
+      "arabic": "هل يصبح أرخص إذا أخذت اثنين؟",
+      "transliteration": "hal yasbiH arkhas idha akhadh-tu ithneen?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "I notice tension, then soften.",
+      "arabic": "ألاحظ التوتر ثم أرخي،",
+      "transliteration": "Ūlaḥiz at-tawattur thumma arkhi,",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Inhale, exhale, I return home.",
+      "arabic": "أستنشق، وأزفر، وأعود إلى بيتي.",
+      "transliteration": "Astanshiq, u'azfir, wa a'udu ila bayti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "My mind is busy, I observe.",
+      "arabic": "عقلي مشغول، وأنا أراقب فقط.",
+      "transliteration": "Aqli mashghūl, wa ana uraaqib fuqt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "I choose a gentler inner voice.",
+      "arabic": "أختار صوتًا داخليًا ألطَف،",
+      "transliteration": "Akhtaar sawtan dakhliyyan al-'aṭaf,",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "Right now, I can be curious.",
+      "arabic": "الآن يمكنني أن أكون فضوليًا،",
+      "transliteration": "al- an يمكِنُني an akoona fḏūliyyan,",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "What’s the next kind step?",
+      "arabic": "ما هي الخطوة اللطيفة التالية؟",
+      "transliteration": "Ma hiya al-khuttwa al-laṭīfa at-ṭāliya?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T07:52:11.640503"
+    },
+    {
+      "english": "I pause, then speak from calm.",
+      "arabic": "أتوقف، ثم أتكلم من هدوء.",
+      "transliteration": "Atawaqqaf, thumma atakallam min hudūء.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T07:52:11.640503"
     }
   ],
-  "last_updated": "2026-11-22T07:02:54.849362"
+  "last_updated": "2026-11-23T07:52:11.640503"
 }
