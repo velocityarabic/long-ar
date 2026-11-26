@@ -87175,7 +87175,399 @@
       "transliteration": "rafa'ta 'anni al-qalaqa bi-SabRik",
       "category": "Gratitude",
       "generated_at": "2026-11-25T08:48:29.698266"
+    },
+    {
+      "english": "Do you have a gym for guests?",
+      "arabic": "هل يوجد جيم للضيوف؟",
+      "transliteration": "Hal yūjad jīm lil-d'uuf?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Is there a business center here?",
+      "arabic": "هل يوجد مركز أعمال في الفندق؟",
+      "transliteration": "Hal yūjad markaz a'māl fī al-funduq?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Can I get a late checkout?",
+      "arabic": "هل يمكنني المغادرة في وقت متأخر؟",
+      "transliteration": "Hal yumkinunī al-mughādarrah fī waqt muta'akhkhir?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "What floor is the elevator on?",
+      "arabic": "في أي طابق يوجد المصعد؟",
+      "transliteration": "Fī ayy ṭābiq yūjad al-miṣ'ad?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Is there luggage storage after checkout?",
+      "arabic": "هل يوجد تخزين للأمتعة بعد تسجيل الخروج؟",
+      "transliteration": "Hal yūjad takhzin lil-amti'ah ba'da tasjīl al-khurūj?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Do rooms have air conditioning?",
+      "arabic": "هل الغرف مكيفة الهواء؟",
+      "transliteration": "Hal al-ghuraf mukayyafat al-hawā'?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Can I request a room with balcony?",
+      "arabic": "هل يمكنني طلب غرفة مع شُرفة؟",
+      "transliteration": "Hal yumkinunī ṭalab gharfah ma'a shurfa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "I need my medication checked, please.",
+      "arabic": "أحتاج أن تتحقق من دوائي من فضلك.",
+      "transliteration": "AH-Taj AN TA-TAH-Qaq MIN DAw-AA-I min faD-Luk.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Is the pharmacist on duty now?",
+      "arabic": "هل الصيدلي متواجد الآن؟",
+      "transliteration": "hal SAY-DEL-EE mu-ta-va-jid al-AN?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Do you have instant cough syrup?",
+      "arabic": "هل عندكم شراب سعال سريع المفعول؟",
+      "transliteration": "hal in-dakum SHAR-AB sa-‘AL sa-ree-‘ al-maf-‘ool?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Can you help me find a doctor?",
+      "arabic": "هل تستطيعون مساعدتي في إيجاد طبيب؟",
+      "transliteration": "hal tas-ta-TEE-‘oon mu-sa-‘da-tee fi i-jad ta-BEEb?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "I’m not feeling well, can I come in?",
+      "arabic": "أنا لست على ما يرام، هل يمكنني الدخول؟",
+      "transliteration": "A-na LISTU ‘a-la ma YA-ram, hal yum-kin-NI ad-du-خول?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "My prescription says different instructions.",
+      "arabic": "وصفة الدواء عندي مكتوب عليها تعليمات مختلفة.",
+      "transliteration": "wiS-fa-D daw-AA ‘in-dai mak-tuub ‘A-lai-ha ta‘-lee-maat mukH-talifah.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Should I avoid alcohol with this?",
+      "arabic": "هل يجب أن أتجنب الكحول مع هذا الدواء؟",
+      "transliteration": "hal yaJIB an a-ta-ji-nib al-kuHool ma‘ ha-za ad-daw-AA?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "You text back, no matter what.",
+      "arabic": "ترد علي برسالتك مهما كان الوقت.",
+      "transliteration": "tara'du 'alayya bi-risaalatik, mahmaa kana al-waqt.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "You keep my secrets safe always.",
+      "arabic": "تحفظ أسراري في أمان دائمًا.",
+      "transliteration": "tahfazu asraari fi amaan da'iman.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "With you, silence feels warm.",
+      "arabic": "معك، الصمت دافئ.",
+      "transliteration": "ma'aka, as-samt daafi'.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "You laugh with me, not at me.",
+      "arabic": "تضحك معي، لا علي.",
+      "transliteration": "tadhhakku ma'i, la 'alayya.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "We talk about anything, really.",
+      "arabic": "نتكلم في أي شيء، حقًا.",
+      "transliteration": "natahaddath fi ay shay', haqqa.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "You speak my language, honestly.",
+      "arabic": "تفهمني بصدق، وكأنك تعرفني.",
+      "transliteration": "tafhamuni bi-sidqin, wa- k'anna-ka ta'rifuni.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "You make room for me.",
+      "arabic": "تفسح لي مساحة، دائمًا.",
+      "transliteration": "tafsiH li-masaH, da'iman.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Joy is spilling over, I can’t hide it",
+      "arabic": "الفرح يتسرّب مني، لا أستطيع إخفاءه",
+      "transliteration": "al-farḥ yatassarrab minni, la astaṭīʿ ikhfāʾah",
+      "category": "Joy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "My heart is dancing right now",
+      "arabic": "قلبي يرقص الآن",
+      "transliteration": "qalbī yarqṣu l-ʾān",
+      "category": "Joy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "I’m grateful for this peaceful moment",
+      "arabic": "أنا ممتنّ لهذا الوقت الهادئ",
+      "transliteration": "anā muḥtann li-hādhā l-waqt al-hādiʾ",
+      "category": "Joy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Everything feels easier than usual",
+      "arabic": "كل شيء أسهل مما تعودت عليه",
+      "transliteration": "kullu shayʾ ashal mimmā taʿawwadtu ʿalayh",
+      "category": "Joy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "I can feel joy in my chest",
+      "arabic": "أشعر بالفرح في صدري",
+      "transliteration": "ashʿuru bi-l-farḥ fī ṣadrī",
+      "category": "Joy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Today, I’m choosing happiness on purpose",
+      "arabic": "اليوم، أختار السعادة عن قصد",
+      "transliteration": "al-yawm, akhṭār as-saʿāda ʿan qaṣd",
+      "category": "Joy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "The world feels kinder today",
+      "arabic": "العالم يبدو ألطف اليوم",
+      "transliteration": "al-ʿālam yabdu aṭfaʾ al-yawm",
+      "category": "Joy",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "I feel happy when I hear your voice.",
+      "arabic": "أشعر بسعادة عندما أسمع صوتك.",
+      "transliteration": "ash-`uru bi SA`ADAH `inda mā asma` sawtak.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "I’m frustrated with how this keeps going.",
+      "arabic": "أنا محبَط من تكرار هذا الأمر.",
+      "transliteration": "a-na maH-BatُTUN mīn ti-ka-raar haadha al-amr.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Right now, I feel irritated by the noise.",
+      "arabic": "الآن أشعر بالضيق من الضوضاء.",
+      "transliteration": "al-’AN asha`ur biD-DIQ min aD-DawDAO’.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "I feel nervous before I speak up.",
+      "arabic": "أتوتر قبل أن أتكلم بصراحة.",
+      "transliteration": "a-tَوَتَّر qabl an a-takallam bi-ṢaraHaH.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "I’m proud of myself for starting.",
+      "arabic": "أنا فخور بنفسي لأنني بدأت.",
+      "transliteration": "a-na FA-KHRUN bi-nafsī li-’anna-nī bada’t.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "I feel hopeful about tomorrow.",
+      "arabic": "أشعر بالأمل تجاه الغد.",
+      "transliteration": "ash-`uru bi-l-’AMAL ta-jaah al-ghَد.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "I’m angry, but I want to be fair.",
+      "arabic": "أنا غاضب، لكني أريد أن أكون عادلًا.",
+      "transliteration": "a-na ghāDiB, la-kin-nī urīdu an a-kūn `ā-dil-an.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "You can begin again, right now",
+      "arabic": "يمكنك أن تبدأ من جديد، الآن",
+      "transliteration": "yumkinuka an tabda min jadeed, AL-AN",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Let your curiosity lead the way",
+      "arabic": "دع فضولك يقود الطريق",
+      "transliteration": "daAA fariyyu l-fudooluka yuqawid at-TAReeq",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Create before you feel ready",
+      "arabic": "اصنع قبل أن تشعر بالاستعداد",
+      "transliteration": "iSnaAA qabl an tashAAur bil-isti ddaad",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Choose wonder over worry today",
+      "arabic": "اختر الدهشة على القلق اليوم",
+      "transliteration": "ikhtar ad-Dahshah AAla al-قلق AL-yawm",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Speak your hope out loud",
+      "arabic": "قل أمَلَك بصوتٍ عالٍ",
+      "transliteration": "qul amalaka biSOUTin aAALI",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Small wins light up your mind",
+      "arabic": "الانتصارات الصغيرة تضيء عقلك",
+      "transliteration": "al-intisarat as-Saghirah tuDEE' uAqlaka",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Your courage grows when you practice",
+      "arabic": "شجاعتك تكبر مع الممارسة",
+      "transliteration": "shajaAAatuka takbur maAA al-mumARasa",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Dinner is ready, come sit with us.",
+      "arabic": "العشاء جاهز، تعالوا اجلسوا معنا.",
+      "transliteration": "al-ʿishaa gaahez, taʿaaloo ijlisoo maʿanaa.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Who does the grocery list at home?",
+      "arabic": "من يكتب قائمة البقالة في البيت؟",
+      "transliteration": "man yaktubu qaa'imat al-biqaalah fi al-bayt?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Let me help you fold the laundry.",
+      "arabic": "خلّيني أساعدك في طيّ الغسيل.",
+      "transliteration": "khallīni usaaʿiduk fi tayy al-ghasil.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "We keep socks in the drawer by the stairs.",
+      "arabic": "نضع الجوارب في درجّ الدرج قرب السلم.",
+      "transliteration": "naduʿu al-jawaareb fi daraj ad-darrj qurb as-silm.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "My brother plays music softly at night.",
+      "arabic": "أخي يشغّل الموسيقى بهدوء في الليل.",
+      "transliteration": "ukhee yushghil al-musiqaa b-hudoo' fi al-layl.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Can we open the windows for fresh air?",
+      "arabic": "ممكن نفتح النوافذ لهواء نقي؟",
+      "transliteration": "mumkin naf'tah an-nawaa'if li-hawaa' naqiy?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "The kids cleaned their toys, finally.",
+      "arabic": "الأطفال رتّبوا ألعابهم أخيرًا.",
+      "transliteration": "al-atfaal rattaboo aalʿaabahum akhīran.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Where is baggage claim for my flight?",
+      "arabic": "أين منطقة استلام الحقائب لرحلتي؟",
+      "transliteration": "ayna manTiqat istilam al-Haqa'ib li-riHlatI?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Is my flight delayed, do you know?",
+      "arabic": "هل رحلتي متأخرة، هل تعرف؟",
+      "transliteration": "hal riHlatI muta'khira, hal taAraf?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "I missed my connection, what do I do?",
+      "arabic": "فاتتني رحلة الربط، ماذا أفعل؟",
+      "transliteration": "fatatnI riHlat ar-rabT, mAdhA afAA'L?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "I need a wheelbarrow for luggage.",
+      "arabic": "أحتاج عربة يد للحقائب، من فضلك.",
+      "transliteration": "aHtAj a'rabat yad lil-Haqa'ib, min faDlak",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Do you have free Wi‑Fi here?",
+      "arabic": "هل يوجد واي فاي مجاني هنا؟",
+      "transliteration": "hal yuwjad way fAy majAnI hunA?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Can I charge my phone at a desk?",
+      "arabic": "هل يمكنني شحن هاتفي هنا؟",
+      "transliteration": "hal yumkinunI shanH hAtifI hunA?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-26T08:33:16.338941"
+    },
+    {
+      "english": "Where are the toilets in this terminal?",
+      "arabic": "أين دورات المياه في هذا المطار؟",
+      "transliteration": "ayna dawrat al-miyAh fI hAdhA al-miTAr?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-26T08:33:16.338941"
     }
   ],
-  "last_updated": "2026-11-25T08:48:29.698266"
+  "last_updated": "2026-11-26T08:33:16.338941"
 }
