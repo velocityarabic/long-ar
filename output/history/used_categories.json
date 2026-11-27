@@ -551,7 +551,39 @@
     {
       "category": "Travel & Airport",
       "date": "2026-11-26"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Kindness",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-27"
     }
   ],
-  "last_updated": "2026-11-26T08:33:16.404402"
+  "last_updated": "2026-11-27T08:46:21.639978"
 }
